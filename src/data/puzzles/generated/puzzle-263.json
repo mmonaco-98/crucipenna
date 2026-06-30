@@ -1,0 +1,168 @@
+{
+  "id": "263",
+  "title": "Puzzle 263",
+  "size": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "A",
+      "N",
+      "C",
+      "#",
+      "C"
+    ],
+    [
+      "R",
+      "A",
+      "L",
+      "P",
+      "H"
+    ],
+    [
+      "O",
+      "V",
+      "I",
+      "L",
+      "E"
+    ],
+    [
+      "M",
+      "A",
+      "F",
+      "I",
+      "A"
+    ],
+    [
+      "A",
+      "#",
+      "T",
+      "E",
+      "P"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "African National Congress",
+        "row": 0,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 5,
+        "clue": "Il Malph di Happy Days",
+        "row": 1,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "clue": "Chi vi ritorna... torna a casa",
+        "row": 2,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "È detta \"Cosa nostra\"",
+        "row": 3,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "É pari a dieci alla settima kilocalorie (abbr.)",
+        "row": 4,
+        "col": 2,
+        "length": 3,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Fragranza, profumo",
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Il colle ligure noto per la lavanda",
+        "row": 0,
+        "col": 1,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Montgomery attore interprete di \"Odissea tragica\"",
+        "row": 0,
+        "col": 2,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Di scarso valore e di nessun gusto.",
+        "row": 0,
+        "col": 4,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Il piegamento nella danza classica",
+        "row": 1,
+        "col": 3,
+        "length": 4,
+        "direction": "down"
+      }
+    ]
+  }
+}

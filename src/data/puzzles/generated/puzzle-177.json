@@ -1,0 +1,168 @@
+{
+  "id": "177",
+  "title": "Puzzle 177",
+  "size": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "A",
+      "S",
+      "S",
+      "I",
+      "A"
+    ],
+    [
+      "R",
+      "U",
+      "T",
+      "A",
+      "#"
+    ],
+    [
+      "F",
+      "I",
+      "A",
+      "L",
+      "E"
+    ],
+    [
+      "#",
+      "T",
+      "R",
+      "E",
+      "S"
+    ],
+    [
+      "D",
+      "E",
+      "S",
+      "A",
+      "I"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Regione tedesca",
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 6,
+        "clue": "Una pianta erbacea medicinale",
+        "row": 1,
+        "col": 0,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "clue": "Contengono liquidi iniettabili",
+        "row": 2,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "Molto francese.",
+        "row": 3,
+        "col": 1,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "L' Anita di \" Digunare, divorare\"",
+        "row": 4,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Un parere canino",
+        "row": 0,
+        "col": 0,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "La serie sinfonica",
+        "row": 0,
+        "col": 1,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Sono con le \"stripes\" nella bandiera degli Stati Uniti",
+        "row": 0,
+        "col": 2,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Conchiglia trasparente",
+        "row": 0,
+        "col": 3,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 8,
+        "clue": "European Southern Observatory",
+        "row": 2,
+        "col": 4,
+        "length": 3,
+        "direction": "down"
+      }
+    ]
+  }
+}

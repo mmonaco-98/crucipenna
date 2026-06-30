@@ -1,0 +1,424 @@
+{
+  "id": "474",
+  "title": "Puzzle 474",
+  "size": {
+    "rows": 9,
+    "cols": 9
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "#",
+      ""
+    ],
+    [
+      "#",
+      "#",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "#",
+      "#"
+    ],
+    [
+      "",
+      "#",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "S",
+      "Y",
+      "N",
+      "D",
+      "I",
+      "C",
+      "A",
+      "T",
+      "E"
+    ],
+    [
+      "Q",
+      "U",
+      "I",
+      "E",
+      "T",
+      "I",
+      "#",
+      "#",
+      "T"
+    ],
+    [
+      "#",
+      "#",
+      "A",
+      "P",
+      "T",
+      "#",
+      "S",
+      "#",
+      "O"
+    ],
+    [
+      "R",
+      "E",
+      "C",
+      "#",
+      "E",
+      "T",
+      "H",
+      "E",
+      "L"
+    ],
+    [
+      "A",
+      "#",
+      "I",
+      "V",
+      "R",
+      "E",
+      "A",
+      "#",
+      "I"
+    ],
+    [
+      "P",
+      "E",
+      "N",
+      "S",
+      "I",
+      "#",
+      "M",
+      "E",
+      "A"
+    ],
+    [
+      "I",
+      "#",
+      "A",
+      "#",
+      "Z",
+      "I",
+      "P",
+      "#",
+      "#"
+    ],
+    [
+      "T",
+      "#",
+      "#",
+      "T",
+      "I",
+      "T",
+      "O",
+      "L",
+      "O"
+    ],
+    [
+      "A",
+      "D",
+      "O",
+      "R",
+      "A",
+      "T",
+      "O",
+      "R",
+      "I"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Una istituzione anglosassone",
+        "row": 0,
+        "col": 0,
+        "length": 9,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "Calmi e tranquilli",
+        "row": 1,
+        "col": 0,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 12,
+        "clue": "Azienda di Promozione Turistica",
+        "row": 2,
+        "col": 2,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 15,
+        "clue": "Un tasto del registratore",
+        "row": 3,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 17,
+        "clue": "Il nome d' una Barrymore",
+        "row": 3,
+        "col": 4,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 21,
+        "clue": "Località sulla Dora Baltea",
+        "row": 4,
+        "col": 2,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 24,
+        "clue": "Se li perde chi sviene",
+        "row": 5,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 26,
+        "clue": "Mia in latino",
+        "row": 5,
+        "col": 6,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 30,
+        "clue": "Il nostro CAP negli Stati Uniti",
+        "row": 6,
+        "col": 4,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 33,
+        "clue": "Spicca sulla copertina del libro",
+        "row": 7,
+        "col": 3,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 36,
+        "clue": "Li hanno gli idoli",
+        "row": 8,
+        "col": 0,
+        "length": 9,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Sono a capo della squadra",
+        "row": 0,
+        "col": 0,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Due lettere dello Yucatan",
+        "row": 0,
+        "col": 1,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "La vitamina B3",
+        "row": 0,
+        "col": 2,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Deposito in breve",
+        "row": 0,
+        "col": 3,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Fa gialla la pelle",
+        "row": 0,
+        "col": 4,
+        "length": 9,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Divide bi e di",
+        "row": 0,
+        "col": 5,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 9,
+        "clue": "Antica regione greca a nord di Patrasso",
+        "row": 0,
+        "col": 8,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 13,
+        "clue": "Una boccetta nel bagno",
+        "row": 2,
+        "col": 6,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 15,
+        "clue": "Rubata.., dall' estasi",
+        "row": 3,
+        "col": 0,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 18,
+        "clue": "Si importa dall' Asia",
+        "row": 3,
+        "col": 5,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 22,
+        "clue": "Prime nei vicoli e nelle strade",
+        "row": 4,
+        "col": 3,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 31,
+        "clue": "Istituto Tecnico per il Turismo",
+        "row": 6,
+        "col": 5,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 33,
+        "clue": "Due di tre",
+        "row": 7,
+        "col": 3,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 34,
+        "clue": "Confini del Labrador",
+        "row": 7,
+        "col": 7,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 35,
+        "clue": "Vocali di molti",
+        "row": 7,
+        "col": 8,
+        "length": 2,
+        "direction": "down"
+      }
+    ]
+  }
+}

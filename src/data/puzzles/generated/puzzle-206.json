@@ -1,0 +1,184 @@
+{
+  "id": "206",
+  "title": "Puzzle 206",
+  "size": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "E",
+      "T",
+      "I",
+      "M",
+      "I"
+    ],
+    [
+      "R",
+      "E",
+      "H",
+      "A",
+      "B"
+    ],
+    [
+      "N",
+      "P",
+      "#",
+      "T",
+      "I"
+    ],
+    [
+      "S",
+      "P",
+      "I",
+      "T",
+      "Z"
+    ],
+    [
+      "T",
+      "E",
+      "N",
+      "I",
+      "A"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Forme originarie delle parole",
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 6,
+        "clue": "Un grande successo di Amy Winehouse",
+        "row": 1,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "clue": "Le separa la 0",
+        "row": 2,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "Finiscono stremati",
+        "row": 2,
+        "col": 3,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "Il Mark vincitore di sette medaglie d'oro alle Olimpiadi di Monaco",
+        "row": 3,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 11,
+        "clue": "Parassita dell' intestino",
+        "row": 4,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Fondò con Arp il gruppo \"dada\" di Colonia",
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Gruppi di giovinastri",
+        "row": 0,
+        "col": 1,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Pari nelle righe",
+        "row": 0,
+        "col": 2,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Uomini... da legare",
+        "row": 0,
+        "col": 3,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Una delle Baleari",
+        "row": 0,
+        "col": 4,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 10,
+        "clue": "Alla moda a Londra e Liverpool",
+        "row": 3,
+        "col": 2,
+        "length": 2,
+        "direction": "down"
+      }
+    ]
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "id": "171",
+  "title": "Puzzle 171",
+  "size": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "I",
+      "O",
+      "I",
+      "D",
+      "E"
+    ],
+    [
+      "C",
+      "N",
+      "L",
+      "#",
+      "P"
+    ],
+    [
+      "A",
+      "G",
+      "O",
+      "N",
+      "I"
+    ],
+    [
+      "R",
+      "#",
+      "N",
+      "E",
+      "C"
+    ],
+    [
+      "O",
+      "K",
+      "A",
+      "P",
+      "I"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Piccolo osso della gola",
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 6,
+        "clue": "Contratto Nazionale di Lavoro (sigla)",
+        "row": 1,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "Gare classiche",
+        "row": 2,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 11,
+        "clue": "Una negazione latina",
+        "row": 3,
+        "col": 2,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 12,
+        "clue": "Mammifero ruminante africano",
+        "row": 4,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Il mitico figlio di Dedalo",
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Organizzazioni Non Governative (sigla)",
+        "row": 0,
+        "col": 1,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "La Staller dello spettacolo",
+        "row": 0,
+        "col": 2,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Ispirati ad eroiche gesta",
+        "row": 0,
+        "col": 4,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 9,
+        "clue": "Una politica leninista sigla",
+        "row": 2,
+        "col": 3,
+        "length": 3,
+        "direction": "down"
+      }
+    ]
+  }
+}

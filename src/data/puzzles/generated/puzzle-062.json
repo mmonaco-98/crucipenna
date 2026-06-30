@@ -1,0 +1,168 @@
+{
+  "id": "062",
+  "title": "Puzzle 062",
+  "size": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "I",
+      "R",
+      "I",
+      "A",
+      "N"
+    ],
+    [
+      "T",
+      "A",
+      "C",
+      "I",
+      "#"
+    ],
+    [
+      "A",
+      "G",
+      "O",
+      "R",
+      "A"
+    ],
+    [
+      "#",
+      "I",
+      "R",
+      "E",
+      "S"
+    ],
+    [
+      "P",
+      "A",
+      "E",
+      "S",
+      "I"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "La regione occidentale della Nuova Guinea",
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 6,
+        "clue": "Un'antipatica ingiunzione",
+        "row": 1,
+        "col": 0,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "clue": "Pubblica piazza della polis greca",
+        "row": 2,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "Un'imposta (sigla)",
+        "row": 3,
+        "col": 1,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "L'Unione Europea ne conta 27",
+        "row": 4,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Andata... con il poeta",
+        "row": 0,
+        "col": 0,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Un tipo di acqua",
+        "row": 0,
+        "col": 1,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Sangue degli dei",
+        "row": 0,
+        "col": 2,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Sono buenos in Argentina",
+        "row": 0,
+        "col": 3,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 8,
+        "clue": "Dèi nordici",
+        "row": 2,
+        "col": 4,
+        "length": 3,
+        "direction": "down"
+      }
+    ]
+  }
+}

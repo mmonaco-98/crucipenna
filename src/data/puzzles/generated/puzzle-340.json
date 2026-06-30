@@ -1,0 +1,256 @@
+{
+  "id": "340",
+  "title": "Puzzle 340",
+  "size": {
+    "rows": 7,
+    "cols": 7
+  },
+  "grid": [
+    [
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "#",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "L",
+      "#",
+      "R",
+      "A",
+      "B",
+      "A",
+      "T"
+    ],
+    [
+      "I",
+      "#",
+      "#",
+      "L",
+      "Y",
+      "N",
+      "E"
+    ],
+    [
+      "T",
+      "A",
+      "B",
+      "A",
+      "R",
+      "I",
+      "N"
+    ],
+    [
+      "T",
+      "R",
+      "O",
+      "G",
+      "O",
+      "L",
+      "I"
+    ],
+    [
+      "E",
+      "R",
+      "R",
+      "O",
+      "N",
+      "E",
+      "A"
+    ],
+    [
+      "L",
+      "A",
+      "D",
+      "A",
+      "#",
+      "#",
+      "S"
+    ],
+    [
+      "L",
+      "U",
+      "I",
+      "S",
+      "A",
+      "#",
+      "I"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 2,
+        "clue": "Una capitale africana",
+        "row": 0,
+        "col": 2,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "Ha diretto 9 settimane e 1/2",
+        "row": 1,
+        "col": 3,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "Il night-club dell'Ottocento",
+        "row": 2,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 12,
+        "clue": "Le mangiatoie dei suini",
+        "row": 3,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 13,
+        "clue": "Imprecisa o infondata",
+        "row": 4,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 14,
+        "clue": "Marca d'auto russa",
+        "row": 5,
+        "col": 0,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 16,
+        "clue": "La Ranieri che impersona Lolita Lobosco",
+        "row": 6,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Jonathan che ha scritto \"Le Benevole\"",
+        "row": 0,
+        "col": 0,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Uno Stato del Brasile",
+        "row": 0,
+        "col": 3,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Un lord poeta inglese",
+        "row": 0,
+        "col": 4,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Vi si estrae l'indaco",
+        "row": 0,
+        "col": 5,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Parassitosi intestinale",
+        "row": 0,
+        "col": 6,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 10,
+        "clue": "Il Claudio indimenticato pianista cileno",
+        "row": 2,
+        "col": 1,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 11,
+        "clue": "Parti perimetrali",
+        "row": 2,
+        "col": 2,
+        "length": 5,
+        "direction": "down"
+      }
+    ]
+  }
+}

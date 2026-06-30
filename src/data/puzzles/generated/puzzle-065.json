@@ -1,0 +1,168 @@
+{
+  "id": "065",
+  "title": "Puzzle 065",
+  "size": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "B",
+      "E",
+      "F",
+      "F",
+      "A"
+    ],
+    [
+      "A",
+      "T",
+      "R",
+      "A",
+      "#"
+    ],
+    [
+      "G",
+      "I",
+      "U",
+      "R",
+      "I"
+    ],
+    [
+      "#",
+      "L",
+      "I",
+      "S",
+      "P"
+    ],
+    [
+      "V",
+      "I",
+      "T",
+      "A",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Ridicolo inganno",
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 6,
+        "clue": "Poeticamente scura",
+        "row": 1,
+        "col": 0,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "clue": "Un consiglio cavalleresco",
+        "row": 2,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "Linguaggio usato in informatica",
+        "row": 3,
+        "col": 1,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "Gerulaitis compianto tennista statunitense",
+        "row": 4,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "La borsa di Londra...",
+        "row": 0,
+        "col": 0,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Residui dell'etano",
+        "row": 0,
+        "col": 1,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Nome comune di una maglietta commerciale",
+        "row": 0,
+        "col": 2,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Intermezzo burlesco di melodramma",
+        "row": 0,
+        "col": 3,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 8,
+        "clue": "Istituto Poligrafico dello Stato",
+        "row": 2,
+        "col": 4,
+        "length": 3,
+        "direction": "down"
+      }
+    ]
+  }
+}

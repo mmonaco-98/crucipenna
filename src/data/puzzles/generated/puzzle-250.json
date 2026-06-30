@@ -1,0 +1,184 @@
+{
+  "id": "250",
+  "title": "Puzzle 250",
+  "size": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "H",
+      "A",
+      "Y",
+      "D",
+      "N"
+    ],
+    [
+      "E",
+      "S",
+      "A",
+      "N",
+      "O"
+    ],
+    [
+      "#",
+      "C",
+      "H",
+      "E",
+      "#"
+    ],
+    [
+      "M",
+      "I",
+      "O",
+      "P",
+      "I"
+    ],
+    [
+      "M",
+      "A",
+      "O",
+      "R",
+      "I"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Fu maestro di Beethoven",
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 6,
+        "clue": "Un idrocarburo",
+        "row": 1,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "clue": "Il più famoso guerrigliero",
+        "row": 2,
+        "col": 1,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "Sono di... corte vedute",
+        "row": 3,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "Popolazione neozelandese",
+        "row": 4,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "A fine... manche",
+        "row": 0,
+        "col": 0,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "L'usa il carpentiere",
+        "row": 0,
+        "col": 1,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Un grande portale Internet",
+        "row": 0,
+        "col": 2,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Fiume che attraversa l'Ucraina",
+        "row": 0,
+        "col": 3,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Si può dire col capo",
+        "row": 0,
+        "col": 4,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 8,
+        "clue": "Marina Militare (sigla)",
+        "row": 3,
+        "col": 0,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 9,
+        "clue": "Parti vocali per Jimi",
+        "row": 3,
+        "col": 4,
+        "length": 2,
+        "direction": "down"
+      }
+    ]
+  }
+}

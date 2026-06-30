@@ -1,0 +1,168 @@
+{
+  "id": "235",
+  "title": "Puzzle 235",
+  "size": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "Y",
+      "A",
+      "N",
+      "E",
+      "Z"
+    ],
+    [
+      "A",
+      "C",
+      "A",
+      "B",
+      "#"
+    ],
+    [
+      "K",
+      "H",
+      "M",
+      "E",
+      "R"
+    ],
+    [
+      "#",
+      "E",
+      "U",
+      "R",
+      "E"
+    ],
+    [
+      "M",
+      "I",
+      "R",
+      "T",
+      "O"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "L'amico di Sandokan.",
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 6,
+        "clue": "Il profeta che ispirò Melville",
+        "row": 1,
+        "col": 0,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "clue": "Popolo della Cambogia",
+        "row": 2,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "Dipartimento francese",
+        "row": 3,
+        "col": 1,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "Si beve soprattutto in Sardegna",
+        "row": 4,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Gibboso ruminante del Tibet",
+        "row": 0,
+        "col": 0,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "I greci dell' Iliade",
+        "row": 0,
+        "col": 1,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Città belga",
+        "row": 0,
+        "col": 2,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Fu presidente della Repubblica di Weimar",
+        "row": 0,
+        "col": 3,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 8,
+        "clue": "Affida le sue speranze... a un errore giudiziario",
+        "row": 2,
+        "col": 4,
+        "length": 3,
+        "direction": "down"
+      }
+    ]
+  }
+}

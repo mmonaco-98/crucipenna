@@ -1,0 +1,184 @@
+{
+  "id": "208",
+  "title": "Puzzle 208",
+  "size": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "K",
+      "A",
+      "#",
+      "S",
+      "S"
+    ],
+    [
+      "A",
+      "D",
+      "I",
+      "T",
+      "O"
+    ],
+    [
+      "R",
+      "I",
+      "G",
+      "O",
+      "R"
+    ],
+    [
+      "E",
+      "T",
+      "E",
+      "R",
+      "E"
+    ],
+    [
+      "L",
+      "I",
+      "#",
+      "Y",
+      "L"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Prime in Katanga",
+        "row": 0,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 3,
+        "clue": "La Sandrelli senior (iniz.)",
+        "row": 0,
+        "col": 3,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 5,
+        "clue": "Lo consente l'uscio aperto",
+        "row": 1,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "clue": "C'è quello... \"mortis\"",
+        "row": 2,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "Un comune anestetico",
+        "row": 3,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "Cinquantuno... in lettere",
+        "row": 4,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "I confini... di Yental",
+        "row": 4,
+        "col": 3,
+        "length": 2,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Lo scrittore Capek",
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Ingressi, entrate",
+        "row": 0,
+        "col": 1,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Quella... del West Side è di Bernstein",
+        "row": 0,
+        "col": 3,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Il Jean di \"Bella di giorno\"",
+        "row": 0,
+        "col": 4,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "L' IVA ne ha preso il posto",
+        "row": 1,
+        "col": 2,
+        "length": 3,
+        "direction": "down"
+      }
+    ]
+  }
+}

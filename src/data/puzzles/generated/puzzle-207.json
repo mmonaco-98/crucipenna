@@ -1,0 +1,168 @@
+{
+  "id": "207",
+  "title": "Puzzle 207",
+  "size": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "F",
+      "#",
+      "M",
+      "R",
+      "I"
+    ],
+    [
+      "A",
+      "D",
+      "O",
+      "U",
+      "R"
+    ],
+    [
+      "C",
+      "O",
+      "R",
+      "D",
+      "A"
+    ],
+    [
+      "T",
+      "W",
+      "E",
+      "E",
+      "T"
+    ],
+    [
+      "A",
+      "N",
+      "A",
+      "#",
+      "E"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 2,
+        "clue": "Magnetic Resonance Imaging (sigla)",
+        "row": 0,
+        "col": 2,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 5,
+        "clue": "Bagna anche Bayonne",
+        "row": 1,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "clue": "Fune, spago",
+        "row": 2,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "Un messaggio sul social network con l'uccellino",
+        "row": 3,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "Ivanovic tennista",
+        "row": 4,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Era a capo del governo italiano nell'ottobre 1922",
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Una vasta penisola greca",
+        "row": 0,
+        "col": 2,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Tutt'altro che gentile",
+        "row": 0,
+        "col": 3,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Assalite dalla collera",
+        "row": 0,
+        "col": 4,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Diede il nome a una dolorosa sindrome",
+        "row": 1,
+        "col": 1,
+        "length": 4,
+        "direction": "down"
+      }
+    ]
+  }
+}

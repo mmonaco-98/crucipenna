@@ -1,0 +1,176 @@
+{
+  "id": "267",
+  "title": "Puzzle 267",
+  "size": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "R",
+      "A",
+      "G",
+      "A",
+      "S"
+    ],
+    [
+      "H",
+      "V",
+      "#",
+      "P",
+      "T"
+    ],
+    [
+      "O",
+      "I",
+      "D",
+      "I",
+      "O"
+    ],
+    [
+      "D",
+      "D",
+      "#",
+      "R",
+      "S"
+    ],
+    [
+      "E",
+      "A",
+      "M",
+      "E",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Tipico gonnellino sardo",
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 6,
+        "clue": "Quinta e settima di Beethoven",
+        "row": 1,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "clue": "Poste e Telecomunicazioni",
+        "row": 1,
+        "col": 3,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "Parassita della vite",
+        "row": 2,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "Il Dog dei fumetti (iniziali)",
+        "row": 3,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 11,
+        "clue": "Rod Stewart",
+        "row": 3,
+        "col": 3,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 12,
+        "clue": "Il cognome di una coppia americana del design",
+        "row": 4,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Island nei pressi di New York",
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Bramosa, ingorda",
+        "row": 0,
+        "col": 1,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Inattaccabili dal fuoco",
+        "row": 0,
+        "col": 3,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Il Veit scultore tedesco del Quattrocento",
+        "row": 0,
+        "col": 4,
+        "length": 5,
+        "direction": "down"
+      }
+    ]
+  }
+}

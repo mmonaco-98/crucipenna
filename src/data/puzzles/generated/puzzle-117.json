@@ -1,0 +1,184 @@
+{
+  "id": "117",
+  "title": "Puzzle 117",
+  "size": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "A",
+      "N",
+      "G",
+      "U",
+      "S"
+    ],
+    [
+      "N",
+      "E",
+      "R",
+      "B",
+      "I"
+    ],
+    [
+      "N",
+      "V",
+      "#",
+      "B",
+      "T"
+    ],
+    [
+      "A",
+      "I",
+      "T",
+      "I",
+      "A"
+    ],
+    [
+      "M",
+      "O",
+      "S",
+      "E",
+      "R"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Una razza bovina",
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 6,
+        "clue": "Scudisci, sferze",
+        "row": 1,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "clue": "Neve senza eguali",
+        "row": 2,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "Confini di Budapest",
+        "row": 2,
+        "col": 3,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "Opera perduta di Callimaco",
+        "row": 3,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 11,
+        "clue": "Ha vinto il Giro d'Italia nel 1984",
+        "row": 4,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Regione indocinese",
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Nome dell'allenatore Scala",
+        "row": 0,
+        "col": 1,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Informa a voce (iniz.)",
+        "row": 0,
+        "col": 2,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Fissazioni",
+        "row": 0,
+        "col": 3,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Grande liuto indiano",
+        "row": 0,
+        "col": 4,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 10,
+        "clue": "Tempo Supplementare",
+        "row": 3,
+        "col": 2,
+        "length": 2,
+        "direction": "down"
+      }
+    ]
+  }
+}

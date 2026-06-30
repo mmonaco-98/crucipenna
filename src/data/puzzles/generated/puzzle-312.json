@@ -1,0 +1,288 @@
+{
+  "id": "312",
+  "title": "Puzzle 312",
+  "size": {
+    "rows": 7,
+    "cols": 7
+  },
+  "grid": [
+    [
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "D",
+      "#",
+      "O",
+      "C",
+      "C",
+      "A",
+      "M"
+    ],
+    [
+      "E",
+      "#",
+      "C",
+      "H",
+      "E",
+      "T",
+      "E"
+    ],
+    [
+      "F",
+      "G",
+      "#",
+      "A",
+      "N",
+      "O",
+      "N"
+    ],
+    [
+      "U",
+      "R",
+      "A",
+      "G",
+      "A",
+      "N",
+      "I"
+    ],
+    [
+      "N",
+      "A",
+      "R",
+      "A",
+      "#",
+      "A",
+      "P"
+    ],
+    [
+      "T",
+      "A",
+      "R",
+      "L",
+      "I",
+      "#",
+      "P"
+    ],
+    [
+      "I",
+      "F",
+      "A",
+      "L",
+      "E",
+      "#",
+      "O"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 2,
+        "clue": "Ebbe tra i suoi seguaci anche Buridano",
+        "row": 0,
+        "col": 2,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "Calme, tranquille",
+        "row": 1,
+        "col": 2,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "Fuga senza pari",
+        "row": 2,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 11,
+        "clue": "Anonimo in breve",
+        "row": 2,
+        "col": 3,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 12,
+        "clue": "Violentissime tempeste",
+        "row": 3,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 14,
+        "clue": "Città nipponica",
+        "row": 4,
+        "col": 0,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 15,
+        "clue": "Una provincia marchigiana (targa)",
+        "row": 4,
+        "col": 5,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 16,
+        "clue": "Insetti che si nutrono di legno",
+        "row": 5,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 19,
+        "clue": "Nostre connazionali per il poeta",
+        "row": 6,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Si commemorano il 2 novembre",
+        "row": 0,
+        "col": 0,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Antico sì d'oltralpe",
+        "row": 0,
+        "col": 2,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Marc, celebre pittore",
+        "row": 0,
+        "col": 3,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Il pasto serale",
+        "row": 0,
+        "col": 4,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "La sillaba non accentata",
+        "row": 0,
+        "col": 5,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Celebre filosofo cinico greco",
+        "row": 0,
+        "col": 6,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 10,
+        "clue": "Van der ____ Generator: storico gruppo rock inglese",
+        "row": 2,
+        "col": 1,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 13,
+        "clue": "Ascia, garanzia",
+        "row": 3,
+        "col": 2,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 17,
+        "clue": "La fine delle bugie",
+        "row": 5,
+        "col": 4,
+        "length": 2,
+        "direction": "down"
+      }
+    ]
+  }
+}

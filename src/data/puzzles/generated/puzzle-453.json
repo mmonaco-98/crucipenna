@@ -1,0 +1,456 @@
+{
+  "id": "453",
+  "title": "Puzzle 453",
+  "size": {
+    "rows": 9,
+    "cols": 9
+  },
+  "grid": [
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      "#",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ]
+  ],
+  "solution": [
+    [
+      "#",
+      "G",
+      "N",
+      "O",
+      "S",
+      "I",
+      "#",
+      "#",
+      "S"
+    ],
+    [
+      "A",
+      "R",
+      "A",
+      "#",
+      "B",
+      "R",
+      "U",
+      "N",
+      "A"
+    ],
+    [
+      "G",
+      "A",
+      "S",
+      "O",
+      "S",
+      "A",
+      "#",
+      "Y",
+      "A"
+    ],
+    [
+      "I",
+      "N",
+      "D",
+      "O",
+      "#",
+      "N",
+      "S",
+      "#",
+      "R"
+    ],
+    [
+      "T",
+      "E",
+      "A",
+      "#",
+      "#",
+      "#",
+      "C",
+      "F",
+      "L"
+    ],
+    [
+      "A",
+      "#",
+      "Q",
+      "A",
+      "#",
+      "B",
+      "O",
+      "R",
+      "A"
+    ],
+    [
+      "R",
+      "G",
+      "#",
+      "T",
+      "U",
+      "R",
+      "P",
+      "I",
+      "N"
+    ],
+    [
+      "S",
+      "C",
+      "O",
+      "T",
+      "T",
+      "#",
+      "P",
+      "A",
+      "D"
+    ],
+    [
+      "I",
+      "#",
+      "#",
+      "I",
+      "Z",
+      "M",
+      "I",
+      "R",
+      "#"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "La conoscenza delle cose divine secondo Basilide",
+        "row": 0,
+        "col": 1,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "clue": "Fumava per devozione",
+        "row": 1,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "Si alterna alla bruna",
+        "row": 1,
+        "col": 4,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 11,
+        "clue": "Una bevanda dissetante",
+        "row": 2,
+        "col": 0,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 13,
+        "clue": "Le iniziali di Arafat",
+        "row": 2,
+        "col": 7,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 14,
+        "clue": "Un fiume del Pakistan",
+        "row": 3,
+        "col": 0,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 15,
+        "clue": "Fine di Amiens",
+        "row": 3,
+        "col": 5,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 18,
+        "clue": "Rosa gialla",
+        "row": 4,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 19,
+        "clue": "Contratto di Formazione e Lavoro",
+        "row": 4,
+        "col": 6,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 22,
+        "clue": "Gli estremi per una querela",
+        "row": 5,
+        "col": 2,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 24,
+        "clue": "Soffia impetuosa in Istria",
+        "row": 5,
+        "col": 5,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 25,
+        "clue": "Rigo senza vocali",
+        "row": 6,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 27,
+        "clue": "Il Ben comico strabico del cinema muto",
+        "row": 6,
+        "col": 3,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 29,
+        "clue": "Walter, autore del romanzo storico \"Ivanhoe\"",
+        "row": 7,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 31,
+        "clue": "Pressione Arteriosa Diastolica",
+        "row": 7,
+        "col": 6,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 33,
+        "clue": "La Smirne dei turchi",
+        "row": 8,
+        "col": 3,
+        "length": 5,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Sono sempre noiose da risolvere",
+        "row": 0,
+        "col": 1,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "È un po' in ribasso",
+        "row": 0,
+        "col": 2,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Société de Banque Suisse",
+        "row": 0,
+        "col": 4,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "La patria del regista Kiarostami",
+        "row": 0,
+        "col": 5,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Uno stato confederato della Germania",
+        "row": 0,
+        "col": 8,
+        "length": 8,
+        "direction": "down"
+      },
+      {
+        "number": 7,
+        "clue": "Incominciare a perdere la calma",
+        "row": 1,
+        "col": 0,
+        "length": 8,
+        "direction": "down"
+      },
+      {
+        "number": 10,
+        "clue": "La città con Manhattan (sigla)",
+        "row": 1,
+        "col": 7,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 12,
+        "clue": "Gli zeri in percentuale",
+        "row": 2,
+        "col": 3,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 16,
+        "clue": "Quelli di risa sono i soli... innocui",
+        "row": 3,
+        "col": 6,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 20,
+        "clue": "Un frate inglese come il Tuck di Robin Hood",
+        "row": 4,
+        "col": 7,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 23,
+        "clue": "Azioni, gesti o documenti",
+        "row": 5,
+        "col": 3,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 24,
+        "clue": "Brigate Rosse",
+        "row": 5,
+        "col": 5,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 26,
+        "clue": "Geco senza pari",
+        "row": 6,
+        "col": 1,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 28,
+        "clue": "Il barone protagonista di un libro di Bruce Chatwin",
+        "row": 6,
+        "col": 4,
+        "length": 3,
+        "direction": "down"
+      }
+    ]
+  }
+}

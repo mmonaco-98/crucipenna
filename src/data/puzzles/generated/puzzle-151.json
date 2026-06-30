@@ -1,0 +1,168 @@
+{
+  "id": "151",
+  "title": "Puzzle 151",
+  "size": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "I",
+      "A",
+      "F",
+      "E",
+      "T"
+    ],
+    [
+      "S",
+      "N",
+      "R",
+      "#",
+      "R"
+    ],
+    [
+      "T",
+      "I",
+      "E",
+      "R",
+      "I"
+    ],
+    [
+      "M",
+      "#",
+      "G",
+      "E",
+      "T"
+    ],
+    [
+      "I",
+      "B",
+      "E",
+      "R",
+      "O"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Il fratello di Sem e Cam",
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 6,
+        "clue": "Il titolo del baronetto",
+        "row": 1,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "Aroldo, attore",
+        "row": 2,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 11,
+        "clue": "Un verbo inglese",
+        "row": 3,
+        "col": 2,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 12,
+        "clue": "De... nota famiglia di architetti spagnoli",
+        "row": 4,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Bracci di... terra",
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Cuculidi d'America",
+        "row": 0,
+        "col": 1,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Gottlob, matematico tedesco",
+        "row": 0,
+        "col": 2,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Fatto a pezzettini",
+        "row": 0,
+        "col": 4,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 9,
+        "clue": "Il passante feroviario di Parigi",
+        "row": 2,
+        "col": 3,
+        "length": 3,
+        "direction": "down"
+      }
+    ]
+  }
+}

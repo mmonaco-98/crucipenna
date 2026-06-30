@@ -1,0 +1,824 @@
+{
+  "id": "495",
+  "title": "Puzzle 495",
+  "size": {
+    "rows": 13,
+    "cols": 13
+  },
+  "grid": [
+    [
+      "#",
+      "#",
+      "#",
+      "",
+      "#",
+      "#",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "#",
+      "#",
+      "#",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "#",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "#",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "#",
+      "#",
+      "#",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "#",
+      "#",
+      "",
+      "#",
+      "#",
+      "#"
+    ]
+  ],
+  "solution": [
+    [
+      "#",
+      "#",
+      "#",
+      "L",
+      "#",
+      "#",
+      "C",
+      "#",
+      "C",
+      "R",
+      "A",
+      "X",
+      "I"
+    ],
+    [
+      "#",
+      "C",
+      "O",
+      "A",
+      "C",
+      "E",
+      "R",
+      "V",
+      "I",
+      "#",
+      "E",
+      "X",
+      "#"
+    ],
+    [
+      "B",
+      "I",
+      "S",
+      "E",
+      "T",
+      "T",
+      "I",
+      "M",
+      "A",
+      "N",
+      "A",
+      "L",
+      "I"
+    ],
+    [
+      "#",
+      "A",
+      "#",
+      "S",
+      "I",
+      "T",
+      "O",
+      "#",
+      "L",
+      "#",
+      "#",
+      "#",
+      "N"
+    ],
+    [
+      "#",
+      "B",
+      "N",
+      "#",
+      "#",
+      "I",
+      "A",
+      "R",
+      "D",
+      "A",
+      "#",
+      "B",
+      "V"
+    ],
+    [
+      "G",
+      "A",
+      "M",
+      "M",
+      "A",
+      "#",
+      "N",
+      "I",
+      "O",
+      "#",
+      "G",
+      "L",
+      "I"
+    ],
+    [
+      "A",
+      "T",
+      "#",
+      "I",
+      "N",
+      "G",
+      "E",
+      "G",
+      "N",
+      "O",
+      "#",
+      "A",
+      "S"
+    ],
+    [
+      "L",
+      "T",
+      "A",
+      "#",
+      "G",
+      "I",
+      "S",
+      "#",
+      "E",
+      "V",
+      "A",
+      "S",
+      "O"
+    ],
+    [
+      "L",
+      "A",
+      "#",
+      "C",
+      "E",
+      "N",
+      "T",
+      "O",
+      "#",
+      "#",
+      "D",
+      "F",
+      "#"
+    ],
+    [
+      "U",
+      "#",
+      "#",
+      "#",
+      "L",
+      "#",
+      "E",
+      "D",
+      "O",
+      "M",
+      "#",
+      "E",
+      "#"
+    ],
+    [
+      "P",
+      "E",
+      "R",
+      "M",
+      "I",
+      "S",
+      "S",
+      "I",
+      "V",
+      "I",
+      "S",
+      "M",
+      "O"
+    ],
+    [
+      "#",
+      "G",
+      "A",
+      "#",
+      "C",
+      "H",
+      "I",
+      "N",
+      "O",
+      "T",
+      "T",
+      "O",
+      "#"
+    ],
+    [
+      "E",
+      "R",
+      "B",
+      "I",
+      "O",
+      "#",
+      "A",
+      "#",
+      "#",
+      "O",
+      "#",
+      "#",
+      "#"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 3,
+        "clue": "Il suo vice fu a lungo Martelli",
+        "row": 0,
+        "col": 8,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "Mucchi, cumuli",
+        "row": 1,
+        "col": 1,
+        "length": 8,
+        "direction": "across"
+      },
+      {
+        "number": 13,
+        "clue": "Un coniuge dopo il divorzio",
+        "row": 1,
+        "col": 10,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 14,
+        "clue": "Così sono certi voli non giornalieri",
+        "row": 2,
+        "col": 0,
+        "length": 13,
+        "direction": "across"
+      },
+      {
+        "number": 18,
+        "clue": "Nicchia per navigatori telematici",
+        "row": 3,
+        "col": 3,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 21,
+        "clue": "Le consonanti in bene",
+        "row": 4,
+        "col": 1,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 23,
+        "clue": "Quasi un metro a Londra",
+        "row": 4,
+        "col": 5,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 26,
+        "clue": "Vespa del giornalismo (iniz.).",
+        "row": 4,
+        "col": 11,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 27,
+        "clue": "Dopo alfa e beta",
+        "row": 5,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 30,
+        "clue": "Un altro nome di Ios, l'isola delle Cicladi",
+        "row": 5,
+        "col": 6,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 31,
+        "clue": "Articolo per uomini ma non per bambini",
+        "row": 5,
+        "col": 10,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 32,
+        "clue": "Iniziali di Toscanini",
+        "row": 6,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 33,
+        "clue": "Lo dimostra chi sa cavarsi d'impaccio",
+        "row": 6,
+        "col": 3,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 36,
+        "clue": "Mezza Asia",
+        "row": 6,
+        "col": 11,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 37,
+        "clue": "Lettera di Trasporto Aereo",
+        "row": 7,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 39,
+        "clue": "Gruppo Intervento Speciale",
+        "row": 7,
+        "col": 4,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 40,
+        "clue": "Si è scarcerato da sé",
+        "row": 7,
+        "col": 8,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 42,
+        "clue": "Nota dell'accordo",
+        "row": 8,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 43,
+        "clue": "Vi nacque il Guercino",
+        "row": 8,
+        "col": 3,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 45,
+        "clue": "Frescobaldi stilnovista (iniz.)",
+        "row": 8,
+        "col": 10,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 48,
+        "clue": "Altro nome di Esaù",
+        "row": 9,
+        "col": 6,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 52,
+        "clue": "Un frequente errore degli educatori",
+        "row": 10,
+        "col": 0,
+        "length": 13,
+        "direction": "across"
+      },
+      {
+        "number": 59,
+        "clue": "Giorgio Albertazzi",
+        "row": 11,
+        "col": 1,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 60,
+        "clue": "Agrume da cui si ricava una bibita amarognola",
+        "row": 11,
+        "col": 4,
+        "length": 8,
+        "direction": "across"
+      },
+      {
+        "number": 61,
+        "clue": "Una delle terre rare",
+        "row": 12,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Esame attitudinale",
+        "row": 0,
+        "col": 3,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Addormenta con il freddo",
+        "row": 0,
+        "col": 6,
+        "length": 13,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Un dolce con la panna",
+        "row": 0,
+        "col": 8,
+        "length": 8,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Agenzia Europea per l'Ambiente (sigla)",
+        "row": 0,
+        "col": 10,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "La taglia massima",
+        "row": 0,
+        "col": 11,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 8,
+        "clue": "Lascia scoperto il calcagno",
+        "row": 1,
+        "col": 1,
+        "length": 8,
+        "direction": "down"
+      },
+      {
+        "number": 9,
+        "clue": "Un po' ostinato",
+        "row": 1,
+        "col": 2,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 10,
+        "clue": "Il Touring d'un tempo (sigla)",
+        "row": 1,
+        "col": 4,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 11,
+        "clue": "Si abbreviano hg",
+        "row": 1,
+        "col": 5,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 12,
+        "clue": "Iniziali di Mastandrea",
+        "row": 1,
+        "col": 7,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 16,
+        "clue": "Malvisto, detestato",
+        "row": 2,
+        "col": 12,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 22,
+        "clue": "Moretti regista (iniz.)",
+        "row": 4,
+        "col": 2,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 24,
+        "clue": "Rigore... abbreviato",
+        "row": 4,
+        "col": 7,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 26,
+        "clue": "Empio e bestemmiatore",
+        "row": 4,
+        "col": 11,
+        "length": 8,
+        "direction": "down"
+      },
+      {
+        "number": 27,
+        "clue": "Statistico americano ideatore del sondaggio come forma d'indagine demoscopica",
+        "row": 5,
+        "col": 0,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 28,
+        "clue": "Prima del fa",
+        "row": 5,
+        "col": 3,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 29,
+        "clue": "Il Beato pittore",
+        "row": 5,
+        "col": 4,
+        "length": 8,
+        "direction": "down"
+      },
+      {
+        "number": 34,
+        "clue": "Acquavite aromatizzata",
+        "row": 6,
+        "col": 5,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 35,
+        "clue": "La cantante Vanoni (iniziali)",
+        "row": 6,
+        "col": 9,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 41,
+        "clue": "Alleanza Democratica",
+        "row": 7,
+        "col": 10,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 44,
+        "clue": "Il \"Teatret\" di Barba",
+        "row": 8,
+        "col": 7,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 49,
+        "clue": "L' uovo a Firenze",
+        "row": 9,
+        "col": 8,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 50,
+        "clue": "Sei un __, brano degli 883",
+        "row": 9,
+        "col": 9,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 53,
+        "clue": "Può precedere Sig",
+        "row": 10,
+        "col": 1,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 54,
+        "clue": "Isola della Croazia... in arabo",
+        "row": 10,
+        "col": 2,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 56,
+        "clue": "Un... po' di shopping",
+        "row": 10,
+        "col": 5,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 57,
+        "clue": "L'inizio della Storia.",
+        "row": 10,
+        "col": 10,
+        "length": 2,
+        "direction": "down"
+      }
+    ]
+  }
+}

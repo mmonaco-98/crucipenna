@@ -1,0 +1,168 @@
+{
+  "id": "068",
+  "title": "Puzzle 068",
+  "size": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "I",
+      "R",
+      "A",
+      "T",
+      "E"
+    ],
+    [
+      "C",
+      "A",
+      "S",
+      "E",
+      "#"
+    ],
+    [
+      "A",
+      "C",
+      "C",
+      "R",
+      "A"
+    ],
+    [
+      "#",
+      "E",
+      "R",
+      "I",
+      "E"
+    ],
+    [
+      "T",
+      "R",
+      "A",
+      "M",
+      "A"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Dominate dalla rabbia",
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 6,
+        "clue": "Edifici in muratura",
+        "row": 1,
+        "col": 0,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "clue": "Formò una signoria con Forlì",
+        "row": 2,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "Uno dei Grandi Laghi americani",
+        "row": 3,
+        "col": 1,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "È rada nel tulle",
+        "row": 4,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "International Cooperative Alliance",
+        "row": 0,
+        "col": 0,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Motoscafo da competizione",
+        "row": 0,
+        "col": 1,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Vi nacque Esiodo",
+        "row": 0,
+        "col": 2,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Allena a Milano",
+        "row": 0,
+        "col": 3,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 8,
+        "clue": "Agenzia Europea per l'Ambiente (sigla)",
+        "row": 2,
+        "col": 4,
+        "length": 3,
+        "direction": "down"
+      }
+    ]
+  }
+}

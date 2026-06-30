@@ -1,0 +1,168 @@
+{
+  "id": "040",
+  "title": "Puzzle 040",
+  "size": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "M",
+      "K",
+      "S",
+      "#",
+      "S"
+    ],
+    [
+      "I",
+      "A",
+      "F",
+      "E",
+      "T"
+    ],
+    [
+      "U",
+      "M",
+      "I",
+      "D",
+      "E"
+    ],
+    [
+      "R",
+      "A",
+      "D",
+      "A",
+      "R"
+    ],
+    [
+      "A",
+      "#",
+      "A",
+      "M",
+      "I"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Sistema assoluto di misura",
+        "row": 0,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 5,
+        "clue": "Un figlio di Noé",
+        "row": 1,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "clue": "Ancora un po' bagnate",
+        "row": 2,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "Sa usarlo il controllore di volo",
+        "row": 3,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "I ganci più acuminati",
+        "row": 4,
+        "col": 2,
+        "length": 3,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Storica Lamborghini",
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Affluente del Volga",
+        "row": 0,
+        "col": 1,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "L'invito a misurarsi in una prova",
+        "row": 0,
+        "col": 2,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Misure di legna",
+        "row": 0,
+        "col": 4,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Il formaggio olandese dalla crosta rossa",
+        "row": 1,
+        "col": 3,
+        "length": 4,
+        "direction": "down"
+      }
+    ]
+  }
+}

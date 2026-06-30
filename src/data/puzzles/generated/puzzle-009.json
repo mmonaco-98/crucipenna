@@ -1,0 +1,184 @@
+{
+  "id": "009",
+  "title": "Puzzle 009",
+  "size": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "X",
+      "E",
+      "#",
+      "G",
+      "S"
+    ],
+    [
+      "E",
+      "R",
+      "A",
+      "R",
+      "I"
+    ],
+    [
+      "R",
+      "O",
+      "U",
+      "E",
+      "N"
+    ],
+    [
+      "O",
+      "S",
+      "S",
+      "E",
+      "A"
+    ],
+    [
+      "X",
+      "O",
+      "#",
+      "R",
+      "N"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Simbolo dello Xeno",
+        "row": 0,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 3,
+        "clue": "I confini del Galles",
+        "row": 0,
+        "col": 3,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 5,
+        "clue": "Amministrazioni degli Stati",
+        "row": 1,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "clue": "Vi fu bruciata Giovanna d'Arco",
+        "row": 2,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "Può esserlo una frattura",
+        "row": 3,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "\"Però\" per sms",
+        "row": 4,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "Le consonanti di Irina",
+        "row": 4,
+        "col": 3,
+        "length": 2,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Produce sistemi elettronici di stampa",
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Consumato dalle intemperie",
+        "row": 0,
+        "col": 1,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "La Garson de La signora Miniver",
+        "row": 0,
+        "col": 3,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Progettò grandi moschee",
+        "row": 0,
+        "col": 4,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Sigla automobilistica dell' Australia",
+        "row": 1,
+        "col": 2,
+        "length": 3,
+        "direction": "down"
+      }
+    ]
+  }
+}

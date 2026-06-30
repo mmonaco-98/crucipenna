@@ -1,0 +1,272 @@
+{
+  "id": "375",
+  "title": "Puzzle 375",
+  "size": {
+    "rows": 7,
+    "cols": 7
+  },
+  "grid": [
+    [
+      "#",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "#"
+    ]
+  ],
+  "solution": [
+    [
+      "#",
+      "P",
+      "O",
+      "C",
+      "#",
+      "N",
+      "E"
+    ],
+    [
+      "C",
+      "A",
+      "B",
+      "A",
+      "R",
+      "E",
+      "T"
+    ],
+    [
+      "#",
+      "S",
+      "E",
+      "N",
+      "I",
+      "O",
+      "R"
+    ],
+    [
+      "T",
+      "I",
+      "R",
+      "A",
+      "N",
+      "N",
+      "I"
+    ],
+    [
+      "A",
+      "F",
+      "O",
+      "N",
+      "I",
+      "A",
+      "#"
+    ],
+    [
+      "N",
+      "A",
+      "N",
+      "E",
+      "T",
+      "T",
+      "I"
+    ],
+    [
+      "O",
+      "E",
+      "#",
+      "I",
+      "E",
+      "O",
+      "#"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Per Opportuna Conoscenza (sigla)",
+        "row": 0,
+        "col": 1,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 4,
+        "clue": "Coda di scorpione",
+        "row": 0,
+        "col": 5,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 6,
+        "clue": "Uno spassoso genere teatrale",
+        "row": 1,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "Il più vecchio di due omonimi della stessa famiglia",
+        "row": 2,
+        "col": 1,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "Governanti dispotici",
+        "row": 3,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "Perdita della voce",
+        "row": 4,
+        "col": 0,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 11,
+        "clue": "Piccoli esseri",
+        "row": 5,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 13,
+        "clue": "Nel cuore e nel polmone",
+        "row": 6,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 14,
+        "clue": "Le vocali nel cielo",
+        "row": 6,
+        "col": 3,
+        "length": 3,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "La madre del Minotauro",
+        "row": 0,
+        "col": 1,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Principe degli elfi",
+        "row": 0,
+        "col": 2,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Adoravano Baal e Astarte",
+        "row": 0,
+        "col": 3,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "È ancora in fasce",
+        "row": 0,
+        "col": 5,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Agenzia di stampa russa",
+        "row": 0,
+        "col": 6,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 7,
+        "clue": "C'è anche quella allergica",
+        "row": 1,
+        "col": 4,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 9,
+        "clue": "In un film è \"da morire\"",
+        "row": 3,
+        "col": 0,
+        "length": 4,
+        "direction": "down"
+      }
+    ]
+  }
+}

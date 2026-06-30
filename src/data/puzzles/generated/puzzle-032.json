@@ -1,0 +1,168 @@
+{
+  "id": "032",
+  "title": "Puzzle 032",
+  "size": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "K",
+      "F",
+      "C",
+      "#",
+      "P"
+    ],
+    [
+      "A",
+      "L",
+      "O",
+      "S",
+      "A"
+    ],
+    [
+      "Z",
+      "A",
+      "N",
+      "T",
+      "E"
+    ],
+    [
+      "A",
+      "N",
+      "D",
+      "E",
+      "S"
+    ],
+    [
+      "N",
+      "#",
+      "E",
+      "T",
+      "I"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "La catena di fast food nota per il pollo fritto",
+        "row": 0,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 5,
+        "clue": "Pesce detto anche \"cheppia\"",
+        "row": 1,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "clue": "L'isola dove nacque Foscolo",
+        "row": 2,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "Vi nacque Virgilio",
+        "row": 3,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "Ente Tabacchi Italiani",
+        "row": 4,
+        "col": 2,
+        "length": 3,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Diresse \"Fronte del porto\"",
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Sformato... parigino",
+        "row": 0,
+        "col": 1,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Aveva per cuoco il celebre Vatel",
+        "row": 0,
+        "col": 2,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Sono 27 nell'Unione Europea",
+        "row": 0,
+        "col": 4,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Una sigla che ricorda i telefoni",
+        "row": 1,
+        "col": 3,
+        "length": 4,
+        "direction": "down"
+      }
+    ]
+  }
+}

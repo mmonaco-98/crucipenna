@@ -1,0 +1,184 @@
+{
+  "id": "119",
+  "title": "Puzzle 119",
+  "size": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "M",
+      "A",
+      "D",
+      "A",
+      "R"
+    ],
+    [
+      "E",
+      "O",
+      "L",
+      "I",
+      "O"
+    ],
+    [
+      "D",
+      "S",
+      "#",
+      "U",
+      "S"
+    ],
+    [
+      "O",
+      "T",
+      "I",
+      "T",
+      "E"
+    ],
+    [
+      "C",
+      "A",
+      "N",
+      "O",
+      "E"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Caricaturista e fotografo francese dell'Ottocento",
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 6,
+        "clue": "Proprio del dio dei venti",
+        "row": 1,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "clue": "D'Alema ne fu presidente",
+        "row": 2,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "Ci precedono lil uscita",
+        "row": 2,
+        "col": 3,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "Colpisce l'udito",
+        "row": 3,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 11,
+        "clue": "Imbarcazioni da Pellirosse",
+        "row": 4,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Storica regione vinicola francese",
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "La provincia di una Valle autonoma",
+        "row": 0,
+        "col": 1,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Un Don della vecchia tv (iniz.)",
+        "row": 0,
+        "col": 2,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Si grida nel pericolo",
+        "row": 0,
+        "col": 3,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Colorate come le gote del bimbo",
+        "row": 0,
+        "col": 4,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 10,
+        "clue": "É così lo chic",
+        "row": 3,
+        "col": 2,
+        "length": 2,
+        "direction": "down"
+      }
+    ]
+  }
+}

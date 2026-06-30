@@ -1,0 +1,168 @@
+{
+  "id": "101",
+  "title": "Puzzle 101",
+  "size": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "S",
+      "I",
+      "S",
+      "M",
+      "A"
+    ],
+    [
+      "P",
+      "S",
+      "E",
+      "#",
+      "R"
+    ],
+    [
+      "I",
+      "O",
+      "N",
+      "I",
+      "O"
+    ],
+    [
+      "N",
+      "#",
+      "O",
+      "G",
+      "M"
+    ],
+    [
+      "E",
+      "B",
+      "R",
+      "E",
+      "A"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Una scossa registrata",
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 6,
+        "clue": "Il partito di Gentiloni (sigla).",
+        "row": 1,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "Il mare di Taormina",
+        "row": 2,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 11,
+        "clue": "Devono la vita all'ingegneria (sigla)",
+        "row": 3,
+        "col": 2,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 12,
+        "clue": "Lo era Anna Frank",
+        "row": 4,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "I rubinetti delle botti",
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Un prefisso di conformità",
+        "row": 0,
+        "col": 1,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Signor a Madrid",
+        "row": 0,
+        "col": 2,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Profumo naturale",
+        "row": 0,
+        "col": 4,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 9,
+        "clue": "La pagava l'acquirente",
+        "row": 2,
+        "col": 3,
+        "length": 3,
+        "direction": "down"
+      }
+    ]
+  }
+}

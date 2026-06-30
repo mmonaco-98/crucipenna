@@ -1,0 +1,168 @@
+{
+  "id": "197",
+  "title": "Puzzle 197",
+  "size": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "A",
+      "B",
+      "A",
+      "C",
+      "O"
+    ],
+    [
+      "#",
+      "I",
+      "N",
+      "I",
+      "A"
+    ],
+    [
+      "C",
+      "H",
+      "I",
+      "P",
+      "S"
+    ],
+    [
+      "V",
+      "A",
+      "M",
+      "P",
+      "#"
+    ],
+    [
+      "D",
+      "R",
+      "O",
+      "I",
+      "T"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Antico calcolatore",
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 6,
+        "clue": "Delfino di acqua dolce",
+        "row": 1,
+        "col": 1,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "clue": "Le patate più sottili",
+        "row": 2,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "Diva fascinosa",
+        "row": 3,
+        "col": 0,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "Il diritto francese",
+        "row": 4,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 2,
+        "clue": "Stato dell'Unione Indiana",
+        "row": 0,
+        "col": 1,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Lo si fa rincuorando",
+        "row": 0,
+        "col": 2,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Colonne spezzate",
+        "row": 0,
+        "col": 3,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "L'organizzazione terroristica di Salan",
+        "row": 0,
+        "col": 4,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 7,
+        "clue": "La fine della tesi (sigla)",
+        "row": 2,
+        "col": 0,
+        "length": 3,
+        "direction": "down"
+      }
+    ]
+  }
+}

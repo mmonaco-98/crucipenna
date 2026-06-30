@@ -1,0 +1,168 @@
+{
+  "id": "195",
+  "title": "Puzzle 195",
+  "size": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "S",
+      "I",
+      "S",
+      "M",
+      "A"
+    ],
+    [
+      "#",
+      "D",
+      "I",
+      "O",
+      "N"
+    ],
+    [
+      "M",
+      "A",
+      "L",
+      "L",
+      "E"
+    ],
+    [
+      "C",
+      "H",
+      "A",
+      "O",
+      "#"
+    ],
+    [
+      "M",
+      "O",
+      "S",
+      "C",
+      "I"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Movimento della crosta terrestre",
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 6,
+        "clue": "La Celine cantante",
+        "row": 1,
+        "col": 1,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "clue": "Louis regista",
+        "row": 2,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "Manu della musica",
+        "row": 3,
+        "col": 0,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "Fiacchi e avviliti",
+        "row": 4,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 2,
+        "clue": "Uno degli Stati Uniti",
+        "row": 0,
+        "col": 1,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Il \"Marner\" del romanzo omonimo",
+        "row": 0,
+        "col": 2,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "L'idolo a cui i Fenici sacrificavano fanciulli",
+        "row": 0,
+        "col": 3,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Nel centro del pianeta",
+        "row": 0,
+        "col": 4,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 7,
+        "clue": "Tre lettere per... Minimo Comune Multiplo",
+        "row": 2,
+        "col": 0,
+        "length": 3,
+        "direction": "down"
+      }
+    ]
+  }
+}

@@ -1,0 +1,832 @@
+{
+  "id": "494",
+  "title": "Puzzle 494",
+  "size": {
+    "rows": 13,
+    "cols": 13
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "#",
+      "",
+      "#",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "#",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "#",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "",
+      "#",
+      "#",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      "#",
+      "#",
+      "",
+      "#",
+      "#",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "#",
+      "#",
+      ""
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "#",
+      "#",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "#",
+      "",
+      "#",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "B",
+      "A",
+      "N",
+      "A",
+      "N",
+      "A",
+      "S",
+      "#",
+      "#",
+      "L",
+      "#",
+      "#",
+      "D"
+    ],
+    [
+      "S",
+      "C",
+      "A",
+      "R",
+      "O",
+      "L",
+      "A",
+      "#",
+      "#",
+      "A",
+      "S",
+      "C",
+      "I"
+    ],
+    [
+      "#",
+      "H",
+      "I",
+      "N",
+      "T",
+      "E",
+      "R",
+      "L",
+      "A",
+      "N",
+      "D",
+      "#",
+      "C"
+    ],
+    [
+      "A",
+      "A",
+      "R",
+      "E",
+      "#",
+      "#",
+      "#",
+      "O",
+      "R",
+      "C",
+      "I",
+      "A",
+      "I"
+    ],
+    [
+      "S",
+      "Z",
+      "#",
+      "S",
+      "W",
+      "A",
+      "H",
+      "I",
+      "L",
+      "I",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "I",
+      "#",
+      "#",
+      "E",
+      "N",
+      "#",
+      "A",
+      "S",
+      "T",
+      "O",
+      "R",
+      "#",
+      "M"
+    ],
+    [
+      "L",
+      "O",
+      "S",
+      "#",
+      "#",
+      "#",
+      "N",
+      "#",
+      "#",
+      "#",
+      "M",
+      "O",
+      "U"
+    ],
+    [
+      "O",
+      "#",
+      "T",
+      "Y",
+      "S",
+      "O",
+      "N",
+      "#",
+      "L",
+      "Z",
+      "#",
+      "#",
+      "T"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "E",
+      "I",
+      "N",
+      "A",
+      "U",
+      "D",
+      "I",
+      "#",
+      "C",
+      "U"
+    ],
+    [
+      "N",
+      "A",
+      "T",
+      "H",
+      "A",
+      "N",
+      "#",
+      "#",
+      "#",
+      "G",
+      "E",
+      "R",
+      "I"
+    ],
+    [
+      "O",
+      "#",
+      "F",
+      "U",
+      "N",
+      "I",
+      "C",
+      "O",
+      "L",
+      "A",
+      "R",
+      "E",
+      "#"
+    ],
+    [
+      "C",
+      "A",
+      "R",
+      "D",
+      "#",
+      "#",
+      "E",
+      "B",
+      "A",
+      "N",
+      "I",
+      "T",
+      "E"
+    ],
+    [
+      "S",
+      "#",
+      "#",
+      "I",
+      "#",
+      "#",
+      "O",
+      "C",
+      "R",
+      "A",
+      "C",
+      "E",
+      "A"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Lo Stato di un film di Allen",
+        "row": 0,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "Un'erba da insalate",
+        "row": 1,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 11,
+        "clue": "Lascia... senza confini",
+        "row": 1,
+        "col": 9,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 14,
+        "clue": "Il territorio che circonda una grande città",
+        "row": 2,
+        "col": 1,
+        "length": 10,
+        "direction": "across"
+      },
+      {
+        "number": 18,
+        "clue": "Il fiume che bagna Berna",
+        "row": 3,
+        "col": 0,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 19,
+        "clue": "Vasai specializzati",
+        "row": 3,
+        "col": 7,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 21,
+        "clue": "Fanno di una tana una stanza",
+        "row": 4,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 22,
+        "clue": "Si parla in Tanzania",
+        "row": 4,
+        "col": 3,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 27,
+        "clue": "Per i francesi vale dentro",
+        "row": 5,
+        "col": 3,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 28,
+        "clue": "Il nome del compositore Piazzolla",
+        "row": 5,
+        "col": 6,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 31,
+        "clue": "Articolo per Angeles",
+        "row": 6,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 35,
+        "clue": "Caramella gommosa",
+        "row": 6,
+        "col": 10,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 38,
+        "clue": "Mike pugile",
+        "row": 7,
+        "col": 2,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 42,
+        "clue": "Liz... non ha cuore",
+        "row": 7,
+        "col": 8,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 45,
+        "clue": "Luigi economista",
+        "row": 8,
+        "col": 3,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 47,
+        "clue": "Un po' di curiosità",
+        "row": 8,
+        "col": 11,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 48,
+        "clue": "Il saggio di Lessing",
+        "row": 9,
+        "col": 0,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 51,
+        "clue": "Halliwell ex Spice Girl",
+        "row": 9,
+        "col": 9,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 54,
+        "clue": "Un comodo mezzo per le ascensioni",
+        "row": 10,
+        "col": 2,
+        "length": 10,
+        "direction": "across"
+      },
+      {
+        "number": 58,
+        "clue": "Con la credit si effettuano pagamenti",
+        "row": 11,
+        "col": 0,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 60,
+        "clue": "Sostanza usata nell' industria elettrica",
+        "row": 11,
+        "col": 6,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 64,
+        "clue": "Gialla come un'argilla",
+        "row": 12,
+        "col": 6,
+        "length": 7,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Brescia... sulle automobili",
+        "row": 0,
+        "col": 0,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Fu re di Giuda dal 735 al 715 a.C",
+        "row": 0,
+        "col": 1,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Mira regista indiana",
+        "row": 0,
+        "col": 2,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Un ferro del mestiere",
+        "row": 0,
+        "col": 3,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Nega... a Londra",
+        "row": 0,
+        "col": 4,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Alessandro in famiglia",
+        "row": 0,
+        "col": 5,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 7,
+        "clue": "Sua Altezza Reale in breve",
+        "row": 0,
+        "col": 6,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 8,
+        "clue": "Nell'atletica può essere del disco o del martello",
+        "row": 0,
+        "col": 9,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 9,
+        "clue": "Un partito e un aereo",
+        "row": 0,
+        "col": 12,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 12,
+        "clue": "Il partito di Boselli sigla",
+        "row": 1,
+        "col": 10,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 15,
+        "clue": "La Lane che ama Clark Kent",
+        "row": 2,
+        "col": 7,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 16,
+        "clue": "Roberto che fu uno scrittore argentino",
+        "row": 2,
+        "col": 8,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 18,
+        "clue": "Il politico non è infantile",
+        "row": 3,
+        "col": 0,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 23,
+        "clue": "Fine di clown",
+        "row": 4,
+        "col": 4,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 25,
+        "clue": "Creava cartoons con Barbera",
+        "row": 4,
+        "col": 6,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 29,
+        "clue": "Iniziali del ministro Maroni",
+        "row": 5,
+        "col": 10,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 30,
+        "clue": "Prestiti a tasso variabile",
+        "row": 5,
+        "col": 12,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 33,
+        "clue": "Fanno stanche le anche!",
+        "row": 6,
+        "col": 2,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 39,
+        "clue": "Il nome del grande violinista Menuhin",
+        "row": 7,
+        "col": 3,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 40,
+        "clue": "Oggi è la Tailandia",
+        "row": 7,
+        "col": 4,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 41,
+        "clue": "Nei composti vale tutto",
+        "row": 7,
+        "col": 5,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 42,
+        "clue": "Il Dalla della canzone",
+        "row": 7,
+        "col": 8,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 43,
+        "clue": "Zingara danubiana",
+        "row": 7,
+        "col": 9,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 47,
+        "clue": "Terre usate dagli scultori",
+        "row": 8,
+        "col": 11,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 48,
+        "clue": "Un reparto speciale di polizia (sigla)",
+        "row": 9,
+        "col": 0,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 50,
+        "clue": "La liquidazione in sigla",
+        "row": 9,
+        "col": 2,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 52,
+        "clue": "Clapton chitarrista",
+        "row": 9,
+        "col": 10,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 55,
+        "clue": "L'amministrazione delegato nelle multinazionali",
+        "row": 10,
+        "col": 6,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 56,
+        "clue": "Operazione Bancaria Contabile",
+        "row": 10,
+        "col": 7,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 57,
+        "clue": "Città dell'Iran",
+        "row": 10,
+        "col": 8,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 61,
+        "clue": "In tela, in seta e in jeans",
+        "row": 11,
+        "col": 12,
+        "length": 2,
+        "direction": "down"
+      }
+    ]
+  }
+}

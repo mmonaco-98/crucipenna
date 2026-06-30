@@ -1,0 +1,280 @@
+{
+  "id": "365",
+  "title": "Puzzle 365",
+  "size": {
+    "rows": 7,
+    "cols": 7
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "#",
+      "",
+      "#",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "B",
+      "A",
+      "R",
+      "U",
+      "F",
+      "F",
+      "A"
+    ],
+    [
+      "E",
+      "M",
+      "I",
+      "R",
+      "#",
+      "A",
+      "M"
+    ],
+    [
+      "M",
+      "I",
+      "D",
+      "T",
+      "E",
+      "R",
+      "M"
+    ],
+    [
+      "B",
+      "#",
+      "#",
+      "A",
+      "#",
+      "#",
+      "E"
+    ],
+    [
+      "E",
+      "V",
+      "E",
+      "R",
+      "T",
+      "O",
+      "N"
+    ],
+    [
+      "R",
+      "A",
+      "#",
+      "S",
+      "C",
+      "U",
+      "D"
+    ],
+    [
+      "G",
+      "E",
+      "N",
+      "I",
+      "E",
+      "R",
+      "E"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Si accende per discordanza d'opinioni",
+        "row": 0,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "Regista Kusturica",
+        "row": 1,
+        "col": 0,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "Alessandro Magno",
+        "row": 1,
+        "col": 5,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "Le elezioni americane intermedie",
+        "row": 2,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 15,
+        "clue": "Squadra di calcio inglese",
+        "row": 4,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 20,
+        "clue": "In coda alla baleniera",
+        "row": 5,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 21,
+        "clue": "Celebri missili anti-missile",
+        "row": 5,
+        "col": 3,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 22,
+        "clue": "Lo è sia il guastatore che il pontiere",
+        "row": 6,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Fibra tessile artificiale",
+        "row": 0,
+        "col": 0,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Hanno gli occhielli per le lenze",
+        "row": 0,
+        "col": 1,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Un procedimento bancario di pagamento",
+        "row": 0,
+        "col": 2,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Capita di farlo, tra la folla",
+        "row": 0,
+        "col": 3,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "L'avventuroso West",
+        "row": 0,
+        "col": 5,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 7,
+        "clue": "Pene pecuniarie",
+        "row": 0,
+        "col": 6,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 16,
+        "clue": "L' ammonimento per i victis",
+        "row": 4,
+        "col": 1,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 18,
+        "clue": "Il Trattato della Comunità Europea del 1957 (sigla)",
+        "row": 4,
+        "col": 4,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 19,
+        "clue": "Nostro... in inglese",
+        "row": 4,
+        "col": 5,
+        "length": 3,
+        "direction": "down"
+      }
+    ]
+  }
+}

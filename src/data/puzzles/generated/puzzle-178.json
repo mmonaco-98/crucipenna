@@ -1,0 +1,176 @@
+{
+  "id": "178",
+  "title": "Puzzle 178",
+  "size": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "T",
+      "W",
+      "E",
+      "E",
+      "D"
+    ],
+    [
+      "M",
+      "U",
+      "T",
+      "U",
+      "A"
+    ],
+    [
+      "E",
+      "#",
+      "A",
+      "#",
+      "N"
+    ],
+    [
+      "S",
+      "O",
+      "N",
+      "D",
+      "A"
+    ],
+    [
+      "I",
+      "O",
+      "I",
+      "D",
+      "E"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Fiume che fa da confine tra la Scozia e l'Inghilterra",
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 6,
+        "clue": "Un ente con assistiti",
+        "row": 1,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "Apparecchio per scandagliare",
+        "row": 3,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 13,
+        "clue": "Un osso a ferro di cavallo",
+        "row": 4,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Un... taglio di parola in poesia",
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "____ Ming: gli scrittori italiani del romanzo Q",
+        "row": 0,
+        "col": 1,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Sono idrocarburi",
+        "row": 0,
+        "col": 2,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "All'inizio dell'euforia",
+        "row": 0,
+        "col": 3,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "La madre di Perseo",
+        "row": 0,
+        "col": 4,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 11,
+        "clue": "Doppio zero",
+        "row": 3,
+        "col": 1,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 12,
+        "clue": "Doppie nelle domande",
+        "row": 3,
+        "col": 3,
+        "length": 2,
+        "direction": "down"
+      }
+    ]
+  }
+}

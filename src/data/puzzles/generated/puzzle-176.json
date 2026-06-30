@@ -1,0 +1,168 @@
+{
+  "id": "176",
+  "title": "Puzzle 176",
+  "size": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "A",
+      "#",
+      "R",
+      "T",
+      "L"
+    ],
+    [
+      "N",
+      "A",
+      "H",
+      "U",
+      "A"
+    ],
+    [
+      "A",
+      "L",
+      "E",
+      "R",
+      "T"
+    ],
+    [
+      "P",
+      "E",
+      "T",
+      "I",
+      "T"
+    ],
+    [
+      "O",
+      "C",
+      "T",
+      "#",
+      "E"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 2,
+        "clue": "____102.5, radio privata",
+        "row": 0,
+        "col": 2,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 5,
+        "clue": "Popolazioni amerindie",
+        "row": 1,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "clue": "L' inglese all' erta",
+        "row": 2,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "Un Roland della danza",
+        "row": 3,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "Un' abbreviazione nelle date in inglese",
+        "row": 4,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Bagna Siracusa",
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Il Butler di \"Via col vento\"",
+        "row": 0,
+        "col": 2,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Il nome dell'attore Ferro",
+        "row": 0,
+        "col": 3,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Il primo alimento",
+        "row": 0,
+        "col": 4,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "I1 nome di Guinness",
+        "row": 1,
+        "col": 1,
+        "length": 4,
+        "direction": "down"
+      }
+    ]
+  }
+}

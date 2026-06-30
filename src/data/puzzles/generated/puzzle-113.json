@@ -1,0 +1,168 @@
+{
+  "id": "113",
+  "title": "Puzzle 113",
+  "size": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "E",
+      "#",
+      "S",
+      "P",
+      "M"
+    ],
+    [
+      "C",
+      "O",
+      "L",
+      "U",
+      "I"
+    ],
+    [
+      "A",
+      "M",
+      "A",
+      "R",
+      "O"
+    ],
+    [
+      "T",
+      "A",
+      "N",
+      "I",
+      "S"
+    ],
+    [
+      "E",
+      "R",
+      "G",
+      "#",
+      "I"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 2,
+        "clue": "Sue Proprie Mani (sigla)",
+        "row": 0,
+        "col": 2,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 5,
+        "clue": "Un pronome dimostrativo",
+        "row": 1,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "clue": "Liquore da fine pasto",
+        "row": 2,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "Fu capitale dell'antico Egitto",
+        "row": 3,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "La misura del lavoro",
+        "row": 4,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Dea greca effigiata con tre teste",
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Gergo particolare",
+        "row": 0,
+        "col": 2,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Liberi da inquinanti",
+        "row": 0,
+        "col": 3,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Restringimento e contrazione della pupilla",
+        "row": 0,
+        "col": 4,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Nome di Sivori",
+        "row": 1,
+        "col": 1,
+        "length": 4,
+        "direction": "down"
+      }
+    ]
+  }
+}

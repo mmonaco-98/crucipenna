@@ -1,0 +1,280 @@
+{
+  "id": "378",
+  "title": "Puzzle 378",
+  "size": {
+    "rows": 7,
+    "cols": 7
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "E",
+      "S",
+      "P",
+      "O",
+      "R",
+      "R",
+      "E"
+    ],
+    [
+      "T",
+      "#",
+      "C",
+      "R",
+      "U",
+      "#",
+      "N"
+    ],
+    [
+      "E",
+      "D",
+      "M",
+      "O",
+      "N",
+      "D",
+      "O"
+    ],
+    [
+      "O",
+      "T",
+      "#",
+      "B",
+      "#",
+      "E",
+      "T"
+    ],
+    [
+      "C",
+      "R",
+      "U",
+      "I",
+      "S",
+      "E",
+      "R"
+    ],
+    [
+      "L",
+      "#",
+      "M",
+      "C",
+      "A",
+      "#",
+      "I"
+    ],
+    [
+      "E",
+      "G",
+      "O",
+      "I",
+      "S",
+      "T",
+      "A"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Mettere in mostra",
+        "row": 0,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "Il vitigno francese",
+        "row": 1,
+        "col": 2,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 11,
+        "clue": "L'indimenticato Berselli del Più mancino dei tiri",
+        "row": 2,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 14,
+        "clue": "L'inizio dell'\"OtelIo\"",
+        "row": 3,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 16,
+        "clue": "Comune congiunzione latina",
+        "row": 3,
+        "col": 5,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 17,
+        "clue": "Elegante imbarcazione da diporto",
+        "row": 4,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 21,
+        "clue": "Museum of Contemporary Art (sigla)",
+        "row": 5,
+        "col": 2,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 23,
+        "clue": "Pensa solamente a se stesso",
+        "row": 6,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Fratello di Polinice",
+        "row": 0,
+        "col": 0,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Presidente del Consiglio dei Ministri (sigla)",
+        "row": 0,
+        "col": 2,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Bergamaschi",
+        "row": 0,
+        "col": 3,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Correre, per un inglese",
+        "row": 0,
+        "col": 4,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 7,
+        "clue": "Antico nome dell'Italia",
+        "row": 0,
+        "col": 6,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 12,
+        "clue": "Direzione Treni Regionali (sigla)",
+        "row": 2,
+        "col": 1,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 13,
+        "clue": "Lo erano Iside e Astarte",
+        "row": 2,
+        "col": 5,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 18,
+        "clue": "Strato di terra fertile",
+        "row": 4,
+        "col": 2,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 19,
+        "clue": "Società in Accomandita Semplice (sigla)",
+        "row": 4,
+        "col": 4,
+        "length": 3,
+        "direction": "down"
+      }
+    ]
+  }
+}

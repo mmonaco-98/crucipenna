@@ -1,0 +1,184 @@
+{
+  "id": "270",
+  "title": "Puzzle 270",
+  "size": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "X",
+      "E",
+      "R",
+      "E",
+      "S"
+    ],
+    [
+      "B",
+      "L",
+      "U",
+      "F",
+      "F"
+    ],
+    [
+      "#",
+      "I",
+      "M",
+      "E",
+      "#"
+    ],
+    [
+      "S",
+      "T",
+      "O",
+      "S",
+      "S"
+    ],
+    [
+      "M",
+      "E",
+      "R",
+      "O",
+      "I"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Un aromatico vino spagnolo",
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 6,
+        "clue": "La finzione del pokerista",
+        "row": 1,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "clue": "Poste in basso",
+        "row": 2,
+        "col": 1,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "Il Veit scultore tedesco del Quattrocento",
+        "row": 3,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "Nives alpinista",
+        "row": 4,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Chiudono le due parti di Sex Bomb",
+        "row": 0,
+        "col": 0,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Un gruppo sociale... per pochi",
+        "row": 0,
+        "col": 1,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Ex premier o voce incontrollata",
+        "row": 0,
+        "col": 2,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Fu sede del terzo concilio ecumenico",
+        "row": 0,
+        "col": 3,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Un pò sfiduciato",
+        "row": 0,
+        "col": 4,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 8,
+        "clue": "Simbolo del samario",
+        "row": 3,
+        "col": 0,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 9,
+        "clue": "Ma certo, come no!",
+        "row": 3,
+        "col": 4,
+        "length": 2,
+        "direction": "down"
+      }
+    ]
+  }
+}

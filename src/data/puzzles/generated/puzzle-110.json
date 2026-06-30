@@ -1,0 +1,168 @@
+{
+  "id": "110",
+  "title": "Puzzle 110",
+  "size": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "H",
+      "A",
+      "R",
+      "D",
+      "Y"
+    ],
+    [
+      "O",
+      "#",
+      "E",
+      "V",
+      "E"
+    ],
+    [
+      "T",
+      "O",
+      "N",
+      "D",
+      "A"
+    ],
+    [
+      "E",
+      "M",
+      "E",
+      "#",
+      "T"
+    ],
+    [
+      "L",
+      "O",
+      "E",
+      "S",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Scrisse \"Via dalla pazza folla\"",
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "clue": "La moglie di Adam",
+        "row": 1,
+        "col": 2,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "Un tipo di parentesi",
+        "row": 2,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "Nell'emoglobina trasporta l'ossigeno",
+        "row": 3,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 12,
+        "clue": "Deposito di argille sabbiose",
+        "row": 4,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Ha stanze numerate",
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Renata a Parigi",
+        "row": 0,
+        "col": 2,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Acronimo che indica un prodotto simile al CD",
+        "row": 0,
+        "col": 3,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Poeta irlandese premio Nobel",
+        "row": 0,
+        "col": 4,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 9,
+        "clue": "Fiume bifronte dell' Etiopia",
+        "row": 2,
+        "col": 1,
+        "length": 3,
+        "direction": "down"
+      }
+    ]
+  }
+}

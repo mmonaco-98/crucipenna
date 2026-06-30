@@ -1,0 +1,176 @@
+{
+  "id": "168",
+  "title": "Puzzle 168",
+  "size": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "C",
+      "A",
+      "L",
+      "C",
+      "I"
+    ],
+    [
+      "H",
+      "H",
+      "#",
+      "A",
+      "B"
+    ],
+    [
+      "I",
+      "M",
+      "E",
+      "N",
+      "E"
+    ],
+    [
+      "M",
+      "E",
+      "#",
+      "O",
+      "R"
+    ],
+    [
+      "O",
+      "D",
+      "I",
+      "N",
+      "O"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Colpi di piede",
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 6,
+        "clue": "L'Hesse scrittore (iniz.)",
+        "row": 1,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "clue": "Precedono i CD",
+        "row": 1,
+        "col": 3,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "Una prerogativa che la casta ha intatta",
+        "row": 2,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "I due nomi della Boschi (iniz.)",
+        "row": 3,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 11,
+        "clue": "Poco organizzato",
+        "row": 3,
+        "col": 3,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 12,
+        "clue": "Lo Zeus germanico",
+        "row": 4,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Il cibo nello stomaco",
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Il nome di Ben Bella",
+        "row": 0,
+        "col": 1,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Una valle tra strapiombi",
+        "row": 0,
+        "col": 3,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "De... nota famiglia di architetti spagnoli",
+        "row": 0,
+        "col": 4,
+        "length": 5,
+        "direction": "down"
+      }
+    ]
+  }
+}

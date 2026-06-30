@@ -1,0 +1,168 @@
+{
+  "id": "293",
+  "title": "Puzzle 293",
+  "size": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "R",
+      "#",
+      "B",
+      "A",
+      "M"
+    ],
+    [
+      "A",
+      "M",
+      "I",
+      "L",
+      "E"
+    ],
+    [
+      "B",
+      "O",
+      "X",
+      "E",
+      "S"
+    ],
+    [
+      "A",
+      "L",
+      "I",
+      "A",
+      "S"
+    ],
+    [
+      "T",
+      "A",
+      "O",
+      "#",
+      "O"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 2,
+        "clue": "Banca Agricola Milanese",
+        "row": 0,
+        "col": 2,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 5,
+        "clue": "Un radicale chimico",
+        "row": 1,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "clue": "I garages... sotto casa degli Inglesi",
+        "row": 2,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "Come dire \"altrimenti detto\"",
+        "row": 3,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "L' alternanza di yin e yang",
+        "row": 4,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Capitale marocchina",
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Valoroso garibaldino",
+        "row": 0,
+        "col": 2,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Il rischio dell'imprenditore",
+        "row": 0,
+        "col": 3,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Usciere, fattorino",
+        "row": 0,
+        "col": 4,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Un disco di pietra",
+        "row": 1,
+        "col": 1,
+        "length": 4,
+        "direction": "down"
+      }
+    ]
+  }
+}

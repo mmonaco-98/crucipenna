@@ -1,0 +1,184 @@
+{
+  "id": "191",
+  "title": "Puzzle 191",
+  "size": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "O",
+      "C",
+      "R",
+      "E",
+      "A"
+    ],
+    [
+      "S",
+      "O",
+      "P",
+      "R",
+      "A"
+    ],
+    [
+      "C",
+      "E",
+      "#",
+      "B",
+      "R"
+    ],
+    [
+      "A",
+      "S",
+      "P",
+      "I",
+      "O"
+    ],
+    [
+      "R",
+      "E",
+      "D",
+      "O",
+      "N"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Guaina dell' internodio in alcune piante",
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 6,
+        "clue": "Va a finire sotto nei capovolgimenti",
+        "row": 1,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "clue": "Il centro di Micene",
+        "row": 2,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "La Refaeli top model (iniz.)",
+        "row": 2,
+        "col": 3,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "Comune dell'Anconetano",
+        "row": 3,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 11,
+        "clue": "Odilon, artista francese",
+        "row": 4,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Ambito premio del cinema",
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Così le coalizioni vorrebbero essere",
+        "row": 0,
+        "col": 1,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Iniziali dell'attore Pozzetto",
+        "row": 0,
+        "col": 2,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Ha per simbolo Er",
+        "row": 0,
+        "col": 3,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Copland compositore",
+        "row": 0,
+        "col": 4,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 10,
+        "clue": "Il partito di Renzi (sigla)",
+        "row": 3,
+        "col": 2,
+        "length": 2,
+        "direction": "down"
+      }
+    ]
+  }
+}

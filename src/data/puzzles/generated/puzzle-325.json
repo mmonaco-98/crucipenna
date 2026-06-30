@@ -1,0 +1,304 @@
+{
+  "id": "325",
+  "title": "Puzzle 325",
+  "size": {
+    "rows": 7,
+    "cols": 7
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "F",
+      "A",
+      "Q",
+      "#",
+      "V",
+      "C",
+      "O"
+    ],
+    [
+      "L",
+      "P",
+      "#",
+      "V",
+      "I",
+      "L",
+      "I"
+    ],
+    [
+      "O",
+      "P",
+      "L",
+      "I",
+      "T",
+      "I",
+      "#"
+    ],
+    [
+      "U",
+      "R",
+      "E",
+      "T",
+      "A",
+      "N",
+      "O"
+    ],
+    [
+      "#",
+      "O",
+      "N",
+      "U",
+      "S",
+      "T",
+      "O"
+    ],
+    [
+      "E",
+      "D",
+      "I",
+      "S",
+      "#",
+      "O",
+      "P"
+    ],
+    [
+      "V",
+      "I",
+      "N",
+      "#",
+      "S",
+      "N",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Quello che tutti vogliono sapere (sigla)",
+        "row": 0,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 4,
+        "clue": "Verbano-Cusio-Ossola, ossia Verbania",
+        "row": 0,
+        "col": 4,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "clue": "Il celebre Pavarotti (iniz.).",
+        "row": 1,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "Scappano nel pericolo",
+        "row": 1,
+        "col": 3,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "Antichi soldati",
+        "row": 2,
+        "col": 0,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 11,
+        "clue": "Altro nome del carbammato",
+        "row": 3,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 13,
+        "clue": "Carico... di gloria",
+        "row": 4,
+        "col": 1,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 14,
+        "clue": "Storica editrice di figurine da collezione",
+        "row": 5,
+        "col": 0,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 15,
+        "clue": "Si dice saltando",
+        "row": 5,
+        "col": 5,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 16,
+        "clue": "Quello brûlé si beve caldo",
+        "row": 6,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 17,
+        "clue": "Sindacato Nazionale degli Scrittori",
+        "row": 6,
+        "col": 4,
+        "length": 3,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Sfumatura fotografica",
+        "row": 0,
+        "col": 0,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Precedono gli sbarchi",
+        "row": 0,
+        "col": 1,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Gerulaitis compianto tennista statunitense",
+        "row": 0,
+        "col": 4,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Il presidente... tra i due Bush",
+        "row": 0,
+        "col": 5,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Le vocali dei soci",
+        "row": 0,
+        "col": 6,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 8,
+        "clue": "Il nome di Bering",
+        "row": 1,
+        "col": 3,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 10,
+        "clue": "Instaurò il comunismo",
+        "row": 2,
+        "col": 2,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 12,
+        "clue": "... I did it again",
+        "row": 3,
+        "col": 6,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 14,
+        "clue": "Evo non finito",
+        "row": 5,
+        "col": 0,
+        "length": 2,
+        "direction": "down"
+      }
+    ]
+  }
+}

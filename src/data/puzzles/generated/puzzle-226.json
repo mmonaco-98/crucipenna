@@ -1,0 +1,168 @@
+{
+  "id": "226",
+  "title": "Puzzle 226",
+  "size": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "M",
+      "E",
+      "T",
+      "R",
+      "I"
+    ],
+    [
+      "#",
+      "L",
+      "E",
+      "O",
+      "N"
+    ],
+    [
+      "T",
+      "I",
+      "N",
+      "T",
+      "O"
+    ],
+    [
+      "L",
+      "O",
+      "D",
+      "O",
+      "#"
+    ],
+    [
+      "E",
+      "T",
+      "E",
+      "R",
+      "E"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "400 nel giro di pista dell'atletica leggera",
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 6,
+        "clue": "Vasta regione della Spagna",
+        "row": 1,
+        "col": 1,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "clue": "Colorato artificialmente",
+        "row": 2,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "Un giudizio arbitrale",
+        "row": 3,
+        "col": 0,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "Effondeva un caratteristico odore nelle sale operatorie",
+        "row": 4,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 2,
+        "clue": "Scrisse \"Silas Marner\"",
+        "row": 0,
+        "col": 1,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Le piantano i campeggiatori",
+        "row": 0,
+        "col": 2,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Tinozza girevole dei luna park",
+        "row": 0,
+        "col": 3,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Fu divinizzata con il nome di Leucotea",
+        "row": 0,
+        "col": 4,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 7,
+        "clue": "Trattato di Letteratura Erotica",
+        "row": 2,
+        "col": 0,
+        "length": 3,
+        "direction": "down"
+      }
+    ]
+  }
+}

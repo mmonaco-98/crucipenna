@@ -1,0 +1,168 @@
+{
+  "id": "066",
+  "title": "Puzzle 066",
+  "size": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "A",
+      "L",
+      "E",
+      "N",
+      "A"
+    ],
+    [
+      "S",
+      "A",
+      "B",
+      "#",
+      "M"
+    ],
+    [
+      "S",
+      "C",
+      "O",
+      "L",
+      "O"
+    ],
+    [
+      "A",
+      "#",
+      "L",
+      "E",
+      "U"
+    ],
+    [
+      "B",
+      "L",
+      "A",
+      "I",
+      "R"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "___ Seredova",
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 6,
+        "clue": "Sabato nel datario",
+        "row": 1,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "Scarico idrico",
+        "row": 2,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 11,
+        "clue": "Una sigla per Grasso",
+        "row": 3,
+        "col": 2,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 12,
+        "clue": "Il Tony premier inglese",
+        "row": 4,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Porto dell'Eritrea",
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Il lago dei Francesi",
+        "row": 0,
+        "col": 1,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Una paura contemporanea",
+        "row": 0,
+        "col": 2,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Fa dare baci francesi",
+        "row": 0,
+        "col": 4,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 9,
+        "clue": "Pronome che non si usa tra amici",
+        "row": 2,
+        "col": 3,
+        "length": 3,
+        "direction": "down"
+      }
+    ]
+  }
+}

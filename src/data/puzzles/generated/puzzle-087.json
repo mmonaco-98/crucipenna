@@ -1,0 +1,176 @@
+{
+  "id": "087",
+  "title": "Puzzle 087",
+  "size": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "O",
+      "C",
+      "C",
+      "A",
+      "M"
+    ],
+    [
+      "V",
+      "H",
+      "#",
+      "D",
+      "A"
+    ],
+    [
+      "V",
+      "I",
+      "L",
+      "A",
+      "R"
+    ],
+    [
+      "I",
+      "N",
+      "#",
+      "M",
+      "I"
+    ],
+    [
+      "A",
+      "A",
+      "R",
+      "O",
+      "N"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Patria di un Guglielmo filosofo e teologo inglese",
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 6,
+        "clue": "Scrisse I miserabili (iniz.)",
+        "row": 1,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "clue": "Il sì di Mosca",
+        "row": 1,
+        "col": 3,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "Jean, attore francese",
+        "row": 2,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "Negli USA è alla moda",
+        "row": 3,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 11,
+        "clue": "Terza nota",
+        "row": 3,
+        "col": 3,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 12,
+        "clue": "Copland musicista",
+        "row": 4,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Comprensibile, logica",
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Una sorta d'inchiostro",
+        "row": 0,
+        "col": 1,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Nacque nell'Eden",
+        "row": 0,
+        "col": 3,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Biagio poeta",
+        "row": 0,
+        "col": 4,
+        "length": 5,
+        "direction": "down"
+      }
+    ]
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "id": "123",
+  "title": "Puzzle 123",
+  "size": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "#",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ]
+  ],
+  "solution": [
+    [
+      "#",
+      "A",
+      "I",
+      "D",
+      "A"
+    ],
+    [
+      "H",
+      "O",
+      "N",
+      "A",
+      "N"
+    ],
+    [
+      "E",
+      "S",
+      "T",
+      "R",
+      "O"
+    ],
+    [
+      "S",
+      "T",
+      "E",
+      "I",
+      "N"
+    ],
+    [
+      "S",
+      "A",
+      "L",
+      "A",
+      "#"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Opera di Verdi ambientata in Egitto",
+        "row": 0,
+        "col": 1,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 5,
+        "clue": "Una provincia della Cina",
+        "row": 1,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 6,
+        "clue": "L'__ armonico: è una raccolta di 12 concerti di Antonio Vivaldi",
+        "row": 2,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "clue": "La Gertrude romanziera statunitense",
+        "row": 3,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "Ampia stanza",
+        "row": 4,
+        "col": 0,
+        "length": 4,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "L'antica Augusta Praetoria",
+        "row": 0,
+        "col": 1,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Produce microprocessori per PC",
+        "row": 0,
+        "col": 2,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "L'attrice Nicolodi",
+        "row": 0,
+        "col": 3,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Anonimo in breve",
+        "row": 0,
+        "col": 4,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Il Rudolph nazista",
+        "row": 1,
+        "col": 0,
+        "length": 4,
+        "direction": "down"
+      }
+    ]
+  }
+}

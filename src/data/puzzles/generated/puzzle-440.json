@@ -1,0 +1,304 @@
+{
+  "id": "440",
+  "title": "Puzzle 440",
+  "size": {
+    "rows": 7,
+    "cols": 7
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "S",
+      "T",
+      "I",
+      "V",
+      "A",
+      "L",
+      "E"
+    ],
+    [
+      "A",
+      "S",
+      "C",
+      "E",
+      "S",
+      "S",
+      "I"
+    ],
+    [
+      "C",
+      "H",
+      "#",
+      "T",
+      "C",
+      "#",
+      "N"
+    ],
+    [
+      "R",
+      "#",
+      "S",
+      "R",
+      "I",
+      "#",
+      "A"
+    ],
+    [
+      "A",
+      "#",
+      "H",
+      "I",
+      "#",
+      "B",
+      "U"
+    ],
+    [
+      "L",
+      "E",
+      "O",
+      "N",
+      "A",
+      "R",
+      "D"
+    ],
+    [
+      "I",
+      "N",
+      "T",
+      "I",
+      "E",
+      "R",
+      "I"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Si calza sino al ginocchio",
+        "row": 0,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "Si formano col pus",
+        "row": 1,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "Un quinto di chilometro",
+        "row": 2,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "Iniziali di Campanella",
+        "row": 2,
+        "col": 3,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 13,
+        "clue": "Sacro Romano Imprero",
+        "row": 3,
+        "col": 2,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 16,
+        "clue": "In pochi si vedono alla fine",
+        "row": 4,
+        "col": 2,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 17,
+        "clue": "Un grido di disapprovazione",
+        "row": 4,
+        "col": 5,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 18,
+        "clue": "Il Bernstein della musica",
+        "row": 5,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 21,
+        "clue": "Completi in ogni loro componente",
+        "row": 6,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Legati al culto religioso",
+        "row": 0,
+        "col": 0,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Ormone dell' ipofisi",
+        "row": 0,
+        "col": 1,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "In mezzo al fico",
+        "row": 0,
+        "col": 2,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Le lastrine per i microscopi",
+        "row": 0,
+        "col": 3,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Lascia... senza confini",
+        "row": 0,
+        "col": 4,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Sigla del Lesotho",
+        "row": 0,
+        "col": 5,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 7,
+        "clue": "Luigi che fu un famoso politico",
+        "row": 0,
+        "col": 6,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 13,
+        "clue": "Il bicchierino che va bevuto tutto d'un fiato",
+        "row": 3,
+        "col": 2,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 17,
+        "clue": "Che freddo",
+        "row": 4,
+        "col": 5,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 19,
+        "clue": "Ente Nazionale",
+        "row": 5,
+        "col": 1,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 20,
+        "clue": "Sono contigue nel paese",
+        "row": 5,
+        "col": 4,
+        "length": 2,
+        "direction": "down"
+      }
+    ]
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "id": "283",
+  "title": "Puzzle 283",
+  "size": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "A",
+      "S",
+      "S",
+      "A",
+      "I"
+    ],
+    [
+      "I",
+      "#",
+      "O",
+      "C",
+      "N"
+    ],
+    [
+      "M",
+      "U",
+      "R",
+      "A",
+      "T"
+    ],
+    [
+      "E",
+      "S",
+      "O",
+      "#",
+      "E"
+    ],
+    [
+      "E",
+      "L",
+      "S",
+      "E",
+      "R"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Tanto, in grande quantità",
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "clue": "Ordine del Consiglio Nazionale",
+        "row": 1,
+        "col": 2,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "Un cognato di Napoleone",
+        "row": 2,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "Prefisso per \" fuori\"",
+        "row": 3,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 12,
+        "clue": "Impugnature di spade",
+        "row": 4,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Anouk attrice",
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Un finanziere palindromo",
+        "row": 0,
+        "col": 2,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Assessment delle Competenze Aziendali",
+        "row": 0,
+        "col": 3,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Squadra nerazzurra",
+        "row": 0,
+        "col": 4,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 9,
+        "clue": "Unità Sanitaria Locale",
+        "row": 2,
+        "col": 1,
+        "length": 3,
+        "direction": "down"
+      }
+    ]
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "id": "043",
+  "title": "Puzzle 043",
+  "size": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "E",
+      "R",
+      "T",
+      "E",
+      "#"
+    ],
+    [
+      "V",
+      "A",
+      "R",
+      "N",
+      "A"
+    ],
+    [
+      "O",
+      "T",
+      "I",
+      "T",
+      "I"
+    ],
+    [
+      "E",
+      "T",
+      "E",
+      "R",
+      "A"
+    ],
+    [
+      "#",
+      "E",
+      "R",
+      "O",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Ripide salite",
+        "row": 0,
+        "col": 0,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 5,
+        "clue": "Città e porto della Bulgaria",
+        "row": 1,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "clue": "Infiammazioni dell'orecchio",
+        "row": 2,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "Una cortigiana come la greca Frine",
+        "row": 3,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "Dio greco figlio di Afrodite e Ermes",
+        "row": 4,
+        "col": 1,
+        "length": 4,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Il grido delle Baccanti",
+        "row": 0,
+        "col": 0,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Svelte, leste",
+        "row": 0,
+        "col": 1,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Il nome tedesco di Treviri",
+        "row": 0,
+        "col": 2,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "All' interno",
+        "row": 0,
+        "col": 3,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Assiste spastici sigla",
+        "row": 1,
+        "col": 4,
+        "length": 4,
+        "direction": "down"
+      }
+    ]
+  }
+}

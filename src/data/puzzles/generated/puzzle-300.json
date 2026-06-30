@@ -1,0 +1,168 @@
+{
+  "id": "300",
+  "title": "Puzzle 300",
+  "size": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "O",
+      "G",
+      "L",
+      "I",
+      "O"
+    ],
+    [
+      "#",
+      "R",
+      "A",
+      "D",
+      "O"
+    ],
+    [
+      "T",
+      "O",
+      "U",
+      "R",
+      "S"
+    ],
+    [
+      "P",
+      "O",
+      "R",
+      "I",
+      "#"
+    ],
+    [
+      "A",
+      "M",
+      "A",
+      "S",
+      "I"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Fiume della Lombardia",
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 6,
+        "clue": "Largo di trama, poco fitto",
+        "row": 1,
+        "col": 1,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "clue": "Una storica città sulla Loira",
+        "row": 2,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "I forellini del sudore",
+        "row": 3,
+        "col": 0,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "Il faraone che secondo Erodoto istituì l' imposta sul reddito",
+        "row": 4,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 2,
+        "clue": "Fattorino d' albergo",
+        "row": 0,
+        "col": 1,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "La madonna petrarchesca",
+        "row": 0,
+        "col": 2,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Il Sanneh della televisione",
+        "row": 0,
+        "col": 3,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Out of Service (sigla)",
+        "row": 0,
+        "col": 4,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 7,
+        "clue": "Tutela Patrimonio Artistico",
+        "row": 2,
+        "col": 0,
+        "length": 3,
+        "direction": "down"
+      }
+    ]
+  }
+}

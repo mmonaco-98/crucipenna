@@ -1,0 +1,168 @@
+{
+  "id": "053",
+  "title": "Puzzle 053",
+  "size": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "O",
+      "R",
+      "A",
+      "F",
+      "I"
+    ],
+    [
+      "L",
+      "#",
+      "M",
+      "B",
+      "E"
+    ],
+    [
+      "T",
+      "A",
+      "M",
+      "I",
+      "L"
+    ],
+    [
+      "R",
+      "C",
+      "A",
+      "#",
+      "L"
+    ],
+    [
+      "E",
+      "T",
+      "N",
+      "E",
+      "A"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Anche se c'è crisi, fanno affari d'oro!",
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "clue": "Tipica risposta romanesca",
+        "row": 1,
+        "col": 2,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "Popolazione dell'India meridionale",
+        "row": 2,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "Le polizze per gli automobilisti (sigla)",
+        "row": 3,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 12,
+        "clue": "Lo è la zona tutta intorno al Mongibello",
+        "row": 4,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Vale al di là",
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Vi risiede re Abdallah II",
+        "row": 0,
+        "col": 2,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "La polizia federale statunitense (sigla)",
+        "row": 0,
+        "col": 3,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Vera sfortuna",
+        "row": 0,
+        "col": 4,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 9,
+        "clue": "Azienda Consorziale Trasporti",
+        "row": 2,
+        "col": 1,
+        "length": 3,
+        "direction": "down"
+      }
+    ]
+  }
+}

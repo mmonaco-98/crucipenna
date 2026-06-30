@@ -1,0 +1,176 @@
+{
+  "id": "258",
+  "title": "Puzzle 258",
+  "size": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "T",
+      "E",
+      "R",
+      "I",
+      "M"
+    ],
+    [
+      "R",
+      "V",
+      "#",
+      "C",
+      "I"
+    ],
+    [
+      "A",
+      "A",
+      "R",
+      "O",
+      "N"
+    ],
+    [
+      "M",
+      "N",
+      "#",
+      "N",
+      "A"
+    ],
+    [
+      "P",
+      "S",
+      "O",
+      "A",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Fatih, il \"mister\" turco che ha allenato Fiorentina e Milan",
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 6,
+        "clue": "Rive senza pari",
+        "row": 1,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "clue": "Vicini in centro",
+        "row": 1,
+        "col": 3,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "Il nome del compositore Copland",
+        "row": 2,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "I confini di Manhattan",
+        "row": 3,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 11,
+        "clue": "Sono doppie nella banana",
+        "row": 3,
+        "col": 3,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 12,
+        "clue": "Il muscolo che... unisce le gambe alla colonna vertebrale",
+        "row": 4,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Una nave da carico il cui nolo è particolarmente basso",
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Bill e Gil pianisti",
+        "row": 0,
+        "col": 1,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Un'immagine sacra su legno",
+        "row": 0,
+        "col": 3,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Con Gerais nel nome di uno stato brasiliano",
+        "row": 0,
+        "col": 4,
+        "length": 5,
+        "direction": "down"
+      }
+    ]
+  }
+}

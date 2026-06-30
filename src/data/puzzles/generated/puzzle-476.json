@@ -1,0 +1,624 @@
+{
+  "id": "476",
+  "title": "Puzzle 476",
+  "size": {
+    "rows": 11,
+    "cols": 11
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "#",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "#",
+      "",
+      "#",
+      "",
+      "#",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "#",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "#",
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "#",
+      "",
+      "#",
+      "",
+      "#",
+      "",
+      "#",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "#",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "S",
+      "I",
+      "M",
+      "#",
+      "#",
+      "P",
+      "E",
+      "G",
+      "G",
+      "I",
+      "O"
+    ],
+    [
+      "Y",
+      "#",
+      "E",
+      "N",
+      "F",
+      "I",
+      "O",
+      "#",
+      "U",
+      "I",
+      "C"
+    ],
+    [
+      "#",
+      "D",
+      "Z",
+      "#",
+      "O",
+      "#",
+      "O",
+      "#",
+      "A",
+      "#",
+      "U"
+    ],
+    [
+      "#",
+      "O",
+      "Z",
+      "Z",
+      "Y",
+      "#",
+      "#",
+      "I",
+      "D",
+      "O",
+      "L"
+    ],
+    [
+      "K",
+      "N",
+      "O",
+      "D",
+      "E",
+      "L",
+      "#",
+      "D",
+      "A",
+      "T",
+      "A"
+    ],
+    [
+      "L",
+      "A",
+      "G",
+      "#",
+      "R",
+      "#",
+      "A",
+      "#",
+      "L",
+      "A",
+      "R"
+    ],
+    [
+      "I",
+      "R",
+      "I",
+      "S",
+      "#",
+      "A",
+      "L",
+      "A",
+      "C",
+      "R",
+      "E"
+    ],
+    [
+      "N",
+      "E",
+      "O",
+      "N",
+      "#",
+      "#",
+      "B",
+      "R",
+      "A",
+      "D",
+      "#"
+    ],
+    [
+      "G",
+      "#",
+      "R",
+      "#",
+      "O",
+      "#",
+      "E",
+      "#",
+      "N",
+      "E",
+      "#"
+    ],
+    [
+      "E",
+      "O",
+      "N",
+      "#",
+      "T",
+      "H",
+      "E",
+      "D",
+      "A",
+      "#",
+      "V"
+    ],
+    [
+      "R",
+      "I",
+      "O",
+      "T",
+      "T",
+      "A",
+      "#",
+      "#",
+      "L",
+      "E",
+      "O"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "La \"card\" dei servizi telefonici.",
+        "row": 0,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 4,
+        "clue": "Vi si scivola dal male",
+        "row": 0,
+        "col": 5,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 11,
+        "clue": "Tumefatto",
+        "row": 1,
+        "col": 2,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 14,
+        "clue": "Unione Italiana Ciechi",
+        "row": 1,
+        "col": 8,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 15,
+        "clue": "Gli estremi di Dominguez",
+        "row": 2,
+        "col": 1,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 20,
+        "clue": "Osbourne del rock",
+        "row": 3,
+        "col": 1,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 22,
+        "clue": "Billy del rock",
+        "row": 3,
+        "col": 7,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 24,
+        "clue": "Una specialità altoatesina",
+        "row": 4,
+        "col": 0,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 26,
+        "clue": "È composta di giorno, mese e anno",
+        "row": 4,
+        "col": 7,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 27,
+        "clue": "Il jet che rimbambisce",
+        "row": 5,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 30,
+        "clue": "Una città dell'Iran",
+        "row": 5,
+        "col": 8,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 31,
+        "clue": "Il giaggiolo",
+        "row": 6,
+        "col": 0,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 33,
+        "clue": "Svelto nel lavoro",
+        "row": 6,
+        "col": 5,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 35,
+        "clue": "Gas pubblicitario",
+        "row": 7,
+        "col": 0,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 36,
+        "clue": "Il nome dell'attore Pitt",
+        "row": 7,
+        "col": 6,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 41,
+        "clue": "Nemmeno",
+        "row": 8,
+        "col": 8,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 42,
+        "clue": "Unità geocronologica superiore all'era",
+        "row": 9,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 44,
+        "clue": "La Bara attrice... fatale",
+        "row": 9,
+        "col": 4,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 48,
+        "clue": "Un giornalista Gianni",
+        "row": 10,
+        "col": 0,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 50,
+        "clue": "Il celebre Longanesi",
+        "row": 10,
+        "col": 8,
+        "length": 3,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "La fine di Debussy",
+        "row": 0,
+        "col": 0,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Le dodici in punto",
+        "row": 0,
+        "col": 2,
+        "length": 11,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Il greco per il calcolo della circonferenza",
+        "row": 0,
+        "col": 5,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Orientale per il poeta",
+        "row": 0,
+        "col": 6,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 7,
+        "clue": "Grande isola delle Salomone",
+        "row": 0,
+        "col": 8,
+        "length": 11,
+        "direction": "down"
+      },
+      {
+        "number": 8,
+        "clue": "Vocali di figli",
+        "row": 0,
+        "col": 9,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 9,
+        "clue": "Una lente del cannocchiale",
+        "row": 0,
+        "col": 10,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 13,
+        "clue": "L'ingresso a teatro",
+        "row": 1,
+        "col": 4,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 15,
+        "clue": "Verbo di generosi",
+        "row": 2,
+        "col": 1,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 21,
+        "clue": "I confini dello Zululand",
+        "row": 3,
+        "col": 3,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 22,
+        "clue": "Lidi in centro",
+        "row": 3,
+        "col": 7,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 23,
+        "clue": "Uccelli dei trampolieri",
+        "row": 3,
+        "col": 9,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 24,
+        "clue": "Max, artista tedesco del simbolismo",
+        "row": 4,
+        "col": 0,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 29,
+        "clue": "Ha scritto \"Chi ha paura di Virginia Woolf?\"",
+        "row": 5,
+        "col": 6,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 32,
+        "clue": "Sono senza pari",
+        "row": 6,
+        "col": 3,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 34,
+        "clue": "Arezzo",
+        "row": 6,
+        "col": 7,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 39,
+        "clue": "Il decimo mese (abbr.)",
+        "row": 8,
+        "col": 4,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 43,
+        "clue": "Sono uguali nei poligoni",
+        "row": 9,
+        "col": 1,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 45,
+        "clue": "Due di Halifax",
+        "row": 9,
+        "col": 5,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 47,
+        "clue": "Le estremità del vascello",
+        "row": 9,
+        "col": 10,
+        "length": 2,
+        "direction": "down"
+      }
+    ]
+  }
+}

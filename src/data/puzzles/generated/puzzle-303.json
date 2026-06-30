@@ -1,0 +1,272 @@
+{
+  "id": "303",
+  "title": "Puzzle 303",
+  "size": {
+    "rows": 7,
+    "cols": 7
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "P",
+      "B",
+      "#",
+      "B",
+      "I",
+      "C",
+      "A"
+    ],
+    [
+      "#",
+      "A",
+      "B",
+      "I",
+      "L",
+      "I",
+      "#"
+    ],
+    [
+      "P",
+      "R",
+      "E",
+      "S",
+      "I",
+      "N",
+      "E"
+    ],
+    [
+      "P",
+      "E",
+      "N",
+      "S",
+      "A",
+      "T",
+      "I"
+    ],
+    [
+      "I",
+      "N",
+      "N",
+      "O",
+      "C",
+      "U",
+      "A"
+    ],
+    [
+      "#",
+      "T",
+      "E",
+      "N",
+      "O",
+      "R",
+      "#"
+    ],
+    [
+      "U",
+      "S",
+      "T",
+      "A",
+      "#",
+      "E",
+      "E"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Iniziali di Bonolis",
+        "row": 0,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 3,
+        "clue": "La formano un mucchio di covoni",
+        "row": 0,
+        "col": 3,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "clue": "Sono capaci di cavarsela",
+        "row": 1,
+        "col": 1,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "Si usano in cucina",
+        "row": 2,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 11,
+        "clue": "Immaginati con la fantasia",
+        "row": 3,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 12,
+        "clue": "Così è l'arma giocattolo",
+        "row": 4,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 13,
+        "clue": "Era la voce principale della polifonia",
+        "row": 5,
+        "col": 1,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 14,
+        "clue": "La segue il segugio",
+        "row": 6,
+        "col": 0,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 15,
+        "clue": "Eguali nel bene",
+        "row": 6,
+        "col": 5,
+        "length": 2,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 2,
+        "clue": "Un mare dell'Artico ha il suo nome",
+        "row": 0,
+        "col": 1,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Tipica imbarcazione veneziana da parata",
+        "row": 0,
+        "col": 3,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Riguardante Troia o l'intestino",
+        "row": 0,
+        "col": 4,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Chiudono anche vestaglie",
+        "row": 0,
+        "col": 5,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 8,
+        "clue": "Thomas, teologo anglicano",
+        "row": 1,
+        "col": 2,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 9,
+        "clue": "Popolari Per l'Italia (sigla)",
+        "row": 2,
+        "col": 0,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 10,
+        "clue": "Lo ripetevano i fascisti",
+        "row": 2,
+        "col": 6,
+        "length": 3,
+        "direction": "down"
+      }
+    ]
+  }
+}

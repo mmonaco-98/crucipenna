@@ -1,0 +1,168 @@
+{
+  "id": "205",
+  "title": "Puzzle 205",
+  "size": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "C",
+      "E",
+      "R",
+      "E",
+      "A"
+    ],
+    [
+      "E",
+      "#",
+      "A",
+      "R",
+      "G"
+    ],
+    [
+      "S",
+      "P",
+      "I",
+      "G",
+      "A"
+    ],
+    [
+      "P",
+      "U",
+      "S",
+      "#",
+      "M"
+    ],
+    [
+      "I",
+      "R",
+      "I",
+      "T",
+      "I"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Pallidissima",
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "clue": "Breve argomento",
+        "row": 1,
+        "col": 2,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "Contiene il frumento",
+        "row": 2,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "Riempie l'ascesso",
+        "row": 3,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 12,
+        "clue": "Colpiscono l'occhio",
+        "row": 4,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Ciuffi d'erba",
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "La \"Punta\"... di un aeroporto siciliano",
+        "row": 0,
+        "col": 2,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "La misura del lavoro",
+        "row": 0,
+        "col": 3,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Uccello sudamericano",
+        "row": 0,
+        "col": 4,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 9,
+        "clue": "Fiume della Russia siberiana nordoccidentale",
+        "row": 2,
+        "col": 1,
+        "length": 3,
+        "direction": "down"
+      }
+    ]
+  }
+}

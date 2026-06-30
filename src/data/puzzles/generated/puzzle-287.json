@@ -1,0 +1,176 @@
+{
+  "id": "287",
+  "title": "Puzzle 287",
+  "size": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "A",
+      "A",
+      "R",
+      "O",
+      "N"
+    ],
+    [
+      "V",
+      "S",
+      "#",
+      "R",
+      "E"
+    ],
+    [
+      "A",
+      "C",
+      "I",
+      "D",
+      "E"
+    ],
+    [
+      "R",
+      "I",
+      "#",
+      "R",
+      "R"
+    ],
+    [
+      "I",
+      "A",
+      "L",
+      "E",
+      "A"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Il nome del compositore Copland",
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 6,
+        "clue": "Vostra Signoria Vittorio Sgarbi",
+        "row": 1,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "clue": "È nota in Firenze...",
+        "row": 1,
+        "col": 3,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "Così sono certe piogge dannose alla Natura",
+        "row": 2,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "Centro di barile",
+        "row": 3,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 11,
+        "clue": "Una coppia in arrivo",
+        "row": 3,
+        "col": 3,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 12,
+        "clue": "Conchiglia trasparente",
+        "row": 4,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Si privano di tutto",
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "La dissotterravano i Pellirosse",
+        "row": 0,
+        "col": 1,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "L'ordine francese",
+        "row": 0,
+        "col": 3,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Scrisse 'Teresa'",
+        "row": 0,
+        "col": 4,
+        "length": 5,
+        "direction": "down"
+      }
+    ]
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "id": "288",
+  "title": "Puzzle 288",
+  "size": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "S",
+      "S",
+      "I",
+      "#",
+      "J"
+    ],
+    [
+      "T",
+      "O",
+      "N",
+      "T",
+      "E"
+    ],
+    [
+      "A",
+      "L",
+      "T",
+      "R",
+      "A"
+    ],
+    [
+      "G",
+      "O",
+      "R",
+      "A",
+      "N"
+    ],
+    [
+      "E",
+      "#",
+      "A",
+      "N",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Servizio Sociale Internazionale",
+        "row": 0,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 5,
+        "clue": "Arretrate d'intelletto",
+        "row": 1,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "clue": "La rivale della moglie",
+        "row": 2,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "Sven... Eriksson \"mister\" del calcio",
+        "row": 3,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "Città industriale belga",
+        "row": 4,
+        "col": 2,
+        "length": 3,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Breve corso di aggiornamento professionale",
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Abbandonato, senza compagnia",
+        "row": 0,
+        "col": 1,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Fa provincia con Pallanza.",
+        "row": 0,
+        "col": 2,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Si fanno con il denim",
+        "row": 0,
+        "col": 4,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Ripetuto indica il solito andazzo",
+        "row": 1,
+        "col": 3,
+        "length": 4,
+        "direction": "down"
+      }
+    ]
+  }
+}

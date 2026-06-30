@@ -1,0 +1,168 @@
+{
+  "id": "242",
+  "title": "Puzzle 242",
+  "size": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "#",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ]
+  ],
+  "solution": [
+    [
+      "#",
+      "E",
+      "C",
+      "H",
+      "I"
+    ],
+    [
+      "S",
+      "B",
+      "O",
+      "O",
+      "M"
+    ],
+    [
+      "P",
+      "O",
+      "R",
+      "T",
+      "E"
+    ],
+    [
+      "E",
+      "L",
+      "S",
+      "E",
+      "R"
+    ],
+    [
+      "C",
+      "I",
+      "E",
+      "L",
+      "#"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Risuonano nelle gole",
+        "row": 0,
+        "col": 1,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 5,
+        "clue": "Un'improvvisa decrescita",
+        "row": 1,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 6,
+        "clue": "Le apre tutte il denaro",
+        "row": 2,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "clue": "Impugnature di spade",
+        "row": 3,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "Aiuta chi s'aiuta",
+        "row": 4,
+        "col": 0,
+        "length": 4,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Vi si \"è fermato\" Cristo in un romanzo di Carlo Levi",
+        "row": 0,
+        "col": 1,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Gare per velocisti",
+        "row": 0,
+        "col": 2,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Ospita forestieri",
+        "row": 0,
+        "col": 3,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Comune del Trentino",
+        "row": 0,
+        "col": 4,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Specialità in breve",
+        "row": 1,
+        "col": 0,
+        "length": 4,
+        "direction": "down"
+      }
+    ]
+  }
+}

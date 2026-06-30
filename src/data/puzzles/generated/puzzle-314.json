@@ -1,0 +1,256 @@
+{
+  "id": "314",
+  "title": "Puzzle 314",
+  "size": {
+    "rows": 7,
+    "cols": 7
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "#",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "#",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "C",
+      "U",
+      "R",
+      "A",
+      "C",
+      "A",
+      "O"
+    ],
+    [
+      "H",
+      "#",
+      "#",
+      "P",
+      "A",
+      "N",
+      "#"
+    ],
+    [
+      "E",
+      "S",
+      "P",
+      "O",
+      "R",
+      "S",
+      "I"
+    ],
+    [
+      "A",
+      "P",
+      "U",
+      "L",
+      "E",
+      "I",
+      "O"
+    ],
+    [
+      "P",
+      "A",
+      "R",
+      "O",
+      "L",
+      "A",
+      "I"
+    ],
+    [
+      "#",
+      "R",
+      "I",
+      "G",
+      "#",
+      "#",
+      "D"
+    ],
+    [
+      "R",
+      "I",
+      "M",
+      "O",
+      "N",
+      "T",
+      "E"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Si fa con la scorza dell'arancia amara.",
+        "row": 0,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "I Romani lo chiamarono Fauno",
+        "row": 1,
+        "col": 3,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "Affrontare un rischio",
+        "row": 2,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 14,
+        "clue": "Filosofo platonico e scrittore latino di Madaura",
+        "row": 3,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 15,
+        "clue": "Chiacchierano molto ma in modo inconcludente",
+        "row": 4,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 16,
+        "clue": "Rigore... abbreviato",
+        "row": 5,
+        "col": 1,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 18,
+        "clue": "I recuperi dei distacchi",
+        "row": 6,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Di gusto molto andante",
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Componimento poetico che fu caro a Esopo",
+        "row": 0,
+        "col": 3,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Il nome del pittore olandese Fabritius",
+        "row": 0,
+        "col": 4,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Provoca batticuore",
+        "row": 0,
+        "col": 5,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 11,
+        "clue": "Rintronano nel poligono",
+        "row": 2,
+        "col": 1,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 12,
+        "clue": "Solennità ebraica",
+        "row": 2,
+        "col": 2,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 13,
+        "clue": "Osso del collo",
+        "row": 2,
+        "col": 6,
+        "length": 5,
+        "direction": "down"
+      }
+    ]
+  }
+}

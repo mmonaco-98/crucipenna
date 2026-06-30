@@ -1,0 +1,184 @@
+{
+  "id": "158",
+  "title": "Puzzle 158",
+  "size": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "G",
+      "E",
+      "#",
+      "V",
+      "T"
+    ],
+    [
+      "A",
+      "T",
+      "R",
+      "I",
+      "O"
+    ],
+    [
+      "L",
+      "E",
+      "G",
+      "E",
+      "R"
+    ],
+    [
+      "O",
+      "R",
+      "A",
+      "T",
+      "A"
+    ],
+    [
+      "P",
+      "I",
+      "#",
+      "E",
+      "H"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "In mezzo ad angeli",
+        "row": 0,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 3,
+        "clue": "Sigla di Viterbo",
+        "row": 0,
+        "col": 3,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 5,
+        "clue": "Ampio vestibolo",
+        "row": 1,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "clue": "Fernand pittore francese",
+        "row": 2,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "Un pesce eccellente",
+        "row": 3,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "Incominciano piano",
+        "row": 4,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "Un' esclamazione che vuol dire molte cose",
+        "row": 4,
+        "col": 3,
+        "length": 2,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Un vivace ballo",
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Sono composti organici",
+        "row": 0,
+        "col": 1,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Più antiquate che vecchie",
+        "row": 0,
+        "col": 3,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "La Bibbia ebraica",
+        "row": 0,
+        "col": 4,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Radio Giornalisti Associati",
+        "row": 1,
+        "col": 2,
+        "length": 3,
+        "direction": "down"
+      }
+    ]
+  }
+}

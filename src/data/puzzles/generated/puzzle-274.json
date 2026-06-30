@@ -1,0 +1,168 @@
+{
+  "id": "274",
+  "title": "Puzzle 274",
+  "size": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "G",
+      "O",
+      "B",
+      "B",
+      "O"
+    ],
+    [
+      "#",
+      "R",
+      "E",
+      "A",
+      "D"
+    ],
+    [
+      "E",
+      "M",
+      "I",
+      "R",
+      "I"
+    ],
+    [
+      "R",
+      "A",
+      "G",
+      "U",
+      "#"
+    ],
+    [
+      "B",
+      "I",
+      "E",
+      "C",
+      "O"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Sciancato, deforme",
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 6,
+        "clue": "Legge inglese",
+        "row": 1,
+        "col": 1,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "clue": "Autorità arabe",
+        "row": 2,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "Un sugo",
+        "row": 3,
+        "col": 0,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "Malvagio",
+        "row": 4,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 2,
+        "clue": "L'avverbio del rassegnato",
+        "row": 0,
+        "col": 1,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Una tonalità di marrone chiaro",
+        "row": 0,
+        "col": 2,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Un profeta minore",
+        "row": 0,
+        "col": 3,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Carducci scrisse le barbare",
+        "row": 0,
+        "col": 4,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 7,
+        "clue": "Il Burroughs creatore di Tarzan (iniz.)",
+        "row": 2,
+        "col": 0,
+        "length": 3,
+        "direction": "down"
+      }
+    ]
+  }
+}

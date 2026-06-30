@@ -1,0 +1,168 @@
+{
+  "id": "145",
+  "title": "Puzzle 145",
+  "size": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "L",
+      "I",
+      "E",
+      "T",
+      "E"
+    ],
+    [
+      "I",
+      "S",
+      "M",
+      "#",
+      "T"
+    ],
+    [
+      "S",
+      "T",
+      "E",
+      "R",
+      "N"
+    ],
+    [
+      "Z",
+      "#",
+      "R",
+      "I",
+      "I"
+    ],
+    [
+      "T",
+      "A",
+      "I",
+      "G",
+      "A"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Tutt'altro che meste",
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 6,
+        "clue": "Istituto Superiore Militare",
+        "row": 1,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "Il Daniel di \"Scappo dalla città\"",
+        "row": 2,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 11,
+        "clue": "I \"vicoli\" di Venezia.",
+        "row": 3,
+        "col": 2,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 12,
+        "clue": "La foresta siberiana",
+        "row": 4,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Compose \"Mazeppa\"",
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Tre lettere per istituto",
+        "row": 0,
+        "col": 1,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Arbusti con fiori gialli e legumi pendenti",
+        "row": 0,
+        "col": 2,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Raggruppamento... umano",
+        "row": 0,
+        "col": 4,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 9,
+        "clue": "Rigore... abbreviato",
+        "row": 2,
+        "col": 3,
+        "length": 3,
+        "direction": "down"
+      }
+    ]
+  }
+}

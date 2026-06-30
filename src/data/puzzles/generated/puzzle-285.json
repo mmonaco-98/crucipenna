@@ -1,0 +1,168 @@
+{
+  "id": "285",
+  "title": "Puzzle 285",
+  "size": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "#",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ]
+  ],
+  "solution": [
+    [
+      "#",
+      "B",
+      "R",
+      "I",
+      "N"
+    ],
+    [
+      "P",
+      "A",
+      "O",
+      "L",
+      "A"
+    ],
+    [
+      "I",
+      "S",
+      "T",
+      "A",
+      "T"
+    ],
+    [
+      "P",
+      "E",
+      "T",
+      "R",
+      "I"
+    ],
+    [
+      "A",
+      "L",
+      "O",
+      "E",
+      "#"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Benedetto che fu ministro della Marina",
+        "row": 0,
+        "col": 1,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 5,
+        "clue": "Nome della cantante Turci",
+        "row": 1,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 6,
+        "clue": "L'Istituto che fornisce dati statistici",
+        "row": 2,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "clue": "Elio che fu un noto regista",
+        "row": 3,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "Pianta dal frutto medicinale",
+        "row": 4,
+        "col": 0,
+        "length": 4,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Basilea in tedesco",
+        "row": 0,
+        "col": 1,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "C'è chi passa per quello della cuffia",
+        "row": 0,
+        "col": 2,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Per niente accigliato",
+        "row": 0,
+        "col": 3,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Una colonna del bollettino demografico",
+        "row": 0,
+        "col": 4,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Articolo per fumatori",
+        "row": 1,
+        "col": 0,
+        "length": 4,
+        "direction": "down"
+      }
+    ]
+  }
+}

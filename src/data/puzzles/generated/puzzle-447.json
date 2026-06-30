@@ -1,0 +1,296 @@
+{
+  "id": "447",
+  "title": "Puzzle 447",
+  "size": {
+    "rows": 7,
+    "cols": 7
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "T",
+      "V",
+      "#",
+      "B",
+      "L",
+      "O",
+      "B"
+    ],
+    [
+      "R",
+      "I",
+      "T",
+      "R",
+      "I",
+      "T",
+      "I"
+    ],
+    [
+      "O",
+      "D",
+      "O",
+      "#",
+      "G",
+      "#",
+      "E"
+    ],
+    [
+      "G",
+      "A",
+      "U",
+      "G",
+      "U",
+      "I",
+      "N"
+    ],
+    [
+      "O",
+      "#",
+      "P",
+      "#",
+      "R",
+      "A",
+      "N"
+    ],
+    [
+      "L",
+      "I",
+      "E",
+      "V",
+      "I",
+      "T",
+      "I"
+    ],
+    [
+      "O",
+      "P",
+      "T",
+      "O",
+      "#",
+      "I",
+      "O"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "La sigla di Treviso",
+        "row": 0,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 3,
+        "clue": "Trasmissione televisiva con divertenti accozzamenti di filmati",
+        "row": 0,
+        "col": 3,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "clue": "Ripetuti più volte, risaputi",
+        "row": 1,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "Il prefisso della strada",
+        "row": 2,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 12,
+        "clue": "Il pittore amico di van Gogh",
+        "row": 3,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 17,
+        "clue": "Un epico film di Kurosawa ispirato a Shakespeare",
+        "row": 4,
+        "col": 4,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 18,
+        "clue": "Servono per far... montare la pasta",
+        "row": 5,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 21,
+        "clue": "Dell' occhio o della vista",
+        "row": 6,
+        "col": 0,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 22,
+        "clue": "Così traduciamo ego",
+        "row": 6,
+        "col": 5,
+        "length": 2,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "La cassetta in cui si mette il mangiare per i maiali",
+        "row": 0,
+        "col": 0,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Marco Girolamo, letterato e vescovo",
+        "row": 0,
+        "col": 1,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Le consonanti degli Iberi",
+        "row": 0,
+        "col": 3,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Confinano con i Piemontesi",
+        "row": 0,
+        "col": 4,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Prime in ottobre",
+        "row": 0,
+        "col": 5,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Dura otto stagioni",
+        "row": 0,
+        "col": 6,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 8,
+        "clue": "Parrucchino",
+        "row": 1,
+        "col": 2,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 14,
+        "clue": "Falsi dittonghi",
+        "row": 3,
+        "col": 5,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 19,
+        "clue": "Inizio di ipotesi",
+        "row": 5,
+        "col": 1,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 20,
+        "clue": "Le ultime lettere di Nievo",
+        "row": 5,
+        "col": 3,
+        "length": 2,
+        "direction": "down"
+      }
+    ]
+  }
+}

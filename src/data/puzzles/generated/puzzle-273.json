@@ -1,0 +1,168 @@
+{
+  "id": "273",
+  "title": "Puzzle 273",
+  "size": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "I",
+      "#",
+      "G",
+      "B",
+      "M"
+    ],
+    [
+      "C",
+      "E",
+      "R",
+      "E",
+      "I"
+    ],
+    [
+      "O",
+      "G",
+      "I",
+      "V",
+      "E"
+    ],
+    [
+      "N",
+      "A",
+      "D",
+      "A",
+      "L"
+    ],
+    [
+      "A",
+      "N",
+      "E",
+      "#",
+      "E"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 2,
+        "clue": "L'Isola di Man in auto",
+        "row": 0,
+        "col": 2,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 5,
+        "clue": "Molto pallidi",
+        "row": 1,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "clue": "Archi a sesto acuto",
+        "row": 2,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "Un rivale per Federer",
+        "row": 3,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "Nel centro del pianeta",
+        "row": 4,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "É sacra in Russia",
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Ne compaiono nei Promessi Sposi",
+        "row": 0,
+        "col": 2,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Gusto di un vino",
+        "row": 0,
+        "col": 3,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Il dolce... d'una luna",
+        "row": 0,
+        "col": 4,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "La Jennifer di \"Il tempo è un bastardo\"",
+        "row": 1,
+        "col": 1,
+        "length": 4,
+        "direction": "down"
+      }
+    ]
+  }
+}

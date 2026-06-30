@@ -1,0 +1,304 @@
+{
+  "id": "355",
+  "title": "Puzzle 355",
+  "size": {
+    "rows": 7,
+    "cols": 7
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "C",
+      "C",
+      "P",
+      "#",
+      "P",
+      "I",
+      "E"
+    ],
+    [
+      "R",
+      "I",
+      "A",
+      "#",
+      "R",
+      "A",
+      "M"
+    ],
+    [
+      "I",
+      "S",
+      "S",
+      "U",
+      "E",
+      "#",
+      "P"
+    ],
+    [
+      "C",
+      "A",
+      "T",
+      "T",
+      "A",
+      "N",
+      "I"
+    ],
+    [
+      "K",
+      "#",
+      "E",
+      "U",
+      "L",
+      "E",
+      "R"
+    ],
+    [
+      "E",
+      "A",
+      "U",
+      "#",
+      "P",
+      "R",
+      "E"
+    ],
+    [
+      "T",
+      "F",
+      "R",
+      "#",
+      "I",
+      "D",
+      "O"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Si apre alle Poste (sigla)",
+        "row": 0,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 4,
+        "clue": "Religiose, timorate",
+        "row": 0,
+        "col": 4,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "clue": "Tutt'altro che benevola",
+        "row": 1,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "Random Access Memory",
+        "row": 1,
+        "col": 4,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "Numero di rivista inglese",
+        "row": 2,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 12,
+        "clue": "Il commissario della Piovra",
+        "row": 3,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 15,
+        "clue": "Il matematico svizzero il cui nome viene spesso italianizzato.",
+        "row": 4,
+        "col": 2,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 16,
+        "clue": "L'acqua... di Parigi",
+        "row": 5,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 18,
+        "clue": "Prima nei prefissi",
+        "row": 5,
+        "col": 4,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 19,
+        "clue": "La liquidazoine in sigla",
+        "row": 6,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 20,
+        "clue": "Una lingua artificiale",
+        "row": 6,
+        "col": 4,
+        "length": 3,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Lo sport con le mazze a spatola",
+        "row": 0,
+        "col": 0,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Passo dell' Appennino",
+        "row": 0,
+        "col": 1,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Il fisico che debellò la rabbia",
+        "row": 0,
+        "col": 2,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "In quelle Venete c' è il Pasubio",
+        "row": 0,
+        "col": 4,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Isola senza sol",
+        "row": 0,
+        "col": 5,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "La sede di Dio e dei Beati",
+        "row": 0,
+        "col": 6,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 10,
+        "clue": "Nome in sumero del dio-Sole Shamash",
+        "row": 2,
+        "col": 3,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 13,
+        "clue": "Un giovane tecnologo",
+        "row": 3,
+        "col": 5,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 17,
+        "clue": "Poco affine",
+        "row": 5,
+        "col": 1,
+        "length": 2,
+        "direction": "down"
+      }
+    ]
+  }
+}

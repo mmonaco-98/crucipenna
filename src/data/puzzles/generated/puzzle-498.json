@@ -1,0 +1,808 @@
+{
+  "id": "498",
+  "title": "Puzzle 498",
+  "size": {
+    "rows": 13,
+    "cols": 13
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "#",
+      "#",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "#",
+      "",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "#",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "",
+      "#",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "#",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "#",
+      "#",
+      "#",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "H",
+      "W",
+      "#",
+      "A",
+      "B",
+      "B",
+      "U",
+      "F",
+      "F",
+      "A",
+      "T",
+      "A",
+      "#"
+    ],
+    [
+      "E",
+      "A",
+      "R",
+      "L",
+      "#",
+      "#",
+      "#",
+      "L",
+      "O",
+      "#",
+      "U",
+      "M",
+      "A"
+    ],
+    [
+      "I",
+      "T",
+      "A",
+      "M",
+      "I",
+      "#",
+      "#",
+      "A",
+      "T",
+      "E",
+      "R",
+      "N",
+      "O"
+    ],
+    [
+      "#",
+      "E",
+      "N",
+      "A",
+      "L",
+      "O",
+      "T",
+      "T",
+      "O",
+      "#",
+      "A",
+      "#",
+      "S"
+    ],
+    [
+      "#",
+      "R",
+      "#",
+      "N",
+      "A",
+      "V",
+      "I",
+      "#",
+      "#",
+      "T",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "U",
+      "L",
+      "N",
+      "A",
+      "R",
+      "I",
+      "#",
+      "S",
+      "P",
+      "E",
+      "L",
+      "E",
+      "O"
+    ],
+    [
+      "#",
+      "O",
+      "R",
+      "C",
+      "I",
+      "#",
+      "#",
+      "#",
+      "I",
+      "R",
+      "I",
+      "S",
+      "#"
+    ],
+    [
+      "L",
+      "O",
+      "N",
+      "C",
+      "A",
+      "R",
+      "#",
+      "T",
+      "E",
+      "M",
+      "U",
+      "T",
+      "O"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "O",
+      "#",
+      "#",
+      "C",
+      "E",
+      "T",
+      "O",
+      "#",
+      "R",
+      "#"
+    ],
+    [
+      "P",
+      "#",
+      "A",
+      "#",
+      "E",
+      "F",
+      "E",
+      "D",
+      "R",
+      "I",
+      "N",
+      "A",
+      "#"
+    ],
+    [
+      "A",
+      "S",
+      "C",
+      "A",
+      "R",
+      "I",
+      "#",
+      "#",
+      "A",
+      "O",
+      "S",
+      "T",
+      "A"
+    ],
+    [
+      "F",
+      "U",
+      "R",
+      "#",
+      "M",
+      "J",
+      "#",
+      "#",
+      "#",
+      "N",
+      "U",
+      "T",
+      "I"
+    ],
+    [
+      "#",
+      "P",
+      "O",
+      "S",
+      "E",
+      "I",
+      "D",
+      "O",
+      "N",
+      "E",
+      "#",
+      "I",
+      "L"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Sono pari nello show",
+        "row": 0,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 3,
+        "clue": "Una solenne mangiata",
+        "row": 0,
+        "col": 3,
+        "length": 9,
+        "direction": "across"
+      },
+      {
+        "number": 12,
+        "clue": "Hines pianista jazz",
+        "row": 1,
+        "col": 0,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 14,
+        "clue": "Laurence Olivier",
+        "row": 1,
+        "col": 7,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 15,
+        "clue": "La Thurman di \"Kill Bill\".",
+        "row": 1,
+        "col": 10,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 17,
+        "clue": "Città del Giappone",
+        "row": 2,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 19,
+        "clue": "Fiume dell'Abruzzo",
+        "row": 2,
+        "col": 7,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 21,
+        "clue": "Schedina con le ruote",
+        "row": 3,
+        "col": 1,
+        "length": 8,
+        "direction": "across"
+      },
+      {
+        "number": 27,
+        "clue": "Alcune hanno più ponti",
+        "row": 4,
+        "col": 3,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 29,
+        "clue": "Che riguardano un osso dell'avambraccio",
+        "row": 5,
+        "col": 0,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 31,
+        "clue": "Le caverne nei prefissi",
+        "row": 5,
+        "col": 7,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 36,
+        "clue": "Grossi vasi per l'olio",
+        "row": 6,
+        "col": 1,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 37,
+        "clue": "Opera musicata da Mascagni",
+        "row": 6,
+        "col": 8,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 38,
+        "clue": "Beba del filmGli uccisori",
+        "row": 7,
+        "col": 0,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 40,
+        "clue": "Lo è un tale che mette paura",
+        "row": 7,
+        "col": 7,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 43,
+        "clue": "Classe a cui appartenere",
+        "row": 8,
+        "col": 6,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 47,
+        "clue": "Un alcaloide usato nella cura dell'asma",
+        "row": 9,
+        "col": 4,
+        "length": 8,
+        "direction": "across"
+      },
+      {
+        "number": 50,
+        "clue": "Soldati indigeni delle ex colonie italiane",
+        "row": 10,
+        "col": 0,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 53,
+        "clue": "La provincia di Cervinia",
+        "row": 10,
+        "col": 8,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 55,
+        "clue": "Popolo e lingua del Sudan",
+        "row": 11,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 56,
+        "clue": "Il Jackson di Thriller (iniz.)",
+        "row": 11,
+        "col": 4,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 57,
+        "clue": "Un popolare Francesco del cinema italiano",
+        "row": 11,
+        "col": 9,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 58,
+        "clue": "Il padre di Polifemo",
+        "row": 12,
+        "col": 1,
+        "length": 9,
+        "direction": "across"
+      },
+      {
+        "number": 63,
+        "clue": "Nei film e nei serial",
+        "row": 12,
+        "col": 11,
+        "length": 2,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Un grido di richiamo",
+        "row": 0,
+        "col": 0,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Storica battaglia dell'800",
+        "row": 0,
+        "col": 1,
+        "length": 8,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Una pubblicazione annuale",
+        "row": 0,
+        "col": 3,
+        "length": 9,
+        "direction": "down"
+      },
+      {
+        "number": 7,
+        "clue": "Una tariffa telefonica",
+        "row": 0,
+        "col": 7,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 8,
+        "clue": "Si ottiene scattando",
+        "row": 0,
+        "col": 8,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 10,
+        "clue": "Cosmè, pittore della scuola ferrarese",
+        "row": 0,
+        "col": 10,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 11,
+        "clue": "Associazione Modellisti Navali (sigla)",
+        "row": 0,
+        "col": 11,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 13,
+        "clue": "Una celebre pellicola di Akira Kurosawa",
+        "row": 1,
+        "col": 2,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 16,
+        "clue": "La colonia africana della Spagna (sigla)",
+        "row": 1,
+        "col": 12,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 18,
+        "clue": "Quella Del Carretto è sepolta nella cattedrale di Lucca",
+        "row": 2,
+        "col": 4,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 22,
+        "clue": "Primo elemnto nei composti per uovo",
+        "row": 3,
+        "col": 5,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 23,
+        "clue": "Ne hanno due i tiranti",
+        "row": 3,
+        "col": 6,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 28,
+        "clue": "Elemento chimico emesso da un corpo riscaldato",
+        "row": 4,
+        "col": 9,
+        "length": 9,
+        "direction": "down"
+      },
+      {
+        "number": 30,
+        "clue": "No Reply Necessary (sigla)",
+        "row": 5,
+        "col": 2,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 32,
+        "clue": "C'è anche quella dello scandalo",
+        "row": 5,
+        "col": 8,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 33,
+        "clue": "Muore per Calaf",
+        "row": 5,
+        "col": 10,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 34,
+        "clue": "Estirpati dal dentista",
+        "row": 5,
+        "col": 11,
+        "length": 8,
+        "direction": "down"
+      },
+      {
+        "number": 40,
+        "clue": "Un famoso format e marchio di conferenze tecnologiche",
+        "row": 7,
+        "col": 7,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 43,
+        "clue": "Sono in fondo al vortice",
+        "row": 8,
+        "col": 6,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 45,
+        "clue": "Il suono dello schiaffo",
+        "row": 9,
+        "col": 0,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 46,
+        "clue": "Misura anglosassone di superficie",
+        "row": 9,
+        "col": 2,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 47,
+        "clue": "Lastra tombale",
+        "row": 9,
+        "col": 4,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 48,
+        "clue": "Le isole di una repubblica oceaniana",
+        "row": 9,
+        "col": 5,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 49,
+        "clue": "Marca d'auto tedesca",
+        "row": 9,
+        "col": 10,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 51,
+        "clue": "Superiore (abbr.)",
+        "row": 10,
+        "col": 1,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 54,
+        "clue": "Armata Italiana della Libertà (sigla).",
+        "row": 10,
+        "col": 12,
+        "length": 3,
+        "direction": "down"
+      }
+    ]
+  }
+}

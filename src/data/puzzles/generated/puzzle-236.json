@@ -1,0 +1,168 @@
+{
+  "id": "236",
+  "title": "Puzzle 236",
+  "size": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "L",
+      "O",
+      "G",
+      "#",
+      "B"
+    ],
+    [
+      "E",
+      "N",
+      "N",
+      "I",
+      "O"
+    ],
+    [
+      "E",
+      "D",
+      "O",
+      "N",
+      "I"
+    ],
+    [
+      "D",
+      "A",
+      "M",
+      "O",
+      "N"
+    ],
+    [
+      "S",
+      "#",
+      "E",
+      "X",
+      "E"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Logaritmo abbr.",
+        "row": 0,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 5,
+        "clue": "Il nome di Flaiano",
+        "row": 1,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "clue": "Antica popolazione tracica stanziata lungo il basso corso dello Strimone",
+        "row": 2,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "Un Matt di Hollywood",
+        "row": 3,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "Un formato per file \"eseguibili\" (sigla)",
+        "row": 4,
+        "col": 2,
+        "length": 3,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Città del Regno Unito",
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Si cavalca con il surf",
+        "row": 0,
+        "col": 1,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Breve frase concettosa",
+        "row": 0,
+        "col": 2,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Un Giovanni scrittore ligure",
+        "row": 0,
+        "col": 4,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Esente da ruggini",
+        "row": 1,
+        "col": 3,
+        "length": 4,
+        "direction": "down"
+      }
+    ]
+  }
+}

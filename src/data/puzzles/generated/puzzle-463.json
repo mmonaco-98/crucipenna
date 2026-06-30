@@ -1,0 +1,440 @@
+{
+  "id": "463",
+  "title": "Puzzle 463",
+  "size": {
+    "rows": 9,
+    "cols": 9
+  },
+  "grid": [
+    [
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "#",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "P",
+      "#",
+      "A",
+      "S",
+      "I",
+      "N",
+      "E",
+      "#",
+      "I"
+    ],
+    [
+      "A",
+      "V",
+      "I",
+      "T",
+      "I",
+      "#",
+      "#",
+      "O",
+      "V"
+    ],
+    [
+      "Z",
+      "E",
+      "R",
+      "I",
+      "#",
+      "M",
+      "A",
+      "T",
+      "A"
+    ],
+    [
+      "#",
+      "S",
+      "#",
+      "M",
+      "I",
+      "C",
+      "R",
+      "O",
+      "N"
+    ],
+    [
+      "#",
+      "P",
+      "I",
+      "O",
+      "N",
+      "E",
+      "E",
+      "R",
+      "#"
+    ],
+    [
+      "B",
+      "A",
+      "L",
+      "L",
+      "O",
+      "N",
+      "#",
+      "R",
+      "#"
+    ],
+    [
+      "R",
+      "I",
+      "S",
+      "O",
+      "#",
+      "R",
+      "E",
+      "E",
+      "F"
+    ],
+    [
+      "I",
+      "O",
+      "#",
+      "#",
+      "S",
+      "O",
+      "N",
+      "A",
+      "R"
+    ],
+    [
+      "L",
+      "#",
+      "E",
+      "T",
+      "N",
+      "E",
+      "O",
+      "#",
+      "Y"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 2,
+        "clue": "Fornivano il latte per il bagno di Poppea",
+        "row": 0,
+        "col": 2,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "Relativi agli antenati",
+        "row": 1,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "Così comincia l' ovvio",
+        "row": 1,
+        "col": 7,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 11,
+        "clue": "Non contano dopo la virgola",
+        "row": 2,
+        "col": 0,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 12,
+        "clue": "La famosa Ilari",
+        "row": 2,
+        "col": 5,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 15,
+        "clue": "Un miliardesimo di km",
+        "row": 3,
+        "col": 3,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 17,
+        "clue": "Sonde spaziali Usa",
+        "row": 4,
+        "col": 1,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 19,
+        "clue": "É noto quello d'essai",
+        "row": 5,
+        "col": 0,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 21,
+        "clue": "Pianta delle Graminacee",
+        "row": 6,
+        "col": 0,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 22,
+        "clue": "La barriera corallina",
+        "row": 6,
+        "col": 5,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 25,
+        "clue": "Il singolare di noi",
+        "row": 7,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 26,
+        "clue": "Funziona sott' acqua",
+        "row": 7,
+        "col": 4,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 28,
+        "clue": "Proprio del Mongibello",
+        "row": 8,
+        "col": 2,
+        "length": 5,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Octavio poeta e saggista messicano",
+        "row": 0,
+        "col": 0,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Massiccio del Sahara",
+        "row": 0,
+        "col": 2,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Incentivo",
+        "row": 0,
+        "col": 3,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Miti senza consonanti",
+        "row": 0,
+        "col": 4,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 7,
+        "clue": "Il Bunin scrittore tra i premi Nobel",
+        "row": 0,
+        "col": 8,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 9,
+        "clue": "Un nido... ronzante",
+        "row": 1,
+        "col": 1,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 10,
+        "clue": "Esce dalle orecchie",
+        "row": 1,
+        "col": 7,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 12,
+        "clue": "John famoso tennista americano",
+        "row": 2,
+        "col": 5,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 13,
+        "clue": "Superfici agrarie",
+        "row": 2,
+        "col": 6,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 16,
+        "clue": "Figlia di Cadmo",
+        "row": 3,
+        "col": 4,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 18,
+        "clue": "Essi in Francia",
+        "row": 4,
+        "col": 2,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 19,
+        "clue": "Paul pittore fiammingo",
+        "row": 5,
+        "col": 0,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 23,
+        "clue": "La... teca con le bottiglie",
+        "row": 6,
+        "col": 6,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 24,
+        "clue": "Uno Stephen attore",
+        "row": 6,
+        "col": 8,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 26,
+        "clue": "Sinistra in breve",
+        "row": 7,
+        "col": 4,
+        "length": 2,
+        "direction": "down"
+      }
+    ]
+  }
+}

@@ -1,0 +1,304 @@
+{
+  "id": "385",
+  "title": "Puzzle 385",
+  "size": {
+    "rows": 7,
+    "cols": 7
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "I",
+      "J",
+      "#",
+      "B",
+      "O",
+      "A",
+      "C"
+    ],
+    [
+      "N",
+      "O",
+      "R",
+      "I",
+      "#",
+      "R",
+      "R"
+    ],
+    [
+      "S",
+      "N",
+      "I",
+      "D",
+      "A",
+      "R",
+      "E"
+    ],
+    [
+      "I",
+      "#",
+      "O",
+      "E",
+      "D",
+      "#",
+      "S"
+    ],
+    [
+      "G",
+      "A",
+      "S",
+      "L",
+      "I",
+      "N",
+      "I"
+    ],
+    [
+      "N",
+      "B",
+      "#",
+      "L",
+      "C",
+      "D",
+      "M"
+    ],
+    [
+      "I",
+      "E",
+      "L",
+      "O",
+      "#",
+      "A",
+      "A"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Le sorelle della Y",
+        "row": 0,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 3,
+        "clue": "Era la sigla di una compagnia aerea inglese",
+        "row": 0,
+        "col": 3,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "clue": "Paolo __, scrittore emiliano",
+        "row": 1,
+        "col": 0,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "Sono doppie in frontiera",
+        "row": 1,
+        "col": 5,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "Stanare, trovare",
+        "row": 2,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 13,
+        "clue": "Oxford English Dictionnary (sigla)",
+        "row": 3,
+        "col": 2,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 15,
+        "clue": "Giorgio del jazz",
+        "row": 4,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 18,
+        "clue": "Abbreviazione epistolare",
+        "row": 5,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 19,
+        "clue": "É passato dalle auto ai treni e agli aerei (iniz.)",
+        "row": 5,
+        "col": 3,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 20,
+        "clue": "È stato fra i magistrati di Mani Pulite",
+        "row": 6,
+        "col": 0,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 22,
+        "clue": "Contengono l'Arizona",
+        "row": 6,
+        "col": 5,
+        "length": 2,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Emeriti",
+        "row": 0,
+        "col": 0,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Voight, interprete con Dustin Hoffman di \"Un uomo da marciaiede\"",
+        "row": 0,
+        "col": 1,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Un factotum del liceo",
+        "row": 0,
+        "col": 3,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Arrivo",
+        "row": 0,
+        "col": 5,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Si chiama anche confermazione",
+        "row": 0,
+        "col": 6,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 8,
+        "clue": "Marcelo del tennis",
+        "row": 1,
+        "col": 2,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 11,
+        "clue": "In mezzo alla radice",
+        "row": 2,
+        "col": 4,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 16,
+        "clue": "Shinzo ____, ex Primo Ministro giapponese",
+        "row": 4,
+        "col": 1,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 17,
+        "clue": "L'Autore l'aggiunge per chiarire (sigla)",
+        "row": 4,
+        "col": 5,
+        "length": 3,
+        "direction": "down"
+      }
+    ]
+  }
+}

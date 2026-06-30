@@ -1,0 +1,288 @@
+{
+  "id": "399",
+  "title": "Puzzle 399",
+  "size": {
+    "rows": 7,
+    "cols": 7
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "U",
+      "T",
+      "#",
+      "E",
+      "P",
+      "O",
+      "S"
+    ],
+    [
+      "T",
+      "Z",
+      "I",
+      "G",
+      "A",
+      "N",
+      "I"
+    ],
+    [
+      "O",
+      "#",
+      "O",
+      "R",
+      "G",
+      "#",
+      "D"
+    ],
+    [
+      "P",
+      "I",
+      "N",
+      "E",
+      "A",
+      "L",
+      "E"
+    ],
+    [
+      "I",
+      "#",
+      "O",
+      "T",
+      "T",
+      "#",
+      "C"
+    ],
+    [
+      "C",
+      "I",
+      "N",
+      "T",
+      "O",
+      "L",
+      "A"
+    ],
+    [
+      "A",
+      "T",
+      "E",
+      "A",
+      "#",
+      "O",
+      "R"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Gli estremi di un uppercut",
+        "row": 0,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 3,
+        "clue": "Poema eroico greco",
+        "row": 0,
+        "col": 3,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "clue": "Zingari ungheresi",
+        "row": 1,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "Organizzazione tra le sigle",
+        "row": 2,
+        "col": 2,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 12,
+        "clue": "La ghiandola detta epifisi",
+        "row": 3,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 16,
+        "clue": "Dopo set e prima di nov",
+        "row": 4,
+        "col": 2,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 18,
+        "clue": "Regge i pantaloni in vita",
+        "row": 5,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 21,
+        "clue": "Negatrice di Dio",
+        "row": 6,
+        "col": 0,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 22,
+        "clue": "É quasi ora!",
+        "row": 6,
+        "col": 5,
+        "length": 2,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Assolutamente chimerica",
+        "row": 0,
+        "col": 0,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "La stanza... meno sana",
+        "row": 0,
+        "col": 1,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "L'airone che forniva le piume per i pennacchi",
+        "row": 0,
+        "col": 3,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Saldato... senza saldatura",
+        "row": 0,
+        "col": 4,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Si oppone a OFF",
+        "row": 0,
+        "col": 5,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Il terzo posto in moto",
+        "row": 0,
+        "col": 6,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 8,
+        "clue": "Il profumo sintetico della violetta",
+        "row": 1,
+        "col": 2,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 19,
+        "clue": "Un noto romanzo di Stephen King",
+        "row": 5,
+        "col": 1,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 20,
+        "clue": "Filone senza fine",
+        "row": 5,
+        "col": 5,
+        "length": 2,
+        "direction": "down"
+      }
+    ]
+  }
+}

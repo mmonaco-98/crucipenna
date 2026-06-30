@@ -1,0 +1,640 @@
+{
+  "id": "479",
+  "title": "Puzzle 479",
+  "size": {
+    "rows": 11,
+    "cols": 11
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "#",
+      "",
+      "#",
+      "#",
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "#",
+      "",
+      "#",
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "#",
+      "",
+      "#",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "#",
+      "#",
+      "",
+      "#",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "D",
+      "I",
+      "#",
+      "H",
+      "#",
+      "#",
+      "S",
+      "N",
+      "#",
+      "R",
+      "T"
+    ],
+    [
+      "#",
+      "G",
+      "A",
+      "M",
+      "E",
+      "#",
+      "E",
+      "#",
+      "T",
+      "I",
+      "D"
+    ],
+    [
+      "#",
+      "T",
+      "C",
+      "#",
+      "M",
+      "#",
+      "C",
+      "L",
+      "#",
+      "F",
+      "I"
+    ],
+    [
+      "S",
+      "#",
+      "I",
+      "S",
+      "O",
+      "S",
+      "C",
+      "E",
+      "L",
+      "I",
+      "#"
+    ],
+    [
+      "T",
+      "E",
+      "D",
+      "E",
+      "S",
+      "C",
+      "A",
+      "#",
+      "A",
+      "U",
+      "#"
+    ],
+    [
+      "A",
+      "D",
+      "A",
+      "T",
+      "T",
+      "A",
+      "M",
+      "E",
+      "N",
+      "T",
+      "O"
+    ],
+    [
+      "#",
+      "W",
+      "R",
+      "#",
+      "A",
+      "L",
+      "E",
+      "S",
+      "S",
+      "I",
+      "O"
+    ],
+    [
+      "#",
+      "A",
+      "I",
+      "U",
+      "T",
+      "A",
+      "N",
+      "T",
+      "I",
+      "#",
+      "S"
+    ],
+    [
+      "M",
+      "R",
+      "#",
+      "X",
+      "I",
+      "#",
+      "T",
+      "#",
+      "N",
+      "I",
+      "#"
+    ],
+    [
+      "G",
+      "D",
+      "A",
+      "#",
+      "C",
+      "#",
+      "E",
+      "R",
+      "G",
+      "O",
+      "#"
+    ],
+    [
+      "C",
+      "S",
+      "#",
+      "A",
+      "O",
+      "#",
+      "#",
+      "Q",
+      "#",
+      "C",
+      "V"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "La parte illuminata del giorno",
+        "row": 0,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 4,
+        "clue": "Sono senza le vocali",
+        "row": 0,
+        "col": 6,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 6,
+        "clue": "Tanica degli Elii (iniz.)",
+        "row": 0,
+        "col": 9,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "Una frazione del set tennistico",
+        "row": 1,
+        "col": 1,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 12,
+        "clue": "Ter in die (tre volte al giorno, abbr.)",
+        "row": 1,
+        "col": 8,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 13,
+        "clue": "Tom Cruise",
+        "row": 2,
+        "col": 1,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 15,
+        "clue": "Il 150 in cifre romane",
+        "row": 2,
+        "col": 6,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 17,
+        "clue": "Prime in finale",
+        "row": 2,
+        "col": 9,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 19,
+        "clue": "Possono esserlo anche i triangoli",
+        "row": 3,
+        "col": 2,
+        "length": 8,
+        "direction": "across"
+      },
+      {
+        "number": 23,
+        "clue": "Lo era, per nascita, la zarina Caterina la Grande",
+        "row": 4,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 25,
+        "clue": "Poco autoritario",
+        "row": 4,
+        "col": 8,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 26,
+        "clue": "La rielaborazione di un'opera letteraria in vista di una rappresentazione scenica",
+        "row": 5,
+        "col": 0,
+        "length": 11,
+        "direction": "across"
+      },
+      {
+        "number": 29,
+        "clue": "Gli estremi di Wagner",
+        "row": 6,
+        "col": 1,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 30,
+        "clue": "Il Boni del cinema",
+        "row": 6,
+        "col": 4,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 31,
+        "clue": "Assistono in un'attività",
+        "row": 7,
+        "col": 1,
+        "length": 8,
+        "direction": "across"
+      },
+      {
+        "number": 34,
+        "clue": "Iniziali del cantante Reitano",
+        "row": 8,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 35,
+        "clue": "Undici vecchi romani",
+        "row": 8,
+        "col": 3,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 37,
+        "clue": "Il simbolo chimico del nichelio",
+        "row": 8,
+        "col": 8,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 39,
+        "clue": "Gioco d' Azzardo",
+        "row": 9,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 42,
+        "clue": "Un dunque latino",
+        "row": 9,
+        "col": 6,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 44,
+        "clue": "Casa senza eguali",
+        "row": 10,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 45,
+        "clue": "I confini di Auronzo",
+        "row": 10,
+        "col": 3,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 47,
+        "clue": "Cavallo Vapore",
+        "row": 10,
+        "col": 9,
+        "length": 2,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 2,
+        "clue": "Indicazione Geografica Tipica (sigla)",
+        "row": 0,
+        "col": 1,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Iniziali di Matisse",
+        "row": 0,
+        "col": 3,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Un modo brusco di rispondere",
+        "row": 0,
+        "col": 6,
+        "length": 10,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "A volte il loro smaltimento è un problema",
+        "row": 0,
+        "col": 9,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 7,
+        "clue": "Turbo Diesel Intercooler",
+        "row": 0,
+        "col": 10,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 9,
+        "clue": "I berretti dei dogi",
+        "row": 1,
+        "col": 2,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 10,
+        "clue": "Il laccio usato nei prelievi di sangue",
+        "row": 1,
+        "col": 4,
+        "length": 10,
+        "direction": "down"
+      },
+      {
+        "number": 16,
+        "clue": "L'ultimo pezzo del puzzle",
+        "row": 2,
+        "col": 7,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 18,
+        "clue": "Vale come questa",
+        "row": 3,
+        "col": 0,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 20,
+        "clue": "Una partita disputata con le racchette",
+        "row": 3,
+        "col": 3,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 21,
+        "clue": "Successione ordinata di suoni",
+        "row": 3,
+        "col": 5,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 22,
+        "clue": "La capitale del Michigan",
+        "row": 3,
+        "col": 8,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 24,
+        "clue": "Blake della comicità",
+        "row": 4,
+        "col": 1,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 27,
+        "clue": "É la culla del sole",
+        "row": 5,
+        "col": 7,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 28,
+        "clue": "Out of Service (sigla)",
+        "row": 5,
+        "col": 10,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 32,
+        "clue": "Le ultime di Linux",
+        "row": 7,
+        "col": 3,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 34,
+        "clue": "Cucinotta attrice (iniz.)",
+        "row": 8,
+        "col": 0,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 38,
+        "clue": "International Olympic Committee",
+        "row": 8,
+        "col": 9,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 43,
+        "clue": "Prima e terza di Raquel",
+        "row": 9,
+        "col": 7,
+        "length": 2,
+        "direction": "down"
+      }
+    ]
+  }
+}

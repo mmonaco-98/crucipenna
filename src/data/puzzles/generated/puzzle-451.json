@@ -1,0 +1,440 @@
+{
+  "id": "451",
+  "title": "Puzzle 451",
+  "size": {
+    "rows": 9,
+    "cols": 9
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "#",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      "#",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      "#",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "G",
+      "B",
+      "#",
+      "B",
+      "E",
+      "A",
+      "T",
+      "O",
+      "#"
+    ],
+    [
+      "I",
+      "#",
+      "A",
+      "A",
+      "A",
+      "#",
+      "E",
+      "N",
+      "Z"
+    ],
+    [
+      "L",
+      "A",
+      "M",
+      "B",
+      "R",
+      "U",
+      "S",
+      "C",
+      "O"
+    ],
+    [
+      "#",
+      "S",
+      "A",
+      "A",
+      "#",
+      "#",
+      "T",
+      "I",
+      "O"
+    ],
+    [
+      "U",
+      "S",
+      "R",
+      "#",
+      "#",
+      "#",
+      "A",
+      "A",
+      "M"
+    ],
+    [
+      "N",
+      "U",
+      "I",
+      "#",
+      "#",
+      "S",
+      "R",
+      "L",
+      "#"
+    ],
+    [
+      "T",
+      "E",
+      "L",
+      "E",
+      "V",
+      "I",
+      "D",
+      "E",
+      "O"
+    ],
+    [
+      "O",
+      "R",
+      "L",
+      "#",
+      "I",
+      "T",
+      "A",
+      "#",
+      "U"
+    ],
+    [
+      "#",
+      "O",
+      "I",
+      "D",
+      "I",
+      "O",
+      "#",
+      "R",
+      "I"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Iniziali di Bartali",
+        "row": 0,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 3,
+        "clue": "Il pittore... Angelico",
+        "row": 0,
+        "col": 3,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "E' l'inizio di molti annunci!",
+        "row": 1,
+        "col": 2,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "Fiume del Württemberg",
+        "row": 1,
+        "col": 6,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 12,
+        "clue": "Noto vino modenese",
+        "row": 2,
+        "col": 0,
+        "length": 9,
+        "direction": "across"
+      },
+      {
+        "number": 15,
+        "clue": "La sigla delle linee aeree sudafricane",
+        "row": 3,
+        "col": 1,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 16,
+        "clue": "Il prefisso dello zolfo",
+        "row": 3,
+        "col": 6,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 17,
+        "clue": "Ufficio Scolastico Regionale",
+        "row": 4,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 18,
+        "clue": "Missile Aria-Aria",
+        "row": 4,
+        "col": 6,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 19,
+        "clue": "Rapa di Pasqua",
+        "row": 5,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 20,
+        "clue": "Società a Responsabilità Limitata",
+        "row": 5,
+        "col": 5,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 21,
+        "clue": "Lo ha scritto la tv",
+        "row": 6,
+        "col": 0,
+        "length": 9,
+        "direction": "across"
+      },
+      {
+        "number": 25,
+        "clue": "OtoRinoLaringoiatria (sigla)",
+        "row": 7,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 26,
+        "clue": "Andata all'uso antico",
+        "row": 7,
+        "col": 4,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 28,
+        "clue": "Parassita della vite",
+        "row": 8,
+        "col": 1,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 30,
+        "clue": "Sono doppie nei rinfreschi",
+        "row": 8,
+        "col": 7,
+        "length": 2,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Il Don \"dalle calze verdi\" di Tirso da Molina",
+        "row": 0,
+        "col": 0,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Un dolce al rum",
+        "row": 0,
+        "col": 3,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "L'orecchio degli Inglesi",
+        "row": 0,
+        "col": 4,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Ostinata, cocciuta",
+        "row": 0,
+        "col": 6,
+        "length": 8,
+        "direction": "down"
+      },
+      {
+        "number": 7,
+        "clue": "Antico tipo di scrittura",
+        "row": 0,
+        "col": 7,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 9,
+        "clue": "Erbacea con grandi fiori a calice",
+        "row": 1,
+        "col": 2,
+        "length": 8,
+        "direction": "down"
+      },
+      {
+        "number": 11,
+        "clue": "Applicazione informatica per videoconferenze",
+        "row": 1,
+        "col": 8,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 13,
+        "clue": "Il re persiano che sposò Ester",
+        "row": 2,
+        "col": 1,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 17,
+        "clue": "Intriso di grasso",
+        "row": 4,
+        "col": 0,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 20,
+        "clue": "Lo si visita su Internet",
+        "row": 5,
+        "col": 5,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 23,
+        "clue": "Sette dei Romani",
+        "row": 6,
+        "col": 4,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 24,
+        "clue": "Sì, mon ami",
+        "row": 6,
+        "col": 8,
+        "length": 3,
+        "direction": "down"
+      }
+    ]
+  }
+}

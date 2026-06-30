@@ -1,0 +1,288 @@
+{
+  "id": "337",
+  "title": "Puzzle 337",
+  "size": {
+    "rows": 7,
+    "cols": 7
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "#",
+      "#",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "I",
+      "S",
+      "O",
+      "T",
+      "O",
+      "P",
+      "O"
+    ],
+    [
+      "N",
+      "A",
+      "M",
+      "#",
+      "D",
+      "A",
+      "R"
+    ],
+    [
+      "S",
+      "N",
+      "I",
+      "D",
+      "A",
+      "T",
+      "I"
+    ],
+    [
+      "O",
+      "J",
+      "#",
+      "#",
+      "#",
+      "R",
+      "N"
+    ],
+    [
+      "N",
+      "O",
+      "V",
+      "I",
+      "Z",
+      "I",
+      "O"
+    ],
+    [
+      "N",
+      "S",
+      "C",
+      "#",
+      "I",
+      "O",
+      "C"
+    ],
+    [
+      "I",
+      "E",
+      "L",
+      "L",
+      "A",
+      "T",
+      "O"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Una \" variante\" di un elemento chimico",
+        "row": 0,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "Poiché... in latino",
+        "row": 1,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "Assegnar, recapitar",
+        "row": 1,
+        "col": 4,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "Stanati",
+        "row": 2,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 12,
+        "clue": "Le iniziali di un famigerato Simpson",
+        "row": 3,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 13,
+        "clue": "Targa della Romania",
+        "row": 3,
+        "col": 5,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 14,
+        "clue": "Monaco in erba",
+        "row": 4,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 18,
+        "clue": "Il Consiglio di Sicurezza Nazionale americano (sigla)",
+        "row": 5,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 19,
+        "clue": "International Olympic Committee",
+        "row": 5,
+        "col": 4,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 20,
+        "clue": "Molto sfortunato",
+        "row": 6,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Trascorrono la notte in bianco",
+        "row": 0,
+        "col": 0,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "La capitale della Costa Rica",
+        "row": 0,
+        "col": 1,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Organizzazione Marittima Internazionale",
+        "row": 0,
+        "col": 2,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Opera Diocesana di Assistenza",
+        "row": 0,
+        "col": 4,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Intercettavano gli Scud durante la \"guerra del Golfo\"",
+        "row": 0,
+        "col": 5,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 7,
+        "clue": "Grande fiume del Sud America",
+        "row": 0,
+        "col": 6,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 15,
+        "clue": "Vinilcloruro simbolo",
+        "row": 4,
+        "col": 2,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 17,
+        "clue": "Mamma dei cugini",
+        "row": 4,
+        "col": 4,
+        "length": 3,
+        "direction": "down"
+      }
+    ]
+  }
+}

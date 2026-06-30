@@ -1,0 +1,288 @@
+{
+  "id": "415",
+  "title": "Puzzle 415",
+  "size": {
+    "rows": 7,
+    "cols": 7
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "Q",
+      "U",
+      "E",
+      "S",
+      "T",
+      "U",
+      "E"
+    ],
+    [
+      "L",
+      "I",
+      "Q",
+      "U",
+      "O",
+      "R",
+      "E"
+    ],
+    [
+      "#",
+      "S",
+      "#",
+      "P",
+      "U",
+      "L",
+      "E"
+    ],
+    [
+      "#",
+      "T",
+      "E",
+      "R",
+      "R",
+      "A",
+      "#"
+    ],
+    [
+      "L",
+      "I",
+      "R",
+      "E",
+      "#",
+      "N",
+      "#"
+    ],
+    [
+      "S",
+      "T",
+      "I",
+      "M",
+      "A",
+      "T",
+      "E"
+    ],
+    [
+      "C",
+      "I",
+      "C",
+      "A",
+      "L",
+      "I",
+      "I"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Richieste pubbliche di denaro",
+        "row": 0,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "Lo è un superalcolico",
+        "row": 1,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "Le... bucce del frumento",
+        "row": 2,
+        "col": 3,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 11,
+        "clue": "Il nostro mondo",
+        "row": 3,
+        "col": 1,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 13,
+        "clue": "Le ha ritirate la Banca d'Italia",
+        "row": 4,
+        "col": 0,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 15,
+        "clue": "Tenute in gran conto",
+        "row": 5,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 18,
+        "clue": "Chiacchiericci insistenti",
+        "row": 6,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Le consonanti dell'aquila",
+        "row": 0,
+        "col": 0,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Piccola scimmia arboricola americana",
+        "row": 0,
+        "col": 1,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Le prime in equitazione",
+        "row": 0,
+        "col": 2,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Posta più in alto di tutto",
+        "row": 0,
+        "col": 3,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Chi vince quello de France ha la maglia gialla",
+        "row": 0,
+        "col": 4,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Lo sono i tifosi più accesi subito dopo un gol",
+        "row": 0,
+        "col": 5,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 7,
+        "clue": "Famoso poema di Esiodo",
+        "row": 0,
+        "col": 6,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 12,
+        "clue": "Il Clapton della musica",
+        "row": 3,
+        "col": 2,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 13,
+        "clue": "Legge sullo Stato Civile",
+        "row": 4,
+        "col": 0,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 16,
+        "clue": "Il Pacino che ha interpretato \"Serpico\"",
+        "row": 5,
+        "col": 4,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 17,
+        "clue": "Per i meli e per i peri",
+        "row": 5,
+        "col": 6,
+        "length": 2,
+        "direction": "down"
+      }
+    ]
+  }
+}

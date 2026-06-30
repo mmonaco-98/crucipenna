@@ -1,0 +1,408 @@
+{
+  "id": "460",
+  "title": "Puzzle 460",
+  "size": {
+    "rows": 9,
+    "cols": 9
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "#",
+      "",
+      "#",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      "#",
+      "",
+      "#",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "A",
+      "N",
+      "D",
+      "E",
+      "R",
+      "S",
+      "S",
+      "O",
+      "N"
+    ],
+    [
+      "S",
+      "#",
+      "#",
+      "S",
+      "#",
+      "#",
+      "A",
+      "L",
+      "U"
+    ],
+    [
+      "I",
+      "N",
+      "D",
+      "U",
+      "I",
+      "S",
+      "M",
+      "O",
+      "#"
+    ],
+    [
+      "L",
+      "U",
+      "#",
+      "B",
+      "L",
+      "O",
+      "O",
+      "M",
+      "#"
+    ],
+    [
+      "O",
+      "R",
+      "G",
+      "E",
+      "#",
+      "L",
+      "A",
+      "O",
+      "S"
+    ],
+    [
+      "#",
+      "A",
+      "E",
+      "R",
+      "E",
+      "A",
+      "#",
+      "U",
+      "N"
+    ],
+    [
+      "#",
+      "G",
+      "N",
+      "O",
+      "S",
+      "T",
+      "I",
+      "C",
+      "I"
+    ],
+    [
+      "E",
+      "H",
+      "I",
+      "#",
+      "#",
+      "I",
+      "#",
+      "#",
+      "P"
+    ],
+    [
+      "G",
+      "E",
+      "O",
+      "R",
+      "G",
+      "I",
+      "C",
+      "H",
+      "E"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "La Bibi attrice svedese",
+        "row": 0,
+        "col": 0,
+        "length": 9,
+        "direction": "across"
+      },
+      {
+        "number": 12,
+        "clue": "Al centro della scialuppa",
+        "row": 1,
+        "col": 6,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 13,
+        "clue": "Una religione",
+        "row": 2,
+        "col": 0,
+        "length": 8,
+        "direction": "across"
+      },
+      {
+        "number": 18,
+        "clue": "Rendono ludico ciò che dico",
+        "row": 3,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 19,
+        "clue": "La Claire di \"La spia che venne dal freddo\"",
+        "row": 3,
+        "col": 3,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 20,
+        "clue": "Festini per dissoluti",
+        "row": 4,
+        "col": 0,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 22,
+        "clue": "Uno stato asiatico",
+        "row": 4,
+        "col": 5,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 24,
+        "clue": "La flotta che vola",
+        "row": 5,
+        "col": 1,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 26,
+        "clue": "Articolo indeterminativo",
+        "row": 5,
+        "col": 7,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 27,
+        "clue": "I filosofi che perseguivano la perfetta conoscenza delle cose divine",
+        "row": 6,
+        "col": 1,
+        "length": 8,
+        "direction": "across"
+      },
+      {
+        "number": 29,
+        "clue": "Esclamazione di sorpresa",
+        "row": 7,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 32,
+        "clue": "Le scrisse Virgilio",
+        "row": 8,
+        "col": 0,
+        "length": 9,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Rifugio... anche politico",
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Eccedenza",
+        "row": 0,
+        "col": 3,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 7,
+        "clue": "Uno stato dell'Oceania",
+        "row": 0,
+        "col": 6,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 8,
+        "clue": "Città della Repubblica Ceca",
+        "row": 0,
+        "col": 7,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 9,
+        "clue": "Nazioni Unite",
+        "row": 0,
+        "col": 8,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 14,
+        "clue": "Antichissima costruzione sarda",
+        "row": 2,
+        "col": 1,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 16,
+        "clue": "In mezzo alla fila",
+        "row": 2,
+        "col": 4,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 17,
+        "clue": "Volti a mezzogiorno",
+        "row": 2,
+        "col": 5,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 21,
+        "clue": "Evoca la sregolatezza",
+        "row": 4,
+        "col": 2,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 23,
+        "clue": "Imbarcazione da regata detta anche \"beccaccino\"",
+        "row": 4,
+        "col": 8,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 25,
+        "clue": "Poco... estivo",
+        "row": 5,
+        "col": 4,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 29,
+        "clue": "Tra le pieghe",
+        "row": 7,
+        "col": 0,
+        "length": 2,
+        "direction": "down"
+      }
+    ]
+  }
+}

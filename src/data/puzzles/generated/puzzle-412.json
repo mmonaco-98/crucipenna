@@ -1,0 +1,272 @@
+{
+  "id": "412",
+  "title": "Puzzle 412",
+  "size": {
+    "rows": 7,
+    "cols": 7
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "#",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "I",
+      "R",
+      "I",
+      "A",
+      "R",
+      "T",
+      "E"
+    ],
+    [
+      "B",
+      "A",
+      "N",
+      "D",
+      "#",
+      "#",
+      "I"
+    ],
+    [
+      "M",
+      "A",
+      "T",
+      "R",
+      "I",
+      "C",
+      "E"
+    ],
+    [
+      "#",
+      "B",
+      "E",
+      "I",
+      "R",
+      "A",
+      "#"
+    ],
+    [
+      "T",
+      "E",
+      "R",
+      "A",
+      "P",
+      "I",
+      "E"
+    ],
+    [
+      "O",
+      "#",
+      "#",
+      "N",
+      "E",
+      "R",
+      "O"
+    ],
+    [
+      "B",
+      "I",
+      "B",
+      "A",
+      "G",
+      "N",
+      "O"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Ignacio, pittore spagnolo del Seicento",
+        "row": 0,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "Un'orchestra jazzistica",
+        "row": 1,
+        "col": 0,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "Resta nel bollettario",
+        "row": 2,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 13,
+        "clue": "Regione del Portogallo",
+        "row": 3,
+        "col": 1,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 14,
+        "clue": "Le stabiliscono i medici",
+        "row": 4,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 17,
+        "clue": "Il mare di Costanza",
+        "row": 5,
+        "col": 3,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 18,
+        "clue": "Il doppio servizio degli annunci",
+        "row": 6,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "É stata all'avanguardia dell'informatica (sigla)",
+        "row": 0,
+        "col": 0,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Il Max che si esibisce con la \"Palast Orchester\"",
+        "row": 0,
+        "col": 1,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Squadra avversaria del Milan nel derby di Milano",
+        "row": 0,
+        "col": 2,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "La Lecouvreur di Scribe",
+        "row": 0,
+        "col": 3,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 7,
+        "clue": "Programma per l'Energia Intelligente in Europa (sigla)",
+        "row": 0,
+        "col": 6,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 11,
+        "clue": "Ex imposta per le società",
+        "row": 2,
+        "col": 4,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 12,
+        "clue": "Cumuli di pietre usati come monumenti sepolcrali",
+        "row": 2,
+        "col": 5,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 14,
+        "clue": "L'attore Berenger",
+        "row": 4,
+        "col": 0,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 15,
+        "clue": "Orientale in poesia",
+        "row": 4,
+        "col": 6,
+        "length": 3,
+        "direction": "down"
+      }
+    ]
+  }
+}

@@ -1,0 +1,296 @@
+{
+  "id": "418",
+  "title": "Puzzle 418",
+  "size": {
+    "rows": 7,
+    "cols": 7
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "#",
+      "",
+      "#",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "A",
+      "S",
+      "S",
+      "O",
+      "R",
+      "T",
+      "E"
+    ],
+    [
+      "P",
+      "E",
+      "P",
+      "P",
+      "O",
+      "N",
+      "E"
+    ],
+    [
+      "R",
+      "A",
+      "S",
+      "O",
+      "I",
+      "#",
+      "E"
+    ],
+    [
+      "#",
+      "T",
+      "#",
+      "S",
+      "#",
+      "F",
+      "#"
+    ],
+    [
+      "D",
+      "#",
+      "I",
+      "S",
+      "A",
+      "I",
+      "A"
+    ],
+    [
+      "A",
+      "N",
+      "N",
+      "U",
+      "N",
+      "C",
+      "I"
+    ],
+    [
+      "C",
+      "R",
+      "O",
+      "M",
+      "A",
+      "T",
+      "O"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Perse nei propri pensieri",
+        "row": 0,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "L'antagonista di Don Camillo",
+        "row": 1,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "CQuelli elettrici hanno il filo, quelli non elettrici hanno il filo",
+        "row": 2,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 15,
+        "clue": "Fu un celebre profeta",
+        "row": 4,
+        "col": 2,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 18,
+        "clue": "Sul giornale a volte sono economici",
+        "row": 5,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 20,
+        "clue": "Reso lucente da un rivestimento",
+        "row": 6,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Fra mar. e mag.",
+        "row": 0,
+        "col": 0,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Fabbrica le Leon",
+        "row": 0,
+        "col": 1,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Solar Power Satellite",
+        "row": 0,
+        "col": 2,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Un marsupiale americano",
+        "row": 0,
+        "col": 3,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Re... francese",
+        "row": 0,
+        "col": 4,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Consonanti in tono",
+        "row": 0,
+        "col": 5,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 7,
+        "clue": "Un poemetto attribuito a Esiodo",
+        "row": 0,
+        "col": 6,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 13,
+        "clue": "Federazione Italiana Comunità Terapeutiche",
+        "row": 3,
+        "col": 5,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 14,
+        "clue": "Direzione Anticrimine Centrale (sigla)",
+        "row": 4,
+        "col": 0,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 15,
+        "clue": "La matrigna di Frisso",
+        "row": 4,
+        "col": 2,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 16,
+        "clue": "Prefisso che indica parità di dosi in ambito farmaceutico",
+        "row": 4,
+        "col": 4,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 17,
+        "clue": "Impartiva lezioni ai ragazzi ricchi",
+        "row": 4,
+        "col": 6,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 19,
+        "clue": "Due lettere per numero",
+        "row": 5,
+        "col": 1,
+        "length": 2,
+        "direction": "down"
+      }
+    ]
+  }
+}

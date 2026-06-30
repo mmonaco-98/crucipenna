@@ -1,0 +1,184 @@
+{
+  "id": "286",
+  "title": "Puzzle 286",
+  "size": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "T",
+      "E",
+      "L",
+      "A",
+      "I"
+    ],
+    [
+      "Q",
+      "U",
+      "O",
+      "T",
+      "E"
+    ],
+    [
+      "#",
+      "L",
+      "I",
+      "R",
+      "#"
+    ],
+    [
+      "D",
+      "E",
+      "C",
+      "I",
+      "O"
+    ],
+    [
+      "P",
+      "R",
+      "O",
+      "O",
+      "F"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Formati per tessere...",
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 6,
+        "clue": "Somme suddivise tra i soci",
+        "row": 1,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "clue": "Local Internet Register",
+        "row": 2,
+        "col": 1,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "Imperatore romano",
+        "row": 3,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "La prova di un film con Gwyneth Paltrow",
+        "row": 4,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Tale Quale",
+        "row": 0,
+        "col": 0,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Il matematico svizzero il cui nome viene spesso italianizzato.",
+        "row": 0,
+        "col": 1,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Razionale, stringente e dialettico",
+        "row": 0,
+        "col": 2,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Ampio ingresso coperto",
+        "row": 0,
+        "col": 3,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Il dittongo di pietra",
+        "row": 0,
+        "col": 4,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 8,
+        "clue": "Sono doppie nei raddoppi",
+        "row": 3,
+        "col": 0,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 9,
+        "clue": "Una preposizione inglese",
+        "row": 3,
+        "col": 4,
+        "length": 2,
+        "direction": "down"
+      }
+    ]
+  }
+}

@@ -1,0 +1,320 @@
+{
+  "id": "374",
+  "title": "Puzzle 374",
+  "size": {
+    "rows": 7,
+    "cols": 7
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "F",
+      "A",
+      "O",
+      "#",
+      "A",
+      "N",
+      "S"
+    ],
+    [
+      "A",
+      "Z",
+      "Z",
+      "E",
+      "#",
+      "U",
+      "P"
+    ],
+    [
+      "L",
+      "Z",
+      "#",
+      "T",
+      "R",
+      "O",
+      "O"
+    ],
+    [
+      "C",
+      "O",
+      "N",
+      "N",
+      "O",
+      "R",
+      "S"
+    ],
+    [
+      "A",
+      "R",
+      "C",
+      "E",
+      "#",
+      "E",
+      "A"
+    ],
+    [
+      "T",
+      "R",
+      "#",
+      "E",
+      "A",
+      "S",
+      "T"
+    ],
+    [
+      "A",
+      "E",
+      "C",
+      "#",
+      "L",
+      "I",
+      "E"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "L'organizzazione per la fame nel mondo (sigla)",
+        "row": 0,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 4,
+        "clue": "Città industriale belga",
+        "row": 0,
+        "col": 4,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "clue": "Antiche armi in asta simili alle lance",
+        "row": 1,
+        "col": 0,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "Opposto a down",
+        "row": 1,
+        "col": 5,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "Consonanti del Lazio...",
+        "row": 2,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 11,
+        "clue": "Il troiano padre di Ilo",
+        "row": 2,
+        "col": 3,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 13,
+        "clue": "Jimmy grande ex tennista mancino",
+        "row": 3,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 15,
+        "clue": "Centro del Lazio nella valle del Liri",
+        "row": 4,
+        "col": 0,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 16,
+        "clue": "Tema senza consonanti",
+        "row": 4,
+        "col": 5,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 17,
+        "clue": "Iniziali di Renis",
+        "row": 5,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 18,
+        "clue": "Una side di Manhattan",
+        "row": 5,
+        "col": 3,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 20,
+        "clue": "Atomic Energy Commission",
+        "row": 6,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 22,
+        "clue": "La bugia degli Inglesi",
+        "row": 6,
+        "col": 4,
+        "length": 3,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Il passo del velocista",
+        "row": 0,
+        "col": 0,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Un arcipelago nell' Atlantico",
+        "row": 0,
+        "col": 1,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Il Paese che fu reso noto da Judy Garland",
+        "row": 0,
+        "col": 2,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Cittadini sardi",
+        "row": 0,
+        "col": 5,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Non più nubili",
+        "row": 0,
+        "col": 6,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 8,
+        "clue": "Tifose della squadra del Catania",
+        "row": 1,
+        "col": 3,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 12,
+        "clue": "Sigla della provincia che corrisponde al Polesine",
+        "row": 2,
+        "col": 4,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 14,
+        "clue": "Anca... senza uguali",
+        "row": 3,
+        "col": 2,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 19,
+        "clue": "Al cuore del male",
+        "row": 5,
+        "col": 4,
+        "length": 2,
+        "direction": "down"
+      }
+    ]
+  }
+}

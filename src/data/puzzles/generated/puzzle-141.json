@@ -1,0 +1,184 @@
+{
+  "id": "141",
+  "title": "Puzzle 141",
+  "size": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "J",
+      "O",
+      "I",
+      "N",
+      "T"
+    ],
+    [
+      "I",
+      "B",
+      "S",
+      "E",
+      "N"
+    ],
+    [
+      "#",
+      "L",
+      "T",
+      "T",
+      "#"
+    ],
+    [
+      "F",
+      "I",
+      "A",
+      "T",
+      "O"
+    ],
+    [
+      "B",
+      "O",
+      "R",
+      "I",
+      "A"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "La canna degli americani",
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 6,
+        "clue": "Il drammaturgo autore di Casa di bambola",
+        "row": 1,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "clue": "Lettera Tele-Trasmessa",
+        "row": 2,
+        "col": 1,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "Lo sprecano i chiacchieroni",
+        "row": 3,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "La ostenta il presuntuoso",
+        "row": 4,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "L'Irons del cinema (iniz.)",
+        "row": 0,
+        "col": 0,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Lo svanire di ogni ricordo",
+        "row": 0,
+        "col": 1,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Una dea dei Fenici",
+        "row": 0,
+        "col": 2,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Lordi senza imballo",
+        "row": 0,
+        "col": 3,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "In treno... con il reo",
+        "row": 0,
+        "col": 4,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 8,
+        "clue": "lniziali di Briatore",
+        "row": 3,
+        "col": 0,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 9,
+        "clue": "Fanno pari con la Roma",
+        "row": 3,
+        "col": 4,
+        "length": 2,
+        "direction": "down"
+      }
+    ]
+  }
+}

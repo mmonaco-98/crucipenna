@@ -1,0 +1,456 @@
+{
+  "id": "470",
+  "title": "Puzzle 470",
+  "size": {
+    "rows": 9,
+    "cols": 9
+  },
+  "grid": [
+    [
+      "",
+      "#",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "#",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "L",
+      "#",
+      "M",
+      "X",
+      "#",
+      "F",
+      "N",
+      "#",
+      "S"
+    ],
+    [
+      "A",
+      "L",
+      "T",
+      "E",
+      "R",
+      "I",
+      "#",
+      "I",
+      "M"
+    ],
+    [
+      "#",
+      "P",
+      "#",
+      "N",
+      "I",
+      "L",
+      "O",
+      "T",
+      "A"
+    ],
+    [
+      "S",
+      "#",
+      "L",
+      "O",
+      "D",
+      "O",
+      "L",
+      "A",
+      "I"
+    ],
+    [
+      "P",
+      "O",
+      "U",
+      "F",
+      "#",
+      "T",
+      "E",
+      "L",
+      "L"
+    ],
+    [
+      "I",
+      "N",
+      "D",
+      "O",
+      "T",
+      "T",
+      "O",
+      "#",
+      "A"
+    ],
+    [
+      "G",
+      "I",
+      "O",
+      "B",
+      "B",
+      "E",
+      "#",
+      "N",
+      "#"
+    ],
+    [
+      "H",
+      "A",
+      "#",
+      "I",
+      "T",
+      "T",
+      "I",
+      "C",
+      "I"
+    ],
+    [
+      "E",
+      "#",
+      "S",
+      "A",
+      "#",
+      "E",
+      "V",
+      "#",
+      "X"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 2,
+        "clue": "Gli estremi di Marx",
+        "row": 0,
+        "col": 2,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 4,
+        "clue": "Dispari di fini",
+        "row": 0,
+        "col": 5,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "clue": "Sostenuti e sprezzanti",
+        "row": 1,
+        "col": 0,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "Il giornalista nella Stanza (iniziali)",
+        "row": 1,
+        "col": 7,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 12,
+        "clue": "Una famiglia etnica africana.",
+        "row": 2,
+        "col": 3,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 15,
+        "clue": "Falchi dalle penne nere",
+        "row": 3,
+        "col": 2,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 16,
+        "clue": "Sgabello imbottito",
+        "row": 4,
+        "col": 0,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 18,
+        "clue": "Guglielmo mitico balestriere",
+        "row": 4,
+        "col": 5,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 19,
+        "clue": "Istigato, persuaso",
+        "row": 5,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 22,
+        "clue": "Paziente personaggio biblico",
+        "row": 6,
+        "col": 0,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 24,
+        "clue": "Lo ripete chi ride di gusto",
+        "row": 7,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 25,
+        "clue": "Così sono detti i mercati dei pesci",
+        "row": 7,
+        "col": 3,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 29,
+        "clue": "Aprono il sabato",
+        "row": 8,
+        "col": 2,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 30,
+        "clue": "Prime nell'evento",
+        "row": 8,
+        "col": 5,
+        "length": 2,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Articolo per signorina",
+        "row": 0,
+        "col": 0,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Sarà capitale della cultura nel 2019 (targa)",
+        "row": 0,
+        "col": 2,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Avversione per gli stranieri",
+        "row": 0,
+        "col": 3,
+        "length": 9,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Possedeva le infallibili frecce di Ercole",
+        "row": 0,
+        "col": 5,
+        "length": 9,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Un Umberto cabarettista",
+        "row": 0,
+        "col": 8,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 8,
+        "clue": "La cantante di Lost on You e Other People",
+        "row": 1,
+        "col": 1,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 9,
+        "clue": "Un modulo bancario (sigla)",
+        "row": 1,
+        "col": 4,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 10,
+        "clue": "Italico in breve",
+        "row": 1,
+        "col": 7,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 13,
+        "clue": "Prefisso... untuoso",
+        "row": 2,
+        "col": 6,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 14,
+        "clue": "Infiorescenze del grano",
+        "row": 3,
+        "col": 0,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 15,
+        "clue": "Gioco, spettacolo al Colosseo",
+        "row": 3,
+        "col": 2,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 17,
+        "clue": "Nomi di sommi sacerdoti d'Israele",
+        "row": 4,
+        "col": 1,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 20,
+        "clue": "Consonanti in Tibet",
+        "row": 5,
+        "col": 4,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 23,
+        "clue": "Il Cage di Hollywood (iniz.)",
+        "row": 6,
+        "col": 7,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 26,
+        "clue": "L'aprile nelle date",
+        "row": 7,
+        "col": 6,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 27,
+        "clue": "Nove per gli antichi romani",
+        "row": 7,
+        "col": 8,
+        "length": 2,
+        "direction": "down"
+      }
+    ]
+  }
+}

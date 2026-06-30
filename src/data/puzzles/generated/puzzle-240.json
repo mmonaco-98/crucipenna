@@ -1,0 +1,184 @@
+{
+  "id": "240",
+  "title": "Puzzle 240",
+  "size": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "P",
+      "C",
+      "#",
+      "D",
+      "P"
+    ],
+    [
+      "R",
+      "A",
+      "D",
+      "A",
+      "R"
+    ],
+    [
+      "O",
+      "R",
+      "A",
+      "F",
+      "A"
+    ],
+    [
+      "R",
+      "A",
+      "G",
+      "N",
+      "I"
+    ],
+    [
+      "A",
+      "S",
+      "#",
+      "E",
+      "A"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Un computer per sé",
+        "row": 0,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 3,
+        "clue": "Sono doppie nei raddoppi",
+        "row": 0,
+        "col": 3,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 5,
+        "clue": "Ha l'antenna che gira",
+        "row": 1,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "clue": "Una donna preziosa",
+        "row": 2,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "Tessono delicatissime e finissime tele",
+        "row": 3,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "Segni al Quirinale (iniz.)",
+        "row": 4,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "Le vocali di cera",
+        "row": 4,
+        "col": 3,
+        "length": 2,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Opposta alla poppa",
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "... Severin provincia della Romania",
+        "row": 0,
+        "col": 1,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Venne trasformata in alloro",
+        "row": 0,
+        "col": 3,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Capitale del Capo Verde",
+        "row": 0,
+        "col": 4,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Decagrammo (simbolo)",
+        "row": 1,
+        "col": 2,
+        "length": 3,
+        "direction": "down"
+      }
+    ]
+  }
+}

@@ -1,0 +1,296 @@
+{
+  "id": "319",
+  "title": "Puzzle 319",
+  "size": {
+    "rows": 7,
+    "cols": 7
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "T",
+      "A",
+      "B",
+      "E",
+      "L",
+      "L",
+      "E"
+    ],
+    [
+      "W",
+      "L",
+      "#",
+      "T",
+      "O",
+      "F",
+      "U"
+    ],
+    [
+      "I",
+      "F",
+      "E",
+      "#",
+      "U",
+      "#",
+      "G"
+    ],
+    [
+      "N",
+      "A",
+      "S",
+      "C",
+      "I",
+      "T",
+      "A"
+    ],
+    [
+      "S",
+      "#",
+      "T",
+      "#",
+      "S",
+      "U",
+      "N"
+    ],
+    [
+      "E",
+      "I",
+      "R",
+      "E",
+      "#",
+      "R",
+      "E"
+    ],
+    [
+      "T",
+      "Z",
+      "I",
+      "G",
+      "A",
+      "N",
+      "I"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Prospetti che si affiggono",
+        "row": 0,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "Iniziali del pittore cubano Lam",
+        "row": 1,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "Alimento orientale",
+        "row": 1,
+        "col": 3,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "Formano il micelio",
+        "row": 2,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 14,
+        "clue": "L'inizio... biologico",
+        "row": 3,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 19,
+        "clue": "Un giornale inglese",
+        "row": 4,
+        "col": 4,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 20,
+        "clue": "Comprende Dublino",
+        "row": 5,
+        "col": 0,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 23,
+        "clue": "Filippo lo è della Spagna",
+        "row": 5,
+        "col": 5,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 24,
+        "clue": "Così sono certi violini \"etnici.\"",
+        "row": 6,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Lo formano due golf",
+        "row": 0,
+        "col": 0,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Particelle emesse da sostanze radioattive",
+        "row": 0,
+        "col": 1,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "L'Egitto... sulle auto",
+        "row": 0,
+        "col": 3,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Nome del famoso stilista Vuitton",
+        "row": 0,
+        "col": 4,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Le iniziali di Feuerbach",
+        "row": 0,
+        "col": 5,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 7,
+        "clue": "Colli veneti",
+        "row": 0,
+        "col": 6,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 11,
+        "clue": "Capricci da poeti",
+        "row": 2,
+        "col": 2,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 16,
+        "clue": "Quando è over avvicenda",
+        "row": 3,
+        "col": 5,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 21,
+        "clue": "Le ultime lettere di Leibniz",
+        "row": 5,
+        "col": 1,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 22,
+        "clue": "Il comico Greggio (iniziali)",
+        "row": 5,
+        "col": 3,
+        "length": 2,
+        "direction": "down"
+      }
+    ]
+  }
+}

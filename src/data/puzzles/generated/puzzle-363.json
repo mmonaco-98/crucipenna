@@ -1,0 +1,272 @@
+{
+  "id": "363",
+  "title": "Puzzle 363",
+  "size": {
+    "rows": 7,
+    "cols": 7
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "B",
+      "A",
+      "H",
+      "A",
+      "M",
+      "A",
+      "S"
+    ],
+    [
+      "#",
+      "B",
+      "A",
+      "B",
+      "E",
+      "L",
+      "E"
+    ],
+    [
+      "L",
+      "O",
+      "R",
+      "I",
+      "S",
+      "#",
+      "T"
+    ],
+    [
+      "I",
+      "#",
+      "D",
+      "G",
+      "S",
+      "#",
+      "T"
+    ],
+    [
+      "N",
+      "#",
+      "T",
+      "A",
+      "I",
+      "D",
+      "E"
+    ],
+    [
+      "E",
+      "R",
+      "O",
+      "I",
+      "C",
+      "I",
+      "#"
+    ],
+    [
+      "E",
+      "S",
+      "P",
+      "L",
+      "O",
+      "S",
+      "O"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Costituiscono un arcipelago tropicale.",
+        "row": 0,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "Si ricorda per una nota torre",
+        "row": 1,
+        "col": 1,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "Il tenore della 'Fedora'",
+        "row": 2,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 12,
+        "clue": "Dipartimento Governativo per la Sicurezza",
+        "row": 3,
+        "col": 2,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 15,
+        "clue": "La cortigiana greca... che ispirò Massenet",
+        "row": 4,
+        "col": 2,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 17,
+        "clue": "Lo sono gli atti del prode",
+        "row": 5,
+        "col": 0,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 19,
+        "clue": "Scoppiato fragorosamente",
+        "row": 6,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 2,
+        "clue": "Il critico Bonito Oliva (sigla)",
+        "row": 0,
+        "col": 1,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Il tettuccio amovibile delle spider",
+        "row": 0,
+        "col": 2,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "La biblica moglie di David",
+        "row": 0,
+        "col": 3,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Il Paese delle tortillas e della tequila",
+        "row": 0,
+        "col": 4,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Il Pacino attore di cinema",
+        "row": 0,
+        "col": 5,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 7,
+        "clue": "I magnifici di uno storico film western del 1960",
+        "row": 0,
+        "col": 6,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 9,
+        "clue": "Se sono sovraccariche, non si può telefonare",
+        "row": 2,
+        "col": 0,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 16,
+        "clue": "Disegno (abbréviazione)",
+        "row": 4,
+        "col": 5,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 18,
+        "clue": "Resa senza pari",
+        "row": 5,
+        "col": 1,
+        "length": 2,
+        "direction": "down"
+      }
+    ]
+  }
+}

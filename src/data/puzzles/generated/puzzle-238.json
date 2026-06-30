@@ -1,0 +1,168 @@
+{
+  "id": "238",
+  "title": "Puzzle 238",
+  "size": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "#",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ]
+  ],
+  "solution": [
+    [
+      "#",
+      "T",
+      "E",
+      "M",
+      "I"
+    ],
+    [
+      "A",
+      "I",
+      "R",
+      "E",
+      "S"
+    ],
+    [
+      "S",
+      "T",
+      "I",
+      "L",
+      "B"
+    ],
+    [
+      "M",
+      "A",
+      "C",
+      "O",
+      "N"
+    ],
+    [
+      "A",
+      "N",
+      "A",
+      "S",
+      "#"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "I compiti in classe di italiano",
+        "row": 0,
+        "col": 1,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 5,
+        "clue": "Con Buenos nel nome della capitale argentina",
+        "row": 1,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 6,
+        "clue": "La misura della brillanza",
+        "row": 2,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "clue": "Una città della Francia",
+        "row": 3,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "Cura la viabilità nazionale (sigla)",
+        "row": 4,
+        "col": 0,
+        "length": 4,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Missile statunitense",
+        "row": 0,
+        "col": 1,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "La pianta che colora di rosa la campagna scozzese",
+        "row": 0,
+        "col": 2,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Canto lirico",
+        "row": 0,
+        "col": 3,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "La sigla che identifica un libro",
+        "row": 0,
+        "col": 4,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Mozza il respiro",
+        "row": 1,
+        "col": 0,
+        "length": 4,
+        "direction": "down"
+      }
+    ]
+  }
+}

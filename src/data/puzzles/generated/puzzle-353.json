@@ -1,0 +1,320 @@
+{
+  "id": "353",
+  "title": "Puzzle 353",
+  "size": {
+    "rows": 7,
+    "cols": 7
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "R",
+      "H",
+      "#",
+      "A",
+      "P",
+      "I",
+      "A"
+    ],
+    [
+      "J",
+      "U",
+      "T",
+      "L",
+      "A",
+      "N",
+      "D"
+    ],
+    [
+      "#",
+      "S",
+      "O",
+      "C",
+      "#",
+      "A",
+      "U"
+    ],
+    [
+      "A",
+      "S",
+      "C",
+      "E",
+      "L",
+      "L",
+      "A"
+    ],
+    [
+      "R",
+      "E",
+      "#",
+      "S",
+      "A",
+      "A",
+      "#"
+    ],
+    [
+      "C",
+      "I",
+      "S",
+      "T",
+      "I",
+      "T",
+      "E"
+    ],
+    [
+      "O",
+      "N",
+      "C",
+      "E",
+      "#",
+      "O",
+      "P"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Un \"fattore\" del sangue",
+        "row": 0,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 3,
+        "clue": "É la capitale delle Samoa occidentali",
+        "row": 0,
+        "col": 3,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "clue": "La penisola di una battaglia navale fra Mare del Nord e Baltico",
+        "row": 1,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "C'è quella a r.l.",
+        "row": 2,
+        "col": 1,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "Un pò audace",
+        "row": 2,
+        "col": 5,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 11,
+        "clue": "Appoggio per la stampella",
+        "row": 3,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 13,
+        "clue": "Lo era Lear",
+        "row": 4,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 14,
+        "clue": "La Compagnia aerea di bandiera del Sudafrica",
+        "row": 4,
+        "col": 3,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 15,
+        "clue": "Una fastidiosa infiammazione",
+        "row": 5,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 18,
+        "clue": "Pesi anglosassoni",
+        "row": 6,
+        "col": 0,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 19,
+        "clue": "Abbreviazione di opus, che indica la posizione di una",
+        "row": 6,
+        "col": 5,
+        "length": 2,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "I limiti del generale Rokossovskij",
+        "row": 0,
+        "col": 0,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Fra Barack e Obama",
+        "row": 0,
+        "col": 1,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Opera di Gluck tratta da Euripide",
+        "row": 0,
+        "col": 3,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Pagare all'inizio",
+        "row": 0,
+        "col": 4,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Introdotto con... l'aerosol",
+        "row": 0,
+        "col": 5,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Una città del Tigrai",
+        "row": 0,
+        "col": 6,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 8,
+        "clue": "Un timido approccio alla porta",
+        "row": 1,
+        "col": 2,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 11,
+        "clue": "Arma che si tende",
+        "row": 3,
+        "col": 0,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 12,
+        "clue": "Li cantavano gli antichi poeti",
+        "row": 3,
+        "col": 4,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 16,
+        "clue": "Il centro di Frascati",
+        "row": 5,
+        "col": 2,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 17,
+        "clue": "Sono pari in tempo",
+        "row": 5,
+        "col": 6,
+        "length": 2,
+        "direction": "down"
+      }
+    ]
+  }
+}

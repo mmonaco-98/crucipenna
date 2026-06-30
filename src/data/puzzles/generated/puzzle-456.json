@@ -1,0 +1,456 @@
+{
+  "id": "456",
+  "title": "Puzzle 456",
+  "size": {
+    "rows": 9,
+    "cols": 9
+  },
+  "grid": [
+    [
+      "#",
+      "#",
+      "",
+      "",
+      "",
+      "#",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "#",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "#",
+      "#",
+      "",
+      "",
+      "",
+      "#",
+      "#"
+    ]
+  ],
+  "solution": [
+    [
+      "#",
+      "#",
+      "B",
+      "I",
+      "S",
+      "#",
+      "#",
+      "A",
+      "V"
+    ],
+    [
+      "#",
+      "T",
+      "E",
+      "L",
+      "E",
+      "F",
+      "I",
+      "L",
+      "M"
+    ],
+    [
+      "A",
+      "I",
+      "#",
+      "#",
+      "D",
+      "I",
+      "S",
+      "C",
+      "#"
+    ],
+    [
+      "S",
+      "T",
+      "A",
+      "N",
+      "I",
+      "S",
+      "L",
+      "A",
+      "O"
+    ],
+    [
+      "M",
+      "A",
+      "L",
+      "E",
+      "#",
+      "S",
+      "A",
+      "L",
+      "T"
+    ],
+    [
+      "A",
+      "N",
+      "T",
+      "I",
+      "N",
+      "O",
+      "M",
+      "I",
+      "A"
+    ],
+    [
+      "#",
+      "I",
+      "E",
+      "L",
+      "O",
+      "#",
+      "#",
+      "N",
+      "N"
+    ],
+    [
+      "S",
+      "C",
+      "A",
+      "L",
+      "D",
+      "A",
+      "R",
+      "E",
+      "#"
+    ],
+    [
+      "U",
+      "I",
+      "#",
+      "#",
+      "I",
+      "T",
+      "N",
+      "#",
+      "#"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Si grida con «bene» e «bravo»",
+        "row": 0,
+        "col": 2,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 4,
+        "clue": "Ad vocem",
+        "row": 0,
+        "col": 7,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 6,
+        "clue": "Si gira per il video",
+        "row": 1,
+        "col": 1,
+        "length": 8,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "Il dittongo del Cairo",
+        "row": 2,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "La \"D\" del CD",
+        "row": 2,
+        "col": 4,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 11,
+        "clue": "Santo dei polacchi",
+        "row": 3,
+        "col": 0,
+        "length": 9,
+        "direction": "across"
+      },
+      {
+        "number": 15,
+        "clue": "Chi è buono non lo sa fare",
+        "row": 4,
+        "col": 0,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 16,
+        "clue": "La sigla di un negoziato militare fra USA e URSS",
+        "row": 4,
+        "col": 5,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 17,
+        "clue": "Contraddizione palese",
+        "row": 5,
+        "col": 0,
+        "length": 9,
+        "direction": "across"
+      },
+      {
+        "number": 19,
+        "clue": "È stato fra i magistrati di Mani Pulite",
+        "row": 6,
+        "col": 1,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 20,
+        "clue": "Non Nominato",
+        "row": 6,
+        "col": 7,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 21,
+        "clue": "Aumentare di grado",
+        "row": 7,
+        "col": 0,
+        "length": 8,
+        "direction": "across"
+      },
+      {
+        "number": 24,
+        "clue": "L' Arturo brechtiano",
+        "row": 8,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 25,
+        "clue": "Andato in poesia",
+        "row": 8,
+        "col": 4,
+        "length": 3,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Voce dall'ovile",
+        "row": 0,
+        "col": 2,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Al centro della fila",
+        "row": 0,
+        "col": 3,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Le residenze abituali",
+        "row": 0,
+        "col": 4,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Lo stesso che basiche",
+        "row": 0,
+        "col": 7,
+        "length": 8,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Iniziali della Marini",
+        "row": 0,
+        "col": 8,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Si dice di sforzi immani",
+        "row": 1,
+        "col": 1,
+        "length": 8,
+        "direction": "down"
+      },
+      {
+        "number": 7,
+        "clue": "Piantato saldamente",
+        "row": 1,
+        "col": 5,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 8,
+        "clue": "Lo diffusero i Mori",
+        "row": 1,
+        "col": 6,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 9,
+        "clue": "Affatica il respiro",
+        "row": 2,
+        "col": 0,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 12,
+        "clue": "Pianta delle Malvacee",
+        "row": 3,
+        "col": 2,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 13,
+        "clue": "IL Sam di Jurassic Park",
+        "row": 3,
+        "col": 3,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 14,
+        "clue": "La NATO in Francia",
+        "row": 3,
+        "col": 8,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 18,
+        "clue": "Sciolti non se ne trovano",
+        "row": 5,
+        "col": 4,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 21,
+        "clue": "Parolina d'incitamento",
+        "row": 7,
+        "col": 0,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 22,
+        "clue": "In ogni tratto",
+        "row": 7,
+        "col": 5,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 23,
+        "clue": "Riserva Navale",
+        "row": 7,
+        "col": 6,
+        "length": 2,
+        "direction": "down"
+      }
+    ]
+  }
+}

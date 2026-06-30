@@ -1,0 +1,288 @@
+{
+  "id": "408",
+  "title": "Puzzle 408",
+  "size": {
+    "rows": 7,
+    "cols": 7
+  },
+  "grid": [
+    [
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "S",
+      "#",
+      "F",
+      "L",
+      "A",
+      "S",
+      "H"
+    ],
+    [
+      "T",
+      "E",
+      "L",
+      "E",
+      "#",
+      "N",
+      "I"
+    ],
+    [
+      "U",
+      "N",
+      "I",
+      "O",
+      "N",
+      "#",
+      "D"
+    ],
+    [
+      "C",
+      "O",
+      "R",
+      "P",
+      "O",
+      "S",
+      "A"
+    ],
+    [
+      "C",
+      "#",
+      "T",
+      "O",
+      "T",
+      "A",
+      "L"
+    ],
+    [
+      "H",
+      "O",
+      "#",
+      "L",
+      "A",
+      "N",
+      "G"
+    ],
+    [
+      "I",
+      "R",
+      "I",
+      "D",
+      "I",
+      "#",
+      "O"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 2,
+        "clue": "Il Gordon dei fumetti",
+        "row": 0,
+        "col": 2,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "clue": "Quelle dipinte sono dipinti",
+        "row": 1,
+        "col": 0,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "Una risposta da incerti",
+        "row": 1,
+        "col": 5,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "In Parlamento c'è la \"Valdôtaine\"",
+        "row": 2,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 13,
+        "clue": "Compatta, consistente",
+        "row": 3,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 16,
+        "clue": "Un carburante quasi totale...",
+        "row": 4,
+        "col": 2,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 17,
+        "clue": "Hardy Oliver",
+        "row": 5,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 19,
+        "clue": "Fritz regista",
+        "row": 5,
+        "col": 3,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 20,
+        "clue": "Parti degli occhi",
+        "row": 6,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Addobbi per soffitti",
+        "row": 0,
+        "col": 0,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Un amore passeggero",
+        "row": 0,
+        "col": 2,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Il Bloom di Joyce",
+        "row": 0,
+        "col": 3,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Sono senza pari",
+        "row": 0,
+        "col": 5,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Spagnolo di sangue blu",
+        "row": 0,
+        "col": 6,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 8,
+        "clue": "Un Brian sperimentatore musicale",
+        "row": 1,
+        "col": 1,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 11,
+        "clue": "Leggono i testamenti",
+        "row": 2,
+        "col": 4,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 14,
+        "clue": "Si antepone a Francesco d'Assisi",
+        "row": 3,
+        "col": 5,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 18,
+        "clue": "Le prime lettere... di Ortis",
+        "row": 5,
+        "col": 1,
+        "length": 2,
+        "direction": "down"
+      }
+    ]
+  }
+}

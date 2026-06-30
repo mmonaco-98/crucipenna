@@ -1,0 +1,288 @@
+{
+  "id": "372",
+  "title": "Puzzle 372",
+  "size": {
+    "rows": 7,
+    "cols": 7
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "#",
+      "",
+      "",
+      "",
+      "#",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "Q",
+      "U",
+      "E",
+      "S",
+      "T",
+      "U",
+      "E"
+    ],
+    [
+      "E",
+      "S",
+      "T",
+      "O",
+      "R",
+      "T",
+      "I"
+    ],
+    [
+      "#",
+      "O",
+      "R",
+      "L",
+      "A",
+      "R",
+      "E"
+    ],
+    [
+      "#",
+      "#",
+      "U",
+      "I",
+      "D",
+      "#",
+      "#"
+    ],
+    [
+      "C",
+      "E",
+      "R",
+      "N",
+      "I",
+      "E",
+      "#"
+    ],
+    [
+      "A",
+      "P",
+      "I",
+      "A",
+      "R",
+      "I",
+      "O"
+    ],
+    [
+      "S",
+      "T",
+      "A",
+      "S",
+      "E",
+      "R",
+      "A"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Richieste pubbliche di denaro",
+        "row": 0,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "Ottenuti con le minacce",
+        "row": 1,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "Rinforzare i bordi",
+        "row": 2,
+        "col": 1,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "Unità Immobiliare a Disposizione",
+        "row": 3,
+        "col": 2,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 11,
+        "clue": "Grossi pesci marini",
+        "row": 4,
+        "col": 0,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 14,
+        "clue": "Gruppo di alveari",
+        "row": 5,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 16,
+        "clue": "Al crepuscolo di oggi",
+        "row": 6,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Quinta Essenza",
+        "row": 0,
+        "col": 0,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "È invalso o inveterato",
+        "row": 0,
+        "col": 1,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "L' antica Toscana, o suppergiù",
+        "row": 0,
+        "col": 2,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Franco sceneggiatore di \"La Battaglia di Algeri\"",
+        "row": 0,
+        "col": 3,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Fare come Giuda",
+        "row": 0,
+        "col": 4,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Ufficio Tecnico di Registro",
+        "row": 0,
+        "col": 5,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 7,
+        "clue": "Programma per l'Energia Intelligente in Europa (sigla)",
+        "row": 0,
+        "col": 6,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 11,
+        "clue": "Le vere iniziali di Trilussa",
+        "row": 4,
+        "col": 0,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 12,
+        "clue": "Ente provinciale per il Turismo",
+        "row": 4,
+        "col": 1,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 13,
+        "clue": "Una dea scandinava",
+        "row": 4,
+        "col": 5,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 15,
+        "clue": "Le vocali nella strofa",
+        "row": 5,
+        "col": 6,
+        "length": 2,
+        "direction": "down"
+      }
+    ]
+  }
+}

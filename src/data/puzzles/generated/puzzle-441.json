@@ -1,0 +1,304 @@
+{
+  "id": "441",
+  "title": "Puzzle 441",
+  "size": {
+    "rows": 7,
+    "cols": 7
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "I",
+      "U",
+      "L",
+      "I",
+      "O",
+      "#",
+      "V"
+    ],
+    [
+      "S",
+      "P",
+      "I",
+      "N",
+      "A",
+      "T",
+      "O"
+    ],
+    [
+      "M",
+      "U",
+      "#",
+      "O",
+      "K",
+      "A",
+      "Y"
+    ],
+    [
+      "A",
+      "#",
+      "P",
+      "D",
+      "S",
+      "#",
+      "A"
+    ],
+    [
+      "E",
+      "G",
+      "E",
+      "O",
+      "#",
+      "E",
+      "G"
+    ],
+    [
+      "L",
+      "O",
+      "C",
+      "R",
+      "E",
+      "S",
+      "E"
+    ],
+    [
+      "E",
+      "#",
+      "S",
+      "E",
+      "R",
+      "I",
+      "R"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Il protagonista maschile della Venexiana",
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "clue": "Il filo impiegato nei reticolati",
+        "row": 1,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "L' inizio della musica",
+        "row": 2,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "Lo \"Sta bene!\" statunitense",
+        "row": 2,
+        "col": 3,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 12,
+        "clue": "Sigla che seguì Pci",
+        "row": 3,
+        "col": 2,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 14,
+        "clue": "Il mare delle Cicladi",
+        "row": 4,
+        "col": 0,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 16,
+        "clue": "Iniziali di Grieg",
+        "row": 4,
+        "col": 5,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 17,
+        "clue": "Un calabrese sullo Ionio",
+        "row": 5,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 20,
+        "clue": "Un deserto pietroso",
+        "row": 6,
+        "col": 2,
+        "length": 5,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Il personaggio biblico da cui trasse il nome il narratore di Moby Dick",
+        "row": 0,
+        "col": 0,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Coordina i servizi postali (sigla)",
+        "row": 0,
+        "col": 1,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Sigla di Livorno",
+        "row": 0,
+        "col": 2,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Privo di profumo",
+        "row": 0,
+        "col": 3,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Corsa ippica riservata alle puledre di tre anni",
+        "row": 0,
+        "col": 4,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Il programma di Giacobbo",
+        "row": 0,
+        "col": 6,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 8,
+        "clue": "Talvolta inizia",
+        "row": 1,
+        "col": 5,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 12,
+        "clue": "La Cinquechiese ungherese",
+        "row": 3,
+        "col": 2,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 15,
+        "clue": "Due volte nell'ingorgo",
+        "row": 4,
+        "col": 1,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 16,
+        "clue": "European Southern Observatory",
+        "row": 4,
+        "col": 5,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 18,
+        "clue": "Un'era... senza fine",
+        "row": 5,
+        "col": 4,
+        "length": 2,
+        "direction": "down"
+      }
+    ]
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "id": "216",
+  "title": "Puzzle 216",
+  "size": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "P",
+      "I",
+      "V",
+      "A",
+      "#"
+    ],
+    [
+      "L",
+      "A",
+      "I",
+      "L",
+      "A"
+    ],
+    [
+      "O",
+      "L",
+      "S",
+      "E",
+      "N"
+    ],
+    [
+      "T",
+      "E",
+      "T",
+      "R",
+      "O"
+    ],
+    [
+      "#",
+      "A",
+      "E",
+      "T",
+      "A"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Uno strumento natalizio",
+        "row": 0,
+        "col": 0,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 5,
+        "clue": "Un nome di donna",
+        "row": 1,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "clue": "Illustre drammaturgo danese",
+        "row": 2,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "Nero in volto",
+        "row": 3,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "Tribù dell'isola di Luzon",
+        "row": 4,
+        "col": 1,
+        "length": 4,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Intreccio, trama",
+        "row": 0,
+        "col": 0,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Conchiglia trasparente",
+        "row": 0,
+        "col": 1,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Percepite... ad occhio",
+        "row": 0,
+        "col": 2,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "L' inglese all' erta",
+        "row": 0,
+        "col": 3,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Un piccolo bufalo",
+        "row": 1,
+        "col": 4,
+        "length": 4,
+        "direction": "down"
+      }
+    ]
+  }
+}

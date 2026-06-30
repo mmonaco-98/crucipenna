@@ -1,0 +1,296 @@
+{
+  "id": "433",
+  "title": "Puzzle 433",
+  "size": {
+    "rows": 7,
+    "cols": 7
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "A",
+      "D",
+      "I",
+      "B",
+      "I",
+      "T",
+      "I"
+    ],
+    [
+      "P",
+      "U",
+      "#",
+      "W",
+      "A",
+      "L",
+      "D"
+    ],
+    [
+      "O",
+      "S",
+      "I",
+      "#",
+      "F",
+      "#",
+      "R"
+    ],
+    [
+      "D",
+      "E",
+      "C",
+      "R",
+      "E",
+      "T",
+      "O"
+    ],
+    [
+      "O",
+      "#",
+      "T",
+      "#",
+      "T",
+      "U",
+      "V"
+    ],
+    [
+      "S",
+      "O",
+      "U",
+      "L",
+      "#",
+      "R",
+      "I"
+    ],
+    [
+      "I",
+      "N",
+      "S",
+      "A",
+      "N",
+      "I",
+      "A"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Destinati a un determinato scopo",
+        "row": 0,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "La sigla di Pesaro e Urbino",
+        "row": 1,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "George, Nobel per la medicina nel 1967",
+        "row": 1,
+        "col": 3,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "Audaci",
+        "row": 2,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 14,
+        "clue": "Ordinanza governativa",
+        "row": 3,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 19,
+        "clue": "Sul tasto 8 dei cordless",
+        "row": 4,
+        "col": 4,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 20,
+        "clue": "Un genere per Aretha Franklin",
+        "row": 5,
+        "col": 0,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 23,
+        "clue": "Nel bel mezzo di aprile",
+        "row": 5,
+        "col": 5,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 24,
+        "clue": "Pazzia",
+        "row": 6,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Segue la protasi in un periodo ipotetico",
+        "row": 0,
+        "col": 0,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "La ''divina'' Eleonora",
+        "row": 0,
+        "col": 1,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "II Bruce di Hollywood (iniz.)",
+        "row": 0,
+        "col": 3,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Un figlio di Noé",
+        "row": 0,
+        "col": 4,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Dispari in tela",
+        "row": 0,
+        "col": 5,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 7,
+        "clue": "Una rete navigabile",
+        "row": 0,
+        "col": 6,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 11,
+        "clue": "Può essere emorragico o ischemico",
+        "row": 2,
+        "col": 2,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 16,
+        "clue": "Il nome dell'attore Ferro",
+        "row": 3,
+        "col": 5,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 21,
+        "clue": "Sta per onorevole",
+        "row": 5,
+        "col": 1,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 22,
+        "clue": "Dopo il sol",
+        "row": 5,
+        "col": 3,
+        "length": 2,
+        "direction": "down"
+      }
+    ]
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "id": "347",
+  "title": "Puzzle 347",
+  "size": {
+    "rows": 7,
+    "cols": 7
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "B",
+      "A",
+      "S",
+      "I",
+      "R",
+      "E",
+      "#"
+    ],
+    [
+      "A",
+      "N",
+      "A",
+      "N",
+      "I",
+      "A",
+      "#"
+    ],
+    [
+      "S",
+      "O",
+      "R",
+      "T",
+      "E",
+      "#",
+      "D"
+    ],
+    [
+      "C",
+      "A",
+      "D",
+      "E",
+      "T",
+      "T",
+      "A"
+    ],
+    [
+      "A",
+      "#",
+      "A",
+      "R",
+      "I",
+      "A",
+      "L"
+    ],
+    [
+      "#",
+      "F",
+      "R",
+      "I",
+      "N",
+      "G",
+      "E"
+    ],
+    [
+      "#",
+      "C",
+      "A",
+      "M",
+      "I",
+      "O",
+      "N"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Rimanere attonito",
+        "row": 0,
+        "col": 0,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "clue": "Biblico giovane ebreo che derubò la comunità cristiana",
+        "row": 1,
+        "col": 0,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "La tenta chi gioca",
+        "row": 2,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "Così è detta la Serie B",
+        "row": 3,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 13,
+        "clue": "Un carattere di stampa per Pc",
+        "row": 4,
+        "col": 2,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 14,
+        "clue": "Un benefit accessorio",
+        "row": 5,
+        "col": 1,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 15,
+        "clue": "Autoveicoli per trasporti",
+        "row": 6,
+        "col": 1,
+        "length": 6,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Donna di Bilbao",
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Un genere di bovini asiatici",
+        "row": 0,
+        "col": 1,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Centro in prov. di Cagliari",
+        "row": 0,
+        "col": 2,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Incarico affidato provvisoriamente",
+        "row": 0,
+        "col": 3,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Concittadini di Varrone",
+        "row": 0,
+        "col": 4,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Vocali in presa",
+        "row": 0,
+        "col": 5,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 9,
+        "clue": "Gustaf, fisico svedese",
+        "row": 2,
+        "col": 6,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 11,
+        "clue": "Attraversa il Portogallo",
+        "row": 3,
+        "col": 5,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 14,
+        "clue": "Fuori Corso",
+        "row": 5,
+        "col": 1,
+        "length": 2,
+        "direction": "down"
+      }
+    ]
+  }
+}

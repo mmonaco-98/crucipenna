@@ -1,0 +1,304 @@
+{
+  "id": "329",
+  "title": "Puzzle 329",
+  "size": {
+    "rows": 7,
+    "cols": 7
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "#",
+      "",
+      "",
+      "",
+      "#",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "O",
+      "M",
+      "I",
+      "#",
+      "F",
+      "E",
+      "B"
+    ],
+    [
+      "E",
+      "B",
+      "R",
+      "A",
+      "I",
+      "C",
+      "A"
+    ],
+    [
+      "D",
+      "E",
+      "P",
+      "A",
+      "L",
+      "M",
+      "A"
+    ],
+    [
+      "#",
+      "#",
+      "I",
+      "R",
+      "I",
+      "#",
+      "#"
+    ],
+    [
+      "S",
+      "I",
+      "N",
+      "A",
+      "P",
+      "S",
+      "I"
+    ],
+    [
+      "S",
+      "C",
+      "I",
+      "U",
+      "P",
+      "I",
+      "O"
+    ],
+    [
+      "N",
+      "E",
+      "A",
+      "#",
+      "O",
+      "R",
+      "D"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Organizzazione Marittima Internazionale",
+        "row": 0,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 4,
+        "clue": "Il secondo mese abbr.",
+        "row": 0,
+        "col": 4,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "clue": "Pesach, detta anche Pasqua __",
+        "row": 1,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "Brian, regista de \"Il falò delle vanità\"",
+        "row": 2,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "Arcobaleno... letterario",
+        "row": 3,
+        "col": 2,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 11,
+        "clue": "Il \"link\" dei nervi.",
+        "row": 4,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 15,
+        "clue": "Inutile spreco",
+        "row": 5,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 16,
+        "clue": "Nuova classicamente",
+        "row": 6,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 17,
+        "clue": "Ordinale (abbrev.)",
+        "row": 6,
+        "col": 4,
+        "length": 3,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Oxford English Dictionnary (sigla)",
+        "row": 0,
+        "col": 0,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Tipica risposta romanesca",
+        "row": 0,
+        "col": 1,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Corrisponde alla provincia di Avellino",
+        "row": 0,
+        "col": 2,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "__ Tommaso Marinetti, futurista",
+        "row": 0,
+        "col": 4,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Edition of Contemporary Music",
+        "row": 0,
+        "col": 5,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Ente degli Aeroporti Britannici",
+        "row": 0,
+        "col": 6,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 8,
+        "clue": "Il capoluogo dell'Argovia",
+        "row": 1,
+        "col": 3,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 11,
+        "clue": "Servizio Sanitario Nazionale",
+        "row": 4,
+        "col": 0,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 12,
+        "clue": "Nel congelatore degli inglesi",
+        "row": 4,
+        "col": 1,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 13,
+        "clue": "Un titolo britannico che è stato conferito anche a Mick Jagger",
+        "row": 4,
+        "col": 5,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 14,
+        "clue": "Una lettera ebraica.",
+        "row": 4,
+        "col": 6,
+        "length": 3,
+        "direction": "down"
+      }
+    ]
+  }
+}

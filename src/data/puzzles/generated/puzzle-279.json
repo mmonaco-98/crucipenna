@@ -1,0 +1,176 @@
+{
+  "id": "279",
+  "title": "Puzzle 279",
+  "size": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "E",
+      "G",
+      "I",
+      "Z",
+      "I"
+    ],
+    [
+      "I",
+      "R",
+      "O",
+      "S",
+      "E"
+    ],
+    [
+      "L",
+      "#",
+      "N",
+      "#",
+      "L"
+    ],
+    [
+      "A",
+      "M",
+      "I",
+      "E",
+      "L"
+    ],
+    [
+      "T",
+      "I",
+      "A",
+      "R",
+      "A"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "I sudditi dei Faraoni",
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 6,
+        "clue": "Colleriche",
+        "row": 1,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "Lo scrittore di \"Diario intimo\"",
+        "row": 3,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 13,
+        "clue": "Copricapo per Sua Santità",
+        "row": 4,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Città israeliana",
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Notizie da ascoltare (sigla)",
+        "row": 0,
+        "col": 1,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "L'antica regione con Efeso",
+        "row": 0,
+        "col": 2,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Estreme di Zeus",
+        "row": 0,
+        "col": 3,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Sorte avversa",
+        "row": 0,
+        "col": 4,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 11,
+        "clue": "La nota... particella pronominale",
+        "row": 3,
+        "col": 1,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 12,
+        "clue": "Vicine in fiera",
+        "row": 3,
+        "col": 3,
+        "length": 2,
+        "direction": "down"
+      }
+    ]
+  }
+}

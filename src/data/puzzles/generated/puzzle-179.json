@@ -1,0 +1,176 @@
+{
+  "id": "179",
+  "title": "Puzzle 179",
+  "size": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "E",
+      "G",
+      "I",
+      "D",
+      "E"
+    ],
+    [
+      "S",
+      "P",
+      "A",
+      "Z",
+      "I"
+    ],
+    [
+      "T",
+      "#",
+      "R",
+      "#",
+      "L"
+    ],
+    [
+      "E",
+      "S",
+      "D",
+      "R",
+      "A"
+    ],
+    [
+      "R",
+      "H",
+      "E",
+      "T",
+      "T"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Protezioni, difese",
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 6,
+        "clue": "I vuoti fra le parole scritte",
+        "row": 1,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "Una Micaela della prosa",
+        "row": 3,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 13,
+        "clue": "Il leggendario Butler",
+        "row": 4,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Eroina ebrea",
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Si disputa su pista",
+        "row": 0,
+        "col": 1,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Misure lineari inglesi",
+        "row": 0,
+        "col": 2,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Le consonanti in dazio",
+        "row": 0,
+        "col": 3,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Città israeliana sul golfo di Aqabah",
+        "row": 0,
+        "col": 4,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 11,
+        "clue": "La prima parte dello show",
+        "row": 3,
+        "col": 1,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 12,
+        "clue": "Prestare senza pesare",
+        "row": 3,
+        "col": 3,
+        "length": 2,
+        "direction": "down"
+      }
+    ]
+  }
+}

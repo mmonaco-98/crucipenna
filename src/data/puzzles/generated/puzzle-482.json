@@ -1,0 +1,656 @@
+{
+  "id": "482",
+  "title": "Puzzle 482",
+  "size": {
+    "rows": 11,
+    "cols": 11
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "#",
+      "#",
+      "",
+      "",
+      "#",
+      "",
+      "#",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "#",
+      "",
+      "#",
+      "",
+      "",
+      "#",
+      "#",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "Z",
+      "A",
+      "#",
+      "#",
+      "B",
+      "P",
+      "#",
+      "F",
+      "#",
+      "#",
+      "T"
+    ],
+    [
+      "E",
+      "G",
+      "#",
+      "A",
+      "R",
+      "O",
+      "#",
+      "E",
+      "B",
+      "R",
+      "I"
+    ],
+    [
+      "N",
+      "E",
+      "Y",
+      "#",
+      "E",
+      "L",
+      "L",
+      "E",
+      "N",
+      "#",
+      "N"
+    ],
+    [
+      "#",
+      "N",
+      "O",
+      "T",
+      "A",
+      "I",
+      "O",
+      "#",
+      "I",
+      "C",
+      "O"
+    ],
+    [
+      "C",
+      "D",
+      "U",
+      "#",
+      "K",
+      "U",
+      "N",
+      "A",
+      "#",
+      "O",
+      "#"
+    ],
+    [
+      "W",
+      "I",
+      "#",
+      "T",
+      "E",
+      "R",
+      "G",
+      "A",
+      "#",
+      "C",
+      "F"
+    ],
+    [
+      "#",
+      "N",
+      "#",
+      "U",
+      "V",
+      "E",
+      "A",
+      "#",
+      "A",
+      "C",
+      "E"
+    ],
+    [
+      "R",
+      "E",
+      "E",
+      "#",
+      "E",
+      "T",
+      "N",
+      "I",
+      "C",
+      "I",
+      "#"
+    ],
+    [
+      "I",
+      "#",
+      "D",
+      "A",
+      "N",
+      "A",
+      "E",
+      "#",
+      "F",
+      "U",
+      "P"
+    ],
+    [
+      "P",
+      "I",
+      "P",
+      "A",
+      "#",
+      "N",
+      "S",
+      "A",
+      "#",
+      "T",
+      "T"
+    ],
+    [
+      "A",
+      "#",
+      "#",
+      "A",
+      "#",
+      "O",
+      "I",
+      "#",
+      "#",
+      "I",
+      "P"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Il cuore della Tanzania",
+        "row": 0,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 3,
+        "clue": "Un indimenticato Placido (iniz.)",
+        "row": 0,
+        "col": 4,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "clue": "La Giorgi attrice",
+        "row": 1,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "Pianta detta gigaro",
+        "row": 1,
+        "col": 3,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "Offuscati dal vino",
+        "row": 1,
+        "col": 7,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 12,
+        "clue": "Il generale napoleonico fatto principe della Moscova",
+        "row": 2,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 14,
+        "clue": "La bella Hidding",
+        "row": 2,
+        "col": 4,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 17,
+        "clue": "Il professionista con l'archivio",
+        "row": 3,
+        "col": 1,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 19,
+        "clue": "Prefisso per venti",
+        "row": 3,
+        "col": 8,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 21,
+        "clue": "Il partito di Kohl (sigla)",
+        "row": 4,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 22,
+        "clue": "La valuta della Croazia",
+        "row": 4,
+        "col": 4,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 25,
+        "clue": "Le prime di Wilson",
+        "row": 5,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 26,
+        "clue": "Un altro modo un po' scherzoso per riferirsi al \"lato B\".",
+        "row": 5,
+        "col": 3,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 27,
+        "clue": "Pari nello scafo",
+        "row": 5,
+        "col": 9,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 30,
+        "clue": "Membrana media dell'occhio",
+        "row": 6,
+        "col": 3,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 31,
+        "clue": "Voce del tennis",
+        "row": 6,
+        "col": 8,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 32,
+        "clue": "Sono incarcerate",
+        "row": 7,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 34,
+        "clue": "Inerenti a un popolo",
+        "row": 7,
+        "col": 4,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 37,
+        "clue": "Venne amata da Zeus",
+        "row": 8,
+        "col": 2,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 39,
+        "clue": "Firenze University Press (sigla)",
+        "row": 8,
+        "col": 8,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 41,
+        "clue": "La fuma Sherlock Holmes",
+        "row": 9,
+        "col": 0,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 43,
+        "clue": "Agenzia per la Sicurezza Nazionale",
+        "row": 9,
+        "col": 5,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 45,
+        "clue": "Un coupé dell'Audi",
+        "row": 9,
+        "col": 9,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 48,
+        "clue": "Le vocali dei soci",
+        "row": 10,
+        "col": 5,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 49,
+        "clue": "Iniziali di Pizzetti",
+        "row": 10,
+        "col": 9,
+        "length": 2,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Filosofia orientale",
+        "row": 0,
+        "col": 0,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Libriccini con il calendario",
+        "row": 0,
+        "col": 1,
+        "length": 8,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Un ottimo obiettivo per una start up",
+        "row": 0,
+        "col": 4,
+        "length": 9,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Una materia plastica",
+        "row": 0,
+        "col": 5,
+        "length": 11,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Parcella inglese.",
+        "row": 0,
+        "col": 7,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Recipienti per mosto",
+        "row": 0,
+        "col": 10,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 10,
+        "clue": "Bibliografia Nazionale Italiana",
+        "row": 1,
+        "col": 8,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 13,
+        "clue": "Tu... in inglese",
+        "row": 2,
+        "col": 2,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 15,
+        "clue": "Fondò \"L'Italiano\" e \"Il Borghese\"",
+        "row": 2,
+        "col": 6,
+        "length": 9,
+        "direction": "down"
+      },
+      {
+        "number": 20,
+        "clue": "Hanno la testa dura",
+        "row": 3,
+        "col": 9,
+        "length": 8,
+        "direction": "down"
+      },
+      {
+        "number": 21,
+        "clue": "Copy-Writer",
+        "row": 4,
+        "col": 0,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 23,
+        "clue": "Pari in gara",
+        "row": 4,
+        "col": 7,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 26,
+        "clue": "Un successo di Umberto Tozzi",
+        "row": 5,
+        "col": 3,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 28,
+        "clue": "La città estense",
+        "row": 5,
+        "col": 10,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 31,
+        "clue": "Automobil Club di Francia",
+        "row": 6,
+        "col": 8,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 32,
+        "clue": "Scarpata scoscesa",
+        "row": 7,
+        "col": 0,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 33,
+        "clue": "Il criminale De Pedis che è stato il \"Dandi\" nella fiction \"Romanzo Criminale\" (iniz.)",
+        "row": 7,
+        "col": 2,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 38,
+        "clue": "Le pile ministilo",
+        "row": 8,
+        "col": 3,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 40,
+        "clue": "Posto Telefonico Pubblico",
+        "row": 8,
+        "col": 10,
+        "length": 3,
+        "direction": "down"
+      }
+    ]
+  }
+}

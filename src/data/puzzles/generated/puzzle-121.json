@@ -1,0 +1,184 @@
+{
+  "id": "121",
+  "title": "Puzzle 121",
+  "size": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "D",
+      "Y",
+      "#",
+      "S",
+      "I"
+    ],
+    [
+      "R",
+      "E",
+      "G",
+      "A",
+      "N"
+    ],
+    [
+      "U",
+      "N",
+      "I",
+      "C",
+      "A"
+    ],
+    [
+      "S",
+      "T",
+      "A",
+      "R",
+      "R"
+    ],
+    [
+      "I",
+      "L",
+      "#",
+      "O",
+      "I"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Gli inizi di Dylan",
+        "row": 0,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 3,
+        "clue": "Le hanno saggi e scemi",
+        "row": 0,
+        "col": 3,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 5,
+        "clue": "Una figlia di re Lear",
+        "row": 1,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "clue": "Lo è una cosa senza uguali",
+        "row": 2,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "Ringo tra piatti e tamburi",
+        "row": 3,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "In mezzo a Scilla",
+        "row": 4,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "Lo Ioseliani de I favoriti della luna (iniziali)",
+        "row": 4,
+        "col": 3,
+        "length": 2,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Popolazione araba del Libano meridionale",
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Lo diresse e interpretò Barbra Streisand",
+        "row": 0,
+        "col": 1,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Destinato al culto divino",
+        "row": 0,
+        "col": 3,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Grande lago della Lapponia",
+        "row": 0,
+        "col": 4,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Per l'appunto",
+        "row": 1,
+        "col": 2,
+        "length": 3,
+        "direction": "down"
+      }
+    ]
+  }
+}

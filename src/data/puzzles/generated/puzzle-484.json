@@ -1,0 +1,624 @@
+{
+  "id": "484",
+  "title": "Puzzle 484",
+  "size": {
+    "rows": 11,
+    "cols": 11
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "#",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "#",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "#",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "C",
+      "S",
+      "C",
+      "#",
+      "A",
+      "N",
+      "N",
+      "#",
+      "P",
+      "Q",
+      "#"
+    ],
+    [
+      "#",
+      "M",
+      "I",
+      "S",
+      "S",
+      "#",
+      "A",
+      "#",
+      "O",
+      "U",
+      "I"
+    ],
+    [
+      "A",
+      "A",
+      "A",
+      "#",
+      "H",
+      "O",
+      "R",
+      "A",
+      "C",
+      "E",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "K",
+      "K",
+      "K",
+      "#",
+      "C",
+      "M",
+      "#",
+      "S",
+      "#"
+    ],
+    [
+      "S",
+      "P",
+      "#",
+      "A",
+      "E",
+      "R",
+      "O",
+      "M",
+      "O",
+      "T",
+      "O"
+    ],
+    [
+      "G",
+      "L",
+      "E",
+      "N",
+      "N",
+      "#",
+      "L",
+      "I",
+      "K",
+      "U",
+      "D"
+    ],
+    [
+      "C",
+      "E",
+      "R",
+      "T",
+      "A",
+      "M",
+      "E",
+      "N",
+      "#",
+      "E",
+      "A"
+    ],
+    [
+      "#",
+      "T",
+      "#",
+      "O",
+      "Z",
+      "#",
+      "S",
+      "E",
+      "T",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "T",
+      "O",
+      "R",
+      "I",
+      "E",
+      "S",
+      "#",
+      "H",
+      "I",
+      "T"
+    ],
+    [
+      "A",
+      "R",
+      "R",
+      "#",
+      "T",
+      "#",
+      "I",
+      "D",
+      "O",
+      "L",
+      "#"
+    ],
+    [
+      "#",
+      "I",
+      "L",
+      "#",
+      "I",
+      "V",
+      "A",
+      "#",
+      "T",
+      "L",
+      "L"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Centro Sperimentale di Cinematografia",
+        "row": 0,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 4,
+        "clue": "La romanziera Radcliffe",
+        "row": 0,
+        "col": 4,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "clue": "Precedono la R",
+        "row": 0,
+        "col": 8,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "La prima tra le belle",
+        "row": 1,
+        "col": 1,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 12,
+        "clue": "Sì, mon ami",
+        "row": 1,
+        "col": 8,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 14,
+        "clue": "Introducono molti annunci economici",
+        "row": 2,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 15,
+        "clue": "Il Walpole considerato l'iniziatore del \"romanzo nero\"",
+        "row": 2,
+        "col": 4,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 18,
+        "clue": "Una sigla razzista",
+        "row": 3,
+        "col": 2,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 20,
+        "clue": "Centimetro in breve",
+        "row": 3,
+        "col": 6,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 22,
+        "clue": "Spesso comincia cosi",
+        "row": 4,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 24,
+        "clue": "Lo causa una violenta esplosione o la caduta d'una valanga",
+        "row": 4,
+        "col": 3,
+        "length": 8,
+        "direction": "across"
+      },
+      {
+        "number": 28,
+        "clue": "Un Ford del cinema",
+        "row": 5,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 30,
+        "clue": "Il partito di Sharon",
+        "row": 5,
+        "col": 6,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 31,
+        "clue": "Il cimento dei latinisti",
+        "row": 6,
+        "col": 0,
+        "length": 8,
+        "direction": "across"
+      },
+      {
+        "number": 33,
+        "clue": "Confini d'Emilia",
+        "row": 6,
+        "col": 9,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 35,
+        "clue": "Il suo mago è famoso",
+        "row": 7,
+        "col": 3,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 36,
+        "clue": "Incontro tra tennisti",
+        "row": 7,
+        "col": 6,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 38,
+        "clue": "Così sono detti i Conservatori inglesi",
+        "row": 8,
+        "col": 1,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 41,
+        "clue": "Brano musicale di successo",
+        "row": 8,
+        "col": 8,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 44,
+        "clue": "Arrivo (abbr.)",
+        "row": 9,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 46,
+        "clue": "Billy in musica",
+        "row": 9,
+        "col": 6,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 48,
+        "clue": "Articolo che non si vende!",
+        "row": 10,
+        "col": 1,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 49,
+        "clue": "Un'imposta in sigla",
+        "row": 10,
+        "col": 4,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 51,
+        "clue": "Le consonanti di Tullio",
+        "row": 10,
+        "col": 8,
+        "length": 3,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 2,
+        "clue": "Scuola Militare Alpina",
+        "row": 0,
+        "col": 1,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": ".... si gira!",
+        "row": 0,
+        "col": 2,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Gli Ebrei che abitavano l' Europa orientale",
+        "row": 0,
+        "col": 4,
+        "length": 11,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Sonno invincibile",
+        "row": 0,
+        "col": 6,
+        "length": 11,
+        "direction": "down"
+      },
+      {
+        "number": 7,
+        "clue": "Per Opportuna Conoscenza (sigla)",
+        "row": 0,
+        "col": 8,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 8,
+        "clue": "Richieste pubbliche di denaro",
+        "row": 0,
+        "col": 9,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 17,
+        "clue": "Una classe di composti dell'ammoniaca",
+        "row": 2,
+        "col": 7,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 19,
+        "clue": "Tadeusz pittore",
+        "row": 3,
+        "col": 3,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 22,
+        "clue": "Strada di Grande Comunicazione (sigla)",
+        "row": 4,
+        "col": 0,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 23,
+        "clue": "Le... penne dei chitarristi",
+        "row": 4,
+        "col": 1,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 26,
+        "clue": "Consenso negli USA",
+        "row": 4,
+        "col": 8,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 27,
+        "clue": "Opera Diocesana di Assistenza",
+        "row": 4,
+        "col": 10,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 29,
+        "clue": "La serie che rese celebre Clooney",
+        "row": 5,
+        "col": 2,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 37,
+        "clue": "Dio lunare degli egizi",
+        "row": 7,
+        "col": 8,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 39,
+        "clue": "OtoRinoLaringoiatria (sigla)",
+        "row": 8,
+        "col": 2,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 42,
+        "clue": "Equivale a egr.",
+        "row": 8,
+        "col": 9,
+        "length": 3,
+        "direction": "down"
+      }
+    ]
+  }
+}

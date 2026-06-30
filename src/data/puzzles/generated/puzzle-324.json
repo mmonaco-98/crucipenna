@@ -1,0 +1,296 @@
+{
+  "id": "324",
+  "title": "Puzzle 324",
+  "size": {
+    "rows": 7,
+    "cols": 7
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "#",
+      "#",
+      "",
+      "#",
+      "#",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "I",
+      "R",
+      "I",
+      "D",
+      "A",
+      "T",
+      "O"
+    ],
+    [
+      "A",
+      "R",
+      "S",
+      "E",
+      "L",
+      "L",
+      "A"
+    ],
+    [
+      "E",
+      "R",
+      "E",
+      "B",
+      "U",
+      "S",
+      "#"
+    ],
+    [
+      "A",
+      "#",
+      "#",
+      "O",
+      "#",
+      "#",
+      "M"
+    ],
+    [
+      "#",
+      "T",
+      "A",
+      "R",
+      "A",
+      "T",
+      "E"
+    ],
+    [
+      "K",
+      "A",
+      "R",
+      "A",
+      "C",
+      "H",
+      "I"
+    ],
+    [
+      "R",
+      "I",
+      "C",
+      "H",
+      "T",
+      "E",
+      "R"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Ciclista che vince un campionato del mondo",
+        "row": 0,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "Saporito mollusco bivalve",
+        "row": 1,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "Vulcano dell'Antartide",
+        "row": 2,
+        "col": 0,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 13,
+        "clue": "Affette da un male nascosto",
+        "row": 4,
+        "col": 1,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 17,
+        "clue": "Fu capitale del Pakistan",
+        "row": 5,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 18,
+        "clue": "Lo Sviatoslav grande pianista",
+        "row": 6,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "International Atomic Energy Agency (sigla).",
+        "row": 0,
+        "col": 0,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Tre in errore",
+        "row": 0,
+        "col": 1,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Istituto Studi Economia",
+        "row": 0,
+        "col": 2,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "La Compagnoni sciatrice",
+        "row": 0,
+        "col": 3,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Al centro della scialuppa",
+        "row": 0,
+        "col": 4,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Prestigioso settimanale culturale (sigla)",
+        "row": 0,
+        "col": 5,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 7,
+        "clue": "Le hanno il fantoccio e il pupazzo",
+        "row": 0,
+        "col": 6,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 12,
+        "clue": "Golda, famosa donna politica israeliana",
+        "row": 3,
+        "col": 6,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 13,
+        "clue": "La ginnastica ... ji quan",
+        "row": 4,
+        "col": 1,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 14,
+        "clue": "Si getta nell'Isere",
+        "row": 4,
+        "col": 2,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 15,
+        "clue": "Decreto all'inglese",
+        "row": 4,
+        "col": 4,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 16,
+        "clue": "Vale il a Manchester",
+        "row": 4,
+        "col": 5,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 17,
+        "clue": "Simbolo del Kripton",
+        "row": 5,
+        "col": 0,
+        "length": 2,
+        "direction": "down"
+      }
+    ]
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "id": "163",
+  "title": "Puzzle 163",
+  "size": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "L",
+      "A",
+      "S",
+      "A",
+      "#"
+    ],
+    [
+      "U",
+      "S",
+      "U",
+      "R",
+      "E"
+    ],
+    [
+      "I",
+      "S",
+      "O",
+      "L",
+      "A"
+    ],
+    [
+      "S",
+      "A",
+      "L",
+      "E",
+      "S"
+    ],
+    [
+      "#",
+      "M",
+      "A",
+      "S",
+      "T"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "In prov. di Bolzano",
+        "row": 0,
+        "col": 0,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 5,
+        "clue": "Prestiti a interessi altissimi",
+        "row": 1,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "clue": "È misteriosa quella di Verne",
+        "row": 2,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "Un San Franceso",
+        "row": 3,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "Un importante centro culturale a Bologna (sigla)",
+        "row": 4,
+        "col": 1,
+        "length": 4,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Il grande Bunuel",
+        "row": 0,
+        "col": 0,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "La regione più orientale dell'India",
+        "row": 0,
+        "col": 1,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "La parte più sporca della scarpa",
+        "row": 0,
+        "col": 2,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Vi terminava la via Aurelia",
+        "row": 0,
+        "col": 3,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "E in latino",
+        "row": 1,
+        "col": 4,
+        "length": 4,
+        "direction": "down"
+      }
+    ]
+  }
+}

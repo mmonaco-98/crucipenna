@@ -1,0 +1,296 @@
+{
+  "id": "376",
+  "title": "Puzzle 376",
+  "size": {
+    "rows": 7,
+    "cols": 7
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "Y",
+      "E",
+      "#",
+      "S",
+      "P",
+      "E",
+      "C"
+    ],
+    [
+      "A",
+      "L",
+      "I",
+      "C",
+      "E",
+      "#",
+      "A"
+    ],
+    [
+      "N",
+      "I",
+      "C",
+      "O",
+      "L",
+      "A",
+      "S"
+    ],
+    [
+      "K",
+      "C",
+      "#",
+      "O",
+      "#",
+      "C",
+      "O"
+    ],
+    [
+      "E",
+      "A",
+      "S",
+      "T",
+      "H",
+      "A",
+      "M"
+    ],
+    [
+      "E",
+      "#",
+      "P",
+      "E",
+      "Z",
+      "Z",
+      "A"
+    ],
+    [
+      "S",
+      "A",
+      "D",
+      "R",
+      "#",
+      "I",
+      "I"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Le ha in testa lo yeti",
+        "row": 0,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 3,
+        "clue": "Specialità in breve",
+        "row": 0,
+        "col": 3,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "clue": "Un pesciolino da antipasto",
+        "row": 1,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "Il Cage di Hollywood",
+        "row": 2,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 12,
+        "clue": "Un Kevin di Hollywood (iniz)",
+        "row": 3,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 14,
+        "clue": "Li inseguono in bilico",
+        "row": 3,
+        "col": 5,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 15,
+        "clue": "Quartiere di Londra",
+        "row": 4,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 19,
+        "clue": "Quadrato di stoffa per rattoppare",
+        "row": 5,
+        "col": 2,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 20,
+        "clue": "Bani che fu presidente iraniano",
+        "row": 6,
+        "col": 0,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 22,
+        "clue": "Il due di Tacito",
+        "row": 6,
+        "col": 5,
+        "length": 2,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Uno slogan li invitava: go home",
+        "row": 0,
+        "col": 0,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "In molti vecchi aerei era frontale",
+        "row": 0,
+        "col": 1,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Motorino",
+        "row": 0,
+        "col": 3,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Per articolo",
+        "row": 0,
+        "col": 4,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Nell'ipotesi in cui",
+        "row": 0,
+        "col": 6,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 8,
+        "clue": "La fine di Milosevic",
+        "row": 1,
+        "col": 2,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 11,
+        "clue": "Veloci imbarcazioni dell'antica Grecia",
+        "row": 2,
+        "col": 5,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 16,
+        "clue": "Il partito di Schroeder sigla",
+        "row": 4,
+        "col": 2,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 17,
+        "clue": "Il simbolo dell' hertz",
+        "row": 4,
+        "col": 4,
+        "length": 2,
+        "direction": "down"
+      }
+    ]
+  }
+}

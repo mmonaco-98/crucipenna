@@ -1,0 +1,296 @@
+{
+  "id": "437",
+  "title": "Puzzle 437",
+  "size": {
+    "rows": 7,
+    "cols": 7
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "S",
+      "T",
+      "A",
+      "I",
+      "A",
+      "#",
+      "S"
+    ],
+    [
+      "T",
+      "A",
+      "R",
+      "E",
+      "#",
+      "O",
+      "C"
+    ],
+    [
+      "U",
+      "B",
+      "I",
+      "#",
+      "U",
+      "M",
+      "A"
+    ],
+    [
+      "F",
+      "R",
+      "E",
+      "S",
+      "N",
+      "E",
+      "L"
+    ],
+    [
+      "A",
+      "I",
+      "L",
+      "#",
+      "I",
+      "S",
+      "A"
+    ],
+    [
+      "T",
+      "Z",
+      "#",
+      "L",
+      "O",
+      "S",
+      "T"
+    ],
+    [
+      "I",
+      "#",
+      "E",
+      "T",
+      "N",
+      "E",
+      "I"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Misure per granaglie",
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "clue": "Difetti ereditari",
+        "row": 1,
+        "col": 0,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "L'antica lingua dei felibri",
+        "row": 1,
+        "col": 5,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "Gruppo bancario che si è fuso con Intesa Sanpaolo",
+        "row": 2,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "Nome dell'attrice Thurman",
+        "row": 2,
+        "col": 4,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 11,
+        "clue": "Il grande fisico francese noto per le speciali lenti",
+        "row": 3,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 13,
+        "clue": "Armata Italiana della Libertà (sigla).",
+        "row": 4,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 14,
+        "clue": "Nome della Barzizza del cinema",
+        "row": 4,
+        "col": 4,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 15,
+        "clue": "Le consonanti di Tazio",
+        "row": 5,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 16,
+        "clue": "Telefilm di grande successo che parla di naufraghi",
+        "row": 5,
+        "col": 3,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 18,
+        "clue": "Relativi alle zone intorno al Mongibello",
+        "row": 6,
+        "col": 2,
+        "length": 5,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Piatti di carne che richiedono una lunga cottura",
+        "row": 0,
+        "col": 0,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Città dell'Iran",
+        "row": 0,
+        "col": 1,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Spiritello shakespeariano",
+        "row": 0,
+        "col": 2,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Estreme d'indole",
+        "row": 0,
+        "col": 3,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Affrontati dall'alpinista",
+        "row": 0,
+        "col": 6,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 8,
+        "clue": "Tralasciate, non citate",
+        "row": 1,
+        "col": 5,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 10,
+        "clue": "Sindacato americano",
+        "row": 2,
+        "col": 4,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 16,
+        "clue": "Lite senza pari",
+        "row": 5,
+        "col": 3,
+        "length": 2,
+        "direction": "down"
+      }
+    ]
+  }
+}

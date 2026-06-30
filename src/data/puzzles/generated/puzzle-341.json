@@ -1,0 +1,272 @@
+{
+  "id": "341",
+  "title": "Puzzle 341",
+  "size": {
+    "rows": 7,
+    "cols": 7
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "V",
+      "L",
+      "#",
+      "B",
+      "O",
+      "A",
+      "C"
+    ],
+    [
+      "#",
+      "A",
+      "D",
+      "O",
+      "R",
+      "N",
+      "E"
+    ],
+    [
+      "#",
+      "T",
+      "I",
+      "L",
+      "S",
+      "I",
+      "T"
+    ],
+    [
+      "I",
+      "T",
+      "A",
+      "L",
+      "I",
+      "C",
+      "I"
+    ],
+    [
+      "S",
+      "A",
+      "L",
+      "I",
+      "N",
+      "I",
+      "#"
+    ],
+    [
+      "B",
+      "R",
+      "E",
+      "T",
+      "O",
+      "N",
+      "#"
+    ],
+    [
+      "A",
+      "I",
+      "R",
+      "E",
+      "#",
+      "O",
+      "E"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "La Vivian di \"Via col vento\" (iniz.)",
+        "row": 0,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 3,
+        "clue": "Sigla di una ex compagnia aerea inglese",
+        "row": 0,
+        "col": 3,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "clue": "Agghindate, abbellite",
+        "row": 1,
+        "col": 1,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "Tipico formaggio svizzero",
+        "row": 2,
+        "col": 1,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "I popoli dello Stivale",
+        "row": 3,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 11,
+        "clue": "Tommaso pittore",
+        "row": 4,
+        "col": 0,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 12,
+        "clue": "André poeta",
+        "row": 5,
+        "col": 0,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 13,
+        "clue": "Si prende per saltare",
+        "row": 6,
+        "col": 0,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 14,
+        "clue": "Nelle torte e nelle focacce",
+        "row": 6,
+        "col": 5,
+        "length": 2,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 2,
+        "clue": "Funghi color rossiccio",
+        "row": 0,
+        "col": 1,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Cotte nell' acqua",
+        "row": 0,
+        "col": 3,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Un personaggio de \"La dodicesima notte\" di Shakespeare",
+        "row": 0,
+        "col": 4,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Un biscottino aromatico",
+        "row": 0,
+        "col": 5,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Molti sono medi",
+        "row": 0,
+        "col": 6,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 8,
+        "clue": "Compositore automatico di numeri di telefono",
+        "row": 1,
+        "col": 2,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 10,
+        "clue": "Casa nella steppa",
+        "row": 3,
+        "col": 0,
+        "length": 4,
+        "direction": "down"
+      }
+    ]
+  }
+}

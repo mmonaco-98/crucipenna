@@ -1,0 +1,168 @@
+{
+  "id": "130",
+  "title": "Puzzle 130",
+  "size": {
+    "rows": 5,
+    "cols": 5
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "S",
+      "A",
+      "N",
+      "I",
+      "#"
+    ],
+    [
+      "A",
+      "C",
+      "A",
+      "Z",
+      "I"
+    ],
+    [
+      "M",
+      "A",
+      "R",
+      "M",
+      "O"
+    ],
+    [
+      "P",
+      "I",
+      "N",
+      "I",
+      "N"
+    ],
+    [
+      "#",
+      "A",
+      "I",
+      "R",
+      "E"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Stanno bene in salute",
+        "row": 0,
+        "col": 0,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 5,
+        "clue": "Veloci imbarcazioni dell'antica Grecia",
+        "row": 1,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "clue": "Quello di Carrara è esportato nel mondo",
+        "row": 2,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "Il Farina delle carrozzerie",
+        "row": 3,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "Il primo impulso",
+        "row": 4,
+        "col": 1,
+        "length": 4,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Squadra di calcio genovese... per i tifosi",
+        "row": 0,
+        "col": 0,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "La provincia greca con Patrasso",
+        "row": 0,
+        "col": 1,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "La città di un noto Erasmo",
+        "row": 0,
+        "col": 2,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "La Smirne dei turchi",
+        "row": 0,
+        "col": 3,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Atomo carico elettricamente",
+        "row": 1,
+        "col": 4,
+        "length": 4,
+        "direction": "down"
+      }
+    ]
+  }
+}

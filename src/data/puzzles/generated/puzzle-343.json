@@ -1,0 +1,256 @@
+{
+  "id": "343",
+  "title": "Puzzle 343",
+  "size": {
+    "rows": 7,
+    "cols": 7
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      "#",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "#",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "S",
+      "O",
+      "L",
+      "I",
+      "N",
+      "G",
+      "A"
+    ],
+    [
+      "F",
+      "R",
+      "A",
+      "#",
+      "#",
+      "#",
+      "U"
+    ],
+    [
+      "E",
+      "L",
+      "I",
+      "N",
+      "V",
+      "A",
+      "R"
+    ],
+    [
+      "R",
+      "O",
+      "N",
+      "C",
+      "A",
+      "R",
+      "E"
+    ],
+    [
+      "I",
+      "N",
+      "G",
+      "O",
+      "R",
+      "G",
+      "O"
+    ],
+    [
+      "C",
+      "#",
+      "#",
+      "#",
+      "I",
+      "A",
+      "L"
+    ],
+    [
+      "A",
+      "M",
+      "A",
+      "R",
+      "O",
+      "N",
+      "E"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Solitaria, deserta",
+        "row": 0,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "In mezzo",
+        "row": 1,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "Lega di più metalli molto resistente",
+        "row": 2,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 14,
+        "clue": "Tagliare con la ronca",
+        "row": 3,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 15,
+        "clue": "Blocca la circolazione",
+        "row": 4,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 17,
+        "clue": "Istituto Addestramento Lavoratori",
+        "row": 5,
+        "col": 4,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 18,
+        "clue": "Vino della Valpolicella",
+        "row": 6,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "La forma della terra",
+        "row": 0,
+        "col": 0,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Una fibra artificiale",
+        "row": 0,
+        "col": 1,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Un maestro dell'antipsichiatria",
+        "row": 0,
+        "col": 2,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 7,
+        "clue": "Le corone dei Santi",
+        "row": 0,
+        "col": 6,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 11,
+        "clue": "La comandava Cutolo (sigla)",
+        "row": 2,
+        "col": 3,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 12,
+        "clue": "Il mondo, poiché è così, è bello",
+        "row": 2,
+        "col": 4,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 13,
+        "clue": "Storico dell'arte e sindaco romano",
+        "row": 2,
+        "col": 5,
+        "length": 5,
+        "direction": "down"
+      }
+    ]
+  }
+}

@@ -1,0 +1,304 @@
+{
+  "id": "445",
+  "title": "Puzzle 445",
+  "size": {
+    "rows": 7,
+    "cols": 7
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "G",
+      "B",
+      "#",
+      "E",
+      "G",
+      "R",
+      "A"
+    ],
+    [
+      "R",
+      "I",
+      "T",
+      "U",
+      "A",
+      "L",
+      "E"
+    ],
+    [
+      "A",
+      "N",
+      "#",
+      "R",
+      "N",
+      "#",
+      "R"
+    ],
+    [
+      "N",
+      "O",
+      "V",
+      "I",
+      "Z",
+      "I",
+      "O"
+    ],
+    [
+      "I",
+      "#",
+      "I",
+      "A",
+      "#",
+      "N",
+      "V"
+    ],
+    [
+      "C",
+      "I",
+      "C",
+      "L",
+      "A",
+      "D",
+      "I"
+    ],
+    [
+      "O",
+      "S",
+      "I",
+      "O",
+      "#",
+      "Y",
+      "A"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Il Regno Unito sulle auto",
+        "row": 0,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 3,
+        "clue": "Inferma, ammalata",
+        "row": 0,
+        "col": 3,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "clue": "Si segue nelle cerimonie",
+        "row": 1,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "Provincia di Senigallia (sigla)",
+        "row": 2,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "Nel... mezzo della giornata",
+        "row": 2,
+        "col": 3,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 12,
+        "clue": "È da poco nell'ordine",
+        "row": 3,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 16,
+        "clue": "In Fiat",
+        "row": 4,
+        "col": 2,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 17,
+        "clue": "Neve senza pari",
+        "row": 4,
+        "col": 5,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 18,
+        "clue": "Le isole con Milo",
+        "row": 5,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 21,
+        "clue": "In provincia di Bergamo c'è quello di Sopra e quello di Sotto",
+        "row": 6,
+        "col": 0,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 22,
+        "clue": "La prua dello... yacht",
+        "row": 6,
+        "col": 5,
+        "length": 2,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Fiume dell'Anatolia",
+        "row": 0,
+        "col": 0,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Doppio, accoppiato",
+        "row": 0,
+        "col": 1,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Il mitico amico di Niso",
+        "row": 0,
+        "col": 3,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Il Bruno di Pane e tulipani",
+        "row": 0,
+        "col": 4,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Iniziali del regista Lester",
+        "row": 0,
+        "col": 5,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "La percorre il boeing",
+        "row": 0,
+        "col": 6,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 13,
+        "clue": "Dopo... veni e vidi",
+        "row": 3,
+        "col": 2,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 14,
+        "clue": "Una formula automobilistica",
+        "row": 3,
+        "col": 5,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 19,
+        "clue": "Una delle sigle del Daesh",
+        "row": 5,
+        "col": 1,
+        "length": 2,
+        "direction": "down"
+      }
+    ]
+  }
+}

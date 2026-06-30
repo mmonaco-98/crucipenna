@@ -1,0 +1,288 @@
+{
+  "id": "306",
+  "title": "Puzzle 306",
+  "size": {
+    "rows": 7,
+    "cols": 7
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "I",
+      "O",
+      "D",
+      "U",
+      "R",
+      "I",
+      "#"
+    ],
+    [
+      "S",
+      "C",
+      "O",
+      "V",
+      "A",
+      "R",
+      "E"
+    ],
+    [
+      "A",
+      "#",
+      "R",
+      "A",
+      "T",
+      "T",
+      "A"
+    ],
+    [
+      "R",
+      "P",
+      "M",
+      "#",
+      "E",
+      "E",
+      "G"
+    ],
+    [
+      "C",
+      "O",
+      "I",
+      "R",
+      "A",
+      "#",
+      "L"
+    ],
+    [
+      "O",
+      "S",
+      "T",
+      "E",
+      "R",
+      "I",
+      "E"
+    ],
+    [
+      "#",
+      "E",
+      "A",
+      "T",
+      "E",
+      "R",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Sali usati nella fotografia",
+        "row": 0,
+        "col": 0,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "clue": "Scoprire in un nascondiglio",
+        "row": 1,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "Lesta, veloce",
+        "row": 2,
+        "col": 2,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 11,
+        "clue": "Revolutions per Minute (sigla).",
+        "row": 3,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 13,
+        "clue": "L'esame al cervello (sigla)",
+        "row": 3,
+        "col": 4,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 14,
+        "clue": "Il capoluogo dei Grigioni",
+        "row": 4,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 17,
+        "clue": "Trattorie, taverne",
+        "row": 5,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 19,
+        "clue": "I \"Lotus... \" di \"The First Picture of You\"",
+        "row": 6,
+        "col": 1,
+        "length": 6,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Fiume affluente dell'Adige",
+        "row": 0,
+        "col": 0,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Principio di Occidente",
+        "row": 0,
+        "col": 1,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Se è soda, ristora",
+        "row": 0,
+        "col": 2,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "È ricca di tannino",
+        "row": 0,
+        "col": 3,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Suddividere un pagamento",
+        "row": 0,
+        "col": 4,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Disseminate di difficoltà",
+        "row": 0,
+        "col": 5,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 8,
+        "clue": "I \"supporters\" sono quelli della Lazio",
+        "row": 1,
+        "col": 6,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 12,
+        "clue": "Contegni studiati",
+        "row": 3,
+        "col": 1,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 15,
+        "clue": "Resonance Energy Transfer (sigla)",
+        "row": 4,
+        "col": 3,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 18,
+        "clue": "Il centro della Stiria",
+        "row": 5,
+        "col": 5,
+        "length": 2,
+        "direction": "down"
+      }
+    ]
+  }
+}

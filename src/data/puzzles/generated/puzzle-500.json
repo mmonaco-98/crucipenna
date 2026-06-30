@@ -1,0 +1,840 @@
+{
+  "id": "500",
+  "title": "Puzzle 500",
+  "size": {
+    "rows": 13,
+    "cols": 13
+  },
+  "grid": [
+    [
+      "#",
+      "#",
+      "#",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "#",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "#",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "#",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "#",
+      "#",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "#",
+      "#",
+      "#"
+    ]
+  ],
+  "solution": [
+    [
+      "#",
+      "#",
+      "#",
+      "#",
+      "E",
+      "S",
+      "O",
+      "D",
+      "O",
+      "#",
+      "B",
+      "I",
+      "H"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "A",
+      "B",
+      "U",
+      "S",
+      "I",
+      "#",
+      "O",
+      "T",
+      "S",
+      "U"
+    ],
+    [
+      "#",
+      "#",
+      "T",
+      "R",
+      "A",
+      "P",
+      "#",
+      "F",
+      "K",
+      "#",
+      "#",
+      "P",
+      "D"
+    ],
+    [
+      "#",
+      "#",
+      "O",
+      "R",
+      "N",
+      "E",
+      "#",
+      "F",
+      "L",
+      "O",
+      "R",
+      "I",
+      "S"
+    ],
+    [
+      "E",
+      "#",
+      "#",
+      "#",
+      "I",
+      "R",
+      "T",
+      "E",
+      "#",
+      "A",
+      "F",
+      "R",
+      "O"
+    ],
+    [
+      "M",
+      "O",
+      "N",
+      "T",
+      "S",
+      "E",
+      "R",
+      "R",
+      "A",
+      "T",
+      "#",
+      "A",
+      "N"
+    ],
+    [
+      "#",
+      "T",
+      "#",
+      "A",
+      "T",
+      "N",
+      "#",
+      "E",
+      "R",
+      "E",
+      "#",
+      "R",
+      "#"
+    ],
+    [
+      "N",
+      "T",
+      "#",
+      "P",
+      "I",
+      "A",
+      "G",
+      "N",
+      "I",
+      "S",
+      "T",
+      "E",
+      "O"
+    ],
+    [
+      "I",
+      "U",
+      "T",
+      "A",
+      "#",
+      "L",
+      "A",
+      "Z",
+      "O",
+      "#",
+      "#",
+      "#",
+      "L"
+    ],
+    [
+      "E",
+      "R",
+      "A",
+      "S",
+      "M",
+      "O",
+      "#",
+      "I",
+      "S",
+      "I",
+      "M",
+      "#",
+      "#"
+    ],
+    [
+      "M",
+      "A",
+      "#",
+      "#",
+      "T",
+      "T",
+      "#",
+      "A",
+      "T",
+      "E",
+      "E",
+      "#",
+      "#"
+    ],
+    [
+      "E",
+      "T",
+      "T",
+      "I",
+      "#",
+      "T",
+      "A",
+      "L",
+      "E",
+      "A",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "N",
+      "I",
+      "I",
+      "#",
+      "M",
+      "O",
+      "R",
+      "E",
+      "A",
+      "#",
+      "#",
+      "#",
+      "#"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Emigrazione in massa",
+        "row": 0,
+        "col": 4,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 6,
+        "clue": "Sigla automobilistica della Bosnia-Erzegovina",
+        "row": 0,
+        "col": 10,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "Cose fatte contravvenendo alle regole",
+        "row": 1,
+        "col": 3,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "Può essere aquilino",
+        "row": 1,
+        "col": 9,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 11,
+        "clue": "Il grande allenatore Trapattoni per gli amici",
+        "row": 2,
+        "col": 2,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 12,
+        "clue": "Iniziali di Kafka",
+        "row": 2,
+        "col": 7,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 14,
+        "clue": "Iniziali del cantautore Daniele",
+        "row": 2,
+        "col": 11,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 15,
+        "clue": "Il dipartimento francese con Alencon",
+        "row": 3,
+        "col": 2,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 16,
+        "clue": "Un Giovanni dei talk show",
+        "row": 3,
+        "col": 7,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 20,
+        "clue": "Cosparse da aculei",
+        "row": 4,
+        "col": 4,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 22,
+        "clue": "Un Basaldella artista",
+        "row": 4,
+        "col": 9,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 23,
+        "clue": "La Caballé soprano",
+        "row": 5,
+        "col": 0,
+        "length": 10,
+        "direction": "across"
+      },
+      {
+        "number": 28,
+        "clue": "Fine di stunt-man",
+        "row": 5,
+        "col": 11,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 30,
+        "clue": "Azienda Turistica Nazionale",
+        "row": 6,
+        "col": 3,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 31,
+        "clue": "Si susseguono nella geologia",
+        "row": 6,
+        "col": 7,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 33,
+        "clue": "Non Trasferibile",
+        "row": 7,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 34,
+        "clue": "Invece di commuovere annoia",
+        "row": 7,
+        "col": 3,
+        "length": 10,
+        "direction": "across"
+      },
+      {
+        "number": 38,
+        "clue": "Una fibra simile alla canapa",
+        "row": 8,
+        "col": 0,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 40,
+        "clue": "Lo lancia il gaucho",
+        "row": 8,
+        "col": 5,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 42,
+        "clue": "Il grande pensatore di Rotterdam",
+        "row": 9,
+        "col": 0,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 44,
+        "clue": "Fiume della Siberia occidentale",
+        "row": 9,
+        "col": 7,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 47,
+        "clue": "Dubitativa",
+        "row": 10,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 48,
+        "clue": "Sono uguali in teatro",
+        "row": 10,
+        "col": 4,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 49,
+        "clue": "Donne prive di... fede",
+        "row": 10,
+        "col": 7,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 50,
+        "clue": "Sono dieci in un chilo",
+        "row": 11,
+        "col": 0,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 53,
+        "clue": "Una parte della pianta in grado di emettere radici",
+        "row": 11,
+        "col": 5,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 55,
+        "clue": "1200 romani",
+        "row": 12,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 56,
+        "clue": "Come era chiamato il Peloponneso nel Medioevo",
+        "row": 12,
+        "col": 4,
+        "length": 5,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Lavorano artisticamente i legni pregiati",
+        "row": 0,
+        "col": 4,
+        "length": 8,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Il concorso con sei numeri",
+        "row": 0,
+        "col": 5,
+        "length": 13,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Nei boschi e nelle foreste",
+        "row": 0,
+        "col": 6,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Meccanismo dell' automobile",
+        "row": 0,
+        "col": 7,
+        "length": 13,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Buoni del Tesoro",
+        "row": 0,
+        "col": 10,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 7,
+        "clue": "Stimolare la creatività",
+        "row": 0,
+        "col": 11,
+        "length": 8,
+        "direction": "down"
+      },
+      {
+        "number": 8,
+        "clue": "Fiume di New York",
+        "row": 0,
+        "col": 12,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 9,
+        "clue": "L'abbreviazione dell'\"arrival\"",
+        "row": 1,
+        "col": 3,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 11,
+        "clue": "Chiusura di concerto",
+        "row": 2,
+        "col": 2,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 13,
+        "clue": "Due lettere di Kleiber",
+        "row": 2,
+        "col": 8,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 17,
+        "clue": "Joyce Carol scrittrice",
+        "row": 3,
+        "col": 9,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 18,
+        "clue": "Le iniziali di Fucini",
+        "row": 3,
+        "col": 10,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 19,
+        "clue": "La parte centrale del tema",
+        "row": 4,
+        "col": 0,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 21,
+        "clue": "Un po' triste",
+        "row": 4,
+        "col": 6,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 24,
+        "clue": "Ostruiti",
+        "row": 5,
+        "col": 1,
+        "length": 8,
+        "direction": "down"
+      },
+      {
+        "number": 26,
+        "clue": "Stuzzicano gli spagnoli",
+        "row": 5,
+        "col": 3,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 27,
+        "clue": "Storica piazza ferrarese",
+        "row": 5,
+        "col": 8,
+        "length": 8,
+        "direction": "down"
+      },
+      {
+        "number": 33,
+        "clue": "Fiume della Bielorussia",
+        "row": 7,
+        "col": 0,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 35,
+        "clue": "Iniziali del regista Amelio",
+        "row": 7,
+        "col": 6,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 37,
+        "clue": "Iniziali dell'attore Lionello",
+        "row": 7,
+        "col": 12,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 39,
+        "clue": "Star in centro",
+        "row": 8,
+        "col": 2,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 43,
+        "clue": "Il comico di Ricomincio da tre (iniziali)",
+        "row": 9,
+        "col": 4,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 45,
+        "clue": "International Energy Agency",
+        "row": 9,
+        "col": 9,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 46,
+        "clue": "I confini del melone",
+        "row": 9,
+        "col": 10,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 51,
+        "clue": "Gli estremi dei tropici",
+        "row": 11,
+        "col": 2,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 54,
+        "clue": "La Ruggiero cantante (iniz.)",
+        "row": 11,
+        "col": 6,
+        "length": 2,
+        "direction": "down"
+      }
+    ]
+  }
+}

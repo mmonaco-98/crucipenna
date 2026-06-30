@@ -1,0 +1,280 @@
+{
+  "id": "380",
+  "title": "Puzzle 380",
+  "size": {
+    "rows": 7,
+    "cols": 7
+  },
+  "grid": [
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ]
+  ],
+  "solution": [
+    [
+      "#",
+      "C",
+      "A",
+      "I",
+      "N",
+      "C",
+      "A"
+    ],
+    [
+      "G",
+      "O",
+      "N",
+      "F",
+      "I",
+      "O",
+      "#"
+    ],
+    [
+      "O",
+      "R",
+      "C",
+      "#",
+      "N",
+      "R",
+      "O"
+    ],
+    [
+      "R",
+      "I",
+      "H",
+      "A",
+      "N",
+      "N",
+      "A"
+    ],
+    [
+      "I",
+      "F",
+      "I",
+      "#",
+      "A",
+      "A",
+      "S"
+    ],
+    [
+      "#",
+      "E",
+      "S",
+      "A",
+      "T",
+      "T",
+      "I"
+    ],
+    [
+      "P",
+      "O",
+      "E",
+      "S",
+      "I",
+      "E",
+      "#"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Nella medicina locale è utilizzata come antidoto per il morso di serpenti velenosi",
+        "row": 0,
+        "col": 1,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "clue": "Pieno come un otre",
+        "row": 1,
+        "col": 0,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "Offshore Rating Council (sigla)",
+        "row": 2,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "Un numero più in breve",
+        "row": 2,
+        "col": 4,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 11,
+        "clue": "La violenza del suo ultimo video è stata molto discussa",
+        "row": 3,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 13,
+        "clue": "La cassaforte degli Agnelli, ora chiamata Exor",
+        "row": 4,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 14,
+        "clue": "Azienda Autonoma di Soggiorno",
+        "row": 4,
+        "col": 4,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 15,
+        "clue": "Giusti, precisi",
+        "row": 5,
+        "col": 1,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 17,
+        "clue": "Si scrivono in versi",
+        "row": 6,
+        "col": 0,
+        "length": 6,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Un ruolo del teatro greco",
+        "row": 0,
+        "col": 1,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Il padre di Enea",
+        "row": 0,
+        "col": 2,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Se in Inghilterra",
+        "row": 0,
+        "col": 3,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Cullati come neonati",
+        "row": 0,
+        "col": 4,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Possono costare care ai toreri",
+        "row": 0,
+        "col": 5,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 7,
+        "clue": "Giorgio della tv e della politica lombarda",
+        "row": 1,
+        "col": 0,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 10,
+        "clue": "Ha le palme nel deserto",
+        "row": 2,
+        "col": 6,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 16,
+        "clue": "Si ripetono nel materasso",
+        "row": 5,
+        "col": 3,
+        "length": 2,
+        "direction": "down"
+      }
+    ]
+  }
+}

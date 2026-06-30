@@ -1,0 +1,272 @@
+{
+  "id": "389",
+  "title": "Puzzle 389",
+  "size": {
+    "rows": 7,
+    "cols": 7
+  },
+  "grid": [
+    [
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "M",
+      "#",
+      "C",
+      "E",
+      "D",
+      "R",
+      "I"
+    ],
+    [
+      "O",
+      "K",
+      "#",
+      "R",
+      "R",
+      "#",
+      "S"
+    ],
+    [
+      "R",
+      "A",
+      "M",
+      "E",
+      "O",
+      "S",
+      "O"
+    ],
+    [
+      "E",
+      "R",
+      "E",
+      "T",
+      "I",
+      "C",
+      "I"
+    ],
+    [
+      "S",
+      "T",
+      "A",
+      "R",
+      "T",
+      "U",
+      "P"
+    ],
+    [
+      "C",
+      "#",
+      "T",
+      "I",
+      "#",
+      "D",
+      "S"
+    ],
+    [
+      "A",
+      "R",
+      "I",
+      "A",
+      "L",
+      "#",
+      "A"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 2,
+        "clue": "Sorta di limoni le cui scorze si fanno candite",
+        "row": 0,
+        "col": 2,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "clue": "Va bene",
+        "row": 1,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "Gemelle di Volterra",
+        "row": 1,
+        "col": 3,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 11,
+        "clue": "Un composto del Cu monovalente",
+        "row": 2,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 14,
+        "clue": "Venivano scomunicati",
+        "row": 3,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 15,
+        "clue": "Un neonato sul lavoro",
+        "row": 4,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 17,
+        "clue": "In mezzo ai pasticci",
+        "row": 5,
+        "col": 2,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 18,
+        "clue": "I confini... di DalIas",
+        "row": 5,
+        "col": 5,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 19,
+        "clue": "Carattere tipografico",
+        "row": 6,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Antico ballo introdotto in Spagna dai Mori",
+        "row": 0,
+        "col": 0,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "L'antica città greca dove nacque il pittore Filosseno",
+        "row": 0,
+        "col": 3,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Il diritto francese",
+        "row": 0,
+        "col": 4,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "La linea che congiunge i punti di uguale quota",
+        "row": 0,
+        "col": 6,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 8,
+        "clue": "Piccola vettura da competizione",
+        "row": 1,
+        "col": 1,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 12,
+        "clue": "Forellini come i pori",
+        "row": 2,
+        "col": 2,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 13,
+        "clue": "Celebri missili anti-missile",
+        "row": 2,
+        "col": 5,
+        "length": 4,
+        "direction": "down"
+      }
+    ]
+  }
+}

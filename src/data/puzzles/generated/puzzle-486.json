@@ -1,0 +1,640 @@
+{
+  "id": "486",
+  "title": "Puzzle 486",
+  "size": {
+    "rows": 11,
+    "cols": 11
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "#",
+      "#",
+      "",
+      "",
+      "",
+      "#",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "#",
+      "",
+      "",
+      "",
+      "#",
+      "#",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "T",
+      "A",
+      "L",
+      "I",
+      "D",
+      "O",
+      "M",
+      "I",
+      "D",
+      "E",
+      "#"
+    ],
+    [
+      "U",
+      "M",
+      "A",
+      "#",
+      "A",
+      "R",
+      "A",
+      "N",
+      "C",
+      "I",
+      "A"
+    ],
+    [
+      "S",
+      "T",
+      "O",
+      "C",
+      "C",
+      "A",
+      "R",
+      "D",
+      "A",
+      "#",
+      "J"
+    ],
+    [
+      "A",
+      "#",
+      "#",
+      "#",
+      "O",
+      "R",
+      "C",
+      "#",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "V",
+      "I",
+      "N",
+      "#",
+      "I",
+      "E",
+      "N",
+      "E",
+      "#",
+      "#"
+    ],
+    [
+      "Q",
+      "E",
+      "#",
+      "O",
+      "L",
+      "#",
+      "L",
+      "I",
+      "#",
+      "V",
+      "M"
+    ],
+    [
+      "#",
+      "#",
+      "C",
+      "I",
+      "A",
+      "K",
+      "#",
+      "T",
+      "V",
+      "B",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "#",
+      "K",
+      "I",
+      "P",
+      "#",
+      "#",
+      "#",
+      "S"
+    ],
+    [
+      "V",
+      "#",
+      "S",
+      "P",
+      "E",
+      "L",
+      "O",
+      "N",
+      "C",
+      "H",
+      "E"
+    ],
+    [
+      "I",
+      "N",
+      "T",
+      "E",
+      "R",
+      "I",
+      "M",
+      "#",
+      "E",
+      "I",
+      "N"
+    ],
+    [
+      "#",
+      "P",
+      "R",
+      "I",
+      "S",
+      "M",
+      "A",
+      "T",
+      "I",
+      "C",
+      "I"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Sedativo sconsigliato alle gestanti",
+        "row": 0,
+        "col": 0,
+        "length": 10,
+        "direction": "across"
+      },
+      {
+        "number": 11,
+        "clue": "___ Thurman, attrice",
+        "row": 1,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 12,
+        "clue": "Se ne trae un'ottima spremuta",
+        "row": 1,
+        "col": 4,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 14,
+        "clue": "Città tedesca",
+        "row": 2,
+        "col": 0,
+        "length": 9,
+        "direction": "across"
+      },
+      {
+        "number": 18,
+        "clue": "Offshore Rating Council (sigla)",
+        "row": 3,
+        "col": 4,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 19,
+        "clue": "Il... santo ottimo con i cantucci",
+        "row": 4,
+        "col": 1,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 22,
+        "clue": "Immondi carnivori",
+        "row": 4,
+        "col": 5,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 25,
+        "clue": "La prima e l'ultima di quarantadue",
+        "row": 5,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 26,
+        "clue": "Poco oliato",
+        "row": 5,
+        "col": 3,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 28,
+        "clue": "Un avverbio di luogo",
+        "row": 5,
+        "col": 6,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 29,
+        "clue": "Cambiano i cervi in vermi",
+        "row": 5,
+        "col": 9,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 31,
+        "clue": ".... si gira!",
+        "row": 6,
+        "col": 2,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 33,
+        "clue": "Un'affettuosa sigla giovanile",
+        "row": 6,
+        "col": 7,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 35,
+        "clue": "La moneta del Laos",
+        "row": 7,
+        "col": 4,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 39,
+        "clue": "Rifugi da cavernicoli",
+        "row": 8,
+        "col": 2,
+        "length": 9,
+        "direction": "across"
+      },
+      {
+        "number": 44,
+        "clue": "Gestione provvisoria di una carica",
+        "row": 9,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 46,
+        "clue": "Uno a Dresda",
+        "row": 9,
+        "col": 8,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 47,
+        "clue": "Lo sono certi binocoli",
+        "row": 10,
+        "col": 1,
+        "length": 10,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Una ragazza del Nord",
+        "row": 0,
+        "col": 0,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Azienda Municipale Trasporti (sigla)",
+        "row": 0,
+        "col": 1,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Fiume che nasce dal Pollino",
+        "row": 0,
+        "col": 2,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Abitava la Dacia",
+        "row": 0,
+        "col": 4,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Si fissano per i turni",
+        "row": 0,
+        "col": 5,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 7,
+        "clue": "Il Marceau mimo",
+        "row": 0,
+        "col": 6,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 8,
+        "clue": "L'India sulle auto",
+        "row": 0,
+        "col": 7,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 9,
+        "clue": "Disturbo del Comportamento Alimentare (sigla)",
+        "row": 0,
+        "col": 8,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 10,
+        "clue": "La prima parola dell'ode manzoniana Il cinque maggio",
+        "row": 0,
+        "col": 9,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 13,
+        "clue": "Le ultime lettere di Nicolaj",
+        "row": 1,
+        "col": 10,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 19,
+        "clue": "Alla fine delle prove",
+        "row": 4,
+        "col": 1,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 21,
+        "clue": "Io, ma non da solo",
+        "row": 4,
+        "col": 3,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 23,
+        "clue": "Unità di brillanza",
+        "row": 4,
+        "col": 7,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 27,
+        "clue": "La squadra di basket di Los Angeles",
+        "row": 5,
+        "col": 4,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 29,
+        "clue": "Scrisse \"Il bell'Antonio\" (iniz.)",
+        "row": 5,
+        "col": 9,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 32,
+        "clue": "Tipo di tappeto anatolico",
+        "row": 6,
+        "col": 5,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 36,
+        "clue": "Carlo che fu uno dei martiri di Belfiore",
+        "row": 7,
+        "col": 6,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 37,
+        "clue": "Grembi materni",
+        "row": 7,
+        "col": 10,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 38,
+        "clue": "Mezzo vivo",
+        "row": 8,
+        "col": 0,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 39,
+        "clue": "Street (abbrev.)",
+        "row": 8,
+        "col": 2,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 40,
+        "clue": "Una preposizione articolata",
+        "row": 8,
+        "col": 3,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 42,
+        "clue": "Raccoglie i vescovi italiani (sigla)",
+        "row": 8,
+        "col": 8,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 43,
+        "clue": "Il qui latino",
+        "row": 8,
+        "col": 9,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 45,
+        "clue": "Porro passato da Rai a Mediaset (iniz.)",
+        "row": 9,
+        "col": 1,
+        "length": 2,
+        "direction": "down"
+      }
+    ]
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "id": "390",
+  "title": "Puzzle 390",
+  "size": {
+    "rows": 7,
+    "cols": 7
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "A",
+      "Q",
+      "U",
+      "A",
+      "G",
+      "Y",
+      "M"
+    ],
+    [
+      "E",
+      "T",
+      "T",
+      "O",
+      "R",
+      "E",
+      "#"
+    ],
+    [
+      "R",
+      "#",
+      "E",
+      "S",
+      "I",
+      "N",
+      "O"
+    ],
+    [
+      "E",
+      "#",
+      "R",
+      "T",
+      "S",
+      "#",
+      "S"
+    ],
+    [
+      "A",
+      "L",
+      "I",
+      "A",
+      "S",
+      "#",
+      "C"
+    ],
+    [
+      "#",
+      "A",
+      "N",
+      "N",
+      "O",
+      "S",
+      "A"
+    ],
+    [
+      "S",
+      "T",
+      "E",
+      "A",
+      "M",
+      "E",
+      "R"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Esercizi da fare in piscina",
+        "row": 0,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "Il troiano marito di Andromaca",
+        "row": 1,
+        "col": 0,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "Fiume delle Marche",
+        "row": 2,
+        "col": 2,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 13,
+        "clue": "Radio Télévision Suisse (sigla)",
+        "row": 3,
+        "col": 2,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 15,
+        "clue": "Al Capone, __ Scarface",
+        "row": 4,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 18,
+        "clue": "Datata, vecchia",
+        "row": 5,
+        "col": 1,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 20,
+        "clue": "Bastimento a vapore",
+        "row": 6,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Nè marittima, nè terrestre",
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Iniziali di Tarantino",
+        "row": 0,
+        "col": 1,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Relative a genitali femminili",
+        "row": 0,
+        "col": 2,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Una della Valle autonoma",
+        "row": 0,
+        "col": 3,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Noto astronauta americano che morì nel '67 durante un'esercitazione",
+        "row": 0,
+        "col": 4,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Li cambiano i turisti giapponesi che si recano all'estero",
+        "row": 0,
+        "col": 5,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 11,
+        "clue": "Un premio per... stelle",
+        "row": 2,
+        "col": 6,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 16,
+        "clue": "Latitudine",
+        "row": 4,
+        "col": 1,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 19,
+        "clue": "Sud-Est",
+        "row": 5,
+        "col": 5,
+        "length": 2,
+        "direction": "down"
+      }
+    ]
+  }
+}

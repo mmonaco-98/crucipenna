@@ -1,0 +1,272 @@
+{
+  "id": "406",
+  "title": "Puzzle 406",
+  "size": {
+    "rows": 7,
+    "cols": 7
+  },
+  "grid": [
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ]
+  ],
+  "solution": [
+    [
+      "#",
+      "S",
+      "C",
+      "O",
+      "O",
+      "P",
+      "#"
+    ],
+    [
+      "T",
+      "I",
+      "A",
+      "#",
+      "M",
+      "I",
+      "P"
+    ],
+    [
+      "R",
+      "E",
+      "T",
+      "T",
+      "I",
+      "L",
+      "I"
+    ],
+    [
+      "E",
+      "M",
+      "E",
+      "R",
+      "S",
+      "O",
+      "N"
+    ],
+    [
+      "V",
+      "E",
+      "R",
+      "I",
+      "S",
+      "T",
+      "I"
+    ],
+    [
+      "I",
+      "N",
+      "V",
+      "#",
+      "I",
+      "T",
+      "N"
+    ],
+    [
+      "#",
+      "S",
+      "A",
+      "L",
+      "S",
+      "O",
+      "#"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Giustifica... i titoloni",
+        "row": 0,
+        "col": 1,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 6,
+        "clue": "La zia degli Spagnoli",
+        "row": 1,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "clue": "Master in Ingegneria della Produzione (sigla)",
+        "row": 1,
+        "col": 4,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "Lo sono le tartarughe",
+        "row": 2,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 11,
+        "clue": "Celebre filosofo americano",
+        "row": 3,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 12,
+        "clue": "Fautori del crudo realismo",
+        "row": 4,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 13,
+        "clue": "Invariante (abbr.)",
+        "row": 5,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 14,
+        "clue": "Andato in poesia",
+        "row": 5,
+        "col": 4,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 15,
+        "clue": "Salato all'antica",
+        "row": 6,
+        "col": 1,
+        "length": 5,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Una nota società elettrotecnica tedesca",
+        "row": 0,
+        "col": 1,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Moltitudine disordinata",
+        "row": 0,
+        "col": 2,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Parola che sostituisce parti tralasciate",
+        "row": 0,
+        "col": 4,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Camillo, che fu noto attore drammatico",
+        "row": 0,
+        "col": 5,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "La più famosa fontana di Roma",
+        "row": 1,
+        "col": 0,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 8,
+        "clue": "Il Farina delle carrozzerie",
+        "row": 1,
+        "col": 6,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 10,
+        "clue": "Abbreviazione di Trident-jet",
+        "row": 2,
+        "col": 3,
+        "length": 3,
+        "direction": "down"
+      }
+    ]
+  }
+}

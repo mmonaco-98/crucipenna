@@ -1,0 +1,288 @@
+{
+  "id": "435",
+  "title": "Puzzle 435",
+  "size": {
+    "rows": 7,
+    "cols": 7
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "P",
+      "O",
+      "N",
+      "T",
+      "I",
+      "A",
+      "C"
+    ],
+    [
+      "#",
+      "M",
+      "A",
+      "R",
+      "E",
+      "T",
+      "T"
+    ],
+    [
+      "N",
+      "O",
+      "R",
+      "I",
+      "#",
+      "E",
+      "Z"
+    ],
+    [
+      "#",
+      "N",
+      "O",
+      "E",
+      "M",
+      "I",
+      "#"
+    ],
+    [
+      "O",
+      "I",
+      "#",
+      "N",
+      "E",
+      "S",
+      "S"
+    ],
+    [
+      "E",
+      "M",
+      "I",
+      "N",
+      "E",
+      "M",
+      "#"
+    ],
+    [
+      "M",
+      "O",
+      "N",
+      "I",
+      "T",
+      "O",
+      "R"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Una città del Michigan, nota per le auto",
+        "row": 0,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "Robert Ranulph, antropologo inglese",
+        "row": 1,
+        "col": 1,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "Il Paolo che ha scritto Che dispiacere",
+        "row": 2,
+        "col": 0,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "Scrisse \"Nanà\" (iniziali)",
+        "row": 2,
+        "col": 5,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 11,
+        "clue": "Biblico nome di donna",
+        "row": 3,
+        "col": 1,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 13,
+        "clue": "Le hanno volpi e leoni",
+        "row": 4,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 14,
+        "clue": "Lago scozzese",
+        "row": 4,
+        "col": 3,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 16,
+        "clue": "Il rapper della canzone Stan",
+        "row": 5,
+        "col": 0,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 18,
+        "clue": "Il video di controllo",
+        "row": 6,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 2,
+        "clue": "Bianchi lo è di Bianchi",
+        "row": 0,
+        "col": 1,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "In prov. di Agrigento",
+        "row": 0,
+        "col": 2,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Periodi di 36 mesi",
+        "row": 0,
+        "col": 3,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Le hanno lince e tigre",
+        "row": 0,
+        "col": 4,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Dottrina antispirituale",
+        "row": 0,
+        "col": 5,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 7,
+        "clue": "Titoli di Stato senza cedola (sigla)",
+        "row": 0,
+        "col": 6,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 12,
+        "clue": "L'\"up\" con cui ci si incontra",
+        "row": 3,
+        "col": 4,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 13,
+        "clue": "Onde elettromagnetiche (sigla)",
+        "row": 4,
+        "col": 0,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 17,
+        "clue": "Rende inaffidabili gli affidabili",
+        "row": 5,
+        "col": 2,
+        "length": 2,
+        "direction": "down"
+      }
+    ]
+  }
+}

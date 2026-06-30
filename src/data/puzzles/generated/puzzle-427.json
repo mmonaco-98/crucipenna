@@ -1,0 +1,272 @@
+{
+  "id": "427",
+  "title": "Puzzle 427",
+  "size": {
+    "rows": 7,
+    "cols": 7
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "O",
+      "O",
+      "R",
+      "T",
+      "#",
+      "D",
+      "#"
+    ],
+    [
+      "X",
+      "S",
+      "#",
+      "R",
+      "A",
+      "I",
+      "S"
+    ],
+    [
+      "I",
+      "M",
+      "M",
+      "E",
+      "S",
+      "S",
+      "A"
+    ],
+    [
+      "L",
+      "A",
+      "I",
+      "N",
+      "A",
+      "T",
+      "E"
+    ],
+    [
+      "I",
+      "N",
+      "C",
+      "I",
+      "P",
+      "I",
+      "T"
+    ],
+    [
+      "A",
+      "L",
+      "A",
+      "N",
+      "#",
+      "C",
+      "T"
+    ],
+    [
+      "#",
+      "I",
+      "#",
+      "O",
+      "B",
+      "O",
+      "E"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Jan Hendrik astronomo olandese",
+        "row": 0,
+        "col": 0,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 6,
+        "clue": "Una taglia piccolissima",
+        "row": 1,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "clue": "Guida la mattanza",
+        "row": 1,
+        "col": 3,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "Introdotta",
+        "row": 2,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 12,
+        "clue": "Comune del Milanese",
+        "row": 3,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 13,
+        "clue": "Le prime parole famose",
+        "row": 4,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 14,
+        "clue": "Il geniale Turing",
+        "row": 5,
+        "col": 0,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 15,
+        "clue": "Nel conto e nella ricevuta",
+        "row": 5,
+        "col": 5,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 17,
+        "clue": "Strumento d' ebano",
+        "row": 6,
+        "col": 3,
+        "length": 4,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Un autore di Addio giovinezza!",
+        "row": 0,
+        "col": 0,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Si parla in Anatolia",
+        "row": 0,
+        "col": 1,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Corre su binari in miniatura",
+        "row": 0,
+        "col": 3,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Quello elegiaco è formato da esametro e pentametro",
+        "row": 0,
+        "col": 5,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 8,
+        "clue": "La sigla di chi fa in fretta, in inglese.",
+        "row": 1,
+        "col": 4,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 9,
+        "clue": "Gli strali lanciati da Giove",
+        "row": 1,
+        "col": 6,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 11,
+        "clue": "Un frammento che rafforza la negazione",
+        "row": 2,
+        "col": 2,
+        "length": 4,
+        "direction": "down"
+      }
+    ]
+  }
+}

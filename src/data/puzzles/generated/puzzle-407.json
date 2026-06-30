@@ -1,0 +1,296 @@
+{
+  "id": "407",
+  "title": "Puzzle 407",
+  "size": {
+    "rows": 7,
+    "cols": 7
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "W",
+      "A",
+      "T",
+      "T",
+      "E",
+      "A",
+      "U"
+    ],
+    [
+      "E",
+      "P",
+      "A",
+      "#",
+      "V",
+      "N",
+      "#"
+    ],
+    [
+      "B",
+      "O",
+      "U",
+      "T",
+      "A",
+      "D",
+      "E"
+    ],
+    [
+      "E",
+      "C",
+      "#",
+      "O",
+      "#",
+      "R",
+      "M"
+    ],
+    [
+      "R",
+      "O",
+      "B",
+      "O",
+      "C",
+      "O",
+      "P"
+    ],
+    [
+      "#",
+      "P",
+      "B",
+      "#",
+      "A",
+      "N",
+      "I"
+    ],
+    [
+      "N",
+      "I",
+      "C",
+      "O",
+      "S",
+      "I",
+      "A"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Pittore francese di inizio Settecento",
+        "row": 0,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "Addome prominente",
+        "row": 1,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "L'autore di \"Lolita\" (iniz.)",
+        "row": 1,
+        "col": 4,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "Battuta scherzosa",
+        "row": 2,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 13,
+        "clue": "L'inizio dell'eclissi",
+        "row": 3,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 15,
+        "clue": "Il Muti direttore d'orchestra (iniziali)",
+        "row": 3,
+        "col": 5,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 16,
+        "clue": "Film di Paul Verhoeven del 1987",
+        "row": 4,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 19,
+        "clue": "I confini del Punjab",
+        "row": 5,
+        "col": 1,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 20,
+        "clue": "Cuculidi brasiliani",
+        "row": 5,
+        "col": 4,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 21,
+        "clue": "Località di Cipro",
+        "row": 6,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "La Costanza moglie di Mozart",
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Troncano le parole",
+        "row": 0,
+        "col": 1,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Segue il sigma nell'alfabeto greco",
+        "row": 0,
+        "col": 2,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "La prima a disubbidire",
+        "row": 0,
+        "col": 4,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Collegano gl'ingressi ai cortili",
+        "row": 0,
+        "col": 5,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 11,
+        "clue": "____ much = troppo",
+        "row": 2,
+        "col": 3,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 12,
+        "clue": "Malvagia, sacrilega",
+        "row": 2,
+        "col": 6,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 17,
+        "clue": "Un' emittente molto prestigiosa (sigla)",
+        "row": 4,
+        "col": 2,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 18,
+        "clue": "Centro di Avviamento allo Sport",
+        "row": 4,
+        "col": 4,
+        "length": 3,
+        "direction": "down"
+      }
+    ]
+  }
+}

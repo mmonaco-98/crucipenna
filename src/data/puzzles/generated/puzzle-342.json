@@ -1,0 +1,288 @@
+{
+  "id": "342",
+  "title": "Puzzle 342",
+  "size": {
+    "rows": 7,
+    "cols": 7
+  },
+  "grid": [
+    [
+      "#",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "#"
+    ]
+  ],
+  "solution": [
+    [
+      "#",
+      "M",
+      "L",
+      "I",
+      "#",
+      "U",
+      "M"
+    ],
+    [
+      "S",
+      "C",
+      "E",
+      "N",
+      "A",
+      "R",
+      "I"
+    ],
+    [
+      "O",
+      "#",
+      "R",
+      "A",
+      "C",
+      "E",
+      "R"
+    ],
+    [
+      "L",
+      "E",
+      "C",
+      "L",
+      "A",
+      "I",
+      "R"
+    ],
+    [
+      "I",
+      "R",
+      "I",
+      "A",
+      "N",
+      "#",
+      "O"
+    ],
+    [
+      "T",
+      "R",
+      "O",
+      "T",
+      "T",
+      "E",
+      "R"
+    ],
+    [
+      "O",
+      "E",
+      "#",
+      "E",
+      "O",
+      "A",
+      "#"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "1051 romani",
+        "row": 0,
+        "col": 1,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 4,
+        "clue": "Un po' umido",
+        "row": 0,
+        "col": 5,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 6,
+        "clue": "Li montano i macchinisti teatrali",
+        "row": 1,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "Barca da regata",
+        "row": 2,
+        "col": 2,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "Jean-Marie, violinista francese",
+        "row": 3,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 12,
+        "clue": "Nome indonesiano della Nuova Guinea",
+        "row": 4,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 14,
+        "clue": "Ippodromo per corse con i \"sulky\"",
+        "row": 5,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 16,
+        "clue": "I... confini dell' occidente",
+        "row": 6,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 17,
+        "clue": "Somma di anni",
+        "row": 6,
+        "col": 3,
+        "length": 3,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "La provincia marchigiana di Camerino (sigla)",
+        "row": 0,
+        "col": 1,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Sito con divertenti fake news",
+        "row": 0,
+        "col": 2,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Aspirate dall'aerosol",
+        "row": 0,
+        "col": 3,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Serpenti sacri agli antichi Egizi",
+        "row": 0,
+        "col": 5,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Un sito Internet che ne copia esattamente un altro",
+        "row": 0,
+        "col": 6,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Sempre lo stesso",
+        "row": 1,
+        "col": 0,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 7,
+        "clue": "Pianta da colonne corinzie",
+        "row": 1,
+        "col": 4,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 11,
+        "clue": "Manca ai mesi da maggio ad agosto inclusi",
+        "row": 3,
+        "col": 1,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 15,
+        "clue": "La fine di Medea",
+        "row": 5,
+        "col": 5,
+        "length": 2,
+        "direction": "down"
+      }
+    ]
+  }
+}

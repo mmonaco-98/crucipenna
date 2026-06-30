@@ -1,0 +1,304 @@
+{
+  "id": "436",
+  "title": "Puzzle 436",
+  "size": {
+    "rows": 7,
+    "cols": 7
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "#",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "A",
+      "C",
+      "C",
+      "E",
+      "N",
+      "N",
+      "I"
+    ],
+    [
+      "A",
+      "C",
+      "E",
+      "R",
+      "A",
+      "I",
+      "A"
+    ],
+    [
+      "S",
+      "#",
+      "#",
+      "O",
+      "M",
+      "A",
+      "R"
+    ],
+    [
+      "#",
+      "C",
+      "A",
+      "S",
+      "E",
+      "S",
+      "#"
+    ],
+    [
+      "R",
+      "A",
+      "M",
+      "I",
+      "#",
+      "#",
+      "N"
+    ],
+    [
+      "U",
+      "N",
+      "I",
+      "V",
+      "O",
+      "C",
+      "O"
+    ],
+    [
+      "S",
+      "E",
+      "D",
+      "O",
+      "T",
+      "T",
+      "A"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Vaghi riferimenti sul tema",
+        "row": 0,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "Bosco o luogo piantato ad aceri",
+        "row": 1,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "L'attore Sharif",
+        "row": 2,
+        "col": 3,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 11,
+        "clue": "Cesare, germanista e critico letterario",
+        "row": 3,
+        "col": 1,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 13,
+        "clue": "Quelli dell'albero genealogico non hanno foglie",
+        "row": 4,
+        "col": 0,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 15,
+        "clue": "Che ha un solo significato",
+        "row": 5,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 18,
+        "clue": "Attirata con l'inganno",
+        "row": 6,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Acta Apostolicae Sedis, gazzetta ufficiale vaticana (sigla).",
+        "row": 0,
+        "col": 0,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Le iniziali della Cardinale",
+        "row": 0,
+        "col": 1,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Con l'apostrofo e l'accento, esiste",
+        "row": 0,
+        "col": 2,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Lo è un agente che guasta",
+        "row": 0,
+        "col": 3,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Ogni user ha il suo",
+        "row": 0,
+        "col": 4,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Isola dell'Indonesia",
+        "row": 0,
+        "col": 5,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 7,
+        "clue": "È famoso quello del Lazio",
+        "row": 0,
+        "col": 6,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 11,
+        "clue": "Un amico che scodinzola",
+        "row": 3,
+        "col": 1,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 12,
+        "clue": "Il Tarid tra gli interpreti di La tigre e la neve",
+        "row": 3,
+        "col": 2,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 13,
+        "clue": "La campagna latina",
+        "row": 4,
+        "col": 0,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 14,
+        "clue": "Ciò che non è tabù",
+        "row": 4,
+        "col": 6,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 16,
+        "clue": "Orfeo Tamburi (iniz.)",
+        "row": 5,
+        "col": 4,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 17,
+        "clue": "Conte ha smesso di farlo (sigla)",
+        "row": 5,
+        "col": 5,
+        "length": 2,
+        "direction": "down"
+      }
+    ]
+  }
+}

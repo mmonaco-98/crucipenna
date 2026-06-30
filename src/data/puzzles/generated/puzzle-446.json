@@ -1,0 +1,320 @@
+{
+  "id": "446",
+  "title": "Puzzle 446",
+  "size": {
+    "rows": 7,
+    "cols": 7
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "B",
+      "R",
+      "I",
+      "S",
+      "T",
+      "O",
+      "L"
+    ],
+    [
+      "R",
+      "I",
+      "D",
+      "#",
+      "A",
+      "P",
+      "I"
+    ],
+    [
+      "E",
+      "#",
+      "E",
+      "N",
+      "#",
+      "E",
+      "M"
+    ],
+    [
+      "S",
+      "A",
+      "M",
+      "O",
+      "A",
+      "N",
+      "O"
+    ],
+    [
+      "C",
+      "C",
+      "#",
+      "E",
+      "J",
+      "#",
+      "G"
+    ],
+    [
+      "I",
+      "A",
+      "N",
+      "#",
+      "A",
+      "M",
+      "E"
+    ],
+    [
+      "A",
+      "B",
+      "R",
+      "A",
+      "X",
+      "A",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "La città di un cartoncino",
+        "row": 0,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "Un procedimento bancario di pagamento",
+        "row": 1,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "Ci forniscono la cera",
+        "row": 1,
+        "col": 4,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 11,
+        "clue": "Le prime di Enzo",
+        "row": 2,
+        "col": 2,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 13,
+        "clue": "Sistemarsi in centro",
+        "row": 2,
+        "col": 5,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 14,
+        "clue": "Un isolano che vive ai nostri antipodi",
+        "row": 3,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 17,
+        "clue": "Il Carrà pittore iniziali",
+        "row": 4,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 18,
+        "clue": "Erica Jong",
+        "row": 4,
+        "col": 3,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 20,
+        "clue": "L'Anderson dei \"Jethro Tull\"",
+        "row": 5,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 22,
+        "clue": "Accordo Monetario Europeo",
+        "row": 5,
+        "col": 4,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 24,
+        "clue": "La parola-amuleto a cui Carlos Santana intitolò un suo disco",
+        "row": 6,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "È detta leonessa d'Italia",
+        "row": 0,
+        "col": 0,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "In mezzo ai girini",
+        "row": 0,
+        "col": 1,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Stessa cosa in latino",
+        "row": 0,
+        "col": 2,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Metà meta",
+        "row": 0,
+        "col": 4,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Il contrario di closed",
+        "row": 0,
+        "col": 5,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 7,
+        "clue": "Città francese famosa per le ceramiche",
+        "row": 0,
+        "col": 6,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 12,
+        "clue": "Il figlio Cam lo derise",
+        "row": 2,
+        "col": 3,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 15,
+        "clue": "Un acronimo violento contro la polizia",
+        "row": 3,
+        "col": 1,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 16,
+        "clue": "Una squadra di calcio di Amsterdam",
+        "row": 3,
+        "col": 4,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 21,
+        "clue": "Nostro, in breve",
+        "row": 5,
+        "col": 2,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 23,
+        "clue": "Una risposta di chi è esitante",
+        "row": 5,
+        "col": 5,
+        "length": 2,
+        "direction": "down"
+      }
+    ]
+  }
+}

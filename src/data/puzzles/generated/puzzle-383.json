@@ -1,0 +1,320 @@
+{
+  "id": "383",
+  "title": "Puzzle 383",
+  "size": {
+    "rows": 7,
+    "cols": 7
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "#",
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "#",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "F",
+      "R",
+      "I",
+      "S",
+      "B",
+      "E",
+      "E"
+    ],
+    [
+      "L",
+      "I",
+      "N",
+      "C",
+      "O",
+      "L",
+      "N"
+    ],
+    [
+      "#",
+      "#",
+      "D",
+      "U",
+      "#",
+      "C",
+      "O"
+    ],
+    [
+      "U",
+      "L",
+      "Y",
+      "S",
+      "S",
+      "E",
+      "S"
+    ],
+    [
+      "B",
+      "I",
+      "#",
+      "A",
+      "C",
+      "#",
+      "#"
+    ],
+    [
+      "E",
+      "S",
+      "T",
+      "R",
+      "U",
+      "S",
+      "O"
+    ],
+    [
+      "R",
+      "I",
+      "M",
+      "E",
+      "D",
+      "I",
+      "O"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Si lancia per gioco",
+        "row": 0,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "Un predecessore di Trump",
+        "row": 1,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "Cominciano a dubitare",
+        "row": 2,
+        "col": 2,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "Stanno a metà percorso",
+        "row": 2,
+        "col": 5,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 11,
+        "clue": "Il Grant che fu Presidente degli Stati Uniti",
+        "row": 3,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 14,
+        "clue": "Anteprima e ultima uscita da Bompiani",
+        "row": 4,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 15,
+        "clue": "La sigla dell'era pre-cristiana",
+        "row": 4,
+        "col": 3,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 16,
+        "clue": "FOttenuto con la tecnica di fabbricazione dei tubi e dei profilati",
+        "row": 5,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 20,
+        "clue": "Lo cerca chi è nei guai",
+        "row": 6,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Un po' florido",
+        "row": 0,
+        "col": 0,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Aprono e chiudono la serie dei rigori",
+        "row": 0,
+        "col": 1,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Una formula automobilistica",
+        "row": 0,
+        "col": 2,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Attenuare gli errori altrui",
+        "row": 0,
+        "col": 3,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "La Derek del cinema",
+        "row": 0,
+        "col": 4,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Albero ghiandifero",
+        "row": 0,
+        "col": 5,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 7,
+        "clue": "Biblico nipote di Adamo",
+        "row": 0,
+        "col": 6,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 11,
+        "clue": "Un servizio che fa concorrenza ai taxi",
+        "row": 3,
+        "col": 0,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 12,
+        "clue": "Virna, la compianta interprete di \"Va' dove ti porta il cuore\"",
+        "row": 3,
+        "col": 1,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 13,
+        "clue": "Missili terra-terra",
+        "row": 3,
+        "col": 4,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 17,
+        "clue": "Tim senza cuore!",
+        "row": 5,
+        "col": 2,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 18,
+        "clue": "Affermazione",
+        "row": 5,
+        "col": 5,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 19,
+        "clue": "Indicano la percentuale",
+        "row": 5,
+        "col": 6,
+        "length": 2,
+        "direction": "down"
+      }
+    ]
+  }
+}

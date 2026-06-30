@@ -1,0 +1,296 @@
+{
+  "id": "373",
+  "title": "Puzzle 373",
+  "size": {
+    "rows": 7,
+    "cols": 7
+  },
+  "grid": [
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ]
+  ],
+  "solution": [
+    [
+      "#",
+      "S",
+      "E",
+      "P",
+      "A",
+      "L",
+      "I"
+    ],
+    [
+      "L",
+      "T",
+      "T",
+      "#",
+      "T",
+      "O",
+      "D"
+    ],
+    [
+      "A",
+      "I",
+      "L",
+      "A",
+      "N",
+      "T",
+      "I"
+    ],
+    [
+      "K",
+      "L",
+      "#",
+      "U",
+      "#",
+      "T",
+      "O"
+    ],
+    [
+      "E",
+      "A",
+      "S",
+      "T",
+      "H",
+      "A",
+      "M"
+    ],
+    [
+      "R",
+      "T",
+      "L",
+      "#",
+      "A",
+      "R",
+      "A"
+    ],
+    [
+      "S",
+      "E",
+      "M",
+      "I",
+      "T",
+      "E",
+      "#"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Sostengono la corolla",
+        "row": 0,
+        "col": 1,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "clue": "Lettera Tele-Trasmessa",
+        "row": 1,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "Nome del regista Browning di Friks",
+        "row": 1,
+        "col": 4,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "Alberi del paradiso",
+        "row": 2,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 11,
+        "clue": "Kabul agli estremi",
+        "row": 3,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 13,
+        "clue": "La città della Juve (sigla)",
+        "row": 3,
+        "col": 5,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 14,
+        "clue": "Quartiere di Londra",
+        "row": 4,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 17,
+        "clue": "Sigla da radio",
+        "row": 5,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 18,
+        "clue": "Altare dei pagani",
+        "row": 5,
+        "col": 4,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 19,
+        "clue": "Lingue come l'aramaico",
+        "row": 6,
+        "col": 0,
+        "length": 6,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Stese... nella dovuta forma",
+        "row": 0,
+        "col": 1,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Il Turner fondatore della Cnn",
+        "row": 0,
+        "col": 2,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Azienda Turistica Nazionale",
+        "row": 0,
+        "col": 4,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Battersi con estremo vigore",
+        "row": 0,
+        "col": 5,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Linguaggio di un popolo o di un luogo",
+        "row": 0,
+        "col": 6,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 7,
+        "clue": "La squadra di basket di Los Angeles",
+        "row": 1,
+        "col": 0,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 10,
+        "clue": "Si ripete negli ultimatum",
+        "row": 2,
+        "col": 3,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 15,
+        "clue": "Sul Livello del Mare",
+        "row": 4,
+        "col": 2,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 16,
+        "clue": "Il cappello inglese",
+        "row": 4,
+        "col": 4,
+        "length": 3,
+        "direction": "down"
+      }
+    ]
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "id": "301",
+  "title": "Puzzle 301",
+  "size": {
+    "rows": 7,
+    "cols": 7
+  },
+  "grid": [
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ]
+  ],
+  "solution": [
+    [
+      "#",
+      "S",
+      "B",
+      "A",
+      "R",
+      "R",
+      "A"
+    ],
+    [
+      "M",
+      "#",
+      "A",
+      "L",
+      "I",
+      "E",
+      "N"
+    ],
+    [
+      "A",
+      "M",
+      "U",
+      "L",
+      "E",
+      "T",
+      "I"
+    ],
+    [
+      "D",
+      "I",
+      "X",
+      "#",
+      "N",
+      "R",
+      "O"
+    ],
+    [
+      "A",
+      "N",
+      "I",
+      "S",
+      "T",
+      "O",
+      "N"
+    ],
+    [
+      "M",
+      "O",
+      "T",
+      "O",
+      "R",
+      "#",
+      "E"
+    ],
+    [
+      "E",
+      "R",
+      "E",
+      "S",
+      "I",
+      "A",
+      "#"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Una prova ginnica riservata agli uomini",
+        "row": 0,
+        "col": 1,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "Noto film di fantascienza",
+        "row": 1,
+        "col": 2,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "Oggetti portafortuna",
+        "row": 2,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 11,
+        "clue": "Il comico Gioele",
+        "row": 3,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 12,
+        "clue": "Un numero più in breve",
+        "row": 3,
+        "col": 4,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 13,
+        "clue": "Una Jennifer del cinema",
+        "row": 4,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 15,
+        "clue": "Precede lo scooter",
+        "row": 5,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 17,
+        "clue": "Errore in materia religiosa",
+        "row": 6,
+        "col": 0,
+        "length": 6,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 2,
+        "clue": "Un minerale da cui si estrae l'alluminio",
+        "row": 0,
+        "col": 2,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Allegato in tre lettere",
+        "row": 0,
+        "col": 3,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "I ritorni dei pendolari",
+        "row": 0,
+        "col": 4,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Vade __ Satana!",
+        "row": 0,
+        "col": 5,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Atomo che ha più elettroni che protoni",
+        "row": 0,
+        "col": 6,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 7,
+        "clue": "La \"Bovary\" di Flaubert",
+        "row": 1,
+        "col": 0,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 10,
+        "clue": "L' editio filologica senza note critiche",
+        "row": 2,
+        "col": 1,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 14,
+        "clue": "Un appello disperato",
+        "row": 4,
+        "col": 3,
+        "length": 3,
+        "direction": "down"
+      }
+    ]
+  }
+}

@@ -1,0 +1,139 @@
+.puzzleSelector {
+  width: min(700px, 100%);
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.selectorGroup {
+  border: 1px solid #cfbf9b;
+  border-radius: 0.75rem;
+  background: #fdf8ec;
+  overflow: hidden;
+}
+
+.selectorGroup[open] .selectorGroupChevron {
+  transform: rotate(180deg);
+}
+
+.selectorGroupTitle {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 0.85rem 1.1rem;
+  cursor: pointer;
+  font-family: "Avenir Next Condensed", "Helvetica Neue", sans-serif;
+  font-size: 1.1rem;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: #3b2f1e;
+  list-style: none;
+  user-select: none;
+
+  &::-webkit-details-marker {
+    display: none;
+  }
+
+  &:hover {
+    background: #f5ecda;
+  }
+}
+
+.selectorGroupLabel {
+  flex: 1;
+}
+
+.selectorGroupCount {
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: #9b855c;
+  background: #efe6d5;
+  border: 1px solid #cfbf9b;
+  border-radius: 999px;
+  padding: 0.2rem 0.65rem;
+}
+
+.selectorGroupChevron {
+  font-size: 0.85rem;
+  color: #9b855c;
+  transition: transform 200ms ease;
+  flex-shrink: 0;
+}
+
+.selectorList {
+  list-style: none;
+  margin: 0;
+  padding: 0 0.5rem 0.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+}
+
+.selectorItem {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 0.65rem 0.75rem;
+  border-radius: 0.5rem;
+  cursor: pointer;
+  border: 1px solid transparent;
+  transition:
+    background 120ms ease,
+    border-color 120ms ease;
+
+  &:hover {
+    background: #efe6d5;
+    border-color: #cfbf9b;
+  }
+
+  &:active {
+    background: #e8dbc8;
+  }
+}
+
+.selectorItemTitle {
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: #2e2721;
+}
+
+.statusBadge {
+  flex-shrink: 0;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  border-radius: 999px;
+  padding: 0.2rem 0.6rem;
+  border: 1px solid;
+}
+
+.statusBadge--not-started {
+  color: #7a7060;
+  background: #f0ece4;
+  border-color: #cfc5b0;
+}
+
+.statusBadge--in-progress {
+  color: #7a4d00;
+  background: #fff3d4;
+  border-color: #f4c14f;
+}
+
+.statusBadge--completed {
+  color: #1e5c30;
+  background: #d6f0de;
+  border-color: #6ac88a;
+}
+
+.selectorLoading {
+  text-align: center;
+  color: #7a7060;
+  font-size: 0.9rem;
+  margin: 2rem 0;
+}

@@ -1,0 +1,488 @@
+{
+  "id": "473",
+  "title": "Puzzle 473",
+  "size": {
+    "rows": 9,
+    "cols": 9
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      "#",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "S",
+      "T",
+      "R",
+      "A",
+      "S",
+      "S",
+      "#",
+      "H",
+      "M"
+    ],
+    [
+      "#",
+      "M",
+      "I",
+      "#",
+      "F",
+      "I",
+      "C",
+      "U",
+      "S"
+    ],
+    [
+      "C",
+      "E",
+      "R",
+      "V",
+      "A",
+      "N",
+      "T",
+      "E",
+      "S"
+    ],
+    [
+      "F",
+      "S",
+      "#",
+      "O",
+      "X",
+      "E",
+      "R",
+      "#",
+      "#"
+    ],
+    [
+      "L",
+      "I",
+      "E",
+      "#",
+      "#",
+      "#",
+      "L",
+      "O",
+      "D"
+    ],
+    [
+      "#",
+      "#",
+      "N",
+      "I",
+      "L",
+      "S",
+      "#",
+      "P",
+      "E"
+    ],
+    [
+      "T",
+      "R",
+      "A",
+      "F",
+      "A",
+      "L",
+      "G",
+      "A",
+      "R"
+    ],
+    [
+      "M",
+      "I",
+      "L",
+      "N",
+      "E",
+      "#",
+      "E",
+      "L",
+      "#"
+    ],
+    [
+      "C",
+      "N",
+      "#",
+      "I",
+      "S",
+      "M",
+      "A",
+      "I",
+      "L"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Una falsa gioia",
+        "row": 0,
+        "col": 0,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "clue": "Henri Matisse",
+        "row": 0,
+        "col": 7,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "Vi si svolge il Raduno annuale degli alpini (targa) nel 2019",
+        "row": 1,
+        "col": 1,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "Pianta da interno",
+        "row": 1,
+        "col": 4,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 12,
+        "clue": "Creò Don Chisciotte",
+        "row": 2,
+        "col": 0,
+        "length": 9,
+        "direction": "across"
+      },
+      {
+        "number": 14,
+        "clue": "Il simbolo delle Ferrovie",
+        "row": 3,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 15,
+        "clue": "Ostacolo dei concorsi ippici costituito da arbusti",
+        "row": 3,
+        "col": 3,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 16,
+        "clue": "____ detector: s'usa per scoprire chi mente",
+        "row": 4,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 18,
+        "clue": "Vi è il principale aeroporto israeliano",
+        "row": 4,
+        "col": 6,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 21,
+        "clue": "Il celebre Liedholm",
+        "row": 5,
+        "col": 2,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 25,
+        "clue": "Iniziali del poeta Eluard",
+        "row": 5,
+        "col": 7,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 26,
+        "clue": "Vittoria navale di Nelson",
+        "row": 6,
+        "col": 0,
+        "length": 9,
+        "direction": "across"
+      },
+      {
+        "number": 29,
+        "clue": "L'autore di \"Winnie the Pooh\"",
+        "row": 7,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 30,
+        "clue": "L'Al compagnia aerea",
+        "row": 7,
+        "col": 6,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 31,
+        "clue": "Cono senza pari",
+        "row": 8,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 32,
+        "clue": "Kadarè, romanziere albanese",
+        "row": 8,
+        "col": 3,
+        "length": 6,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 2,
+        "clue": "Un... taglio di parola in poesia",
+        "row": 0,
+        "col": 1,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Camion di grosse dimensioni",
+        "row": 0,
+        "col": 2,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Importante città tunisina",
+        "row": 0,
+        "col": 4,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Senza dei latini",
+        "row": 0,
+        "col": 5,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 7,
+        "clue": "Città vietnamita",
+        "row": 0,
+        "col": 7,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 8,
+        "clue": "Monitoraggio Sicurezza Stradale (sigla)",
+        "row": 0,
+        "col": 8,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 11,
+        "clue": "Un tasto del computer",
+        "row": 1,
+        "col": 6,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 12,
+        "clue": "Contratto di Formazione e Lavoro",
+        "row": 2,
+        "col": 0,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 13,
+        "clue": "Vola soltanto a metà",
+        "row": 2,
+        "col": 3,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 17,
+        "clue": "Gestiva i Cral (sigla)",
+        "row": 4,
+        "col": 2,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 19,
+        "clue": "Pietre iridescenti",
+        "row": 4,
+        "col": 7,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 20,
+        "clue": "Articolo tedesco",
+        "row": 4,
+        "col": 8,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 22,
+        "clue": "Antica provincia del Marocco",
+        "row": 5,
+        "col": 3,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 23,
+        "clue": "Esame attitudinale",
+        "row": 5,
+        "col": 4,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 24,
+        "clue": "Prime nello slancio",
+        "row": 5,
+        "col": 5,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 26,
+        "clue": "La sigla di Telemontecarlo",
+        "row": 6,
+        "col": 0,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 27,
+        "clue": "Precede Tintin",
+        "row": 6,
+        "col": 1,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 28,
+        "clue": "La madre di Urano",
+        "row": 6,
+        "col": 6,
+        "length": 3,
+        "direction": "down"
+      }
+    ]
+  }
+}

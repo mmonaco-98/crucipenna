@@ -1,0 +1,432 @@
+{
+  "id": "475",
+  "title": "Puzzle 475",
+  "size": {
+    "rows": 9,
+    "cols": 9
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "#",
+      "#",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "#",
+      "#",
+      "",
+      "#",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "#",
+      "#",
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "G",
+      "I",
+      "O",
+      "R",
+      "N",
+      "A",
+      "L",
+      "A",
+      "I"
+    ],
+    [
+      "E",
+      "P",
+      "C",
+      "#",
+      "E",
+      "#",
+      "S",
+      "O",
+      "R"
+    ],
+    [
+      "O",
+      "R",
+      "R",
+      "I",
+      "D",
+      "I",
+      "#",
+      "L",
+      "L"
+    ],
+    [
+      "G",
+      "#",
+      "E",
+      "P",
+      "E",
+      "#",
+      "#",
+      "#",
+      "A"
+    ],
+    [
+      "R",
+      "V",
+      "#",
+      "#",
+      "R",
+      "#",
+      "#",
+      "S",
+      "N"
+    ],
+    [
+      "A",
+      "#",
+      "#",
+      "#",
+      "L",
+      "U",
+      "E",
+      "#",
+      "D"
+    ],
+    [
+      "F",
+      "L",
+      "#",
+      "S",
+      "A",
+      "L",
+      "U",
+      "T",
+      "E"
+    ],
+    [
+      "I",
+      "O",
+      "I",
+      "#",
+      "N",
+      "#",
+      "R",
+      "E",
+      "S"
+    ],
+    [
+      "A",
+      "C",
+      "C",
+      "I",
+      "D",
+      "I",
+      "O",
+      "S",
+      "I"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Vendono carta stampata",
+        "row": 0,
+        "col": 0,
+        "length": 9,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "European Policy Centre",
+        "row": 1,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 12,
+        "clue": "Il signore trasteverino",
+        "row": 1,
+        "col": 6,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 13,
+        "clue": "Spaventosi... precipizi",
+        "row": 2,
+        "col": 0,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 16,
+        "clue": "Longanesi editore (iniz.)",
+        "row": 2,
+        "col": 7,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 18,
+        "clue": "Prominenze addominali",
+        "row": 3,
+        "col": 2,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 20,
+        "clue": "Vinci a tennis (iniz.)",
+        "row": 4,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 23,
+        "clue": "Senza Nome",
+        "row": 4,
+        "col": 7,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 25,
+        "clue": "L'altro nome della sifilide.",
+        "row": 5,
+        "col": 4,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 29,
+        "clue": "Il Liechtenstein (sigla)",
+        "row": 6,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 31,
+        "clue": "Chi la perde, si rivolge al medico per ritrovarla",
+        "row": 6,
+        "col": 3,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 33,
+        "clue": "Centouno in lettere",
+        "row": 7,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 36,
+        "clue": "Cosa latina",
+        "row": 7,
+        "col": 6,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 37,
+        "clue": "I peccatori puniti nella quarta cornice del Purgatorio dantesco",
+        "row": 8,
+        "col": 0,
+        "length": 9,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Studia la superficie terrestre nel suo aspetto attuale",
+        "row": 0,
+        "col": 0,
+        "length": 9,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Imposta Pubblica Regionale",
+        "row": 0,
+        "col": 1,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Comune in provincia de L'Aquila",
+        "row": 0,
+        "col": 2,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "I Paesi Bassi",
+        "row": 0,
+        "col": 4,
+        "length": 9,
+        "direction": "down"
+      },
+      {
+        "number": 7,
+        "clue": "Il cuore di Elsa",
+        "row": 0,
+        "col": 6,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 8,
+        "clue": "America On Line",
+        "row": 0,
+        "col": 7,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 9,
+        "clue": "Lo sono i cittadini di Dublino",
+        "row": 0,
+        "col": 8,
+        "length": 9,
+        "direction": "down"
+      },
+      {
+        "number": 14,
+        "clue": "La fine dello strip",
+        "row": 2,
+        "col": 3,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 26,
+        "clue": "In mezzo agli accumulatori",
+        "row": 5,
+        "col": 5,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 27,
+        "clue": "USA : dollaro = Italia : __",
+        "row": 5,
+        "col": 6,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 30,
+        "clue": "Locuzione (abbr.)",
+        "row": 6,
+        "col": 1,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 32,
+        "clue": "Tue a Parigi",
+        "row": 6,
+        "col": 7,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 34,
+        "clue": "Pari in dieci",
+        "row": 7,
+        "col": 2,
+        "length": 2,
+        "direction": "down"
+      }
+    ]
+  }
+}

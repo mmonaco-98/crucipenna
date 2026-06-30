@@ -1,0 +1,288 @@
+{
+  "id": "397",
+  "title": "Puzzle 397",
+  "size": {
+    "rows": 7,
+    "cols": 7
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "#",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      "#",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "E",
+      "U",
+      "#",
+      "#",
+      "T",
+      "C",
+      "S"
+    ],
+    [
+      "R",
+      "E",
+      "S",
+      "P",
+      "I",
+      "R",
+      "I"
+    ],
+    [
+      "I",
+      "M",
+      "M",
+      "O",
+      "N",
+      "D",
+      "E"
+    ],
+    [
+      "S",
+      "#",
+      "A",
+      "N",
+      "D",
+      "#",
+      "R"
+    ],
+    [
+      "I",
+      "M",
+      "I",
+      "T",
+      "A",
+      "T",
+      "O"
+    ],
+    [
+      "M",
+      "A",
+      "L",
+      "O",
+      "L",
+      "O",
+      "S"
+    ],
+    [
+      "O",
+      "S",
+      "A",
+      "#",
+      "#",
+      "S",
+      "O"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Le vocali del menu",
+        "row": 0,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 3,
+        "clue": "TeleCapri Sport (sigla)",
+        "row": 0,
+        "col": 4,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 6,
+        "clue": "Sono affrettati quando si ansima",
+        "row": 1,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "Molto sporche",
+        "row": 2,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 11,
+        "clue": "Andorra... sulle auto",
+        "row": 3,
+        "col": 2,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 13,
+        "clue": "Copiato... da Gigi Sabani",
+        "row": 4,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 16,
+        "clue": "Città delle Filippine",
+        "row": 5,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 17,
+        "clue": "Penisola della Costa Rica",
+        "row": 6,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 18,
+        "clue": "Si trovano alla fine del percorso",
+        "row": 6,
+        "col": 5,
+        "length": 2,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Una pianta erbacea delle Crocifere",
+        "row": 0,
+        "col": 0,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Unione Economica e Monetaria (sigla)",
+        "row": 0,
+        "col": 1,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Matthew, filosofo inglese, teorico del deismo",
+        "row": 0,
+        "col": 4,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Le consonanti del Credo",
+        "row": 0,
+        "col": 5,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Che contiene liquido organico",
+        "row": 0,
+        "col": 6,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 7,
+        "clue": "Umberto conduttore TV",
+        "row": 1,
+        "col": 2,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 8,
+        "clue": "Il regno di Mitridate",
+        "row": 1,
+        "col": 3,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 14,
+        "clue": "Hanno i siluri in coperta",
+        "row": 4,
+        "col": 1,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 15,
+        "clue": "Terapia Ormonale Sostitutiva",
+        "row": 4,
+        "col": 5,
+        "length": 3,
+        "direction": "down"
+      }
+    ]
+  }
+}

@@ -1,0 +1,304 @@
+{
+  "id": "443",
+  "title": "Puzzle 443",
+  "size": {
+    "rows": 7,
+    "cols": 7
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "S",
+      "M",
+      "O",
+      "K",
+      "I",
+      "N",
+      "G"
+    ],
+    [
+      "F",
+      "I",
+      "#",
+      "R",
+      "H",
+      "#",
+      "I"
+    ],
+    [
+      "R",
+      "E",
+      "M",
+      "I",
+      "#",
+      "A",
+      "R"
+    ],
+    [
+      "E",
+      "L",
+      "U",
+      "S",
+      "I",
+      "V",
+      "A"
+    ],
+    [
+      "G",
+      "I",
+      "#",
+      "H",
+      "E",
+      "R",
+      "R"
+    ],
+    [
+      "I",
+      "#",
+      "J",
+      "N",
+      "#",
+      "I",
+      "S"
+    ],
+    [
+      "O",
+      "S",
+      "M",
+      "A",
+      "N",
+      "L",
+      "I"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Completo maschile da sera",
+        "row": 0,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "La città toscana dei gigliati (sigla)",
+        "row": 1,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "Simbolo dell'elemento rodio",
+        "row": 1,
+        "col": 3,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 11,
+        "clue": "Li usa il barcaiolo",
+        "row": 2,
+        "col": 0,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 13,
+        "clue": "Iniziali di Rizzoli",
+        "row": 2,
+        "col": 5,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 14,
+        "clue": "Ambigua, sfuggente",
+        "row": 3,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 16,
+        "clue": "Centro d'argine",
+        "row": 4,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 17,
+        "clue": "Signore... in tedesco",
+        "row": 4,
+        "col": 3,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 19,
+        "clue": "Iniziali di Nicholson",
+        "row": 5,
+        "col": 2,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 20,
+        "clue": "La... sorgente dell'Isonzo",
+        "row": 5,
+        "col": 5,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 21,
+        "clue": "Si parla in Anatolia",
+        "row": 6,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Deturpazione del volto",
+        "row": 0,
+        "col": 0,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Paolo __, ex direttore del Corriere",
+        "row": 0,
+        "col": 1,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Una delle incarnazioni di Visnù",
+        "row": 0,
+        "col": 3,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Un'esclamazione di disgusto",
+        "row": 0,
+        "col": 4,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 7,
+        "clue": "Ruotare su se stessi",
+        "row": 0,
+        "col": 6,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 12,
+        "clue": "Un po' di musica",
+        "row": 2,
+        "col": 2,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 13,
+        "clue": "Lavigne cantautrice",
+        "row": 2,
+        "col": 5,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 15,
+        "clue": "In mezzo all' ambiente",
+        "row": 3,
+        "col": 4,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 19,
+        "clue": "Il grande Malkovich (iniz.)",
+        "row": 5,
+        "col": 2,
+        "length": 2,
+        "direction": "down"
+      }
+    ]
+  }
+}

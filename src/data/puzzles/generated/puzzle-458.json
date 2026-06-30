@@ -1,0 +1,424 @@
+{
+  "id": "458",
+  "title": "Puzzle 458",
+  "size": {
+    "rows": 9,
+    "cols": 9
+  },
+  "grid": [
+    [
+      "",
+      "#",
+      "#",
+      "",
+      "",
+      "",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "",
+      "",
+      "",
+      "#",
+      "#",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "C",
+      "#",
+      "#",
+      "D",
+      "S",
+      "E",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "A",
+      "D",
+      "D",
+      "E",
+      "T",
+      "T",
+      "A",
+      "#",
+      "P"
+    ],
+    [
+      "P",
+      "R",
+      "E",
+      "S",
+      "I",
+      "#",
+      "I",
+      "L",
+      "S"
+    ],
+    [
+      "P",
+      "A",
+      "P",
+      "I",
+      "R",
+      "A",
+      "C",
+      "E",
+      "O"
+    ],
+    [
+      "#",
+      "K",
+      "#",
+      "G",
+      "A",
+      "L",
+      "#",
+      "M",
+      "#"
+    ],
+    [
+      "M",
+      "A",
+      "I",
+      "N",
+      "T",
+      "E",
+      "N",
+      "O",
+      "N"
+    ],
+    [
+      "E",
+      "R",
+      "N",
+      "#",
+      "O",
+      "M",
+      "I",
+      "N",
+      "O"
+    ],
+    [
+      "T",
+      "#",
+      "G",
+      "H",
+      "I",
+      "A",
+      "N",
+      "D",
+      "E"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "E",
+      "O",
+      "N",
+      "#",
+      "#",
+      "L"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 2,
+        "clue": "É venuto prima di Rai Educational (sigla)",
+        "row": 0,
+        "col": 3,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 5,
+        "clue": "Assegnata ad un incarico",
+        "row": 1,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "Acciuffati, afferrati",
+        "row": 2,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 11,
+        "clue": "Essi, i francesi",
+        "row": 2,
+        "col": 6,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 13,
+        "clue": "Così era un foglio antico",
+        "row": 3,
+        "col": 0,
+        "length": 9,
+        "direction": "across"
+      },
+      {
+        "number": 16,
+        "clue": "Unità di misura dell' accelerazione nel sistema Cgs",
+        "row": 4,
+        "col": 3,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 18,
+        "clue": "Fu la favorita di Luigi XIV",
+        "row": 5,
+        "col": 0,
+        "length": 9,
+        "direction": "across"
+      },
+      {
+        "number": 22,
+        "clue": "Vladimir, filosofo russo",
+        "row": 6,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 23,
+        "clue": "Un ragazzino assennato",
+        "row": 6,
+        "col": 4,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 25,
+        "clue": "Ghiottonerie per suini",
+        "row": 7,
+        "col": 2,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 27,
+        "clue": "La maggiore unità di misura geo-cronologica",
+        "row": 8,
+        "col": 3,
+        "length": 3,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Al, disegnatore di fumetti",
+        "row": 0,
+        "col": 0,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Moderna linea stilistica",
+        "row": 0,
+        "col": 3,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Un piano per il ferro",
+        "row": 0,
+        "col": 4,
+        "length": 9,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "La \"e\" telegrafica",
+        "row": 0,
+        "col": 5,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Antica nave scandinava",
+        "row": 1,
+        "col": 1,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 7,
+        "clue": "Deposito (abbr.)",
+        "row": 1,
+        "col": 2,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 8,
+        "clue": "Il sindacato dei calciatori (sigla)",
+        "row": 1,
+        "col": 6,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 9,
+        "clue": "Partito Socialista Operaio",
+        "row": 1,
+        "col": 8,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 12,
+        "clue": "Il Greg del ciclismo",
+        "row": 2,
+        "col": 7,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 14,
+        "clue": "Mateo, lo scrittore spagnolo di Guzman de Alfarache",
+        "row": 3,
+        "col": 5,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 18,
+        "clue": "Il Metropolitan in breve",
+        "row": 5,
+        "col": 0,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 19,
+        "clue": "Ingegnere brevemente",
+        "row": 5,
+        "col": 2,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 20,
+        "clue": "L' Anais di Il delta di Venere",
+        "row": 5,
+        "col": 6,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 21,
+        "clue": "Natale... a Parigi",
+        "row": 5,
+        "col": 8,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 26,
+        "clue": "La fine delle lumache",
+        "row": 7,
+        "col": 3,
+        "length": 2,
+        "direction": "down"
+      }
+    ]
+  }
+}

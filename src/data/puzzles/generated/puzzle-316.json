@@ -1,0 +1,272 @@
+{
+  "id": "316",
+  "title": "Puzzle 316",
+  "size": {
+    "rows": 7,
+    "cols": 7
+  },
+  "grid": [
+    [
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "A",
+      "#",
+      "N",
+      "T",
+      "O",
+      "#",
+      "A"
+    ],
+    [
+      "M",
+      "A",
+      "U",
+      "R",
+      "E",
+      "E",
+      "N"
+    ],
+    [
+      "A",
+      "L",
+      "T",
+      "E",
+      "R",
+      "N",
+      "I"
+    ],
+    [
+      "#",
+      "E",
+      "R",
+      "N",
+      "S",
+      "T",
+      "#"
+    ],
+    [
+      "B",
+      "R",
+      "I",
+      "T",
+      "T",
+      "E",
+      "N"
+    ],
+    [
+      "O",
+      "T",
+      "T",
+      "I",
+      "E",
+      "R",
+      "I"
+    ],
+    [
+      "E",
+      "#",
+      "A",
+      "N",
+      "D",
+      "#",
+      "G"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 2,
+        "clue": "Netto in breve",
+        "row": 0,
+        "col": 2,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 6,
+        "clue": "La O'Hara di \"Un uomo Tranquillo\"",
+        "row": 1,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "Non consecutivi",
+        "row": 2,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "Fondò con Arp il gruppo \"dada\" di Colonia",
+        "row": 3,
+        "col": 1,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 11,
+        "clue": "Benjamin compositore inglese",
+        "row": 4,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 13,
+        "clue": "Lo scrittore di I due amori",
+        "row": 5,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 15,
+        "clue": "Fra il rock e il roll",
+        "row": 6,
+        "col": 2,
+        "length": 3,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Dovrebbe raccogliere rifiuti a Roma (sigla)",
+        "row": 0,
+        "col": 0,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Alimentata",
+        "row": 0,
+        "col": 2,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Un Bruno già sindacalista",
+        "row": 0,
+        "col": 3,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Hans Christian, fisico danese",
+        "row": 0,
+        "col": 4,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Uccelli tropicali con una lunga coda",
+        "row": 0,
+        "col": 6,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 7,
+        "clue": "Un avvertimento anglofono",
+        "row": 1,
+        "col": 1,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 8,
+        "clue": "Il tasto che immette i dati",
+        "row": 1,
+        "col": 5,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 11,
+        "clue": "Vi si ormeggiano le barche",
+        "row": 4,
+        "col": 0,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 12,
+        "clue": "La Nigeria in breve",
+        "row": 4,
+        "col": 6,
+        "length": 3,
+        "direction": "down"
+      }
+    ]
+  }
+}

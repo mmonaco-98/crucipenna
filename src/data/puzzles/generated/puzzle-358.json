@@ -1,0 +1,288 @@
+{
+  "id": "358",
+  "title": "Puzzle 358",
+  "size": {
+    "rows": 7,
+    "cols": 7
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "A",
+      "R",
+      "A",
+      "B",
+      "I",
+      "A",
+      "#"
+    ],
+    [
+      "A",
+      "U",
+      "S",
+      "O",
+      "N",
+      "I",
+      "A"
+    ],
+    [
+      "A",
+      "D",
+      "I",
+      "O",
+      "S",
+      "#",
+      "X"
+    ],
+    [
+      "#",
+      "I",
+      "N",
+      "T",
+      "E",
+      "L",
+      "#"
+    ],
+    [
+      "H",
+      "#",
+      "A",
+      "L",
+      "G",
+      "O",
+      "L"
+    ],
+    [
+      "F",
+      "O",
+      "R",
+      "E",
+      "N",
+      "S",
+      "E"
+    ],
+    [
+      "#",
+      "Z",
+      "A",
+      "G",
+      "A",
+      "T",
+      "O"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "La penisola dello Yemen",
+        "row": 0,
+        "col": 0,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "clue": "Antico nome dell'Italia",
+        "row": 1,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "Saluto tra \"amigos\"",
+        "row": 2,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 11,
+        "clue": "Produce microprocessori per PC",
+        "row": 3,
+        "col": 1,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 14,
+        "clue": "La sigla di un linguaggio algoritmico",
+        "row": 4,
+        "col": 2,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 16,
+        "clue": "Relativo all'attività giudiziaria",
+        "row": 5,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 18,
+        "clue": "Noto carrozziere italiano",
+        "row": 6,
+        "col": 1,
+        "length": 6,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Introducono certi annunci",
+        "row": 0,
+        "col": 0,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Aspri nei modi",
+        "row": 0,
+        "col": 1,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "È a nord della Sardegna",
+        "row": 0,
+        "col": 2,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Disco o cassetta abusivi",
+        "row": 0,
+        "col": 3,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Sovrasta la porta del negozio",
+        "row": 0,
+        "col": 4,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Ali di aironi",
+        "row": 0,
+        "col": 5,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 8,
+        "clue": "Così termina il fax",
+        "row": 1,
+        "col": 6,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 12,
+        "clue": "Telefilm di grande successo che parla di naufraghi",
+        "row": 3,
+        "col": 5,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 13,
+        "clue": "Ha interpretato Guerre stellari (iniz.)",
+        "row": 4,
+        "col": 0,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 15,
+        "clue": "Il Messi calciatore",
+        "row": 4,
+        "col": 6,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 17,
+        "clue": "Il regno di un famoso mago",
+        "row": 5,
+        "col": 1,
+        "length": 2,
+        "direction": "down"
+      }
+    ]
+  }
+}

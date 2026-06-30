@@ -1,0 +1,440 @@
+{
+  "id": "462",
+  "title": "Puzzle 462",
+  "size": {
+    "rows": 9,
+    "cols": 9
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "W",
+      "N",
+      "#",
+      "E",
+      "F",
+      "E",
+      "S",
+      "O",
+      "#"
+    ],
+    [
+      "E",
+      "O",
+      "#",
+      "A",
+      "R",
+      "R",
+      "A",
+      "#",
+      "#"
+    ],
+    [
+      "S",
+      "C",
+      "I",
+      "#",
+      "O",
+      "B",
+      "A",
+      "N",
+      "#"
+    ],
+    [
+      "T",
+      "E",
+      "P",
+      "I",
+      "D",
+      "A",
+      "R",
+      "I",
+      "O"
+    ],
+    [
+      "#",
+      "L",
+      "#",
+      "N",
+      "A",
+      "R",
+      "#",
+      "C",
+      "#"
+    ],
+    [
+      "P",
+      "L",
+      "A",
+      "S",
+      "T",
+      "I",
+      "C",
+      "H",
+      "E"
+    ],
+    [
+      "#",
+      "A",
+      "G",
+      "I",
+      "O",
+      "#",
+      "Y",
+      "O",
+      "U"
+    ],
+    [
+      "#",
+      "#",
+      "E",
+      "T",
+      "R",
+      "A",
+      "#",
+      "L",
+      "R"
+    ],
+    [
+      "#",
+      "T",
+      "R",
+      "A",
+      "I",
+      "T",
+      "#",
+      "S",
+      "O"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Walter Nudo",
+        "row": 0,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 3,
+        "clue": "Città in cui predicò san Paolo",
+        "row": 0,
+        "col": 3,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "Estreme d'Eusebio",
+        "row": 1,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "Somma a garanzia",
+        "row": 1,
+        "col": 3,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "Era lo sport della Putzer",
+        "row": 2,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 12,
+        "clue": "Cittadina delle Highlands nota per un whisky",
+        "row": 2,
+        "col": 4,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 14,
+        "clue": "Reparto delle antiche terme",
+        "row": 3,
+        "col": 0,
+        "length": 9,
+        "direction": "across"
+      },
+      {
+        "number": 18,
+        "clue": "Una formazione del terrorismo di destra (sigla)",
+        "row": 4,
+        "col": 3,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 20,
+        "clue": "Interventi praticati dal chirurgo estetico",
+        "row": 5,
+        "col": 0,
+        "length": 9,
+        "direction": "across"
+      },
+      {
+        "number": 24,
+        "clue": "Comodità al singolare",
+        "row": 6,
+        "col": 1,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 25,
+        "clue": "Il \"tu\" degli Inglesi",
+        "row": 6,
+        "col": 6,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 26,
+        "clue": "Cielo... poetico",
+        "row": 7,
+        "col": 2,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 28,
+        "clue": "Iniziali di Repaci",
+        "row": 7,
+        "col": 7,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 29,
+        "clue": "È famoso quello d' union",
+        "row": 8,
+        "col": 1,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 30,
+        "clue": "Metà della soap",
+        "row": 8,
+        "col": 7,
+        "length": 2,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "__ Side Story, famoso musical di Bernstein",
+        "row": 0,
+        "col": 0,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Parte del compasso",
+        "row": 0,
+        "col": 1,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Estreme d'Eulalia",
+        "row": 0,
+        "col": 3,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Truffatori, imbroglioni",
+        "row": 0,
+        "col": 4,
+        "length": 9,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Collezioni di fili",
+        "row": 0,
+        "col": 5,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Regione carbonifera della Germania",
+        "row": 0,
+        "col": 6,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 11,
+        "clue": "Inizio dell'ipotesi",
+        "row": 2,
+        "col": 2,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 13,
+        "clue": "Il Mike regista de «Il laureato»",
+        "row": 2,
+        "col": 7,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 15,
+        "clue": "Innata, congenita",
+        "row": 3,
+        "col": 3,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 21,
+        "clue": "I teen adolescenti",
+        "row": 5,
+        "col": 2,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 22,
+        "clue": "Sigla di Cipro",
+        "row": 5,
+        "col": 6,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 23,
+        "clue": "L'antico nome dello scirocco",
+        "row": 5,
+        "col": 8,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 27,
+        "clue": "Provincia di Canelli (sigla)",
+        "row": 7,
+        "col": 5,
+        "length": 2,
+        "direction": "down"
+      }
+    ]
+  }
+}

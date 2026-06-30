@@ -1,0 +1,304 @@
+{
+  "id": "450",
+  "title": "Puzzle 450",
+  "size": {
+    "rows": 7,
+    "cols": 7
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "#",
+      "#",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "C",
+      "O",
+      "L",
+      "O",
+      "N",
+      "I",
+      "A"
+    ],
+    [
+      "O",
+      "L",
+      "I",
+      "V",
+      "E",
+      "T",
+      "O"
+    ],
+    [
+      "L",
+      "I",
+      "T",
+      "O",
+      "T",
+      "E",
+      "#"
+    ],
+    [
+      "F",
+      "V",
+      "#",
+      "#",
+      "#",
+      "R",
+      "A"
+    ],
+    [
+      "#",
+      "A",
+      "I",
+      "R",
+      "B",
+      "A",
+      "G"
+    ],
+    [
+      "D",
+      "I",
+      "L",
+      "U",
+      "I",
+      "R",
+      "E"
+    ],
+    [
+      "B",
+      "O",
+      "O",
+      "S",
+      "T",
+      "E",
+      "R"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Grande città sul Reno",
+        "row": 0,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "Il monte da cui Gesù ascese al cielo",
+        "row": 1,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "La figura retorica come \" non è privo d' ingegno\"",
+        "row": 2,
+        "col": 0,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "Favo senza pari",
+        "row": 3,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 11,
+        "clue": "La fine della carriera",
+        "row": 3,
+        "col": 5,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 13,
+        "clue": "Si gonfia dopo un urto",
+        "row": 4,
+        "col": 1,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 17,
+        "clue": "Allungare con acqua",
+        "row": 5,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 18,
+        "clue": "Un razzo ausiliare impiegato nel lancio d' un missile",
+        "row": 6,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Si gioca con le mazze",
+        "row": 0,
+        "col": 0,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "La sua merce può essere tenuta in salamoia",
+        "row": 0,
+        "col": 1,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Il letto dei \"Wagons\"",
+        "row": 0,
+        "col": 2,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "L' uovo a Firenze",
+        "row": 0,
+        "col": 3,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Giorni sacri a Giove",
+        "row": 0,
+        "col": 4,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Ripetere, replicare",
+        "row": 0,
+        "col": 5,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 7,
+        "clue": "Le hanno il faggio e l' acero",
+        "row": 0,
+        "col": 6,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 12,
+        "clue": "I teen adolescenti",
+        "row": 3,
+        "col": 6,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 14,
+        "clue": "Mitico fondatore di Troia",
+        "row": 4,
+        "col": 2,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 15,
+        "clue": "Russo per i russi",
+        "row": 4,
+        "col": 3,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 16,
+        "clue": "Unità elementare dell'informazione",
+        "row": 4,
+        "col": 4,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 17,
+        "clue": "Simbolo del decibel",
+        "row": 5,
+        "col": 0,
+        "length": 2,
+        "direction": "down"
+      }
+    ]
+  }
+}

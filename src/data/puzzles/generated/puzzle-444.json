@@ -1,0 +1,288 @@
+{
+  "id": "444",
+  "title": "Puzzle 444",
+  "size": {
+    "rows": 7,
+    "cols": 7
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "E",
+      "Q",
+      "#",
+      "T",
+      "I",
+      "#",
+      "M"
+    ],
+    [
+      "F",
+      "U",
+      "N",
+      "E",
+      "R",
+      "E",
+      "I"
+    ],
+    [
+      "#",
+      "I",
+      "O",
+      "N",
+      "O",
+      "N",
+      "E"
+    ],
+    [
+      "R",
+      "E",
+      "D",
+      "E",
+      "N",
+      "T",
+      "I"
+    ],
+    [
+      "A",
+      "T",
+      "O",
+      "N",
+      "I",
+      "A",
+      "#"
+    ],
+    [
+      "D",
+      "I",
+      "S",
+      "T",
+      "E",
+      "S",
+      "E"
+    ],
+    [
+      "I",
+      "#",
+      "O",
+      "E",
+      "#",
+      "I",
+      "H"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "L' inizio dell' equinozio",
+        "row": 0,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 3,
+        "clue": "Simbolo chimico del titanio",
+        "row": 0,
+        "col": 3,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 6,
+        "clue": "Così sono detti i volti dall'espressione più triste",
+        "row": 1,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "Il profumo sintetico della violetta",
+        "row": 2,
+        "col": 1,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "Riscattati, liberati",
+        "row": 3,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 11,
+        "clue": "Languore organico",
+        "row": 4,
+        "col": 0,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 12,
+        "clue": "Vaste pianure",
+        "row": 5,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 15,
+        "clue": "Ponente e levante",
+        "row": 6,
+        "col": 2,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 16,
+        "clue": "Pari nei fichi",
+        "row": 6,
+        "col": 5,
+        "length": 2,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Seguono la \"d\"",
+        "row": 0,
+        "col": 0,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Calmi e posati",
+        "row": 0,
+        "col": 1,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Ufficiale dell'Esercito con due stelle sulle spalline",
+        "row": 0,
+        "col": 3,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Sarcasmi",
+        "row": 0,
+        "col": 4,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Un possessivo maschile plurale",
+        "row": 0,
+        "col": 6,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 7,
+        "clue": "Gibboso come può esserlo un bastone",
+        "row": 1,
+        "col": 2,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 8,
+        "clue": "Una modanatura della colonna",
+        "row": 1,
+        "col": 5,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 10,
+        "clue": "Tutt'altro che folti",
+        "row": 3,
+        "col": 0,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 13,
+        "clue": "Pari di leghe",
+        "row": 5,
+        "col": 6,
+        "length": 2,
+        "direction": "down"
+      }
+    ]
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "id": "393",
+  "title": "Puzzle 393",
+  "size": {
+    "rows": 7,
+    "cols": 7
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "L",
+      "E",
+      "O",
+      "P",
+      "O",
+      "L",
+      "D"
+    ],
+    [
+      "I",
+      "#",
+      "L",
+      "#",
+      "B",
+      "E",
+      "Y"
+    ],
+    [
+      "G",
+      "R",
+      "E",
+      "M",
+      "L",
+      "I",
+      "N"
+    ],
+    [
+      "A",
+      "#",
+      "A",
+      "B",
+      "U",
+      "#",
+      "A"
+    ],
+    [
+      "B",
+      "A",
+      "R",
+      "E",
+      "N",
+      "T",
+      "S"
+    ],
+    [
+      "U",
+      "D",
+      "I",
+      "#",
+      "G",
+      "#",
+      "T"
+    ],
+    [
+      "E",
+      "C",
+      "O",
+      "N",
+      "O",
+      "M",
+      "Y"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Il Bloom di Joyce",
+        "row": 0,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "Lo è Mustafà nell'opera rossiniana 'L'italiana in Algeri'",
+        "row": 1,
+        "col": 4,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 11,
+        "clue": "Un mostriciattolo da film",
+        "row": 2,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 15,
+        "clue": "La... Simbel con due famosi templi di Ramsete",
+        "row": 3,
+        "col": 2,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 17,
+        "clue": "Il navigatore olandese scopritore dell' Isola degli Orsi",
+        "row": 4,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 20,
+        "clue": "Unione Donne Italiane (sigla)",
+        "row": 5,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 23,
+        "clue": "Una \"class\" per tutti",
+        "row": 6,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Il cittadino onorario di oggi",
+        "row": 0,
+        "col": 0,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Lo è il mercato del succo di olive",
+        "row": 0,
+        "col": 2,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Più slanciato che circolare",
+        "row": 0,
+        "col": 4,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Si spendono a Bucarest",
+        "row": 0,
+        "col": 5,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 7,
+        "clue": "Una storica serie",
+        "row": 0,
+        "col": 6,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 13,
+        "clue": "Tipica risposta romanesca",
+        "row": 2,
+        "col": 3,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 18,
+        "clue": "Analog to Digital Conversion",
+        "row": 4,
+        "col": 1,
+        "length": 3,
+        "direction": "down"
+      }
+    ]
+  }
+}

@@ -1,0 +1,640 @@
+{
+  "id": "490",
+  "title": "Puzzle 490",
+  "size": {
+    "rows": 11,
+    "cols": 11
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "#",
+      "",
+      "#",
+      "#",
+      "#",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "#",
+      "#",
+      "#",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "#",
+      "#",
+      "",
+      "#",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "B",
+      "A",
+      "R",
+      "B",
+      "A",
+      "G",
+      "I",
+      "A",
+      "N",
+      "N",
+      "I"
+    ],
+    [
+      "Y",
+      "#",
+      "#",
+      "U",
+      "#",
+      "#",
+      "#",
+      "L",
+      "I",
+      "E",
+      "D"
+    ],
+    [
+      "#",
+      "C",
+      "#",
+      "D",
+      "O",
+      "T",
+      "T",
+      "#",
+      "C",
+      "W",
+      "#"
+    ],
+    [
+      "V",
+      "O",
+      "#",
+      "A",
+      "E",
+      "R",
+      "A",
+      "T",
+      "O",
+      "#",
+      "X"
+    ],
+    [
+      "B",
+      "R",
+      "#",
+      "P",
+      "R",
+      "E",
+      "V",
+      "A",
+      "L",
+      "S",
+      "O"
+    ],
+    [
+      "#",
+      "F",
+      "C",
+      "E",
+      "#",
+      "#",
+      "#",
+      "C",
+      "A",
+      "T",
+      "#"
+    ],
+    [
+      "G",
+      "U",
+      "A",
+      "S",
+      "C",
+      "O",
+      "N",
+      "I",
+      "#",
+      "O",
+      "M"
+    ],
+    [
+      "I",
+      "#",
+      "S",
+      "T",
+      "U",
+      "A",
+      "R",
+      "T",
+      "#",
+      "R",
+      "A"
+    ],
+    [
+      "#",
+      "Y",
+      "A",
+      "#",
+      "R",
+      "U",
+      "N",
+      "A",
+      "#",
+      "M",
+      "#"
+    ],
+    [
+      "B",
+      "O",
+      "L",
+      "T",
+      "#",
+      "#",
+      "#",
+      "R",
+      "#",
+      "#",
+      "J"
+    ],
+    [
+      "S",
+      "U",
+      "S",
+      "S",
+      "E",
+      "G",
+      "U",
+      "E",
+      "N",
+      "T",
+      "I"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Un uccello rapace notturno",
+        "row": 0,
+        "col": 0,
+        "length": 11,
+        "direction": "across"
+      },
+      {
+        "number": 14,
+        "clue": "Canzone schubertiana",
+        "row": 1,
+        "col": 7,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 16,
+        "clue": "Titolo accademico... in breve",
+        "row": 2,
+        "col": 3,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 20,
+        "clue": "Copy-Writer",
+        "row": 2,
+        "col": 8,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 21,
+        "clue": "L'inizio della volata",
+        "row": 3,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 22,
+        "clue": "Luminoso e ben ventilato",
+        "row": 3,
+        "col": 3,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 25,
+        "clue": "Una sigla del terrorismo italiano",
+        "row": 4,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 26,
+        "clue": "Risultato primo",
+        "row": 4,
+        "col": 3,
+        "length": 8,
+        "direction": "across"
+      },
+      {
+        "number": 28,
+        "clue": "First Certificate in English (sigla)",
+        "row": 5,
+        "col": 1,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 30,
+        "clue": "Categoria corta",
+        "row": 5,
+        "col": 7,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 31,
+        "clue": "Lo erano i cadetti di Cirano",
+        "row": 6,
+        "col": 0,
+        "length": 8,
+        "direction": "across"
+      },
+      {
+        "number": 35,
+        "clue": "La punta dell'ombrello",
+        "row": 6,
+        "col": 9,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 38,
+        "clue": "Successero ai Tudor dopo la morte di Elisabetta I",
+        "row": 7,
+        "col": 2,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 39,
+        "clue": "Sono in tram",
+        "row": 7,
+        "col": 9,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 40,
+        "clue": "Due lettere di Yates",
+        "row": 8,
+        "col": 1,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 41,
+        "clue": "Antico carattere germanico",
+        "row": 8,
+        "col": 4,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 43,
+        "clue": "Uno velocissimo",
+        "row": 9,
+        "col": 0,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 47,
+        "clue": "Immediatamente posteriori",
+        "row": 10,
+        "col": 0,
+        "length": 11,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Accanto... in inglese",
+        "row": 0,
+        "col": 0,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Ha il porto di Csepel",
+        "row": 0,
+        "col": 3,
+        "length": 8,
+        "direction": "down"
+      },
+      {
+        "number": 8,
+        "clue": "L'Oerter discobolo del passato",
+        "row": 0,
+        "col": 7,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 9,
+        "clue": "Il Piovani apprezzato autore di musiche per film",
+        "row": 0,
+        "col": 8,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 10,
+        "clue": "L'\"economy\" non \"old\"",
+        "row": 0,
+        "col": 9,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 11,
+        "clue": "Rendono rigida la riga",
+        "row": 0,
+        "col": 10,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 15,
+        "clue": "Si chiamò Corcira",
+        "row": 2,
+        "col": 1,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 17,
+        "clue": "Osservatorio Epidemiologico Regionale",
+        "row": 2,
+        "col": 4,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 18,
+        "clue": "In topolino... il numero di o!",
+        "row": 2,
+        "col": 5,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 19,
+        "clue": "Il TGV di casa nostra",
+        "row": 2,
+        "col": 6,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 21,
+        "clue": "La sigla di Verbania",
+        "row": 3,
+        "col": 0,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 23,
+        "clue": "Adempiere un'obbligazione pecuniaria",
+        "row": 3,
+        "col": 7,
+        "length": 8,
+        "direction": "down"
+      },
+      {
+        "number": 24,
+        "clue": "Sono pari all' expo",
+        "row": 3,
+        "col": 10,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 27,
+        "clue": "La \"Desert\" di George W. Bush",
+        "row": 4,
+        "col": 9,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 29,
+        "clue": "Pablo, violoncellista",
+        "row": 5,
+        "col": 2,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 31,
+        "clue": "Due di giugno...",
+        "row": 6,
+        "col": 0,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 32,
+        "clue": "Un perché di Cesare",
+        "row": 6,
+        "col": 4,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 33,
+        "clue": "Organization of African Unity",
+        "row": 6,
+        "col": 5,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 34,
+        "clue": "No Reply Necessary (sigla)",
+        "row": 6,
+        "col": 6,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 36,
+        "clue": "Interiezione d'incertezza",
+        "row": 6,
+        "col": 10,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 40,
+        "clue": "Il \"tu\" degli Inglesi",
+        "row": 8,
+        "col": 1,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 43,
+        "clue": "La provincia di Iseo",
+        "row": 9,
+        "col": 0,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 44,
+        "clue": "Iniz. di Savalas",
+        "row": 9,
+        "col": 3,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 46,
+        "clue": "Le sorelle della Y",
+        "row": 9,
+        "col": 10,
+        "length": 2,
+        "direction": "down"
+      }
+    ]
+  }
+}

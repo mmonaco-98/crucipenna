@@ -1,0 +1,408 @@
+{
+  "id": "455",
+  "title": "Puzzle 455",
+  "size": {
+    "rows": 9,
+    "cols": 9
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      "#",
+      "",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "#",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "",
+      "#",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "A",
+      "A",
+      "R",
+      "E",
+      "#",
+      "E",
+      "D",
+      "D",
+      "A"
+    ],
+    [
+      "N",
+      "D",
+      "#",
+      "P",
+      "#",
+      "S",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "I",
+      "E",
+      "T",
+      "T",
+      "A",
+      "T",
+      "O",
+      "R",
+      "I"
+    ],
+    [
+      "S",
+      "N",
+      "#",
+      "#",
+      "L",
+      "E",
+      "N",
+      "I",
+      "N"
+    ],
+    [
+      "T",
+      "I",
+      "P",
+      "O",
+      "G",
+      "R",
+      "A",
+      "F",
+      "I"
+    ],
+    [
+      "O",
+      "T",
+      "E",
+      "R",
+      "O",
+      "#",
+      "#",
+      "A",
+      "B"
+    ],
+    [
+      "N",
+      "E",
+      "O",
+      "E",
+      "L",
+      "E",
+      "T",
+      "T",
+      "I"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "T",
+      "#",
+      "S",
+      "#",
+      "T",
+      "T"
+    ],
+    [
+      "N",
+      "O",
+      "T",
+      "O",
+      "#",
+      "T",
+      "R",
+      "O",
+      "O"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Fiume svizzero che sbocca nel Reno",
+        "row": 0,
+        "col": 0,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 5,
+        "clue": "Una famosa Ciano",
+        "row": 0,
+        "col": 5,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "Dispari nei nodi",
+        "row": 1,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 12,
+        "clue": "Le... bestie nere dei superstiziosi",
+        "row": 2,
+        "col": 0,
+        "length": 9,
+        "direction": "across"
+      },
+      {
+        "number": 18,
+        "clue": "Scendere senza cedere",
+        "row": 3,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 19,
+        "clue": "Un mito del comunismo",
+        "row": 3,
+        "col": 4,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 20,
+        "clue": "Operai delle arti grafiche",
+        "row": 4,
+        "col": 0,
+        "length": 9,
+        "direction": "across"
+      },
+      {
+        "number": 23,
+        "clue": "Una \"bella\" dell'Ottocento",
+        "row": 5,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 24,
+        "clue": "Prima di Ce D",
+        "row": 5,
+        "col": 7,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 25,
+        "clue": "Appena nominati",
+        "row": 6,
+        "col": 0,
+        "length": 9,
+        "direction": "across"
+      },
+      {
+        "number": 30,
+        "clue": "Sono uguali nell' entità",
+        "row": 7,
+        "col": 7,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 31,
+        "clue": "Città siciliana ricca di edifici barocchi",
+        "row": 8,
+        "col": 0,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 34,
+        "clue": "Il padre di Ganimede",
+        "row": 8,
+        "col": 5,
+        "length": 4,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Una Jennifer del cinema",
+        "row": 0,
+        "col": 0,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Infiammaziona glandolare",
+        "row": 0,
+        "col": 1,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Ente Provinciale per il Turismo (sigla)",
+        "row": 0,
+        "col": 3,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Ebrea regina di Persia",
+        "row": 0,
+        "col": 5,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 14,
+        "clue": "La sigla di un linguaggio algoritmico",
+        "row": 2,
+        "col": 4,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 15,
+        "clue": "Popolazione ora estinta della Terra del Fuoco",
+        "row": 2,
+        "col": 6,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 16,
+        "clue": "Cambiato tutto da capo",
+        "row": 2,
+        "col": 7,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 17,
+        "clue": "Interdetto, vietato",
+        "row": 2,
+        "col": 8,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 21,
+        "clue": "Un Pericoli che veniva interpretato da Teo Teocoli",
+        "row": 4,
+        "col": 2,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 22,
+        "clue": "Bagna Palermo",
+        "row": 4,
+        "col": 3,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 26,
+        "clue": "Là dove nasce il sole",
+        "row": 6,
+        "col": 5,
+        "length": 3,
+        "direction": "down"
+      }
+    ]
+  }
+}

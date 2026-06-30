@@ -1,0 +1,304 @@
+{
+  "id": "402",
+  "title": "Puzzle 402",
+  "size": {
+    "rows": 7,
+    "cols": 7
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "T",
+      "O",
+      "K",
+      "E",
+      "L",
+      "A",
+      "U"
+    ],
+    [
+      "O",
+      "V",
+      "I",
+      "N",
+      "O",
+      "#",
+      "S"
+    ],
+    [
+      "D",
+      "A",
+      "E",
+      "T",
+      "#",
+      "K",
+      "R"
+    ],
+    [
+      "#",
+      "I",
+      "V",
+      "O",
+      "R",
+      "Y",
+      "#"
+    ],
+    [
+      "D",
+      "O",
+      "#",
+      "Z",
+      "O",
+      "O",
+      "M"
+    ],
+    [
+      "I",
+      "#",
+      "B",
+      "O",
+      "O",
+      "T",
+      "E"
+    ],
+    [
+      "O",
+      "R",
+      "D",
+      "I",
+      "T",
+      "O",
+      "I"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Gruppo di isolotti della Nuova Zelanda",
+        "row": 0,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "Lo è la pecora",
+        "row": 1,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "Una città delle Filippine",
+        "row": 2,
+        "col": 0,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 11,
+        "clue": "Estreme di kaiser",
+        "row": 2,
+        "col": 5,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 12,
+        "clue": "Il regista di \"Camera con vista\"",
+        "row": 3,
+        "col": 1,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 14,
+        "clue": "Prima nota",
+        "row": 4,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 15,
+        "clue": "L'obiettivo che avvicina.",
+        "row": 4,
+        "col": 3,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 18,
+        "clue": "La costellazione boreale con Arturo",
+        "row": 5,
+        "col": 2,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 19,
+        "clue": "Macchine tessili",
+        "row": 6,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Nome del regista Browning di Friks",
+        "row": 0,
+        "col": 0,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Vende prodotti del pollaio",
+        "row": 0,
+        "col": 1,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "La capitale di Zelensky",
+        "row": 0,
+        "col": 2,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Vermi intestinali",
+        "row": 0,
+        "col": 3,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Filone senza fine",
+        "row": 0,
+        "col": 4,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 7,
+        "clue": "Ufficio Scolastico Regionale",
+        "row": 0,
+        "col": 6,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 11,
+        "clue": "La città di certi \"protocolli\"",
+        "row": 2,
+        "col": 5,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 13,
+        "clue": "Illustre architetto statunitense",
+        "row": 3,
+        "col": 4,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 14,
+        "clue": "Lo era il mostruoso Moloch",
+        "row": 4,
+        "col": 0,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 16,
+        "clue": "Stefano che è stato un campione di atletica",
+        "row": 4,
+        "col": 6,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 18,
+        "clue": "Bo Derek",
+        "row": 5,
+        "col": 2,
+        "length": 2,
+        "direction": "down"
+      }
+    ]
+  }
+}

@@ -1,0 +1,552 @@
+{
+  "id": "487",
+  "title": "Puzzle 487",
+  "size": {
+    "rows": 11,
+    "cols": 11
+  },
+  "grid": [
+    [
+      "",
+      "#",
+      "#",
+      "",
+      "#",
+      "",
+      "#",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "#",
+      "#",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "#",
+      "",
+      "#",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "#",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "#"
+    ],
+    [
+      "",
+      "#",
+      "",
+      "#",
+      "",
+      "#",
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "#",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      "#",
+      "",
+      "#",
+      "",
+      "#",
+      "#",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "L",
+      "#",
+      "#",
+      "V",
+      "#",
+      "E",
+      "#",
+      "V",
+      "H",
+      "#",
+      "R"
+    ],
+    [
+      "A",
+      "S",
+      "S",
+      "E",
+      "M",
+      "B",
+      "L",
+      "E",
+      "A",
+      "R",
+      "E"
+    ],
+    [
+      "B",
+      "Y",
+      "#",
+      "#",
+      "#",
+      "R",
+      "O",
+      "R",
+      "I",
+      "D",
+      "A"
+    ],
+    [
+      "O",
+      "#",
+      "A",
+      "C",
+      "M",
+      "O",
+      "N",
+      "I",
+      "T",
+      "A",
+      "L"
+    ],
+    [
+      "R",
+      "I",
+      "R",
+      "#",
+      "A",
+      "#",
+      "T",
+      "#",
+      "I",
+      "#",
+      "E"
+    ],
+    [
+      "#",
+      "#",
+      "R",
+      "U",
+      "G",
+      "I",
+      "A",
+      "D",
+      "A",
+      "#",
+      "#"
+    ],
+    [
+      "G",
+      "#",
+      "O",
+      "#",
+      "G",
+      "#",
+      "N",
+      "#",
+      "N",
+      "E",
+      "K"
+    ],
+    [
+      "L",
+      "E",
+      "T",
+      "T",
+      "E",
+      "R",
+      "A",
+      "R",
+      "I",
+      "#",
+      "A"
+    ],
+    [
+      "A",
+      "R",
+      "I",
+      "O",
+      "S",
+      "A",
+      "#",
+      "#",
+      "#",
+      "F",
+      "B"
+    ],
+    [
+      "C",
+      "O",
+      "N",
+      "T",
+      "E",
+      "R",
+      "R",
+      "A",
+      "N",
+      "E",
+      "I"
+    ],
+    [
+      "É",
+      "#",
+      "I",
+      "A",
+      "#",
+      "A",
+      "#",
+      "Y",
+      "#",
+      "#",
+      "R"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 4,
+        "clue": "Scrisse \"I miserabili\" (iniz.)",
+        "row": 0,
+        "col": 7,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "clue": "Lo è il regime dove si decide in riunione",
+        "row": 1,
+        "col": 0,
+        "length": 11,
+        "direction": "across"
+      },
+      {
+        "number": 13,
+        "clue": "Accanto... in inglese",
+        "row": 2,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 14,
+        "clue": "Rugiadosa",
+        "row": 2,
+        "col": 5,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 16,
+        "clue": "Una lega per monete",
+        "row": 3,
+        "col": 2,
+        "length": 9,
+        "direction": "across"
+      },
+      {
+        "number": 19,
+        "clue": "Camion di grosse dimensioni",
+        "row": 4,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 25,
+        "clue": "Può diventare brina",
+        "row": 5,
+        "col": 2,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 33,
+        "clue": "Il cantante di Sassuolo",
+        "row": 6,
+        "col": 8,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 36,
+        "clue": "I premi come lo Strega",
+        "row": 7,
+        "col": 0,
+        "length": 9,
+        "direction": "across"
+      },
+      {
+        "number": 42,
+        "clue": "Ventilata, piena di luce",
+        "row": 8,
+        "col": 0,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 43,
+        "clue": "La Bolkan dello schermo (iniz.)",
+        "row": 8,
+        "col": 9,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 44,
+        "clue": "Lo sono tra loro due italiani",
+        "row": 9,
+        "col": 0,
+        "length": 11,
+        "direction": "across"
+      },
+      {
+        "number": 49,
+        "clue": "La fine dell'armonia",
+        "row": 10,
+        "col": 2,
+        "length": 2,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Con \"ars\" in un motto latino",
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Iniziano venerdì",
+        "row": 0,
+        "col": 3,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Fiume spagnolo",
+        "row": 0,
+        "col": 5,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Reali, effettivi",
+        "row": 0,
+        "col": 7,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Popolo antillano",
+        "row": 0,
+        "col": 8,
+        "length": 8,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Lo è l'aquila più grossa",
+        "row": 0,
+        "col": 10,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 8,
+        "clue": "Le ultime di Susy",
+        "row": 1,
+        "col": 1,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 11,
+        "clue": "Posta in distanza",
+        "row": 1,
+        "col": 6,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 12,
+        "clue": "La Di Benedetto attrice",
+        "row": 1,
+        "col": 9,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 16,
+        "clue": "Ridanno... il filo",
+        "row": 3,
+        "col": 2,
+        "length": 8,
+        "direction": "down"
+      },
+      {
+        "number": 18,
+        "clue": "Un campo lasciato incolto affinché il terreno riposi",
+        "row": 3,
+        "col": 4,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 29,
+        "clue": "Il marron candito",
+        "row": 6,
+        "col": 0,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 35,
+        "clue": "Il Bedi che ha impersonato Sandokan alla tivù",
+        "row": 6,
+        "col": 10,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 37,
+        "clue": "Era amata da Leandro",
+        "row": 7,
+        "col": 1,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 38,
+        "clue": "Ragazza piemontese",
+        "row": 7,
+        "col": 3,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 39,
+        "clue": "Insolita come un'occasione da non perdere",
+        "row": 7,
+        "col": 5,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 43,
+        "clue": "Santa ____, la capitale del New Mexico",
+        "row": 8,
+        "col": 9,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 46,
+        "clue": "Pari di Gary",
+        "row": 9,
+        "col": 7,
+        "length": 2,
+        "direction": "down"
+      }
+    ]
+  }
+}

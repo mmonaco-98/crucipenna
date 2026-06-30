@@ -1,0 +1,272 @@
+{
+  "id": "322",
+  "title": "Puzzle 322",
+  "size": {
+    "rows": 7,
+    "cols": 7
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "E",
+      "T",
+      "I",
+      "C",
+      "I",
+      "#",
+      "#"
+    ],
+    [
+      "F",
+      "S",
+      "#",
+      "U",
+      "T",
+      "A",
+      "H"
+    ],
+    [
+      "F",
+      "I",
+      "A",
+      "T",
+      "A",
+      "R",
+      "E"
+    ],
+    [
+      "I",
+      "N",
+      "F",
+      "A",
+      "M",
+      "I",
+      "A"
+    ],
+    [
+      "G",
+      "A",
+      "R",
+      "N",
+      "I",
+      "E",
+      "R"
+    ],
+    [
+      "I",
+      "N",
+      "I",
+      "E",
+      "#",
+      "T",
+      "N"
+    ],
+    [
+      "#",
+      "#",
+      "C",
+      "E",
+      "R",
+      "E",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Moralmente corretti",
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 6,
+        "clue": "Una sigla per i treni",
+        "row": 1,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "clue": "Lo Stato con il Grande Lago Salato",
+        "row": 1,
+        "col": 3,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "Aprire bocca... per parlare",
+        "row": 2,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 12,
+        "clue": "Se ne copriva il... fellone",
+        "row": 3,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 13,
+        "clue": "Bella villa di Bordighera",
+        "row": 4,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 14,
+        "clue": "Cetacei dei fiumi sudamericani",
+        "row": 5,
+        "col": 0,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 15,
+        "clue": "Le consonanti di tono",
+        "row": 5,
+        "col": 5,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 16,
+        "clue": "Comune in provincia di Torino",
+        "row": 6,
+        "col": 2,
+        "length": 5,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Immagini, sembianze",
+        "row": 0,
+        "col": 0,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Citta della Cina",
+        "row": 0,
+        "col": 1,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Le malattie curate dal dermatologo",
+        "row": 0,
+        "col": 3,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Città del Giappone",
+        "row": 0,
+        "col": 4,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 8,
+        "clue": "Un segno zodiacale",
+        "row": 1,
+        "col": 5,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 9,
+        "clue": "Un Thomas del pugilato",
+        "row": 1,
+        "col": 6,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 11,
+        "clue": "Simone del pop",
+        "row": 2,
+        "col": 2,
+        "length": 5,
+        "direction": "down"
+      }
+    ]
+  }
+}

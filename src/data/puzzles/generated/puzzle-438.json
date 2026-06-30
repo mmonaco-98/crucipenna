@@ -1,0 +1,288 @@
+{
+  "id": "438",
+  "title": "Puzzle 438",
+  "size": {
+    "rows": 7,
+    "cols": 7
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "I",
+      "E",
+      "S",
+      "#",
+      "I",
+      "R",
+      "L"
+    ],
+    [
+      "S",
+      "H",
+      "U",
+      "T",
+      "T",
+      "L",
+      "E"
+    ],
+    [
+      "F",
+      "#",
+      "P",
+      "R",
+      "E",
+      "S",
+      "A"
+    ],
+    [
+      "A",
+      "#",
+      "E",
+      "I",
+      "R",
+      "#",
+      "N"
+    ],
+    [
+      "H",
+      "E",
+      "R",
+      "T",
+      "A",
+      "#",
+      "D"
+    ],
+    [
+      "A",
+      "R",
+      "B",
+      "I",
+      "T",
+      "E",
+      "R"
+    ],
+    [
+      "N",
+      "B",
+      "A",
+      "#",
+      "A",
+      "R",
+      "O"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Il sì del gentleman",
+        "row": 0,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 4,
+        "clue": "Sigla per l'Irlanda",
+        "row": 0,
+        "col": 4,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "clue": "Il più famoso è stato quello nello spazio",
+        "row": 1,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "Storica quella della Bastiglia",
+        "row": 2,
+        "col": 2,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 12,
+        "clue": "Una dea scandinava",
+        "row": 3,
+        "col": 2,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 14,
+        "clue": "Müller, Nobel letterario",
+        "row": 4,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 17,
+        "clue": "Petronio era quello \"elegantiarum\"",
+        "row": 5,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 19,
+        "clue": "I cestisti professionisti americani (sigla)",
+        "row": 6,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 20,
+        "clue": "E detto anche gichero",
+        "row": 6,
+        "col": 4,
+        "length": 3,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Fu capitale della Persia",
+        "row": 0,
+        "col": 0,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Fa seguito alle domande",
+        "row": 0,
+        "col": 1,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Orgogliosa e insolente",
+        "row": 0,
+        "col": 2,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Ripetuta",
+        "row": 0,
+        "col": 4,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Ideò Jekyll e Hyde (iniz.)",
+        "row": 0,
+        "col": 5,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Traversava a nuoto l'Ellesponto per l'amata Ero",
+        "row": 0,
+        "col": 6,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 8,
+        "clue": "Ridotti in pezzettini",
+        "row": 1,
+        "col": 3,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 15,
+        "clue": "Il Burroughs creatore di Tarzan (iniz.)",
+        "row": 4,
+        "col": 1,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 18,
+        "clue": "Una serie televisiva che quest' anno non si è vista",
+        "row": 5,
+        "col": 5,
+        "length": 2,
+        "direction": "down"
+      }
+    ]
+  }
+}

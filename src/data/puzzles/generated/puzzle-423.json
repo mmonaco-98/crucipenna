@@ -1,0 +1,288 @@
+{
+  "id": "423",
+  "title": "Puzzle 423",
+  "size": {
+    "rows": 7,
+    "cols": 7
+  },
+  "grid": [
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "#",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ]
+  ],
+  "solution": [
+    [
+      "#",
+      "F",
+      "A",
+      "L",
+      "E",
+      "N",
+      "A"
+    ],
+    [
+      "F",
+      "R",
+      "E",
+      "E",
+      "M",
+      "A",
+      "N"
+    ],
+    [
+      "R",
+      "#",
+      "#",
+      "G",
+      "I",
+      "T",
+      "A"
+    ],
+    [
+      "A",
+      "T",
+      "T",
+      "I",
+      "N",
+      "O",
+      "N"
+    ],
+    [
+      "P",
+      "E",
+      "R",
+      "O",
+      "#",
+      "#",
+      "A"
+    ],
+    [
+      "P",
+      "E",
+      "A",
+      "N",
+      "U",
+      "T",
+      "S"
+    ],
+    [
+      "E",
+      "S",
+      "P",
+      "E",
+      "R",
+      "O",
+      "#"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Varietà di farfalla notturna",
+        "row": 0,
+        "col": 1,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "clue": "Morgan ___, attore",
+        "row": 1,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "Generalmente la si effettua di piacere",
+        "row": 2,
+        "col": 3,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "Isotopo radioattivo del radon",
+        "row": 3,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 13,
+        "clue": "Vale ma",
+        "row": 4,
+        "col": 0,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 15,
+        "clue": "Divertono con Brown e Schroeder",
+        "row": 5,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 18,
+        "clue": "Stella della sera",
+        "row": 6,
+        "col": 0,
+        "length": 6,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "La moglie di Dario Fo (iniz.)",
+        "row": 0,
+        "col": 1,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Le... ali dell'aliante",
+        "row": 0,
+        "col": 2,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "È famosa quella straniera",
+        "row": 0,
+        "col": 3,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Pascià, esploratore tedesco",
+        "row": 0,
+        "col": 4,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Venuto per lieto evento",
+        "row": 0,
+        "col": 5,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Il frutto di una bomba",
+        "row": 0,
+        "col": 6,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 7,
+        "clue": "Frullato con il ghiaccio",
+        "row": 1,
+        "col": 0,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 11,
+        "clue": "Fiume del Regno Unito",
+        "row": 3,
+        "col": 1,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 12,
+        "clue": "L'abbreviazione di un allenatore",
+        "row": 3,
+        "col": 2,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 16,
+        "clue": "L' inizio dell' uragano",
+        "row": 5,
+        "col": 4,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 17,
+        "clue": "La città della Juve (sigla)",
+        "row": 5,
+        "col": 5,
+        "length": 2,
+        "direction": "down"
+      }
+    ]
+  }
+}

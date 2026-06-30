@@ -1,0 +1,288 @@
+{
+  "id": "345",
+  "title": "Puzzle 345",
+  "size": {
+    "rows": 7,
+    "cols": 7
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "O",
+      "A",
+      "X",
+      "A",
+      "C",
+      "A",
+      "#"
+    ],
+    [
+      "G",
+      "Z",
+      "#",
+      "L",
+      "O",
+      "S",
+      "S"
+    ],
+    [
+      "O",
+      "O",
+      "T",
+      "E",
+      "C",
+      "H",
+      "E"
+    ],
+    [
+      "#",
+      "T",
+      "O",
+      "S",
+      "C",
+      "A",
+      "#"
+    ],
+    [
+      "C",
+      "A",
+      "N",
+      "S",
+      "A",
+      "N",
+      "O"
+    ],
+    [
+      "A",
+      "T",
+      "E",
+      "I",
+      "#",
+      "T",
+      "C"
+    ],
+    [
+      "#",
+      "I",
+      "R",
+      "O",
+      "N",
+      "I",
+      "C"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Stato del Messico",
+        "row": 0,
+        "col": 0,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "clue": "Eran pari fra gli egizi",
+        "row": 1,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "Sedimento fine, giallo e fertile",
+        "row": 1,
+        "col": 3,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "Involucri biologici che contengono uova",
+        "row": 2,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 12,
+        "clue": "Muore dopo Mario Cavaradossi",
+        "row": 3,
+        "col": 1,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 13,
+        "clue": "Comune abruzzese",
+        "row": 4,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 15,
+        "clue": "Uomini che sono privi di fede",
+        "row": 5,
+        "col": 0,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 16,
+        "clue": "Rendono... stanco il sano",
+        "row": 5,
+        "col": 5,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 17,
+        "clue": "Un successo di Alanis Morissette",
+        "row": 6,
+        "col": 1,
+        "length": 6,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Il nome di Zatterin",
+        "row": 0,
+        "col": 0,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Lo sono molti concimi chimici",
+        "row": 0,
+        "col": 1,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Il Vinci che ha condotto Matrix",
+        "row": 0,
+        "col": 3,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "L'arciere la appoggia sulla corda prima del tiro",
+        "row": 0,
+        "col": 4,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Un gruppo etnico di Guinea e Costa d' Avorio",
+        "row": 0,
+        "col": 5,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 9,
+        "clue": "La fine delle stesse",
+        "row": 1,
+        "col": 6,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 11,
+        "clue": "Inchiostro per stampanti",
+        "row": 2,
+        "col": 2,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 13,
+        "clue": "Chi seguono nella chicane",
+        "row": 4,
+        "col": 0,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 14,
+        "clue": "Situato a ovest (abbreviazione)",
+        "row": 4,
+        "col": 6,
+        "length": 3,
+        "direction": "down"
+      }
+    ]
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "id": "367",
+  "title": "Puzzle 367",
+  "size": {
+    "rows": 7,
+    "cols": 7
+  },
+  "grid": [
+    [
+      "#",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "#"
+    ]
+  ],
+  "solution": [
+    [
+      "#",
+      "B",
+      "#",
+      "D",
+      "O",
+      "D",
+      "I"
+    ],
+    [
+      "P",
+      "O",
+      "K",
+      "E",
+      "M",
+      "O",
+      "N"
+    ],
+    [
+      "O",
+      "R",
+      "E",
+      "F",
+      "I",
+      "C",
+      "E"
+    ],
+    [
+      "E",
+      "M",
+      "#",
+      "I",
+      "#",
+      "E",
+      "D"
+    ],
+    [
+      "S",
+      "A",
+      "C",
+      "C",
+      "O",
+      "N",
+      "I"
+    ],
+    [
+      "I",
+      "N",
+      "T",
+      "I",
+      "N",
+      "T",
+      "A"
+    ],
+    [
+      "A",
+      "N",
+      "E",
+      "T",
+      "#",
+      "E",
+      "#"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 2,
+        "clue": "Il nome di Al Fajed, l'uomo perito insieme a lady Diana",
+        "row": 0,
+        "col": 3,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 6,
+        "clue": "I mostriciattoli di popolarissimi cartoni animati",
+        "row": 1,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "Incastona pietre e brillanti",
+        "row": 2,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "Morante della letteratura (iniz.)",
+        "row": 3,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 11,
+        "clue": "Dante a teatro (iniz.)",
+        "row": 3,
+        "col": 5,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 12,
+        "clue": "Scomodi materassi",
+        "row": 4,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 15,
+        "clue": "Immersa nell'inchiostro",
+        "row": 5,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 16,
+        "clue": "Un Castello francese, sull'Eure",
+        "row": 6,
+        "col": 0,
+        "length": 4,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Martin che fu uno dei collaboratori di Hitler",
+        "row": 0,
+        "col": 1,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Quello pubblico è detto anche disavanzo",
+        "row": 0,
+        "col": 3,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Organizzazione Monetaria Internazionale",
+        "row": 0,
+        "col": 4,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Il corpo che insegna",
+        "row": 0,
+        "col": 5,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Prolungato digiuno",
+        "row": 0,
+        "col": 6,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Una è L'infinito di Leopardi",
+        "row": 1,
+        "col": 0,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 7,
+        "clue": "Il... principio di Keplero",
+        "row": 1,
+        "col": 2,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 13,
+        "clue": "Certificato del Tesoro in ECU (sigla)",
+        "row": 4,
+        "col": 2,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 14,
+        "clue": "Siede alla Camera dei Deputati (abbrev.)",
+        "row": 4,
+        "col": 4,
+        "length": 2,
+        "direction": "down"
+      }
+    ]
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "id": "431",
+  "title": "Puzzle 431",
+  "size": {
+    "rows": 7,
+    "cols": 7
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "#",
+      "",
+      "#",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "B",
+      "I",
+      "N",
+      "A",
+      "R",
+      "I",
+      "A"
+    ],
+    [
+      "G",
+      "#",
+      "B",
+      "L",
+      "I",
+      "N",
+      "D"
+    ],
+    [
+      "E",
+      "S",
+      "C",
+      "O",
+      "B",
+      "A",
+      "R"
+    ],
+    [
+      "#",
+      "C",
+      "#",
+      "G",
+      "#",
+      "N",
+      "#"
+    ],
+    [
+      "S",
+      "E",
+      "T",
+      "E",
+      "R",
+      "I",
+      "A"
+    ],
+    [
+      "A",
+      "M",
+      "E",
+      "N",
+      "I",
+      "#",
+      "R"
+    ],
+    [
+      "S",
+      "I",
+      "M",
+      "E",
+      "O",
+      "N",
+      "I"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Così è la logica del computer",
+        "row": 0,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "Come dovrebbe essere un trust",
+        "row": 1,
+        "col": 2,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "Un famoso narcotrafficante",
+        "row": 2,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 15,
+        "clue": "Rivendita di tessuti fruscianti",
+        "row": 4,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 19,
+        "clue": "Graditi al turista",
+        "row": 5,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 21,
+        "clue": "Sara ex saltatrice",
+        "row": 6,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Bach, Godel, Escher",
+        "row": 0,
+        "col": 0,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Primaria rete televisiva USA (sigla)",
+        "row": 0,
+        "col": 2,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Lampade a elevato rendimento",
+        "row": 0,
+        "col": 3,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Fanno ribaltare davanti all' altare",
+        "row": 0,
+        "col": 4,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Inefficaci",
+        "row": 0,
+        "col": 5,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 7,
+        "clue": "A Domanda Risponde (sigla)",
+        "row": 0,
+        "col": 6,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 11,
+        "clue": "Duri di comprendonio",
+        "row": 2,
+        "col": 1,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 15,
+        "clue": "Società ad Accomandita Semplice",
+        "row": 4,
+        "col": 0,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 16,
+        "clue": "Tangenziali Esterne Milanesi (sigla)",
+        "row": 4,
+        "col": 2,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 17,
+        "clue": "Mormora scendendo a valle",
+        "row": 4,
+        "col": 4,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 18,
+        "clue": "I fiori chiamati anche gicheri",
+        "row": 4,
+        "col": 6,
+        "length": 3,
+        "direction": "down"
+      }
+    ]
+  }
+}

@@ -1,0 +1,296 @@
+{
+  "id": "361",
+  "title": "Puzzle 361",
+  "size": {
+    "rows": 7,
+    "cols": 7
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "T",
+      "A",
+      "N",
+      "G",
+      "#",
+      "N",
+      "E"
+    ],
+    [
+      "#",
+      "M",
+      "I",
+      "H",
+      "R",
+      "A",
+      "B"
+    ],
+    [
+      "F",
+      "A",
+      "N",
+      "#",
+      "A",
+      "R",
+      "R"
+    ],
+    [
+      "E",
+      "T",
+      "I",
+      "L",
+      "I",
+      "C",
+      "O"
+    ],
+    [
+      "V",
+      "O",
+      "V",
+      "#",
+      "P",
+      "I",
+      "N"
+    ],
+    [
+      "E",
+      "R",
+      "E",
+      "B",
+      "U",
+      "S",
+      "#"
+    ],
+    [
+      "R",
+      "I",
+      "#",
+      "C",
+      "R",
+      "I",
+      "A"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Dinastia cinese",
+        "row": 0,
+        "col": 0,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 5,
+        "clue": "Il simbolo chimico del neon",
+        "row": 0,
+        "col": 5,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "clue": "La nicchia delle moschee",
+        "row": 1,
+        "col": 1,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "Un sostenitore accanito",
+        "row": 2,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "Arrivi con tre lettere",
+        "row": 2,
+        "col": 4,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 11,
+        "clue": "L'alcool... detto anche etanolo",
+        "row": 3,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 13,
+        "clue": "Un liquore giallo",
+        "row": 4,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 14,
+        "clue": "Un codice personale",
+        "row": 4,
+        "col": 4,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 15,
+        "clue": "Vulcano dell'Antartide",
+        "row": 5,
+        "col": 0,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 17,
+        "clue": "Il prefisso del ripetente...",
+        "row": 6,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 18,
+        "clue": "L'ultimo nato",
+        "row": 6,
+        "col": 3,
+        "length": 4,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 2,
+        "clue": "Sanno apprezzare le rarità",
+        "row": 0,
+        "col": 1,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Antichissima città sul Tigri",
+        "row": 0,
+        "col": 2,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Sono a fianco in Ungheria",
+        "row": 0,
+        "col": 3,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Bianchi fiori profumati",
+        "row": 0,
+        "col": 5,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Città della Cisgiordania",
+        "row": 0,
+        "col": 6,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 8,
+        "clue": "Importante città indiana",
+        "row": 1,
+        "col": 4,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 9,
+        "clue": "Travolta l' aveva di Saturday Night",
+        "row": 2,
+        "col": 0,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 16,
+        "clue": "Croce di Napoli (iniz.)",
+        "row": 5,
+        "col": 3,
+        "length": 2,
+        "direction": "down"
+      }
+    ]
+  }
+}

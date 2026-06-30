@@ -1,0 +1,304 @@
+{
+  "id": "334",
+  "title": "Puzzle 334",
+  "size": {
+    "rows": 7,
+    "cols": 7
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "A",
+      "G",
+      "N",
+      "O",
+      "#",
+      "U",
+      "P"
+    ],
+    [
+      "L",
+      "R",
+      "E",
+      "#",
+      "M",
+      "I",
+      "X"
+    ],
+    [
+      "C",
+      "A",
+      "S",
+      "S",
+      "I",
+      "S",
+      "#"
+    ],
+    [
+      "I",
+      "N",
+      "T",
+      "A",
+      "T",
+      "T",
+      "A"
+    ],
+    [
+      "#",
+      "A",
+      "L",
+      "D",
+      "R",
+      "I",
+      "N"
+    ],
+    [
+      "D",
+      "T",
+      "E",
+      "#",
+      "I",
+      "T",
+      "T"
+    ],
+    [
+      "E",
+      "O",
+      "#",
+      "S",
+      "A",
+      "I",
+      "A"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Un ovino per i poeti",
+        "row": 0,
+        "col": 0,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 5,
+        "clue": "Cuore di lupo",
+        "row": 0,
+        "col": 5,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "clue": "Laboratorio di Ricerche Enologiche (sigla)",
+        "row": 1,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "Una mescolanza",
+        "row": 1,
+        "col": 4,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "Liquore ottenuto dal ribes nero",
+        "row": 2,
+        "col": 0,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 11,
+        "clue": "Così è la Natura non manomessa dall'uomo",
+        "row": 3,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 13,
+        "clue": "L'Edwin della missione Apollo 11",
+        "row": 4,
+        "col": 1,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 14,
+        "clue": "Data Terminal Equipment",
+        "row": 5,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 15,
+        "clue": "Una famosa multinazionale",
+        "row": 5,
+        "col": 4,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 16,
+        "clue": "Congiunge e disgiunge",
+        "row": 6,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 17,
+        "clue": "Tessuto sottile di lana",
+        "row": 6,
+        "col": 3,
+        "length": 4,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Sono i... re delle foreste canadesi",
+        "row": 0,
+        "col": 0,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Una pietra preziosa color vino",
+        "row": 0,
+        "col": 1,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Un colosso dell' alimentazione",
+        "row": 0,
+        "col": 2,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Piccola scimmia arboricola americana",
+        "row": 0,
+        "col": 5,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Gli estremi di Phoenix",
+        "row": 0,
+        "col": 6,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 8,
+        "clue": "Il copricapo del Vescovo",
+        "row": 1,
+        "col": 4,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 10,
+        "clue": "É triste in inglese",
+        "row": 2,
+        "col": 3,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 12,
+        "clue": "Sportello di mobile",
+        "row": 3,
+        "col": 6,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 14,
+        "clue": "Tra Vittorio e Sica",
+        "row": 5,
+        "col": 0,
+        "length": 2,
+        "direction": "down"
+      }
+    ]
+  }
+}

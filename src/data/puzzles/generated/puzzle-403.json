@@ -1,0 +1,264 @@
+{
+  "id": "403",
+  "title": "Puzzle 403",
+  "size": {
+    "rows": 7,
+    "cols": 7
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "L",
+      "E",
+      "C",
+      "C",
+      "E",
+      "S",
+      "I"
+    ],
+    [
+      "I",
+      "X",
+      "#",
+      "A",
+      "#",
+      "C",
+      "N"
+    ],
+    [
+      "S",
+      "P",
+      "O",
+      "R",
+      "C",
+      "H",
+      "E"
+    ],
+    [
+      "B",
+      "L",
+      "#",
+      "A",
+      "#",
+      "E",
+      "V"
+    ],
+    [
+      "O",
+      "O",
+      "S",
+      "F",
+      "E",
+      "R",
+      "A"
+    ],
+    [
+      "N",
+      "I",
+      "#",
+      "F",
+      "#",
+      "Z",
+      "S"
+    ],
+    [
+      "A",
+      "T",
+      "R",
+      "E",
+      "S",
+      "I",
+      "A"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Cittadini pugliesi",
+        "row": 0,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "Nove per i romani",
+        "row": 1,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "Sigla di Cuneo",
+        "row": 1,
+        "col": 5,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 11,
+        "clue": "Pronte da lavare",
+        "row": 2,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 14,
+        "clue": "Gli... estremi del baseball",
+        "row": 3,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 16,
+        "clue": "Scrisse \"Uomini e no\" (iniz.)",
+        "row": 3,
+        "col": 5,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 17,
+        "clue": "Cellula femminile delle piante fanerogame",
+        "row": 4,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 20,
+        "clue": "Una risposta evasiva",
+        "row": 5,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 22,
+        "clue": "Le consonanti dell' ozioso",
+        "row": 5,
+        "col": 5,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 23,
+        "clue": "Particolare disfunzione di canali organici",
+        "row": 6,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "La città portoghese con il quartiere di Belém",
+        "row": 0,
+        "col": 0,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Prodezza memorabile",
+        "row": 0,
+        "col": 1,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Si riempiono per versare",
+        "row": 0,
+        "col": 3,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Piacciono ai buontemponi",
+        "row": 0,
+        "col": 5,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 7,
+        "clue": "Lo è la pratica rimasta in sospeso",
+        "row": 0,
+        "col": 6,
+        "length": 7,
+        "direction": "down"
+      }
+    ]
+  }
+}

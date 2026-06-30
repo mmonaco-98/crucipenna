@@ -1,0 +1,888 @@
+{
+  "id": "496",
+  "title": "Puzzle 496",
+  "size": {
+    "rows": 13,
+    "cols": 13
+  },
+  "grid": [
+    [
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      "#",
+      "#",
+      "",
+      "",
+      "",
+      "#",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "#",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "#",
+      "",
+      "#",
+      "",
+      "",
+      "#",
+      "",
+      "#",
+      "",
+      "",
+      "#",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "#",
+      "",
+      "",
+      "#",
+      "",
+      "#",
+      "",
+      "",
+      "#",
+      "",
+      "#"
+    ],
+    [
+      "#",
+      "",
+      "",
+      "#",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "#",
+      "#",
+      "",
+      "",
+      "",
+      "#",
+      "#",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "D",
+      "#",
+      "G",
+      "O",
+      "Y",
+      "A",
+      "#",
+      "S",
+      "E",
+      "N",
+      "#",
+      "A",
+      "D"
+    ],
+    [
+      "O",
+      "B",
+      "E",
+      "R",
+      "O",
+      "N",
+      "#",
+      "P",
+      "#",
+      "E",
+      "N",
+      "Z",
+      "O"
+    ],
+    [
+      "M",
+      "T",
+      "#",
+      "G",
+      "U",
+      "G",
+      "G",
+      "E",
+      "N",
+      "H",
+      "E",
+      "I",
+      "M"
+    ],
+    [
+      "U",
+      "#",
+      "S",
+      "A",
+      "#",
+      "#",
+      "A",
+      "S",
+      "L",
+      "#",
+      "#",
+      "E",
+      "E"
+    ],
+    [
+      "S",
+      "T",
+      "I",
+      "N",
+      "G",
+      "E",
+      "R",
+      "E",
+      "#",
+      "#",
+      "W",
+      "N",
+      "#"
+    ],
+    [
+      "#",
+      "O",
+      "#",
+      "I",
+      "N",
+      "#",
+      "A",
+      "#",
+      "A",
+      "S",
+      "#",
+      "D",
+      "#"
+    ],
+    [
+      "N",
+      "R",
+      "#",
+      "N",
+      "#",
+      "E",
+      "N",
+      "E",
+      "#",
+      "F",
+      "#",
+      "A",
+      "J"
+    ],
+    [
+      "#",
+      "P",
+      "#",
+      "O",
+      "U",
+      "#",
+      "T",
+      "#",
+      "A",
+      "U",
+      "#",
+      "L",
+      "#"
+    ],
+    [
+      "#",
+      "E",
+      "P",
+      "#",
+      "#",
+      "R",
+      "I",
+      "G",
+      "O",
+      "G",
+      "L",
+      "I",
+      "O"
+    ],
+    [
+      "I",
+      "D",
+      "#",
+      "#",
+      "P",
+      "O",
+      "R",
+      "#",
+      "#",
+      "G",
+      "I",
+      "#",
+      "P"
+    ],
+    [
+      "M",
+      "O",
+      "N",
+      "T",
+      "E",
+      "V",
+      "E",
+      "R",
+      "D",
+      "I",
+      "#",
+      "S",
+      "P"
+    ],
+    [
+      "E",
+      "N",
+      "F",
+      "I",
+      "#",
+      "E",
+      "#",
+      "S",
+      "E",
+      "R",
+      "I",
+      "C",
+      "I"
+    ],
+    [
+      "R",
+      "E",
+      "#",
+      "D",
+      "A",
+      "R",
+      "#",
+      "A",
+      "P",
+      "E",
+      "C",
+      "#",
+      "O"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 2,
+        "clue": "Incise celebri Capricci",
+        "row": 0,
+        "col": 2,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 6,
+        "clue": "Un'abbreviazione parlamentare",
+        "row": 0,
+        "col": 7,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "Giardini... senza girini",
+        "row": 0,
+        "col": 11,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 11,
+        "clue": "Merle del cinema d'altri tempi",
+        "row": 1,
+        "col": 0,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 14,
+        "clue": "L'indimenticato Iannacci",
+        "row": 1,
+        "col": 9,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 16,
+        "clue": "Consonanti in moto",
+        "row": 2,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 17,
+        "clue": "Celebre museo di New York",
+        "row": 2,
+        "col": 3,
+        "length": 10,
+        "direction": "across"
+      },
+      {
+        "number": 21,
+        "clue": "Coda di leonessa",
+        "row": 3,
+        "col": 2,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 22,
+        "clue": "Gestiscono la sanità all'interno di un territorio",
+        "row": 3,
+        "col": 6,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 23,
+        "clue": "Le vocali di neve",
+        "row": 3,
+        "col": 11,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 24,
+        "clue": "Scolorire",
+        "row": 4,
+        "col": 0,
+        "length": 8,
+        "direction": "across"
+      },
+      {
+        "number": 28,
+        "clue": "Walter Nudo",
+        "row": 4,
+        "col": 10,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 30,
+        "clue": "Incidere all'inizio",
+        "row": 5,
+        "col": 3,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 32,
+        "clue": "Il Sofri di Lotta Continua (iniz.)",
+        "row": 5,
+        "col": 8,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 35,
+        "clue": "Si scrive per numero",
+        "row": 6,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 37,
+        "clue": "Est Nord-est",
+        "row": 6,
+        "col": 5,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 40,
+        "clue": "Al Jolson",
+        "row": 6,
+        "col": 11,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 43,
+        "clue": "L'inizio dell'ouverture",
+        "row": 7,
+        "col": 3,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 46,
+        "clue": "L' inizio dell' autunno",
+        "row": 7,
+        "col": 8,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 48,
+        "clue": "Principio d'epatite",
+        "row": 8,
+        "col": 1,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 50,
+        "clue": "Il pieno sviluppo della fioritura",
+        "row": 8,
+        "col": 5,
+        "length": 8,
+        "direction": "across"
+      },
+      {
+        "number": 54,
+        "clue": "Una mezza idea",
+        "row": 9,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 55,
+        "clue": "Un per spagnolo",
+        "row": 9,
+        "col": 4,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 56,
+        "clue": "È dolce in giro",
+        "row": 9,
+        "col": 9,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 58,
+        "clue": "Claudio compositore",
+        "row": 10,
+        "col": 0,
+        "length": 10,
+        "direction": "across"
+      },
+      {
+        "number": 63,
+        "clue": "Iniziali di Poitier",
+        "row": 10,
+        "col": 11,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 64,
+        "clue": "Gonfi e tumefatti",
+        "row": 11,
+        "col": 0,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 66,
+        "clue": "Lisci come la seta",
+        "row": 11,
+        "col": 7,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 68,
+        "clue": "In Spagna ora si chiama Felipe",
+        "row": 12,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 69,
+        "clue": "Consegnare tronco",
+        "row": 12,
+        "col": 3,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 71,
+        "clue": "Asia-Pacific Economic Cooperation",
+        "row": 12,
+        "col": 7,
+        "length": 4,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Nerone fece costruire quella \"Aurea\"",
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Il germanio",
+        "row": 0,
+        "col": 2,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Strumento a manovella",
+        "row": 0,
+        "col": 3,
+        "length": 8,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Tu... in inglese",
+        "row": 0,
+        "col": 4,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Il Lee, regista orientale",
+        "row": 0,
+        "col": 5,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Si riducono per risparmiare",
+        "row": 0,
+        "col": 7,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 8,
+        "clue": "Esclamazione... torinese",
+        "row": 0,
+        "col": 9,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 9,
+        "clue": "Lo sono i contratti che valgono in una società",
+        "row": 0,
+        "col": 11,
+        "length": 9,
+        "direction": "down"
+      },
+      {
+        "number": 10,
+        "clue": "Frenate, soggiogate",
+        "row": 0,
+        "col": 12,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 12,
+        "clue": "Il Tavernier regista (iniz.)",
+        "row": 1,
+        "col": 1,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 15,
+        "clue": "Coda di rondine",
+        "row": 1,
+        "col": 10,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 18,
+        "clue": "Assicurare con impegno",
+        "row": 2,
+        "col": 6,
+        "length": 9,
+        "direction": "down"
+      },
+      {
+        "number": 19,
+        "clue": "L' Olanda",
+        "row": 2,
+        "col": 8,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 21,
+        "clue": "I confini del Sinai",
+        "row": 3,
+        "col": 2,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 25,
+        "clue": "Un automezzo per comitive",
+        "row": 4,
+        "col": 1,
+        "length": 9,
+        "direction": "down"
+      },
+      {
+        "number": 26,
+        "clue": "I confini del green",
+        "row": 4,
+        "col": 4,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 33,
+        "clue": "Riuscire a sottrarsi",
+        "row": 5,
+        "col": 9,
+        "length": 8,
+        "direction": "down"
+      },
+      {
+        "number": 46,
+        "clue": "Sigla del capoluogo di una Valle autonoma",
+        "row": 7,
+        "col": 8,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 50,
+        "clue": "Il boyscout che addestra i compagni più giovani",
+        "row": 8,
+        "col": 5,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 52,
+        "clue": "In fondo ai fondali",
+        "row": 8,
+        "col": 10,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 53,
+        "clue": "Lo fumavano i Cinesi e quindi si addormentavano",
+        "row": 8,
+        "col": 12,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 54,
+        "clue": "Comune in provincia di Trento",
+        "row": 9,
+        "col": 0,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 55,
+        "clue": "Poco pesante",
+        "row": 9,
+        "col": 4,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 59,
+        "clue": "Gonfio in mezzo",
+        "row": 10,
+        "col": 2,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 60,
+        "clue": "Ter in die (tre volte al giorno, abbr.)",
+        "row": 10,
+        "col": 3,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 61,
+        "clue": "Case di riposo per anziani",
+        "row": 10,
+        "col": 7,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 62,
+        "clue": "Deposito in breve",
+        "row": 10,
+        "col": 8,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 63,
+        "clue": "Mi seguono in mischia",
+        "row": 10,
+        "col": 11,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 67,
+        "clue": "Latine del \"Titanic\"",
+        "row": 11,
+        "col": 10,
+        "length": 2,
+        "direction": "down"
+      }
+    ]
+  }
+}

@@ -1,0 +1,656 @@
+{
+  "id": "483",
+  "title": "Puzzle 483",
+  "size": {
+    "rows": 11,
+    "cols": 11
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "#",
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      "#",
+      "#",
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "#",
+      "#",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "#",
+      "#",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "#",
+      "#",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "#",
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "D",
+      "I",
+      "M",
+      "#",
+      "W",
+      "#",
+      "B",
+      "M",
+      "#",
+      "H",
+      "C"
+    ],
+    [
+      "I",
+      "N",
+      "I",
+      "G",
+      "O",
+      "#",
+      "I",
+      "S",
+      "E",
+      "O",
+      "#"
+    ],
+    [
+      "R",
+      "#",
+      "T",
+      "R",
+      "#",
+      "#",
+      "T",
+      "#",
+      "S",
+      "K",
+      "A"
+    ],
+    [
+      "A",
+      "L",
+      "T",
+      "A",
+      "I",
+      "R",
+      "#",
+      "#",
+      "#",
+      "K",
+      "#"
+    ],
+    [
+      "C",
+      "A",
+      "E",
+      "N",
+      "#",
+      "I",
+      "E",
+      "#",
+      "S",
+      "A",
+      "O"
+    ],
+    [
+      "#",
+      "E",
+      "N",
+      "D",
+      "O",
+      "S",
+      "C",
+      "O",
+      "P",
+      "I",
+      "#"
+    ],
+    [
+      "O",
+      "T",
+      "E",
+      "#",
+      "N",
+      "M",
+      "#",
+      "N",
+      "I",
+      "D",
+      "O"
+    ],
+    [
+      "#",
+      "I",
+      "#",
+      "#",
+      "#",
+      "A",
+      "M",
+      "I",
+      "G",
+      "O",
+      "S"
+    ],
+    [
+      "I",
+      "T",
+      "N",
+      "#",
+      "L",
+      "#",
+      "#",
+      "C",
+      "O",
+      "#",
+      "T"
+    ],
+    [
+      "#",
+      "I",
+      "D",
+      "R",
+      "A",
+      "#",
+      "V",
+      "I",
+      "L",
+      "L",
+      "I"
+    ],
+    [
+      "K",
+      "A",
+      "#",
+      "M",
+      "C",
+      "#",
+      "Y",
+      "#",
+      "O",
+      "N",
+      "A"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Diminuitivo in breve",
+        "row": 0,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 5,
+        "clue": "L'accordo in Si minore secondo gli inglesi",
+        "row": 0,
+        "col": 6,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "clue": "Clinton per la presidenza (iniz.)",
+        "row": 0,
+        "col": 9,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "Il Jones seguace del Palladio",
+        "row": 1,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 11,
+        "clue": "Il lago dell' Oglio",
+        "row": 1,
+        "col": 6,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 14,
+        "clue": "Sono diverse nell' etere",
+        "row": 2,
+        "col": 2,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 16,
+        "clue": "Allegra marcetta giamaicana",
+        "row": 2,
+        "col": 8,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 18,
+        "clue": "Stella dell'Aquila",
+        "row": 3,
+        "col": 0,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 23,
+        "clue": "Città vicina a Le Havre",
+        "row": 4,
+        "col": 0,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 24,
+        "clue": "Al termine delle peripezie",
+        "row": 4,
+        "col": 5,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 26,
+        "clue": "Prima di Tomè e Principe",
+        "row": 4,
+        "col": 8,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 28,
+        "clue": "Apparecchi per ispezioni interne",
+        "row": 5,
+        "col": 1,
+        "length": 9,
+        "direction": "across"
+      },
+      {
+        "number": 31,
+        "clue": "Orientamento Tecnico-Economico (sigla)",
+        "row": 6,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 32,
+        "clue": "La prima e la terza nei nomi",
+        "row": 6,
+        "col": 4,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 33,
+        "clue": "Dimora fra gli alberi",
+        "row": 6,
+        "col": 7,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 36,
+        "clue": "Si mandano... \"saludos\"",
+        "row": 7,
+        "col": 5,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 38,
+        "clue": "Andato in poesia",
+        "row": 8,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 41,
+        "clue": "Como... sulle automobili",
+        "row": 8,
+        "col": 7,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 43,
+        "clue": "La uccise Ercole",
+        "row": 9,
+        "col": 1,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 45,
+        "clue": "Olga, la celebre attrice nata a Suzzara",
+        "row": 9,
+        "col": 6,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 47,
+        "clue": "Le ha doppie il kamikaze",
+        "row": 10,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 48,
+        "clue": "Iniziali della Callas",
+        "row": 10,
+        "col": 3,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 50,
+        "clue": "Popolazione ora estinta della Terra del Fuoco",
+        "row": 10,
+        "col": 8,
+        "length": 3,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Famoso fisico inglese",
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Preposizione... in Cina",
+        "row": 0,
+        "col": 1,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Guanti di armature medievali",
+        "row": 0,
+        "col": 2,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Ai due lati di Waterloo",
+        "row": 0,
+        "col": 4,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Unità informatica",
+        "row": 0,
+        "col": 6,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Iniziali di Schlick",
+        "row": 0,
+        "col": 7,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 7,
+        "clue": "La più settentrionale isola del Giappone",
+        "row": 0,
+        "col": 9,
+        "length": 8,
+        "direction": "down"
+      },
+      {
+        "number": 10,
+        "clue": "Il macabro teatro Guignol",
+        "row": 1,
+        "col": 3,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 12,
+        "clue": "Un pò estroverso",
+        "row": 1,
+        "col": 8,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 19,
+        "clue": "___ Casta, attrice e modella",
+        "row": 3,
+        "col": 1,
+        "length": 8,
+        "direction": "down"
+      },
+      {
+        "number": 21,
+        "clue": "Blocco di fogli di carta",
+        "row": 3,
+        "col": 5,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 25,
+        "clue": "Centro della Grecia",
+        "row": 4,
+        "col": 6,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 26,
+        "clue": "L'angolo del tavolo... che può essere pericoloso",
+        "row": 4,
+        "col": 8,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 29,
+        "clue": "Onorevole (abbr.)",
+        "row": 5,
+        "col": 4,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 30,
+        "clue": "Pietre dure",
+        "row": 5,
+        "col": 7,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 34,
+        "clue": "Ha il Lido presso la foce del Tevere",
+        "row": 6,
+        "col": 10,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 39,
+        "clue": "In mezzo alle onde",
+        "row": 8,
+        "col": 2,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 40,
+        "clue": "Libere Attività Complementari",
+        "row": 8,
+        "col": 4,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 44,
+        "clue": "Dispari in Roma",
+        "row": 9,
+        "col": 3,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 45,
+        "clue": "I limiti del volley",
+        "row": 9,
+        "col": 6,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 46,
+        "clue": "Consonanti di liane",
+        "row": 9,
+        "col": 9,
+        "length": 2,
+        "direction": "down"
+      }
+    ]
+  }
+}

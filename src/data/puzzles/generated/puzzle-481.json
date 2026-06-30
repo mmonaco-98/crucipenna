@@ -1,0 +1,632 @@
+{
+  "id": "481",
+  "title": "Puzzle 481",
+  "size": {
+    "rows": 11,
+    "cols": 11
+  },
+  "grid": [
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "#",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "#",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "#",
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "#",
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "#",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "#",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ]
+  ],
+  "solution": [
+    [
+      "#",
+      "D",
+      "I",
+      "O",
+      "D",
+      "O",
+      "#",
+      "E",
+      "Q",
+      "#",
+      "#"
+    ],
+    [
+      "B",
+      "U",
+      "D",
+      "#",
+      "#",
+      "C",
+      "M",
+      "O",
+      "S",
+      "#",
+      "I"
+    ],
+    [
+      "I",
+      "N",
+      "V",
+      "O",
+      "L",
+      "T",
+      "I",
+      "#",
+      "#",
+      "#",
+      "N"
+    ],
+    [
+      "A",
+      "Q",
+      "#",
+      "R",
+      "E",
+      "#",
+      "R",
+      "#",
+      "R",
+      "O",
+      "N"
+    ],
+    [
+      "S",
+      "U",
+      "B",
+      "S",
+      "T",
+      "R",
+      "A",
+      "T",
+      "O",
+      "#",
+      "O"
+    ],
+    [
+      "I",
+      "E",
+      "L",
+      "O",
+      "#",
+      "U",
+      "#",
+      "U",
+      "B",
+      "A",
+      "C"
+    ],
+    [
+      "M",
+      "#",
+      "A",
+      "N",
+      "N",
+      "E",
+      "T",
+      "T",
+      "E",
+      "R",
+      "E"
+    ],
+    [
+      "A",
+      "M",
+      "S",
+      "#",
+      "I",
+      "#",
+      "H",
+      "T",
+      "#",
+      "T",
+      "N"
+    ],
+    [
+      "R",
+      "#",
+      "#",
+      "#",
+      "U",
+      "T",
+      "R",
+      "E",
+      "C",
+      "H",
+      "T"
+    ],
+    [
+      "E",
+      "#",
+      "T",
+      "A",
+      "E",
+      "G",
+      "#",
+      "#",
+      "G",
+      "U",
+      "I"
+    ],
+    [
+      "#",
+      "#",
+      "B",
+      "E",
+      "#",
+      "V",
+      "I",
+      "S",
+      "I",
+      "R",
+      "#"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Se è luminoso è detto LED",
+        "row": 0,
+        "col": 1,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 6,
+        "clue": "Le prime in equitazione",
+        "row": 0,
+        "col": 7,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "Spencer attore",
+        "row": 1,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "Altopiano della Calabria",
+        "row": 1,
+        "col": 5,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 12,
+        "clue": "Cartocci per trasportare",
+        "row": 2,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 16,
+        "clue": "Una provincia abruzzese (sigla)",
+        "row": 3,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 17,
+        "clue": "Il pezzo più importante sulla scacchiera",
+        "row": 3,
+        "col": 3,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 19,
+        "clue": "Il Wood dei \"Rolling Stones\"",
+        "row": 3,
+        "col": 8,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 21,
+        "clue": "L'intima essenza delle cose",
+        "row": 4,
+        "col": 0,
+        "length": 9,
+        "direction": "across"
+      },
+      {
+        "number": 26,
+        "clue": "Un Paolo magistrato a Roma",
+        "row": 5,
+        "col": 0,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 28,
+        "clue": "Raoul surrealista e astrattista",
+        "row": 5,
+        "col": 7,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 31,
+        "clue": "Inglobare nello Stato",
+        "row": 6,
+        "col": 2,
+        "length": 9,
+        "direction": "across"
+      },
+      {
+        "number": 34,
+        "clue": "Agenzia Municipalizzata Servizi (sigla)",
+        "row": 7,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 37,
+        "clue": "Ai lati dell' hovercraft",
+        "row": 7,
+        "col": 6,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 38,
+        "clue": "Ai lati di Tarzan",
+        "row": 7,
+        "col": 9,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 40,
+        "clue": "Storica città olandese",
+        "row": 8,
+        "col": 4,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 44,
+        "clue": "Misura il costo effettivo di un prestito",
+        "row": 9,
+        "col": 2,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 46,
+        "clue": "Un Vittorio direttore d'orchestra",
+        "row": 9,
+        "col": 8,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 47,
+        "clue": "Un verso del gregge",
+        "row": 10,
+        "col": 2,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 48,
+        "clue": "Titolo da ministri arabi",
+        "row": 10,
+        "col": 5,
+        "length": 5,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Ci si viene per concludere",
+        "row": 0,
+        "col": 1,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Il movimento fondato da Antonio Di Pietro (sigla)",
+        "row": 0,
+        "col": 2,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Un' abbreviazione nelle date in inglese",
+        "row": 0,
+        "col": 5,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Le hanno melo e pesco",
+        "row": 0,
+        "col": 7,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 7,
+        "clue": "Il Sella che è stato in sella al posto di Tremonti (iniz.)",
+        "row": 0,
+        "col": 8,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 8,
+        "clue": "Criticare",
+        "row": 1,
+        "col": 0,
+        "length": 9,
+        "direction": "down"
+      },
+      {
+        "number": 10,
+        "clue": "Si prende chiudendo un occhio",
+        "row": 1,
+        "col": 6,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 11,
+        "clue": "Le vittime... di Erode",
+        "row": 1,
+        "col": 10,
+        "length": 9,
+        "direction": "down"
+      },
+      {
+        "number": 13,
+        "clue": "Il nome dell'attore Welles",
+        "row": 2,
+        "col": 3,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 14,
+        "clue": "Un colpo annullato del tennis",
+        "row": 2,
+        "col": 4,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 19,
+        "clue": "Effetti personali",
+        "row": 3,
+        "col": 8,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 22,
+        "clue": "Il Gil di Lesage",
+        "row": 4,
+        "col": 2,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 23,
+        "clue": "La via francese",
+        "row": 4,
+        "col": 5,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 24,
+        "clue": "Nessuna esclusa",
+        "row": 4,
+        "col": 7,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 29,
+        "clue": "Il Miller de \"Il crogiolo\"",
+        "row": 5,
+        "col": 9,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 32,
+        "clue": "Atollo della Polinesia",
+        "row": 6,
+        "col": 4,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 33,
+        "clue": "Simbolo chimico della treonina",
+        "row": 6,
+        "col": 6,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 41,
+        "clue": "Treno a Grande Velocità",
+        "row": 8,
+        "col": 5,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 42,
+        "clue": "Cecchi Gori International",
+        "row": 8,
+        "col": 8,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 44,
+        "clue": "Iniziali di Brass, il regista",
+        "row": 9,
+        "col": 2,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 45,
+        "clue": "Sono pari in pace",
+        "row": 9,
+        "col": 3,
+        "length": 2,
+        "direction": "down"
+      }
+    ]
+  }
+}

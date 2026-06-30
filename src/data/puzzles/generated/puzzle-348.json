@@ -1,0 +1,288 @@
+{
+  "id": "348",
+  "title": "Puzzle 348",
+  "size": {
+    "rows": 7,
+    "cols": 7
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "N",
+      "Z",
+      "#",
+      "T",
+      "E",
+      "I",
+      "A"
+    ],
+    [
+      "O",
+      "A",
+      "T",
+      "E",
+      "S",
+      "#",
+      "D"
+    ],
+    [
+      "I",
+      "N",
+      "E",
+      "R",
+      "T",
+      "I",
+      "#"
+    ],
+    [
+      "A",
+      "T",
+      "T",
+      "R",
+      "I",
+      "C",
+      "E"
+    ],
+    [
+      "#",
+      "E",
+      "R",
+      "E",
+      "V",
+      "A",
+      "N"
+    ],
+    [
+      "Q",
+      "#",
+      "I",
+      "N",
+      "A",
+      "R",
+      "I"
+    ],
+    [
+      "R",
+      "E",
+      "S",
+      "I",
+      "#",
+      "O",
+      "O"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "La fine di Franz",
+        "row": 0,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 3,
+        "clue": "Ultimo re ostrogoto in Italia",
+        "row": 0,
+        "col": 3,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "clue": "Joyce Carol, scrittrice statunitense",
+        "row": 1,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "Immersi nell'ozio",
+        "row": 2,
+        "col": 0,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 12,
+        "clue": "Una che deve saper recitare",
+        "row": 3,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 14,
+        "clue": "La capitale dell'Armenia",
+        "row": 4,
+        "col": 1,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 16,
+        "clue": "Lago della Finlandia",
+        "row": 5,
+        "col": 2,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 17,
+        "clue": "I macachi tipici dell'India",
+        "row": 6,
+        "col": 0,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 19,
+        "clue": "I limiti dell'orto",
+        "row": 6,
+        "col": 5,
+        "length": 2,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Fa anche sbadigliare",
+        "row": 0,
+        "col": 0,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "L'isola dove nacque Foscolo",
+        "row": 0,
+        "col": 1,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Sono descritti nelle mappe catastali",
+        "row": 0,
+        "col": 3,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "La calura che fa sudare",
+        "row": 0,
+        "col": 4,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Iniziali del Durer",
+        "row": 0,
+        "col": 6,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 8,
+        "clue": "Il videogioco degli incastri.",
+        "row": 1,
+        "col": 2,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 11,
+        "clue": "Figlio di Dedalo",
+        "row": 2,
+        "col": 5,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 13,
+        "clue": "Divinità guerresca dei Greci",
+        "row": 3,
+        "col": 6,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 15,
+        "clue": "La prima e la settima di quattordici",
+        "row": 5,
+        "col": 0,
+        "length": 2,
+        "direction": "down"
+      }
+    ]
+  }
+}

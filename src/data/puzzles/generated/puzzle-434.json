@@ -1,0 +1,288 @@
+{
+  "id": "434",
+  "title": "Puzzle 434",
+  "size": {
+    "rows": 7,
+    "cols": 7
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "A",
+      "J",
+      "A",
+      "C",
+      "C",
+      "I",
+      "O"
+    ],
+    [
+      "L",
+      "E",
+      "G",
+      "H",
+      "E",
+      "#",
+      "B"
+    ],
+    [
+      "G",
+      "N",
+      "#",
+      "I",
+      "R",
+      "#",
+      "I"
+    ],
+    [
+      "E",
+      "A",
+      "R",
+      "N",
+      "E",
+      "S",
+      "T"
+    ],
+    [
+      "R",
+      "#",
+      "I",
+      "A",
+      "#",
+      "L",
+      "O"
+    ],
+    [
+      "I",
+      "#",
+      "F",
+      "R",
+      "I",
+      "A",
+      "R"
+    ],
+    [
+      "A",
+      "T",
+      "T",
+      "E",
+      "N",
+      "T",
+      "I"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Vi nacque Napoleone Bonaparte",
+        "row": 0,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "Emanano i regolamenti delle discipline sportive",
+        "row": 1,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "Scritte in spagnolo",
+        "row": 2,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 11,
+        "clue": "L' iridio in chimica",
+        "row": 2,
+        "col": 3,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 13,
+        "clue": "Era importante chiamarsi così ed esserlo per Wilde",
+        "row": 3,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 17,
+        "clue": "Ai... fianchi di Ilaria",
+        "row": 4,
+        "col": 2,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 18,
+        "clue": "Nel Lembo e nell' orlo",
+        "row": 4,
+        "col": 5,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 20,
+        "clue": "Un frate inglese come il Tuck di Robin Hood",
+        "row": 5,
+        "col": 2,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 22,
+        "clue": "Un comando militare",
+        "row": 6,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Stato dell'Africa settentrionale",
+        "row": 0,
+        "col": 0,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Una vittoria di Napoleone",
+        "row": 0,
+        "col": 1,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Sono pari nei manga",
+        "row": 0,
+        "col": 2,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Abbassare la testa",
+        "row": 0,
+        "col": 3,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Si ammirano in appositi musei.",
+        "row": 0,
+        "col": 4,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 7,
+        "clue": "Locali dei cimiteri",
+        "row": 0,
+        "col": 6,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 14,
+        "clue": "La vasta Valley africana",
+        "row": 3,
+        "col": 2,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 15,
+        "clue": "Li comanda il pilota degli aerei",
+        "row": 3,
+        "col": 5,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 21,
+        "clue": "La preposizione... dentro",
+        "row": 5,
+        "col": 4,
+        "length": 2,
+        "direction": "down"
+      }
+    ]
+  }
+}

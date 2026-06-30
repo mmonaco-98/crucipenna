@@ -1,0 +1,472 @@
+{
+  "id": "468",
+  "title": "Puzzle 468",
+  "size": {
+    "rows": 9,
+    "cols": 9
+  },
+  "grid": [
+    [
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "P",
+      "#",
+      "S",
+      "T",
+      "I",
+      "L",
+      "E",
+      "#",
+      "N"
+    ],
+    [
+      "I",
+      "I",
+      "#",
+      "E",
+      "N",
+      "E",
+      "I",
+      "D",
+      "E"
+    ],
+    [
+      "A",
+      "C",
+      "N",
+      "E",
+      "I",
+      "C",
+      "A",
+      "#",
+      "R"
+    ],
+    [
+      "F",
+      "O",
+      "A",
+      "#",
+      "A",
+      "C",
+      "#",
+      "D",
+      "D"
+    ],
+    [
+      "#",
+      "N",
+      "T",
+      "C",
+      "#",
+      "I",
+      "R",
+      "A",
+      "#"
+    ],
+    [
+      "V",
+      "E",
+      "#",
+      "A",
+      "S",
+      "#",
+      "O",
+      "N",
+      "A"
+    ],
+    [
+      "I",
+      "#",
+      "C",
+      "U",
+      "S",
+      "T",
+      "O",
+      "D",
+      "I"
+    ],
+    [
+      "T",
+      "E",
+      "A",
+      "T",
+      "R",
+      "O",
+      "#",
+      "Y",
+      "I"
+    ],
+    [
+      "E",
+      "#",
+      "T",
+      "I",
+      "A",
+      "S",
+      "O",
+      "#",
+      "A"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 2,
+        "clue": "Fa la persona di classe",
+        "row": 0,
+        "col": 2,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "Le hanno figli e nipoti",
+        "row": 1,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "Capolavoro di Virgilio",
+        "row": 1,
+        "col": 3,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 12,
+        "clue": "Affetta da problemi alla pelle",
+        "row": 2,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 15,
+        "clue": "Arnoldo noto attore di teatro",
+        "row": 3,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 16,
+        "clue": "Pari in banca",
+        "row": 3,
+        "col": 4,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 17,
+        "clue": "Il Dog dei fumetti (iniziali)",
+        "row": 3,
+        "col": 7,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 18,
+        "clue": "Nessuno Tocchi Caino (sigla)",
+        "row": 4,
+        "col": 1,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 20,
+        "clue": "La più temibile è di Dio",
+        "row": 4,
+        "col": 5,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 22,
+        "clue": "Vero a metà",
+        "row": 5,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 23,
+        "clue": "Le ultime di Caracas",
+        "row": 5,
+        "col": 3,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 25,
+        "clue": "Popolazione ora estinta della Terra del Fuoco",
+        "row": 5,
+        "col": 6,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 28,
+        "clue": "I bidelli della scuola",
+        "row": 6,
+        "col": 2,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 30,
+        "clue": "Il più famoso è la Scala",
+        "row": 7,
+        "col": 0,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 32,
+        "clue": "Yoghi agli estremi",
+        "row": 7,
+        "col": 7,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 34,
+        "clue": "Un'associazione nell'antica Grecia",
+        "row": 8,
+        "col": 2,
+        "length": 5,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Edith che cantava La vie en rose",
+        "row": 0,
+        "col": 0,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Rose giallastre",
+        "row": 0,
+        "col": 3,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Cetaceo del Rio delle Amazzoni",
+        "row": 0,
+        "col": 4,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Alberi che danno ghiande",
+        "row": 0,
+        "col": 5,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Lo dice chi esulta",
+        "row": 0,
+        "col": 6,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 7,
+        "clue": "Un giovane tecnologo",
+        "row": 0,
+        "col": 8,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 9,
+        "clue": "Preziose immagini sacre ortodosse",
+        "row": 1,
+        "col": 1,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 13,
+        "clue": "King Cole del jazz",
+        "row": 2,
+        "col": 2,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 17,
+        "clue": "Il gagà inglese",
+        "row": 3,
+        "col": 7,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 19,
+        "clue": "Prudenti, accorti",
+        "row": 4,
+        "col": 3,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 21,
+        "clue": "L'attore Steiger",
+        "row": 4,
+        "col": 6,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 22,
+        "clue": "Penetra girando",
+        "row": 5,
+        "col": 0,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 24,
+        "clue": "La moglie di Abramo",
+        "row": 5,
+        "col": 4,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 26,
+        "clue": "Associazione Italiana per l'Intelligenza Artificiale",
+        "row": 5,
+        "col": 8,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 28,
+        "clue": "Il gatto... di Johnny",
+        "row": 6,
+        "col": 2,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 29,
+        "clue": "Terapia Ormonale Sostitutiva",
+        "row": 6,
+        "col": 5,
+        "length": 3,
+        "direction": "down"
+      }
+    ]
+  }
+}

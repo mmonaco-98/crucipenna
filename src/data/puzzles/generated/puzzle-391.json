@@ -1,0 +1,272 @@
+{
+  "id": "391",
+  "title": "Puzzle 391",
+  "size": {
+    "rows": 7,
+    "cols": 7
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "O",
+      "P",
+      "P",
+      "O",
+      "S",
+      "T",
+      "E"
+    ],
+    [
+      "#",
+      "R",
+      "I",
+      "M",
+      "A",
+      "R",
+      "I"
+    ],
+    [
+      "P",
+      "O",
+      "T",
+      "O",
+      "M",
+      "A",
+      "C"
+    ],
+    [
+      "#",
+      "F",
+      "B",
+      "#",
+      "O",
+      "I",
+      "#"
+    ],
+    [
+      "C",
+      "A",
+      "U",
+      "S",
+      "A",
+      "L",
+      "E"
+    ],
+    [
+      "O",
+      "N",
+      "L",
+      "I",
+      "N",
+      "E",
+      "#"
+    ],
+    [
+      "T",
+      "A",
+      "L",
+      "L",
+      "I",
+      "R",
+      "E"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Messe contro",
+        "row": 0,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "Aiuti per i poeti",
+        "row": 1,
+        "col": 1,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "Bagna la capitale degli Usa",
+        "row": 2,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "Francesco Borromini",
+        "row": 3,
+        "col": 1,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 11,
+        "clue": "Sono pari nello Ionio",
+        "row": 3,
+        "col": 4,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 12,
+        "clue": "Si scrive sul modulo di conto corrente postale",
+        "row": 4,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 15,
+        "clue": "Lo è un computer collegato in Internet",
+        "row": 5,
+        "col": 0,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 16,
+        "clue": "Fare il tallo",
+        "row": 6,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 2,
+        "clue": "Tutt'altro che sacra",
+        "row": 0,
+        "col": 1,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Un terrier da combattimento",
+        "row": 0,
+        "col": 2,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Un fiume dell'Etiopia",
+        "row": 0,
+        "col": 3,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Gli abitatiti delle antiche Isole dei Navigatori",
+        "row": 0,
+        "col": 4,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Dovrebbe mettere voglia di vedere il film",
+        "row": 0,
+        "col": 5,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 7,
+        "clue": "Euro Info Center",
+        "row": 0,
+        "col": 6,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 12,
+        "clue": "Simbolo di cotangente",
+        "row": 4,
+        "col": 0,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 13,
+        "clue": "Single in-Line (sigla)",
+        "row": 4,
+        "col": 3,
+        "length": 3,
+        "direction": "down"
+      }
+    ]
+  }
+}

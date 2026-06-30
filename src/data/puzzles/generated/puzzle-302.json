@@ -1,0 +1,272 @@
+{
+  "id": "302",
+  "title": "Puzzle 302",
+  "size": {
+    "rows": 7,
+    "cols": 7
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "M",
+      "A",
+      "D",
+      "A",
+      "M",
+      "#",
+      "B"
+    ],
+    [
+      "E",
+      "#",
+      "A",
+      "N",
+      "A",
+      "C",
+      "I"
+    ],
+    [
+      "D",
+      "A",
+      "R",
+      "I",
+      "U",
+      "S",
+      "#"
+    ],
+    [
+      "I",
+      "R",
+      "N",
+      "E",
+      "R",
+      "I",
+      "O"
+    ],
+    [
+      "#",
+      "C",
+      "E",
+      "L",
+      "E",
+      "R",
+      "I"
+    ],
+    [
+      "R",
+      "O",
+      "L",
+      "L",
+      "E",
+      "#",
+      "T"
+    ],
+    [
+      "B",
+      "#",
+      "L",
+      "O",
+      "N",
+      "Z",
+      "A"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Si usa per chiamare una signora a Londra",
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "Semi aromatici",
+        "row": 1,
+        "col": 2,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "Il nome di Milhaud",
+        "row": 2,
+        "col": 0,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 12,
+        "clue": "Fondò a Bologna la medievale scuola di diritto",
+        "row": 3,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 14,
+        "clue": "Rapidi",
+        "row": 4,
+        "col": 1,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 15,
+        "clue": "Un passo dolomitico",
+        "row": 5,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 18,
+        "clue": "Un taglio di maiale",
+        "row": 6,
+        "col": 2,
+        "length": 5,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Nè grandi nè piccoli",
+        "row": 0,
+        "col": 0,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Linda, interprete del film \" Ambra\"",
+        "row": 0,
+        "col": 2,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Il Tommaso storico pescivendolo di Napoli",
+        "row": 0,
+        "col": 3,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "La O'Hara di \"Un uomo Tranquillo\"",
+        "row": 0,
+        "col": 4,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Rendono... mobile la mole",
+        "row": 0,
+        "col": 6,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 9,
+        "clue": "Il corpo di spedizione militare integrato dall'ARMIR (sigla)",
+        "row": 1,
+        "col": 5,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 11,
+        "clue": "L'arma delle Amazzoni",
+        "row": 2,
+        "col": 1,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 13,
+        "clue": "Prefettura e capoluogo giapponese",
+        "row": 3,
+        "col": 6,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 15,
+        "clue": "Nel cuore della Serbia",
+        "row": 5,
+        "col": 0,
+        "length": 2,
+        "direction": "down"
+      }
+    ]
+  }
+}

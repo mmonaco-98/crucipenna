@@ -1,0 +1,416 @@
+{
+  "id": "467",
+  "title": "Puzzle 467",
+  "size": {
+    "rows": 9,
+    "cols": 9
+  },
+  "grid": [
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "#",
+      "#",
+      "#",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      "#",
+      "#",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ]
+  ],
+  "solution": [
+    [
+      "#",
+      "A",
+      "C",
+      "R",
+      "I",
+      "T",
+      "I",
+      "C",
+      "O"
+    ],
+    [
+      "A",
+      "N",
+      "T",
+      "I",
+      "R",
+      "A",
+      "D",
+      "A",
+      "R"
+    ],
+    [
+      "#",
+      "A",
+      "R",
+      "B",
+      "I",
+      "T",
+      "E",
+      "R",
+      "#"
+    ],
+    [
+      "F",
+      "L",
+      "#",
+      "#",
+      "#",
+      "T",
+      "#",
+      "N",
+      "V"
+    ],
+    [
+      "#",
+      "O",
+      "M",
+      "I",
+      "N",
+      "I",
+      "D",
+      "I",
+      "#"
+    ],
+    [
+      "H",
+      "G",
+      "#",
+      "L",
+      "#",
+      "#",
+      "#",
+      "V",
+      "Y"
+    ],
+    [
+      "#",
+      "I",
+      "T",
+      "A",
+      "L",
+      "I",
+      "C",
+      "O",
+      "#"
+    ],
+    [
+      "S",
+      "C",
+      "A",
+      "R",
+      "I",
+      "C",
+      "A",
+      "R",
+      "E"
+    ],
+    [
+      "M",
+      "O",
+      "N",
+      "E",
+      "T",
+      "I",
+      "N",
+      "A",
+      "#"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Scevro da ogni dubbio o approfondimento",
+        "row": 0,
+        "col": 1,
+        "length": 8,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "Disturba o impedisce il rivelamento di ostacoli",
+        "row": 1,
+        "col": 0,
+        "length": 9,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "Petronio era quello \"elegantiarum\"",
+        "row": 2,
+        "col": 1,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 11,
+        "clue": "Consonanti in fila",
+        "row": 3,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 13,
+        "clue": "Neve senza eguali",
+        "row": 3,
+        "col": 7,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 15,
+        "clue": "Gli antenati dell' uomo",
+        "row": 4,
+        "col": 1,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 20,
+        "clue": "Il simbolo del mercurio",
+        "row": 5,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 22,
+        "clue": "I limiti del volley",
+        "row": 5,
+        "col": 7,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 24,
+        "clue": "Un nostro connazionale antichissimo",
+        "row": 6,
+        "col": 1,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 29,
+        "clue": "Trasferire dalla nave sul molo",
+        "row": 7,
+        "col": 0,
+        "length": 9,
+        "direction": "across"
+      },
+      {
+        "number": 31,
+        "clue": "Si lancia per decidere",
+        "row": 8,
+        "col": 0,
+        "length": 8,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Il contrario di digitale",
+        "row": 0,
+        "col": 1,
+        "length": 9,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Centro Teatrale Regionale",
+        "row": 0,
+        "col": 2,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Fanno ribaltare davanti all' altare",
+        "row": 0,
+        "col": 3,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Arcobaleno del poeta",
+        "row": 0,
+        "col": 4,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Il casato di un Sansovino",
+        "row": 0,
+        "col": 5,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Chi non sa vuol farsene... una",
+        "row": 0,
+        "col": 6,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 7,
+        "clue": "Pianta che si nutre di animaletti",
+        "row": 0,
+        "col": 7,
+        "length": 9,
+        "direction": "down"
+      },
+      {
+        "number": 8,
+        "clue": "Fine da matador",
+        "row": 0,
+        "col": 8,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 17,
+        "clue": "Effettivi",
+        "row": 4,
+        "col": 3,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 25,
+        "clue": "Tifoso per una diva",
+        "row": 6,
+        "col": 2,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 26,
+        "clue": "Il wagon... del treno",
+        "row": 6,
+        "col": 4,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 27,
+        "clue": "La riscuota il Comune sigla",
+        "row": 6,
+        "col": 5,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 28,
+        "clue": "Canonico (abbrev.)",
+        "row": 6,
+        "col": 6,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 29,
+        "clue": "Poco... smaliziato",
+        "row": 7,
+        "col": 0,
+        "length": 2,
+        "direction": "down"
+      }
+    ]
+  }
+}

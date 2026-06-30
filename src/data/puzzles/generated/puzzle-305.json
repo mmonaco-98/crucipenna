@@ -1,0 +1,272 @@
+{
+  "id": "305",
+  "title": "Puzzle 305",
+  "size": {
+    "rows": 7,
+    "cols": 7
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "G",
+      "E",
+      "R",
+      "B",
+      "E",
+      "R",
+      "A"
+    ],
+    [
+      "A",
+      "P",
+      "I",
+      "A",
+      "R",
+      "I",
+      "#"
+    ],
+    [
+      "N",
+      "I",
+      "M",
+      "R",
+      "U",
+      "D",
+      "#"
+    ],
+    [
+      "G",
+      "#",
+      "A",
+      "B",
+      "D",
+      "#",
+      "T"
+    ],
+    [
+      "#",
+      "E",
+      "R",
+      "O",
+      "I",
+      "C",
+      "I"
+    ],
+    [
+      "#",
+      "P",
+      "I",
+      "N",
+      "T",
+      "O",
+      "R"
+    ],
+    [
+      "S",
+      "C",
+      "O",
+      "I",
+      "A",
+      "T",
+      "E"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Una pianta ornamentale",
+        "row": 0,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "Gruppi di alveari",
+        "row": 1,
+        "col": 0,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "Collina vicina a Mosul in Iraq",
+        "row": 2,
+        "col": 0,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 11,
+        "clue": "Nei nomi arabi significa \"servo\"",
+        "row": 3,
+        "col": 2,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 13,
+        "clue": "Degni di una medaglia",
+        "row": 4,
+        "col": 1,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 15,
+        "clue": "Giaime, noto scrittore e patriota romano",
+        "row": 5,
+        "col": 1,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 16,
+        "clue": "Private della pelle",
+        "row": 6,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "La comanda un boss",
+        "row": 0,
+        "col": 0,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Sopra nei prefissi",
+        "row": 0,
+        "col": 1,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "É di aiuto per comporre versi",
+        "row": 0,
+        "col": 2,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Cani dal pelo ricciuto",
+        "row": 0,
+        "col": 3,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Molto colta",
+        "row": 0,
+        "col": 4,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Una operazione bancaria di pagamento",
+        "row": 0,
+        "col": 5,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 12,
+        "clue": "Si rivolgono al bersaglio",
+        "row": 3,
+        "col": 6,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 13,
+        "clue": "European Policy Centre",
+        "row": 4,
+        "col": 1,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 14,
+        "clue": "Simbolo di cotangente",
+        "row": 4,
+        "col": 5,
+        "length": 3,
+        "direction": "down"
+      }
+    ]
+  }
+}

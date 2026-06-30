@@ -1,0 +1,400 @@
+{
+  "id": "466",
+  "title": "Puzzle 466",
+  "size": {
+    "rows": 9,
+    "cols": 9
+  },
+  "grid": [
+    [
+      "#",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "#"
+    ]
+  ],
+  "solution": [
+    [
+      "#",
+      "#",
+      "C",
+      "O",
+      "R",
+      "R",
+      "A",
+      "D",
+      "O"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "N",
+      "E",
+      "O",
+      "C",
+      "O",
+      "N"
+    ],
+    [
+      "S",
+      "#",
+      "L",
+      "I",
+      "N",
+      "C",
+      "I",
+      "#",
+      "C"
+    ],
+    [
+      "A",
+      "R",
+      "I",
+      "O",
+      "#",
+      "K",
+      "#",
+      "J",
+      "I"
+    ],
+    [
+      "N",
+      "#",
+      "T",
+      "M",
+      "E",
+      "S",
+      "I",
+      "#",
+      "A"
+    ],
+    [
+      "J",
+      "J",
+      "#",
+      "A",
+      "#",
+      "T",
+      "E",
+      "L",
+      "L"
+    ],
+    [
+      "O",
+      "#",
+      "A",
+      "N",
+      "N",
+      "A",
+      "M",
+      "#",
+      "E"
+    ],
+    [
+      "S",
+      "E",
+      "N",
+      "I",
+      "O",
+      "R",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "E",
+      "S",
+      "P",
+      "A",
+      "N",
+      "S",
+      "I",
+      "#",
+      "#"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Lo scrittore Alvaro",
+        "row": 0,
+        "col": 2,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "Un conservatore che ha fatto progressi",
+        "row": 1,
+        "col": 3,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "I felini con le basette",
+        "row": 2,
+        "col": 2,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 12,
+        "clue": "Predicò eresie",
+        "row": 3,
+        "col": 0,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 15,
+        "clue": "L'inizio della jihad",
+        "row": 3,
+        "col": 7,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 17,
+        "clue": "Una separazione in linguistica",
+        "row": 4,
+        "col": 2,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 21,
+        "clue": "Iniziali della Joplin",
+        "row": 5,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 24,
+        "clue": "Il Guglielmo rossiniano",
+        "row": 5,
+        "col": 5,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 27,
+        "clue": "Regione dell'Estremo Oriente",
+        "row": 6,
+        "col": 2,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 30,
+        "clue": "Il primo fra gli omonimi",
+        "row": 7,
+        "col": 0,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 32,
+        "clue": "Allargati... come certi poliuretani",
+        "row": 8,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 2,
+        "clue": "Il... pallino di comprare",
+        "row": 0,
+        "col": 3,
+        "length": 9,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Rendita in breve",
+        "row": 0,
+        "col": 4,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Così si definiscono i cantanti come Bono Vox e Mick Jagger",
+        "row": 0,
+        "col": 5,
+        "length": 9,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "La sigla dell'Automobile Club d'Italia",
+        "row": 0,
+        "col": 6,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Le ha doppie Edoardo",
+        "row": 0,
+        "col": 7,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 7,
+        "clue": "Vecchio tipo di scrittura libraria",
+        "row": 0,
+        "col": 8,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 9,
+        "clue": "La capitale della Costa Rica",
+        "row": 2,
+        "col": 0,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 10,
+        "clue": "Wagon per dormire.",
+        "row": 2,
+        "col": 2,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 19,
+        "clue": "Impulso ElettroMagnetico (sigla)",
+        "row": 4,
+        "col": 6,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 27,
+        "clue": "Autorità Nazionale Palestinese",
+        "row": 6,
+        "col": 2,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 28,
+        "clue": "La valle trentina degli Anauni",
+        "row": 6,
+        "col": 4,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 31,
+        "clue": "Un pò esagerato",
+        "row": 7,
+        "col": 1,
+        "length": 2,
+        "direction": "down"
+      }
+    ]
+  }
+}

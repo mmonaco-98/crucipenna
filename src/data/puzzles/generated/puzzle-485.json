@@ -1,0 +1,640 @@
+{
+  "id": "485",
+  "title": "Puzzle 485",
+  "size": {
+    "rows": 11,
+    "cols": 11
+  },
+  "grid": [
+    [
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "#",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "#",
+      "#",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "#",
+      "#",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "#",
+      "#",
+      "#",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "#",
+      "#",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "#",
+      "#",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "I",
+      "#",
+      "M",
+      "E",
+      "R",
+      "V",
+      "#",
+      "#",
+      "#",
+      "P",
+      "G"
+    ],
+    [
+      "N",
+      "B",
+      "#",
+      "R",
+      "I",
+      "O",
+      "N",
+      "#",
+      "T",
+      "S",
+      "I"
+    ],
+    [
+      "F",
+      "I",
+      "N",
+      "G",
+      "A",
+      "L",
+      "#",
+      "B",
+      "O",
+      "S",
+      "A"
+    ],
+    [
+      "E",
+      "L",
+      "B",
+      "A",
+      "#",
+      "T",
+      "#",
+      "#",
+      "M",
+      "#",
+      "N"
+    ],
+    [
+      "R",
+      "I",
+      "C",
+      "#",
+      "E",
+      "A",
+      "#",
+      "#",
+      "#",
+      "U",
+      "N"
+    ],
+    [
+      "O",
+      "C",
+      "#",
+      "C",
+      "E",
+      "F",
+      "F",
+      "O",
+      "#",
+      "L",
+      "I"
+    ],
+    [
+      "C",
+      "O",
+      "#",
+      "#",
+      "#",
+      "A",
+      "C",
+      "#",
+      "C",
+      "T",
+      "Z"
+    ],
+    [
+      "I",
+      "#",
+      "R",
+      "#",
+      "#",
+      "C",
+      "#",
+      "Q",
+      "U",
+      "I",
+      "Z"
+    ],
+    [
+      "R",
+      "O",
+      "S",
+      "I",
+      "#",
+      "C",
+      "I",
+      "U",
+      "R",
+      "M",
+      "E"
+    ],
+    [
+      "S",
+      "B",
+      "I",
+      "#",
+      "L",
+      "I",
+      "L",
+      "A",
+      "#",
+      "A",
+      "R"
+    ],
+    [
+      "I",
+      "L",
+      "#",
+      "#",
+      "#",
+      "A",
+      "L",
+      "L",
+      "O",
+      "#",
+      "O"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 2,
+        "clue": "Antica città-oasi sulla via della seta",
+        "row": 0,
+        "col": 2,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 6,
+        "clue": "Cambiano i suoni in... pugni",
+        "row": 0,
+        "col": 9,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "Una sigla che richiama l'attenzione",
+        "row": 1,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "Fiume della Georgia",
+        "row": 1,
+        "col": 3,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 12,
+        "clue": "Televisione svizzera di lingua italiana (sigla)",
+        "row": 1,
+        "col": 8,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 13,
+        "clue": "Il leggendario padre di Ossian",
+        "row": 2,
+        "col": 0,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 15,
+        "clue": "Cittadina sarda sul mare",
+        "row": 2,
+        "col": 7,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 16,
+        "clue": "Vasta isola del Tirreno",
+        "row": 3,
+        "col": 0,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 20,
+        "clue": "53 Ente Teatrale Italiano (sigla).",
+        "row": 4,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 21,
+        "clue": "Pari di metà",
+        "row": 4,
+        "col": 4,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 22,
+        "clue": "Chiunque li ha in mezzo",
+        "row": 4,
+        "col": 9,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 23,
+        "clue": "Un francese antico",
+        "row": 5,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 24,
+        "clue": "Una faccia poco rassicurante",
+        "row": 5,
+        "col": 3,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 27,
+        "clue": "In quel luogo",
+        "row": 5,
+        "col": 9,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 28,
+        "clue": "Ai lati del capo",
+        "row": 6,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 29,
+        "clue": "Sigla dopo antiche date",
+        "row": 6,
+        "col": 5,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 30,
+        "clue": "Titoli di Stato senza cedola (sigla)",
+        "row": 6,
+        "col": 8,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 34,
+        "clue": "Una domandina da concorso",
+        "row": 7,
+        "col": 7,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 35,
+        "clue": "Diresse \"Salvatore Giuliano\"",
+        "row": 8,
+        "col": 0,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 38,
+        "clue": "Equipaggi... spregevoli",
+        "row": 8,
+        "col": 5,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 40,
+        "clue": "Società Botanica Italiana",
+        "row": 9,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 41,
+        "clue": "L'attrice Rocco",
+        "row": 9,
+        "col": 4,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 42,
+        "clue": "Il regista Resnais",
+        "row": 9,
+        "col": 9,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 43,
+        "clue": "Articolo per falegname",
+        "row": 10,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 44,
+        "clue": "Esotico \" pronto\" al telefono",
+        "row": 10,
+        "col": 5,
+        "length": 4,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Diventare crudeli",
+        "row": 0,
+        "col": 0,
+        "length": 11,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Precede omnes in un'espressione latina del Papa benedicente",
+        "row": 0,
+        "col": 3,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Cattiva d'animo, perfida",
+        "row": 0,
+        "col": 4,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Improvviso cambiamento di opinione",
+        "row": 0,
+        "col": 5,
+        "length": 11,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Sibilo che richiama l' attenzione",
+        "row": 0,
+        "col": 9,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 7,
+        "clue": "Soldato del sultano",
+        "row": 0,
+        "col": 10,
+        "length": 11,
+        "direction": "down"
+      },
+      {
+        "number": 9,
+        "clue": "Chi ci sta è in una posizione instabile",
+        "row": 1,
+        "col": 1,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 12,
+        "clue": "Insegue Jerry nei \"cartoons\"",
+        "row": 1,
+        "col": 8,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 14,
+        "clue": "Fa concorrenza all' ABC e alla CBS",
+        "row": 2,
+        "col": 2,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 21,
+        "clue": "Ai lati delle eliche",
+        "row": 4,
+        "col": 4,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 22,
+        "clue": "Si dice della moda più recente",
+        "row": 4,
+        "col": 9,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 25,
+        "clue": "Iniziali di Capello",
+        "row": 5,
+        "col": 6,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 30,
+        "clue": "Un perché di Cesare",
+        "row": 6,
+        "col": 8,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 32,
+        "clue": "Ebbe per capitale Salò (sigla)",
+        "row": 7,
+        "col": 2,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 34,
+        "clue": "__ ora, vale a dire se",
+        "row": 7,
+        "col": 7,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 36,
+        "clue": "Obliquo",
+        "row": 8,
+        "col": 1,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 39,
+        "clue": "Illustrazione abbreviata.",
+        "row": 8,
+        "col": 6,
+        "length": 3,
+        "direction": "down"
+      }
+    ]
+  }
+}

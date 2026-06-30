@@ -1,0 +1,432 @@
+{
+  "id": "465",
+  "title": "Puzzle 465",
+  "size": {
+    "rows": 9,
+    "cols": 9
+  },
+  "grid": [
+    [
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "R",
+      "#",
+      "U",
+      "C",
+      "K",
+      "#",
+      "C",
+      "P",
+      "S"
+    ],
+    [
+      "U",
+      "L",
+      "N",
+      "A",
+      "#",
+      "P",
+      "E",
+      "S",
+      "I"
+    ],
+    [
+      "N",
+      "U",
+      "T",
+      "R",
+      "I",
+      "R",
+      "S",
+      "I",
+      "#"
+    ],
+    [
+      "A",
+      "D",
+      "A",
+      "R",
+      "#",
+      "O",
+      "#",
+      "C",
+      "N"
+    ],
+    [
+      "#",
+      "O",
+      "#",
+      "I",
+      "A",
+      "M",
+      "#",
+      "H",
+      "#"
+    ],
+    [
+      "I",
+      "V",
+      "#",
+      "E",
+      "#",
+      "O",
+      "D",
+      "I",
+      "N"
+    ],
+    [
+      "#",
+      "I",
+      "E",
+      "R",
+      "A",
+      "T",
+      "I",
+      "C",
+      "A"
+    ],
+    [
+      "A",
+      "C",
+      "N",
+      "E",
+      "#",
+      "E",
+      "G",
+      "A",
+      "N"
+    ],
+    [
+      "I",
+      "O",
+      "D",
+      "#",
+      "E",
+      "R",
+      "A",
+      "#",
+      "O"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 2,
+        "clue": "Formazione di guerriglieri albanesi (sigla)",
+        "row": 0,
+        "col": 2,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 5,
+        "clue": "Cassa di Previdenza dei Sanitari",
+        "row": 0,
+        "col": 6,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "L' osso parallelo al radio",
+        "row": 1,
+        "col": 0,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "Si sollevano nelle palestre",
+        "row": 1,
+        "col": 5,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 11,
+        "clue": "È necessario per vivere",
+        "row": 2,
+        "col": 0,
+        "length": 8,
+        "direction": "across"
+      },
+      {
+        "number": 13,
+        "clue": "Rada anagrammata",
+        "row": 3,
+        "col": 0,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 15,
+        "clue": "Cuneo la preferì alla targa CU",
+        "row": 3,
+        "col": 7,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 18,
+        "clue": "Il \"già\" di Cicerone",
+        "row": 4,
+        "col": 3,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 21,
+        "clue": "Vive in centro",
+        "row": 5,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 23,
+        "clue": "Il \"Teatret\" di Barba",
+        "row": 5,
+        "col": 5,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 26,
+        "clue": "Sacra, sacerdotale",
+        "row": 6,
+        "col": 1,
+        "length": 8,
+        "direction": "across"
+      },
+      {
+        "number": 29,
+        "clue": "Un'infiammazione dei follicoli",
+        "row": 7,
+        "col": 0,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 30,
+        "clue": "La Jennifer di \"Il tempo è un bastardo\"",
+        "row": 7,
+        "col": 5,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 31,
+        "clue": "Una lettera ebraica.",
+        "row": 8,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 32,
+        "clue": "Lungo periodo della preistoria",
+        "row": 8,
+        "col": 4,
+        "length": 3,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Lettera dell'antica scrittura germanica",
+        "row": 0,
+        "col": 0,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Lubrificata",
+        "row": 0,
+        "col": 2,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Gli... andamenti del lavoro",
+        "row": 0,
+        "col": 3,
+        "length": 8,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Questi... a Parigi",
+        "row": 0,
+        "col": 6,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Relativa all'inconscio",
+        "row": 0,
+        "col": 7,
+        "length": 8,
+        "direction": "down"
+      },
+      {
+        "number": 7,
+        "clue": "Pronome \"impersonale\"",
+        "row": 0,
+        "col": 8,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 9,
+        "clue": "L'Einaudi compositore e pianista",
+        "row": 1,
+        "col": 1,
+        "length": 8,
+        "direction": "down"
+      },
+      {
+        "number": 10,
+        "clue": "Si occupa della promozione commerciale di un prodotto",
+        "row": 1,
+        "col": 5,
+        "length": 8,
+        "direction": "down"
+      },
+      {
+        "number": 24,
+        "clue": "Si ricorda quella d'Assuan",
+        "row": 5,
+        "col": 6,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 25,
+        "clue": "Piccolo adulto",
+        "row": 5,
+        "col": 8,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 27,
+        "clue": "A Londra c'è il West",
+        "row": 6,
+        "col": 2,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 29,
+        "clue": "Sono pari nei pari",
+        "row": 7,
+        "col": 0,
+        "length": 2,
+        "direction": "down"
+      }
+    ]
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "id": "420",
+  "title": "Puzzle 420",
+  "size": {
+    "rows": 7,
+    "cols": 7
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "A",
+      "B",
+      "O",
+      "L",
+      "I",
+      "T",
+      "O"
+    ],
+    [
+      "D",
+      "O",
+      "R",
+      "A",
+      "T",
+      "E",
+      "#"
+    ],
+    [
+      "A",
+      "U",
+      "R",
+      "I",
+      "C",
+      "A",
+      "#"
+    ],
+    [
+      "R",
+      "Q",
+      "#",
+      "C",
+      "#",
+      "T",
+      "R"
+    ],
+    [
+      "#",
+      "U",
+      "R",
+      "A",
+      "N",
+      "I",
+      "O"
+    ],
+    [
+      "#",
+      "E",
+      "A",
+      "L",
+      "I",
+      "N",
+      "G"
+    ],
+    [
+      "A",
+      "T",
+      "T",
+      "I",
+      "N",
+      "I",
+      "O"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Soppresso, cancellato",
+        "row": 0,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "Così sono le chiome bionde",
+        "row": 1,
+        "col": 0,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "Vela dalla forma trapezoidale",
+        "row": 2,
+        "col": 0,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "Iniziali di Queneau",
+        "row": 3,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 12,
+        "clue": "Il Robbins interprete del film \"Le ali della libertà\"",
+        "row": 3,
+        "col": 5,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 14,
+        "clue": "Si impoverisce per renderlo energetico",
+        "row": 4,
+        "col": 1,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 17,
+        "clue": "Un sobborgo di Londra noto per gli studi cinematografici",
+        "row": 5,
+        "col": 1,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 18,
+        "clue": "Un elemento chimico radioattivo",
+        "row": 6,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "L'ultimo mese dell'anno israelitico",
+        "row": 0,
+        "col": 0,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Lo tiene in mano la sposa",
+        "row": 0,
+        "col": 1,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "William H. attore",
+        "row": 0,
+        "col": 2,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Lo sono molte confraternite",
+        "row": 0,
+        "col": 3,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Istituto Tecnico Commerciale con tre lettere",
+        "row": 0,
+        "col": 4,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "I religiosi dell'Ordine fondato da san Gaetano da Thiene",
+        "row": 0,
+        "col": 5,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 13,
+        "clue": "Il supplizio di Giovanna d'Arco",
+        "row": 3,
+        "col": 6,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 15,
+        "clue": "Un topo nelle fogne di Parigi",
+        "row": 4,
+        "col": 2,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 16,
+        "clue": "L'Anaïs scrittrice erotica",
+        "row": 4,
+        "col": 4,
+        "length": 3,
+        "direction": "down"
+      }
+    ]
+  }
+}

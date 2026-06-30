@@ -1,0 +1,256 @@
+{
+  "id": "405",
+  "title": "Puzzle 405",
+  "size": {
+    "rows": 7,
+    "cols": 7
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "#"
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "#",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "L",
+      "E",
+      "E",
+      "D",
+      "S",
+      "#",
+      "#"
+    ],
+    [
+      "I",
+      "#",
+      "M",
+      "A",
+      "T",
+      "S",
+      "#"
+    ],
+    [
+      "S",
+      "C",
+      "E",
+      "M",
+      "A",
+      "T",
+      "I"
+    ],
+    [
+      "C",
+      "O",
+      "R",
+      "O",
+      "N",
+      "E",
+      "R"
+    ],
+    [
+      "I",
+      "R",
+      "I",
+      "D",
+      "A",
+      "T",
+      "A"
+    ],
+    [
+      "#",
+      "A",
+      "T",
+      "A",
+      "R",
+      "#",
+      "D"
+    ],
+    [
+      "#",
+      "#",
+      "I",
+      "R",
+      "E",
+      "N",
+      "E"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Città industriale inglese nello Yorkshire",
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "clue": "Il Wilander del tennis",
+        "row": 1,
+        "col": 2,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "Diminuiti, rarefatti",
+        "row": 2,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 12,
+        "clue": "Magistrato inglese che si occupa dei casi di morte violenta",
+        "row": 3,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 13,
+        "clue": "Variamente colorata",
+        "row": 4,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 14,
+        "clue": "Città della Mauritania",
+        "row": 5,
+        "col": 1,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 16,
+        "clue": "Il nome che significa \" pace\"",
+        "row": 6,
+        "col": 2,
+        "length": 5,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Tutt'altro che scabri",
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Collocati a riposo con titoli e onori",
+        "row": 0,
+        "col": 2,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Scorre in India",
+        "row": 0,
+        "col": 3,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Far uscire dal covo",
+        "row": 0,
+        "col": 4,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 8,
+        "clue": "Società telefonica che si è fusa con la Telecom",
+        "row": 1,
+        "col": 5,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 10,
+        "clue": "La protagonista di Il postino suona sempre due volte",
+        "row": 2,
+        "col": 1,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 11,
+        "clue": "Rescritto di sultani",
+        "row": 2,
+        "col": 6,
+        "length": 5,
+        "direction": "down"
+      }
+    ]
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "id": "326",
+  "title": "Puzzle 326",
+  "size": {
+    "rows": 7,
+    "cols": 7
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "B",
+      "L",
+      "#",
+      "V",
+      "I",
+      "T",
+      "A"
+    ],
+    [
+      "A",
+      "I",
+      "M",
+      "O",
+      "N",
+      "E",
+      "#"
+    ],
+    [
+      "N",
+      "A",
+      "I",
+      "L",
+      "O",
+      "N",
+      "#"
+    ],
+    [
+      "D",
+      "I",
+      "N",
+      "A",
+      "N",
+      "Z",
+      "I"
+    ],
+    [
+      "#",
+      "S",
+      "A",
+      "N",
+      "D",
+      "O",
+      "R"
+    ],
+    [
+      "#",
+      "O",
+      "T",
+      "T",
+      "A",
+      "N",
+      "I"
+    ],
+    [
+      "E",
+      "N",
+      "E",
+      "I",
+      "#",
+      "I",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Due terzi di blu",
+        "row": 0,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 3,
+        "clue": "Scrisse Dante: Nel mezzo del cammin di nostra __",
+        "row": 0,
+        "col": 3,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "clue": "Il duca di Dordogna padre di Rinaldo",
+        "row": 1,
+        "col": 0,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "Comune fibra sintetica",
+        "row": 2,
+        "col": 0,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "Al cospetto",
+        "row": 3,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 12,
+        "clue": "Il Marai scrittore",
+        "row": 4,
+        "col": 1,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 13,
+        "clue": "Indicano il potere antidetonente dei carburanti",
+        "row": 5,
+        "col": 1,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 14,
+        "clue": "Relativi al bronzo",
+        "row": 6,
+        "col": 0,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 15,
+        "clue": "Iniziali di Silone",
+        "row": 6,
+        "col": 5,
+        "length": 2,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Un'orchestrina... di jazz",
+        "row": 0,
+        "col": 0,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Un legame sentimentale... a Parigi",
+        "row": 0,
+        "col": 1,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Li... impugnano gli autisti",
+        "row": 0,
+        "col": 3,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Un programma con Parenzo e Telese.",
+        "row": 0,
+        "col": 4,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Combattimenti, contese",
+        "row": 0,
+        "col": 5,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 8,
+        "clue": "Danneggiate, insidiate",
+        "row": 1,
+        "col": 2,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 11,
+        "clue": "La Murdoch scrittrice",
+        "row": 3,
+        "col": 6,
+        "length": 4,
+        "direction": "down"
+      }
+    ]
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "id": "424",
+  "title": "Puzzle 424",
+  "size": {
+    "rows": 7,
+    "cols": 7
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "C",
+      "H",
+      "I",
+      "A",
+      "P",
+      "A",
+      "S"
+    ],
+    [
+      "O",
+      "#",
+      "T",
+      "R",
+      "I",
+      "N",
+      "A"
+    ],
+    [
+      "L",
+      "#",
+      "A",
+      "R",
+      "C",
+      "A",
+      "#"
+    ],
+    [
+      "F",
+      "I",
+      "L",
+      "I",
+      "A",
+      "L",
+      "I"
+    ],
+    [
+      "#",
+      "L",
+      "I",
+      "E",
+      "D",
+      "#",
+      "T"
+    ],
+    [
+      "B",
+      "E",
+      "A",
+      "T",
+      "O",
+      "#",
+      "I"
+    ],
+    [
+      "L",
+      "I",
+      "N",
+      "A",
+      "R",
+      "E",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Stato del Messico sud orientale",
+        "row": 0,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "Delicatissimo pizzo per guarnizioni",
+        "row": 1,
+        "col": 2,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 11,
+        "clue": "Affrontò il diluvio",
+        "row": 2,
+        "col": 2,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 12,
+        "clue": "Dipendono da una sede centrale",
+        "row": 3,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 15,
+        "clue": "La... canzone di Schubert",
+        "row": 4,
+        "col": 1,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 17,
+        "clue": "Non ancora santo",
+        "row": 5,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 19,
+        "clue": "Città spagnola",
+        "row": 6,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Cameriera moderna",
+        "row": 0,
+        "col": 0,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Il nostro \"style\" per gli inglesi",
+        "row": 0,
+        "col": 2,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Poeta e critico letterario argentino",
+        "row": 0,
+        "col": 3,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Un... torero che entra nell'arena a cavallo",
+        "row": 0,
+        "col": 4,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "In mezzo al fanale",
+        "row": 0,
+        "col": 5,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 7,
+        "clue": "Prime di Salerno",
+        "row": 0,
+        "col": 6,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 13,
+        "clue": "Parti dell'intestino tenue",
+        "row": 3,
+        "col": 1,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 14,
+        "clue": "Istituto Tecnico Industriale Statale",
+        "row": 3,
+        "col": 6,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 17,
+        "clue": "Bin Laden",
+        "row": 5,
+        "col": 0,
+        "length": 2,
+        "direction": "down"
+      }
+    ]
+  }
+}

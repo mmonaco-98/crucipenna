@@ -1,0 +1,272 @@
+{
+  "id": "413",
+  "title": "Puzzle 413",
+  "size": {
+    "rows": 7,
+    "cols": 7
+  },
+  "grid": [
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ]
+  ],
+  "solution": [
+    [
+      "#",
+      "E",
+      "S",
+      "I",
+      "O",
+      "D",
+      "O"
+    ],
+    [
+      "W",
+      "#",
+      "Q",
+      "N",
+      "#",
+      "E",
+      "R"
+    ],
+    [
+      "I",
+      "N",
+      "U",
+      "T",
+      "I",
+      "L",
+      "E"
+    ],
+    [
+      "L",
+      "I",
+      "A",
+      "I",
+      "S",
+      "O",
+      "N"
+    ],
+    [
+      "D",
+      "O",
+      "W",
+      "N",
+      "I",
+      "N",
+      "G"
+    ],
+    [
+      "E",
+      "B",
+      "#",
+      "T",
+      "D",
+      "#",
+      "O"
+    ],
+    [
+      "R",
+      "E",
+      "N",
+      "I",
+      "E",
+      "R",
+      "#"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Insigne poeta greco",
+        "row": 0,
+        "col": 1,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "Quartiere Navale",
+        "row": 1,
+        "col": 2,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "Iniziali del cantautore Ruggeri",
+        "row": 1,
+        "col": 5,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "Lo è lo sforzo fatto per niente",
+        "row": 2,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 13,
+        "clue": "Un legame sentimentale... a Parigi",
+        "row": 3,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 14,
+        "clue": "La street di Tony Blair",
+        "row": 4,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 15,
+        "clue": "Un po' ebbro",
+        "row": 5,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 16,
+        "clue": "Turbo diesel",
+        "row": 5,
+        "col": 3,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 18,
+        "clue": "Paolo, che fu il penultimo doge di Venezia",
+        "row": 6,
+        "col": 0,
+        "length": 6,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 2,
+        "clue": "Una donna del West",
+        "row": 0,
+        "col": 2,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Immersi in un liquido",
+        "row": 0,
+        "col": 3,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Un bello del cinema",
+        "row": 0,
+        "col": 5,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "II Nico poeta e romanziere",
+        "row": 0,
+        "col": 6,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 7,
+        "clue": "Il regista di \"Sabrina\"",
+        "row": 1,
+        "col": 0,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 11,
+        "clue": "La madre pietrificata dagli dèi",
+        "row": 2,
+        "col": 1,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 12,
+        "clue": "La madre di Horus",
+        "row": 2,
+        "col": 4,
+        "length": 5,
+        "direction": "down"
+      }
+    ]
+  }
+}

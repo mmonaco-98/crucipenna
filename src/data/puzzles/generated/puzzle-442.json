@@ -1,0 +1,272 @@
+{
+  "id": "442",
+  "title": "Puzzle 442",
+  "size": {
+    "rows": 7,
+    "cols": 7
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "S",
+      "W",
+      "A",
+      "T",
+      "O",
+      "W",
+      "#"
+    ],
+    [
+      "T",
+      "Y",
+      "#",
+      "E",
+      "#",
+      "I",
+      "G"
+    ],
+    [
+      "R",
+      "O",
+      "G",
+      "N",
+      "O",
+      "N",
+      "E"
+    ],
+    [
+      "I",
+      "M",
+      "M",
+      "O",
+      "N",
+      "D",
+      "O"
+    ],
+    [
+      "D",
+      "I",
+      "E",
+      "R",
+      "E",
+      "S",
+      "I"
+    ],
+    [
+      "O",
+      "N",
+      "#",
+      "I",
+      "#",
+      "O",
+      "D"
+    ],
+    [
+      "#",
+      "G",
+      "I",
+      "O",
+      "I",
+      "R",
+      "E"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Città e porto della Cina",
+        "row": 0,
+        "col": 0,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "clue": "Uno Young regista (iniz.)",
+        "row": 1,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "In famiglia",
+        "row": 1,
+        "col": 5,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 11,
+        "clue": "É ottimo trifolato",
+        "row": 2,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 14,
+        "clue": "Lurido, ignobile",
+        "row": 3,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 15,
+        "clue": "Due puntini spesso usati dai poeti",
+        "row": 4,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 16,
+        "clue": "Sono vicine in gondola",
+        "row": 5,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 18,
+        "clue": "Il centro del nodo",
+        "row": 5,
+        "col": 5,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 19,
+        "clue": "Andare in solluchero",
+        "row": 6,
+        "col": 1,
+        "length": 6,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Voce acuta e sgradevole",
+        "row": 0,
+        "col": 0,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Lo stato con il parco di Yellowstone",
+        "row": 0,
+        "col": 1,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Il don Giovanni mozartiano",
+        "row": 0,
+        "col": 3,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "La Casa del piccolo George",
+        "row": 0,
+        "col": 5,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 10,
+        "clue": "Modello della forma della Terra.",
+        "row": 1,
+        "col": 6,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 12,
+        "clue": "Gestore dei Mercati Energetici (sigla)",
+        "row": 2,
+        "col": 2,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 13,
+        "clue": "Un... cardinale inglese",
+        "row": 2,
+        "col": 4,
+        "length": 3,
+        "direction": "down"
+      }
+    ]
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "id": "425",
+  "title": "Puzzle 425",
+  "size": {
+    "rows": 7,
+    "cols": 7
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      "#",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "#",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "P",
+      "S",
+      "I",
+      "C",
+      "O",
+      "S",
+      "I"
+    ],
+    [
+      "A",
+      "K",
+      "#",
+      "R",
+      "#",
+      "P",
+      "#"
+    ],
+    [
+      "R",
+      "E",
+      "Z",
+      "I",
+      "A",
+      "R",
+      "I"
+    ],
+    [
+      "K",
+      "L",
+      "I",
+      "N",
+      "G",
+      "E",
+      "R"
+    ],
+    [
+      "A",
+      "T",
+      "T",
+      "A",
+      "C",
+      "C",
+      "O"
+    ],
+    [
+      "#",
+      "E",
+      "#",
+      "L",
+      "#",
+      "H",
+      "S"
+    ],
+    [
+      "A",
+      "R",
+      "S",
+      "E",
+      "N",
+      "I",
+      "O"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Perturbamento collettivo",
+        "row": 0,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "In mezzo al sake",
+        "row": 1,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 11,
+        "clue": "I gladiatori con la rete",
+        "row": 2,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 15,
+        "clue": "Max, artista tedesco del simbolismo",
+        "row": 3,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 16,
+        "clue": "Azione offensiva",
+        "row": 4,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 19,
+        "clue": "Iniziali dell'attrice Schygulla",
+        "row": 5,
+        "col": 5,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 20,
+        "clue": "Il nome del romanzesco Lupin",
+        "row": 6,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Il tipico giaccone degli Eschimesi",
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "L'Helter dei Beatles",
+        "row": 0,
+        "col": 1,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Linea di catene montuose",
+        "row": 0,
+        "col": 3,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Sono propri delle società consumistiche",
+        "row": 0,
+        "col": 5,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 12,
+        "clue": "Zona Inter Territoriale",
+        "row": 2,
+        "col": 2,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 13,
+        "clue": "Agenzia Giornalistica Coni (sigla)",
+        "row": 2,
+        "col": 4,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 14,
+        "clue": "Pronto ad arrabbiarsi",
+        "row": 2,
+        "col": 6,
+        "length": 5,
+        "direction": "down"
+      }
+    ]
+  }
+}

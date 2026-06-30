@@ -1,0 +1,288 @@
+{
+  "id": "409",
+  "title": "Puzzle 409",
+  "size": {
+    "rows": 7,
+    "cols": 7
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "I",
+      "P",
+      "#",
+      "O",
+      "M",
+      "S",
+      "K"
+    ],
+    [
+      "F",
+      "O",
+      "N",
+      "D",
+      "U",
+      "T",
+      "A"
+    ],
+    [
+      "#",
+      "D",
+      "I",
+      "O",
+      "N",
+      "E",
+      "#"
+    ],
+    [
+      "S",
+      "A",
+      "C",
+      "R",
+      "A",
+      "R",
+      "I"
+    ],
+    [
+      "#",
+      "G",
+      "H",
+      "I",
+      "R",
+      "I",
+      "#"
+    ],
+    [
+      "A",
+      "R",
+      "E",
+      "N",
+      "I",
+      "L",
+      "I"
+    ],
+    [
+      "P",
+      "A",
+      "L",
+      "O",
+      "#",
+      "E",
+      "E"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Il Pizzetti compositore (iniz.)",
+        "row": 0,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 3,
+        "clue": "Città russa lungo la Transiberiana",
+        "row": 0,
+        "col": 3,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "clue": "Una specialità valdostana",
+        "row": 1,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "Satellite di Saturno",
+        "row": 2,
+        "col": 1,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "Tabernacoli",
+        "row": 3,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 12,
+        "clue": "Dormono tutto l'inverno",
+        "row": 4,
+        "col": 1,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 13,
+        "clue": "Lidi sabbiosi",
+        "row": 5,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 15,
+        "clue": "Un montante a lato del portiere",
+        "row": 6,
+        "col": 0,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 16,
+        "clue": "Le hanno sia le mele che le pere",
+        "row": 6,
+        "col": 5,
+        "length": 2,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Il Fossati cantante (iniz.)",
+        "row": 0,
+        "col": 0,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Gotta ai piedi",
+        "row": 0,
+        "col": 1,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Fa venire l'acquolina in bocca",
+        "row": 0,
+        "col": 3,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Bruno, noto designer",
+        "row": 0,
+        "col": 4,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Privo di microbi",
+        "row": 0,
+        "col": 5,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Il centro di Ankara",
+        "row": 0,
+        "col": 6,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 8,
+        "clue": "Metallo componente dell'argentana",
+        "row": 1,
+        "col": 2,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 13,
+        "clue": "Uno dei massimi tennisti italiani di sempre (iniz.)",
+        "row": 5,
+        "col": 0,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 14,
+        "clue": "Codice internet dell'Irlanda",
+        "row": 5,
+        "col": 6,
+        "length": 2,
+        "direction": "down"
+      }
+    ]
+  }
+}

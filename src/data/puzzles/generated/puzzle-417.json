@@ -1,0 +1,296 @@
+{
+  "id": "417",
+  "title": "Puzzle 417",
+  "size": {
+    "rows": 7,
+    "cols": 7
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "R",
+      "O",
+      "N",
+      "D",
+      "E",
+      "A",
+      "U"
+    ],
+    [
+      "#",
+      "N",
+      "E",
+      "K",
+      "#",
+      "N",
+      "G"
+    ],
+    [
+      "P",
+      "I",
+      "T",
+      "#",
+      "T",
+      "A",
+      "G"
+    ],
+    [
+      "A",
+      "R",
+      "T",
+      "R",
+      "I",
+      "T",
+      "I"
+    ],
+    [
+      "R",
+      "I",
+      "I",
+      "#",
+      "L",
+      "E",
+      "A"
+    ],
+    [
+      "M",
+      "C",
+      "#",
+      "C",
+      "D",
+      "M",
+      "#"
+    ],
+    [
+      "A",
+      "I",
+      "R",
+      "M",
+      "A",
+      "I",
+      "L"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Una delle forme poetico-musicali dei trovieri",
+        "row": 0,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "Noto cantante",
+        "row": 1,
+        "col": 1,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "In mezzo ai funghi",
+        "row": 1,
+        "col": 5,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "Uno stop nell'automobilismo",
+        "row": 2,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 11,
+        "clue": "__ Heuer, marca di orologi",
+        "row": 2,
+        "col": 4,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 12,
+        "clue": "Colpiscono le giunture",
+        "row": 3,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 14,
+        "clue": "Si percorrono in gondola",
+        "row": 4,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 15,
+        "clue": "La Massari dello schermo",
+        "row": 4,
+        "col": 4,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 16,
+        "clue": "Provincia di Recanati (sigla)",
+        "row": 5,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 17,
+        "clue": "Si riunisce a Palazzo Chigi (sigla)",
+        "row": 5,
+        "col": 3,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 18,
+        "clue": "Vola dal suo destinatario",
+        "row": 6,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 2,
+        "clue": "Relativi ai sogni",
+        "row": 0,
+        "col": 1,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Privati della tara",
+        "row": 0,
+        "col": 2,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Danimarca sulle targhe",
+        "row": 0,
+        "col": 3,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Gravi sanzioni religiose",
+        "row": 0,
+        "col": 5,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 7,
+        "clue": "Il malumore dell'annoiato",
+        "row": 0,
+        "col": 6,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 10,
+        "clue": "Città emiliana",
+        "row": 2,
+        "col": 0,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 11,
+        "clue": "L'attrice Swinton",
+        "row": 2,
+        "col": 4,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 17,
+        "clue": "Il centimetro...più corto",
+        "row": 5,
+        "col": 3,
+        "length": 2,
+        "direction": "down"
+      }
+    ]
+  }
+}

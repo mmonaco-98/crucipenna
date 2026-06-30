@@ -1,0 +1,256 @@
+{
+  "id": "327",
+  "title": "Puzzle 327",
+  "size": {
+    "rows": 7,
+    "cols": 7
+  },
+  "grid": [
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ]
+  ],
+  "solution": [
+    [
+      "#",
+      "G",
+      "R",
+      "E",
+      "C",
+      "H",
+      "E"
+    ],
+    [
+      "M",
+      "I",
+      "O",
+      "M",
+      "A",
+      "#",
+      "Z"
+    ],
+    [
+      "#",
+      "A",
+      "S",
+      "E",
+      "P",
+      "S",
+      "I"
+    ],
+    [
+      "E",
+      "C",
+      "O",
+      "T",
+      "I",
+      "P",
+      "O"
+    ],
+    [
+      "I",
+      "A",
+      "L",
+      "I",
+      "T",
+      "E",
+      "#"
+    ],
+    [
+      "N",
+      "#",
+      "I",
+      "C",
+      "A",
+      "R",
+      "O"
+    ],
+    [
+      "E",
+      "R",
+      "O",
+      "I",
+      "N",
+      "A",
+      "#"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Le proverbiali calende",
+        "row": 0,
+        "col": 1,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "clue": "Un tumore muscolare",
+        "row": 1,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "Sterilità da batteri",
+        "row": 2,
+        "col": 1,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 11,
+        "clue": "Aspetto particolare assunto dagli organismi in un determinato ambiente",
+        "row": 3,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 12,
+        "clue": "Varietà di opale bianca e trasparente",
+        "row": 4,
+        "col": 0,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 14,
+        "clue": "Fallì al primo volo",
+        "row": 5,
+        "col": 2,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 16,
+        "clue": "La protagonista della storia letteraria",
+        "row": 6,
+        "col": 0,
+        "length": 6,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Gruppo etnico della Tanzania",
+        "row": 0,
+        "col": 1,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Un liquore molto dolce",
+        "row": 0,
+        "col": 2,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Lo sono certi farmaci",
+        "row": 0,
+        "col": 3,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Il famoso Fracassa",
+        "row": 0,
+        "col": 4,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Nome di Greggio",
+        "row": 0,
+        "col": 6,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 10,
+        "clue": "Un piccolo specchio rotondo con impugnatura",
+        "row": 2,
+        "col": 5,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 11,
+        "clue": "Una... in Germania",
+        "row": 3,
+        "col": 0,
+        "length": 4,
+        "direction": "down"
+      }
+    ]
+  }
+}

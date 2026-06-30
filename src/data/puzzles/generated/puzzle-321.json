@@ -1,0 +1,272 @@
+{
+  "id": "321",
+  "title": "Puzzle 321",
+  "size": {
+    "rows": 7,
+    "cols": 7
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "T",
+      "O",
+      "C",
+      "#",
+      "D",
+      "R",
+      "O"
+    ],
+    [
+      "A",
+      "#",
+      "I",
+      "L",
+      "E",
+      "I",
+      "#"
+    ],
+    [
+      "P",
+      "E",
+      "L",
+      "A",
+      "S",
+      "G",
+      "I"
+    ],
+    [
+      "P",
+      "R",
+      "E",
+      "M",
+      "I",
+      "E",
+      "R"
+    ],
+    [
+      "O",
+      "N",
+      "C",
+      "I",
+      "A",
+      "L",
+      "E"
+    ],
+    [
+      "#",
+      "S",
+      "C",
+      "A",
+      "R",
+      "#",
+      "N"
+    ],
+    [
+      "P",
+      "T",
+      "A",
+      "#",
+      "E",
+      "D",
+      "E"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Un colpetto alla porta",
+        "row": 0,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 4,
+        "clue": "Comune trentino",
+        "row": 0,
+        "col": 4,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "Parti dell'intestino tenue",
+        "row": 1,
+        "col": 2,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "Erano un popolo pre-greco",
+        "row": 2,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 13,
+        "clue": "È stato il titolo di David Cameron",
+        "row": 3,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 14,
+        "clue": "Vecchio tipo di scrittura libraria",
+        "row": 4,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 15,
+        "clue": "Il cattivo de \"Il re leone\"",
+        "row": 5,
+        "col": 1,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 17,
+        "clue": "Preference Trade Area",
+        "row": 6,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 18,
+        "clue": "Città dei Paesi Bassi",
+        "row": 6,
+        "col": 4,
+        "length": 3,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "È solitamente di sughero",
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Colpo mancato",
+        "row": 0,
+        "col": 2,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Volere ardentemente... in poesia",
+        "row": 0,
+        "col": 4,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Luminosa stella di Orione",
+        "row": 0,
+        "col": 5,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 9,
+        "clue": "Città e golfo della Grecia",
+        "row": 1,
+        "col": 3,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 11,
+        "clue": "Il nome di Lubitsch",
+        "row": 2,
+        "col": 1,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 12,
+        "clue": "La Pivetti che fu Presidente della Camera",
+        "row": 2,
+        "col": 6,
+        "length": 5,
+        "direction": "down"
+      }
+    ]
+  }
+}

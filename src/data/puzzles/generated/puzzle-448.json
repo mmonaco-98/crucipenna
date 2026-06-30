@@ -1,0 +1,272 @@
+{
+  "id": "448",
+  "title": "Puzzle 448",
+  "size": {
+    "rows": 7,
+    "cols": 7
+  },
+  "grid": [
+    [
+      "",
+      "#",
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "#",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "O",
+      "#",
+      "S",
+      "#",
+      "P",
+      "S",
+      "B"
+    ],
+    [
+      "C",
+      "H",
+      "I",
+      "M",
+      "O",
+      "N",
+      "O"
+    ],
+    [
+      "C",
+      "O",
+      "L",
+      "O",
+      "S",
+      "S",
+      "O"
+    ],
+    [
+      "O",
+      "#",
+      "E",
+      "S",
+      "T",
+      "#",
+      "S"
+    ],
+    [
+      "R",
+      "A",
+      "S",
+      "T",
+      "A",
+      "T",
+      "T"
+    ],
+    [
+      "S",
+      "C",
+      "I",
+      "O",
+      "L",
+      "T",
+      "E"
+    ],
+    [
+      "O",
+      "C",
+      "A",
+      "#",
+      "I",
+      "#",
+      "R"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 3,
+        "clue": "Un figlio d'arte, a Mediaset (iniz.)",
+        "row": 0,
+        "col": 4,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 6,
+        "clue": "Veste giapponese",
+        "row": 1,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "Uomo di gigantesca statura",
+        "row": 2,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 11,
+        "clue": "Le burle del mattacchione",
+        "row": 3,
+        "col": 2,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 13,
+        "clue": "Storica città tedesca",
+        "row": 4,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 16,
+        "clue": "Lo sono le briglie di chi non si ferma più.",
+        "row": 5,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 17,
+        "clue": "È sciocca ma ha fegato!",
+        "row": 6,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Divenuto necessario",
+        "row": 0,
+        "col": 0,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Un tessuto di cotone per fodere",
+        "row": 0,
+        "col": 2,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Relativi alla corrispondenza... recapitata",
+        "row": 0,
+        "col": 4,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Sindacato Nazionale degli Scrittori",
+        "row": 0,
+        "col": 5,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Un razzo ausiliare impiegato nel lancio d' un missile",
+        "row": 0,
+        "col": 6,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 7,
+        "clue": "Choc senza uguali",
+        "row": 1,
+        "col": 1,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 8,
+        "clue": "Un prodotto di pigiatura",
+        "row": 1,
+        "col": 3,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 14,
+        "clue": "Il quarto caso latino",
+        "row": 4,
+        "col": 1,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 15,
+        "clue": "Sono uguali nella notte",
+        "row": 4,
+        "col": 5,
+        "length": 2,
+        "direction": "down"
+      }
+    ]
+  }
+}

@@ -1,0 +1,440 @@
+{
+  "id": "469",
+  "title": "Puzzle 469",
+  "size": {
+    "rows": 9,
+    "cols": 9
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      "#",
+      "",
+      "",
+      "#",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "#",
+      "",
+      "",
+      "#",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "O",
+      "D",
+      "O",
+      "R",
+      "#",
+      "E",
+      "L",
+      "Y",
+      "#"
+    ],
+    [
+      "N",
+      "Y",
+      "#",
+      "G",
+      "#",
+      "T",
+      "A",
+      "#",
+      "#"
+    ],
+    [
+      "G",
+      "N",
+      "C",
+      "#",
+      "S",
+      "E",
+      "R",
+      "I",
+      "E"
+    ],
+    [
+      "#",
+      "A",
+      "A",
+      "L",
+      "E",
+      "S",
+      "U",
+      "N",
+      "D"
+    ],
+    [
+      "A",
+      "S",
+      "T",
+      "E",
+      "R",
+      "I",
+      "S",
+      "C",
+      "O"
+    ],
+    [
+      "S",
+      "T",
+      "U",
+      "D",
+      "I",
+      "O",
+      "S",
+      "A",
+      "#"
+    ],
+    [
+      "T",
+      "Y",
+      "L",
+      "E",
+      "R",
+      "#",
+      "A",
+      "U",
+      "G"
+    ],
+    [
+      "#",
+      "#",
+      "L",
+      "R",
+      "#",
+      "A",
+      "#",
+      "T",
+      "C"
+    ],
+    [
+      "#",
+      "Z",
+      "O",
+      "E",
+      "#",
+      "I",
+      "M",
+      "A",
+      "C"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Si sente quel di santità",
+        "row": 0,
+        "col": 0,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 5,
+        "clue": "Città inglese presso Cambridge",
+        "row": 0,
+        "col": 5,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "La città con Manhattan (sigla)",
+        "row": 1,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "Ogni portata ne ha due",
+        "row": 1,
+        "col": 5,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 11,
+        "clue": "Galleria Nazionale Contemporanea",
+        "row": 2,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 13,
+        "clue": "Due lettere stampate sulle banconote",
+        "row": 2,
+        "col": 4,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 16,
+        "clue": "Città della Norvegia",
+        "row": 3,
+        "col": 1,
+        "length": 8,
+        "direction": "across"
+      },
+      {
+        "number": 18,
+        "clue": "Uno stelloncino",
+        "row": 4,
+        "col": 0,
+        "length": 9,
+        "direction": "across"
+      },
+      {
+        "number": 19,
+        "clue": "È sempre china sui libri",
+        "row": 5,
+        "col": 0,
+        "length": 8,
+        "direction": "across"
+      },
+      {
+        "number": 20,
+        "clue": "La Liv nel cast de 'Il signore degli anelli'",
+        "row": 6,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 21,
+        "clue": "Una trascrizione di un presunto saluto indiano",
+        "row": 6,
+        "col": 6,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 23,
+        "clue": "Iniziali della Ravera scrittrice",
+        "row": 7,
+        "col": 2,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 25,
+        "clue": "Simbolo del tecnezio",
+        "row": 7,
+        "col": 7,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 26,
+        "clue": "La Kravitz figlia d'arte",
+        "row": 8,
+        "col": 1,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 27,
+        "clue": "Un avveniristico computer",
+        "row": 8,
+        "col": 5,
+        "length": 4,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Organizzazioni Non Governative (sigla)",
+        "row": 0,
+        "col": 0,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Una storica serie",
+        "row": 0,
+        "col": 1,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Gaetano di Gianna (iniz.)",
+        "row": 0,
+        "col": 3,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Vento periodico del Mediterraneo",
+        "row": 0,
+        "col": 5,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Un Ignazio non gesuita",
+        "row": 0,
+        "col": 6,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 12,
+        "clue": "Il poeta latino con una famosa dimora a Sirmione",
+        "row": 2,
+        "col": 2,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 13,
+        "clue": "Un deserto pietroso",
+        "row": 2,
+        "col": 4,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 14,
+        "clue": "Imprudente, avventata",
+        "row": 2,
+        "col": 7,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 15,
+        "clue": "Così per un po' si chiamò il Bennato più famoso",
+        "row": 2,
+        "col": 8,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 17,
+        "clue": "Provocare danno",
+        "row": 3,
+        "col": 3,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 18,
+        "clue": "Azienda Siciliana Trasporti",
+        "row": 4,
+        "col": 0,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 22,
+        "clue": "Caselli magistrato (iniz.)",
+        "row": 6,
+        "col": 8,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 24,
+        "clue": "Inizio e fine degli amori",
+        "row": 7,
+        "col": 5,
+        "length": 2,
+        "direction": "down"
+      }
+    ]
+  }
+}

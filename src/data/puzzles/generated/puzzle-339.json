@@ -1,0 +1,272 @@
+{
+  "id": "339",
+  "title": "Puzzle 339",
+  "size": {
+    "rows": 7,
+    "cols": 7
+  },
+  "grid": [
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ]
+  ],
+  "solution": [
+    [
+      "#",
+      "V",
+      "E",
+      "N",
+      "T",
+      "#",
+      "G"
+    ],
+    [
+      "M",
+      "I",
+      "D",
+      "#",
+      "E",
+      "O",
+      "R"
+    ],
+    [
+      "E",
+      "S",
+      "U",
+      "L",
+      "A",
+      "R",
+      "E"
+    ],
+    [
+      "R",
+      "I",
+      "C",
+      "E",
+      "T",
+      "T",
+      "E"
+    ],
+    [
+      "O",
+      "V",
+      "A",
+      "T",
+      "I",
+      "O",
+      "N"
+    ],
+    [
+      "P",
+      "A",
+      "T",
+      "#",
+      "N",
+      "N",
+      "E"
+    ],
+    [
+      "E",
+      "#",
+      "E",
+      "L",
+      "I",
+      "A",
+      "#"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "... ' anni dopo (romanzo)",
+        "row": 0,
+        "col": 1,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 6,
+        "clue": "Il \"term\" di certe elezioni americane",
+        "row": 1,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "clue": "La sigla che nel cinema indica la fine della pellicola",
+        "row": 1,
+        "col": 4,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "Uscire dai limiti",
+        "row": 2,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 11,
+        "clue": "Le compila il medico",
+        "row": 3,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 12,
+        "clue": "Il tributo che può essere \"standing\"",
+        "row": 4,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 13,
+        "clue": "Benatar cantante",
+        "row": 5,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 14,
+        "clue": "Punto opposto a SSO",
+        "row": 5,
+        "col": 4,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 16,
+        "clue": "Una Antonella della tv",
+        "row": 6,
+        "col": 2,
+        "length": 4,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Lo è l'arte per l'occhio",
+        "row": 0,
+        "col": 1,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Gentili, garbate",
+        "row": 0,
+        "col": 2,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "I nativi di Chieti",
+        "row": 0,
+        "col": 4,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Un Graham fra gli scrittori",
+        "row": 0,
+        "col": 6,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Una delle Pleiadi",
+        "row": 1,
+        "col": 0,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 8,
+        "clue": "In provincia di Chieti",
+        "row": 1,
+        "col": 5,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 10,
+        "clue": "Un servizio... da ripetere",
+        "row": 2,
+        "col": 3,
+        "length": 3,
+        "direction": "down"
+      }
+    ]
+  }
+}

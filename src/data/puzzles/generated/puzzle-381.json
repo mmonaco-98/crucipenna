@@ -1,0 +1,280 @@
+{
+  "id": "381",
+  "title": "Puzzle 381",
+  "size": {
+    "rows": 7,
+    "cols": 7
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "C",
+      "I",
+      "C",
+      "O",
+      "R",
+      "I",
+      "A"
+    ],
+    [
+      "#",
+      "R",
+      "E",
+      "N",
+      "O",
+      "I",
+      "R"
+    ],
+    [
+      "M",
+      "A",
+      "R",
+      "#",
+      "B",
+      "#",
+      "T"
+    ],
+    [
+      "A",
+      "P",
+      "U",
+      "L",
+      "E",
+      "I",
+      "O"
+    ],
+    [
+      "N",
+      "#",
+      "L",
+      "#",
+      "R",
+      "S",
+      "M"
+    ],
+    [
+      "A",
+      "G",
+      "E",
+      "N",
+      "T",
+      "E",
+      "#"
+    ],
+    [
+      "T",
+      "W",
+      "I",
+      "N",
+      "S",
+      "E",
+      "T"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "L'insalata di cui il radicchio e la catalogna sono due varietà",
+        "row": 0,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "L'impressionista de \"Bal au Moulin de la Galette\"",
+        "row": 1,
+        "col": 1,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "Anche il Giallo è azzurro",
+        "row": 2,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 12,
+        "clue": "Filosofo platonico e scrittore latino di Madaura",
+        "row": 3,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 17,
+        "clue": "É governata dai Capitani Reggenti (sigla)",
+        "row": 4,
+        "col": 4,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 18,
+        "clue": "Rivenditore autorizzato",
+        "row": 5,
+        "col": 0,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 21,
+        "clue": "Lo formano due golf",
+        "row": 6,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 2,
+        "clue": "Un'imposta sulle attività produttive (sigla)",
+        "row": 0,
+        "col": 1,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Lo sono gli occhi azzurri",
+        "row": 0,
+        "col": 2,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Onorevole puntato",
+        "row": 0,
+        "col": 3,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "La Julia di \"Notting Hill\"",
+        "row": 0,
+        "col": 4,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Cani da caccia",
+        "row": 0,
+        "col": 5,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 7,
+        "clue": "Ideò il radiogoniometro",
+        "row": 0,
+        "col": 6,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 9,
+        "clue": "La moneta ufficiale del Turkmenistan",
+        "row": 2,
+        "col": 0,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 14,
+        "clue": "L'indicatore della condizione economica delle famiglie (sigla)",
+        "row": 3,
+        "col": 5,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 19,
+        "clue": "Estreme di Gasgow",
+        "row": 5,
+        "col": 1,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 20,
+        "clue": "Sono... uguali in inverno",
+        "row": 5,
+        "col": 3,
+        "length": 2,
+        "direction": "down"
+      }
+    ]
+  }
+}

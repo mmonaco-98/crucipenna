@@ -1,0 +1,288 @@
+{
+  "id": "323",
+  "title": "Puzzle 323",
+  "size": {
+    "rows": 7,
+    "cols": 7
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "A",
+      "C",
+      "H",
+      "I",
+      "L",
+      "L",
+      "E"
+    ],
+    [
+      "#",
+      "H",
+      "A",
+      "M",
+      "M",
+      "A",
+      "M"
+    ],
+    [
+      "H",
+      "I",
+      "#",
+      "P",
+      "#",
+      "T",
+      "A"
+    ],
+    [
+      "O",
+      "F",
+      "F",
+      "E",
+      "R",
+      "T",
+      "I"
+    ],
+    [
+      "R",
+      "F",
+      "#",
+      "R",
+      "#",
+      "A",
+      "L"
+    ],
+    [
+      "N",
+      "O",
+      "D",
+      "I",
+      "N",
+      "I",
+      "#"
+    ],
+    [
+      "E",
+      "N",
+      "T",
+      "O",
+      "Z",
+      "O",
+      "I"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "L'eroe greco protagonista dell'Iliade",
+        "row": 0,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "L'edificio con bagno turco e massaggi",
+        "row": 1,
+        "col": 1,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "La fine di parecchi",
+        "row": 2,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 11,
+        "clue": "Sono uguali nel la statura",
+        "row": 2,
+        "col": 5,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 12,
+        "clue": "Dati in dono",
+        "row": 3,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 15,
+        "clue": "Iniziali di Fiorello",
+        "row": 4,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 17,
+        "clue": "Il simbolo dell'alluminio",
+        "row": 4,
+        "col": 5,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 18,
+        "clue": "Tagli di carne",
+        "row": 5,
+        "col": 0,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 21,
+        "clue": "Vermi intestinali",
+        "row": 6,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 2,
+        "clue": "Vaporoso tessuto",
+        "row": 0,
+        "col": 1,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Lo ripete chi ride di gusto",
+        "row": 0,
+        "col": 2,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Arbitraria autorità",
+        "row": 0,
+        "col": 3,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Lea Massari",
+        "row": 0,
+        "col": 4,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Vende anche yogurt e formaggi",
+        "row": 0,
+        "col": 5,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 7,
+        "clue": "Posta che giunge attraverso il computer",
+        "row": 0,
+        "col": 6,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 9,
+        "clue": "Marilyn mezzosoprano statunitense",
+        "row": 2,
+        "col": 0,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 19,
+        "clue": "Date senza vocali",
+        "row": 5,
+        "col": 2,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 20,
+        "clue": "Sigla della Nuova Zelanda",
+        "row": 5,
+        "col": 4,
+        "length": 2,
+        "direction": "down"
+      }
+    ]
+  }
+}

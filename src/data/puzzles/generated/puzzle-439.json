@@ -1,0 +1,272 @@
+{
+  "id": "439",
+  "title": "Puzzle 439",
+  "size": {
+    "rows": 7,
+    "cols": 7
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "N",
+      "A",
+      "S",
+      "S",
+      "E",
+      "#",
+      "E"
+    ],
+    [
+      "N",
+      "O",
+      "C",
+      "E",
+      "L",
+      "L",
+      "A"
+    ],
+    [
+      "#",
+      "M",
+      "E",
+      "D",
+      "E",
+      "A",
+      "#"
+    ],
+    [
+      "C",
+      "O",
+      "N",
+      "I",
+      "A",
+      "T",
+      "A"
+    ],
+    [
+      "#",
+      "R",
+      "I",
+      "O",
+      "N",
+      "I",
+      "#"
+    ],
+    [
+      "C",
+      "I",
+      "C",
+      "L",
+      "O",
+      "N",
+      "I"
+    ],
+    [
+      "Y",
+      "#",
+      "I",
+      "O",
+      "R",
+      "I",
+      "O"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Ceste per pescatori",
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "clue": "La sporgenza del polso",
+        "row": 1,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "La maga che si innamorò di Giasone",
+        "row": 2,
+        "col": 1,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "Uscita da una zecca",
+        "row": 3,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 12,
+        "clue": "Quartieri urbani",
+        "row": 4,
+        "col": 1,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 13,
+        "clue": "Gli uragani con l'occhio",
+        "row": 5,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 16,
+        "clue": "Sua \" figlia\" ricorda D' Annunzio",
+        "row": 6,
+        "col": 2,
+        "length": 5,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "La... firma dell'ignoto",
+        "row": 0,
+        "col": 0,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Un porto giapponese",
+        "row": 0,
+        "col": 1,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Gli apparati teatrali",
+        "row": 0,
+        "col": 2,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Il carrozzino per il trotto",
+        "row": 0,
+        "col": 3,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "La Parker del cinema",
+        "row": 0,
+        "col": 4,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "La fine dell'idea",
+        "row": 0,
+        "col": 6,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 8,
+        "clue": "Lo sono i balli come samba e rumba",
+        "row": 1,
+        "col": 5,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 13,
+        "clue": "La fine di Nancy",
+        "row": 5,
+        "col": 0,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 14,
+        "clue": "Per Cicerone era \" ego\"",
+        "row": 5,
+        "col": 6,
+        "length": 2,
+        "direction": "down"
+      }
+    ]
+  }
+}

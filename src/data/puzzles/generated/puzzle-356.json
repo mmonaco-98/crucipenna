@@ -1,0 +1,256 @@
+{
+  "id": "356",
+  "title": "Puzzle 356",
+  "size": {
+    "rows": 7,
+    "cols": 7
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "M",
+      "A",
+      "L",
+      "W",
+      "A",
+      "R",
+      "E"
+    ],
+    [
+      "#",
+      "B",
+      "U",
+      "Y",
+      "#",
+      "I",
+      "#"
+    ],
+    [
+      "S",
+      "I",
+      "N",
+      "O",
+      "S",
+      "S",
+      "I"
+    ],
+    [
+      "G",
+      "L",
+      "A",
+      "M",
+      "O",
+      "U",
+      "R"
+    ],
+    [
+      "B",
+      "I",
+      "R",
+      "I",
+      "L",
+      "L",
+      "O"
+    ],
+    [
+      "#",
+      "T",
+      "#",
+      "N",
+      "E",
+      "T",
+      "#"
+    ],
+    [
+      "T",
+      "A",
+      "N",
+      "G",
+      "R",
+      "A",
+      "M"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Una spia nel computer.",
+        "row": 0,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "Una famosa Margherita",
+        "row": 1,
+        "col": 1,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "Un prospetto riassuntivo",
+        "row": 2,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 13,
+        "clue": "Un' irresistibile sensualità",
+        "row": 3,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 14,
+        "clue": "Si abbatte nel bowling",
+        "row": 4,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 16,
+        "clue": "Antichi giorni romani",
+        "row": 5,
+        "col": 3,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 17,
+        "clue": "Un gioco di composizione con tessere",
+        "row": 6,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 2,
+        "clue": "La dimostra chi riesce a farcela",
+        "row": 0,
+        "col": 1,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "La L di Lem.",
+        "row": 0,
+        "col": 2,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Lo stato con il parco di Yellowstone",
+        "row": 0,
+        "col": 3,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Il termine che indica il materiale di ricupero",
+        "row": 0,
+        "col": 5,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 10,
+        "clue": "\"Société Générale de Belgique\" (sigla).",
+        "row": 2,
+        "col": 0,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 11,
+        "clue": "Antonio Francisco compositore spagnolo",
+        "row": 2,
+        "col": 4,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 12,
+        "clue": "Mendicante ucciso da Ulisse",
+        "row": 2,
+        "col": 6,
+        "length": 3,
+        "direction": "down"
+      }
+    ]
+  }
+}

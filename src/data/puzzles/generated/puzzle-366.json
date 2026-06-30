@@ -1,0 +1,288 @@
+{
+  "id": "366",
+  "title": "Puzzle 366",
+  "size": {
+    "rows": 7,
+    "cols": 7
+  },
+  "grid": [
+    [
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "I",
+      "#",
+      "I",
+      "N",
+      "E",
+      "S",
+      "#"
+    ],
+    [
+      "N",
+      "E",
+      "P",
+      "E",
+      "N",
+      "T",
+      "E"
+    ],
+    [
+      "V",
+      "G",
+      "#",
+      "W",
+      "E",
+      "A",
+      "R"
+    ],
+    [
+      "A",
+      "U",
+      "S",
+      "P",
+      "I",
+      "C",
+      "I"
+    ],
+    [
+      "S",
+      "A",
+      "T",
+      "O",
+      "#",
+      "C",
+      "N"
+    ],
+    [
+      "A",
+      "L",
+      "A",
+      "R",
+      "C",
+      "O",
+      "N"
+    ],
+    [
+      "#",
+      "E",
+      "N",
+      "T",
+      "I",
+      "#",
+      "I"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 2,
+        "clue": "La Sastre del cinema",
+        "row": 0,
+        "col": 2,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 6,
+        "clue": "Pianta carnivora malese",
+        "row": 1,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "Iniziali di Gemito",
+        "row": 2,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "L' abbigliamento degli anglofili",
+        "row": 2,
+        "col": 3,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 11,
+        "clue": "Li traevano gli auguri",
+        "row": 3,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 13,
+        "clue": "Il Takuma pilota automobilistico giapponese",
+        "row": 4,
+        "col": 0,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 14,
+        "clue": "Per il picnic e per la cena",
+        "row": 4,
+        "col": 5,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 15,
+        "clue": "Scrisse \"Il cappello a tre punte\"",
+        "row": 5,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 17,
+        "clue": "Società o istituzioni",
+        "row": 6,
+        "col": 1,
+        "length": 4,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Presa d'assalto dai turisti",
+        "row": 0,
+        "col": 0,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Prime d'ippodromo",
+        "row": 0,
+        "col": 2,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "La città del Rhode Island ben nota agli appassionati di vela",
+        "row": 0,
+        "col": 3,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Relativi al bronzo",
+        "row": 0,
+        "col": 4,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Una interruzione... musicale",
+        "row": 0,
+        "col": 5,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 7,
+        "clue": "Identico",
+        "row": 1,
+        "col": 1,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 8,
+        "clue": "Divinità infernali",
+        "row": 1,
+        "col": 6,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 12,
+        "clue": "Il grande Laurel",
+        "row": 3,
+        "col": 2,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 16,
+        "clue": "Anticipa il di",
+        "row": 5,
+        "col": 4,
+        "length": 2,
+        "direction": "down"
+      }
+    ]
+  }
+}

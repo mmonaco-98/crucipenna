@@ -1,0 +1,272 @@
+{
+  "id": "311",
+  "title": "Puzzle 311",
+  "size": {
+    "rows": 7,
+    "cols": 7
+  },
+  "grid": [
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ]
+  ],
+  "solution": [
+    [
+      "#",
+      "W",
+      "A",
+      "L",
+      "T",
+      "E",
+      "R"
+    ],
+    [
+      "A",
+      "L",
+      "L",
+      "A",
+      "I",
+      "N",
+      "#"
+    ],
+    [
+      "R",
+      "#",
+      "I",
+      "V",
+      "A",
+      "N",
+      "A"
+    ],
+    [
+      "P",
+      "A",
+      "N",
+      "A",
+      "R",
+      "E",
+      "A"
+    ],
+    [
+      "A",
+      "L",
+      "A",
+      "T",
+      "I",
+      "#",
+      "R"
+    ],
+    [
+      "#",
+      "A",
+      "R",
+      "E",
+      "N",
+      "T",
+      "E"
+    ],
+    [
+      "O",
+      "S",
+      "I",
+      "R",
+      "I",
+      "S",
+      "#"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Lo Scott di Ivanhoe",
+        "row": 0,
+        "col": 1,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "clue": "Fu il creatore di Fantomas",
+        "row": 1,
+        "col": 0,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "La Spagna che canta...",
+        "row": 2,
+        "col": 2,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 11,
+        "clue": "Isola delle Eolie",
+        "row": 3,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 13,
+        "clue": "Lo sono certi discorsi poetici",
+        "row": 4,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 15,
+        "clue": "Secco, asciutto",
+        "row": 5,
+        "col": 1,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 17,
+        "clue": "L'indimenticata Wanda",
+        "row": 6,
+        "col": 0,
+        "length": 6,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "I limiti di Warhol",
+        "row": 0,
+        "col": 1,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Editori e fotografi fiorentini",
+        "row": 0,
+        "col": 2,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Teologo svizzero del '700 noto per i suoi studi di fisiognomica",
+        "row": 0,
+        "col": 3,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Alessandro, pittore bolognese",
+        "row": 0,
+        "col": 4,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "In inverno ce ne sono due",
+        "row": 0,
+        "col": 5,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 7,
+        "clue": "Strumento in genere suonato da una donna",
+        "row": 1,
+        "col": 0,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 10,
+        "clue": "Fiume svizzero",
+        "row": 2,
+        "col": 6,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 12,
+        "clue": "L'\"ahimè\" di Amleto",
+        "row": 3,
+        "col": 1,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 16,
+        "clue": "La città alabardata (sigla)",
+        "row": 5,
+        "col": 5,
+        "length": 2,
+        "direction": "down"
+      }
+    ]
+  }
+}

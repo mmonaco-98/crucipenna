@@ -1,0 +1,408 @@
+{
+  "id": "461",
+  "title": "Puzzle 461",
+  "size": {
+    "rows": 9,
+    "cols": 9
+  },
+  "grid": [
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ]
+  ],
+  "solution": [
+    [
+      "#",
+      "C",
+      "O",
+      "L",
+      "L",
+      "O",
+      "Q",
+      "U",
+      "I"
+    ],
+    [
+      "A",
+      "C",
+      "R",
+      "I",
+      "#",
+      "S",
+      "#",
+      "Q",
+      "D"
+    ],
+    [
+      "#",
+      "N",
+      "O",
+      "M",
+      "A",
+      "T",
+      "I",
+      "#",
+      "E"
+    ],
+    [
+      "K",
+      "#",
+      "B",
+      "I",
+      "D",
+      "E",
+      "L",
+      "L",
+      "A"
+    ],
+    [
+      "A",
+      "#",
+      "I",
+      "T",
+      "#",
+      "N",
+      "L",
+      "#",
+      "R"
+    ],
+    [
+      "R",
+      "I",
+      "C",
+      "A",
+      "T",
+      "T",
+      "I",
+      "#",
+      "E"
+    ],
+    [
+      "P",
+      "#",
+      "O",
+      "R",
+      "Z",
+      "A",
+      "R",
+      "E",
+      "#"
+    ],
+    [
+      "O",
+      "D",
+      "#",
+      "S",
+      "#",
+      "T",
+      "I",
+      "M",
+      "E"
+    ],
+    [
+      "V",
+      "A",
+      "L",
+      "I",
+      "G",
+      "I",
+      "A",
+      "I",
+      "#"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "I discorsi a quattr'occhi",
+        "row": 0,
+        "col": 1,
+        "length": 8,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "Misure di superficie in uso in Gran Bretagna",
+        "row": 1,
+        "col": 0,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 11,
+        "clue": "Quadri Direttivi in breve",
+        "row": 1,
+        "col": 7,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 12,
+        "clue": "Citati... in bello stile",
+        "row": 2,
+        "col": 1,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 17,
+        "clue": "Un'inserviente a scuola",
+        "row": 3,
+        "col": 2,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 20,
+        "clue": "Esso... in inglese",
+        "row": 4,
+        "col": 2,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 21,
+        "clue": "L'Olanda sulle targhe",
+        "row": 4,
+        "col": 5,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 23,
+        "clue": "Vili estorsioni",
+        "row": 5,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 28,
+        "clue": "Verbo coniugato da velisti",
+        "row": 6,
+        "col": 2,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 30,
+        "clue": "Una congiunzione desueta",
+        "row": 7,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 33,
+        "clue": "Noto settimanale statunitense",
+        "row": 7,
+        "col": 5,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 35,
+        "clue": "Vendono anche ventiquattrore",
+        "row": 8,
+        "col": 0,
+        "length": 8,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Copia conoscenza nascosta",
+        "row": 0,
+        "col": 1,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Lo stesso che bergamasco",
+        "row": 0,
+        "col": 2,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Darsi dei paletti",
+        "row": 0,
+        "col": 3,
+        "length": 9,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Mostrati con affettazione",
+        "row": 0,
+        "col": 5,
+        "length": 9,
+        "direction": "down"
+      },
+      {
+        "number": 7,
+        "clue": "La terza e la quarta di Fouqué",
+        "row": 0,
+        "col": 7,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 8,
+        "clue": "Immaginare",
+        "row": 0,
+        "col": 8,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 13,
+        "clue": "Alleanza Democratica",
+        "row": 2,
+        "col": 4,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 14,
+        "clue": "Antica regione della penisola balcanica",
+        "row": 2,
+        "col": 6,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 16,
+        "clue": "L'Anatolij scacchista russo",
+        "row": 3,
+        "col": 0,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 25,
+        "clue": "Le consonanti di Tizio",
+        "row": 5,
+        "col": 4,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 29,
+        "clue": "Metà con un prefisso",
+        "row": 6,
+        "col": 7,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 31,
+        "clue": "Al centro della pedana",
+        "row": 7,
+        "col": 1,
+        "length": 2,
+        "direction": "down"
+      }
+    ]
+  }
+}

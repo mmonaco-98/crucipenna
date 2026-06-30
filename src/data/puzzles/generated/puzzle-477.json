@@ -1,0 +1,632 @@
+{
+  "id": "477",
+  "title": "Puzzle 477",
+  "size": {
+    "rows": 11,
+    "cols": 11
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      "#",
+      "",
+      "#",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "Z",
+      "D",
+      "#",
+      "E",
+      "O",
+      "A",
+      "#",
+      "V",
+      "E",
+      "L",
+      "#"
+    ],
+    [
+      "O",
+      "R",
+      "#",
+      "O",
+      "R",
+      "M",
+      "A",
+      "I",
+      "#",
+      "O",
+      "#"
+    ],
+    [
+      "O",
+      "#",
+      "I",
+      "R",
+      "L",
+      "A",
+      "N",
+      "D",
+      "E",
+      "S",
+      "E"
+    ],
+    [
+      "#",
+      "F",
+      "F",
+      "#",
+      "O",
+      "T",
+      "T",
+      "E",
+      "T",
+      "T",
+      "I"
+    ],
+    [
+      "A",
+      "#",
+      "#",
+      "I",
+      "V",
+      "R",
+      "E",
+      "A",
+      "#",
+      "#",
+      "G"
+    ],
+    [
+      "D",
+      "#",
+      "U",
+      "M",
+      "#",
+      "I",
+      "#",
+      "T",
+      "E",
+      "#",
+      "E"
+    ],
+    [
+      "A",
+      "#",
+      "#",
+      "M",
+      "E",
+      "C",
+      "C",
+      "A",
+      "#",
+      "#",
+      "R"
+    ],
+    [
+      "M",
+      "E",
+      "N",
+      "E",
+      "N",
+      "I",
+      "O",
+      "#",
+      "R",
+      "V",
+      "#"
+    ],
+    [
+      "S",
+      "C",
+      "O",
+      "S",
+      "T",
+      "A",
+      "R",
+      "S",
+      "I",
+      "#",
+      "O"
+    ],
+    [
+      "#",
+      "H",
+      "#",
+      "S",
+      "E",
+      "N",
+      "S",
+      "I",
+      "#",
+      "L",
+      "U"
+    ],
+    [
+      "#",
+      "I",
+      "N",
+      "A",
+      "#",
+      "A",
+      "E",
+      "R",
+      "#",
+      "X",
+      "T"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "I principi di Zdanov",
+        "row": 0,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 3,
+        "clue": "Somma di anni",
+        "row": 0,
+        "col": 3,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 6,
+        "clue": "L' ossia di Giulio Cesare",
+        "row": 0,
+        "col": 7,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "Al centro della teoria",
+        "row": 1,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "Si dice quando si è rassegnati",
+        "row": 1,
+        "col": 3,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 14,
+        "clue": "Nativo dell'Eire",
+        "row": 2,
+        "col": 2,
+        "length": 9,
+        "direction": "across"
+      },
+      {
+        "number": 17,
+        "clue": "Lavorava in coppia con Ingrassia (iniz.)",
+        "row": 3,
+        "col": 1,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 18,
+        "clue": "Complessi vocali o strumentali",
+        "row": 3,
+        "col": 4,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 20,
+        "clue": "La città sede dell'Olivetti",
+        "row": 4,
+        "col": 3,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 23,
+        "clue": "Sono pari nel duomo",
+        "row": 5,
+        "col": 2,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 25,
+        "clue": "A molti piace freddo",
+        "row": 5,
+        "col": 7,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 29,
+        "clue": "La... città dell'Arabia",
+        "row": 6,
+        "col": 3,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 33,
+        "clue": "L'Agrippa del famoso apologo",
+        "row": 7,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 36,
+        "clue": "Sono pari... nelle prove",
+        "row": 7,
+        "col": 8,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 38,
+        "clue": "Allontanarsi, farsi da parte",
+        "row": 8,
+        "col": 0,
+        "length": 9,
+        "direction": "across"
+      },
+      {
+        "number": 42,
+        "clue": "Si perdono svenendo",
+        "row": 9,
+        "col": 3,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 43,
+        "clue": "London Underground (sigla)",
+        "row": 9,
+        "col": 9,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 44,
+        "clue": "Una Compagnia assicurativa",
+        "row": 10,
+        "col": 1,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 46,
+        "clue": "Aria per il poeta",
+        "row": 10,
+        "col": 5,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 47,
+        "clue": "Nel cuore di Dexter",
+        "row": 10,
+        "col": 9,
+        "length": 2,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Un giardino con i custodi",
+        "row": 0,
+        "col": 0,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "L'inizio del dramma",
+        "row": 0,
+        "col": 1,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Quartiere romano",
+        "row": 0,
+        "col": 3,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Fu il favorito di Caterina di Russia",
+        "row": 0,
+        "col": 4,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Il sugo che trae nome da una località laziale",
+        "row": 0,
+        "col": 5,
+        "length": 11,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "L'immagine sullo schermo PC",
+        "row": 0,
+        "col": 7,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 8,
+        "clue": "La serie di un naufragio",
+        "row": 0,
+        "col": 9,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 11,
+        "clue": "Le \"luci\" del guardaroba",
+        "row": 1,
+        "col": 6,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 14,
+        "clue": "La prigione del \"conte di Montecristo\"",
+        "row": 2,
+        "col": 2,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 15,
+        "clue": "La più comune congiunzione latina",
+        "row": 2,
+        "col": 8,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 16,
+        "clue": "Vetta delle Alpi bernesi",
+        "row": 2,
+        "col": 10,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 19,
+        "clue": "Bryan che canta \"When You're Gone\"",
+        "row": 4,
+        "col": 0,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 20,
+        "clue": "Inserita in memoria",
+        "row": 4,
+        "col": 3,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 30,
+        "clue": "Istituzione dotata di personalità giuridica",
+        "row": 6,
+        "col": 4,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 31,
+        "clue": "Ne ha vinte tante Merckx",
+        "row": 6,
+        "col": 6,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 34,
+        "clue": "Suoni nelle vallate",
+        "row": 7,
+        "col": 1,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 35,
+        "clue": "Negativo",
+        "row": 7,
+        "col": 2,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 36,
+        "clue": "È perito in centro",
+        "row": 7,
+        "col": 8,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 39,
+        "clue": "Lo fu anche Churchill",
+        "row": 8,
+        "col": 7,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 40,
+        "clue": "Il fuori sportivo",
+        "row": 8,
+        "col": 10,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 43,
+        "clue": "Alex le ha pari",
+        "row": 9,
+        "col": 9,
+        "length": 2,
+        "direction": "down"
+      }
+    ]
+  }
+}

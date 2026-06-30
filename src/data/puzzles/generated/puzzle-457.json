@@ -1,0 +1,424 @@
+{
+  "id": "457",
+  "title": "Puzzle 457",
+  "size": {
+    "rows": 9,
+    "cols": 9
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "#",
+      "",
+      "#",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      "#",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      "#",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      "#",
+      "",
+      "#",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "J",
+      "M",
+      "#",
+      "C",
+      "#",
+      "#",
+      "E",
+      "P",
+      "E"
+    ],
+    [
+      "E",
+      "U",
+      "R",
+      "O",
+      "#",
+      "S",
+      "I",
+      "A",
+      "L"
+    ],
+    [
+      "A",
+      "S",
+      "F",
+      "A",
+      "L",
+      "T",
+      "A",
+      "R",
+      "E"
+    ],
+    [
+      "N",
+      "T",
+      "#",
+      "R",
+      "#",
+      "I",
+      "#",
+      "L",
+      "T"
+    ],
+    [
+      "S",
+      "E",
+      "T",
+      "T",
+      "#",
+      "R",
+      "I",
+      "O",
+      "T"
+    ],
+    [
+      "E",
+      "L",
+      "#",
+      "A",
+      "#",
+      "A",
+      "#",
+      "T",
+      "R"
+    ],
+    [
+      "R",
+      "I",
+      "S",
+      "T",
+      "O",
+      "R",
+      "A",
+      "T",
+      "O"
+    ],
+    [
+      "I",
+      "D",
+      "E",
+      "A",
+      "#",
+      "S",
+      "K",
+      "I",
+      "N"
+    ],
+    [
+      "E",
+      "I",
+      "C",
+      "#",
+      "#",
+      "I",
+      "#",
+      "I",
+      "I"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "La Mitchell della canzone",
+        "row": 0,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 4,
+        "clue": "Pance prominenti",
+        "row": 0,
+        "col": 6,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "clue": "Ha tagli da cinque in su",
+        "row": 1,
+        "col": 0,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "Involucro esterno della Terra",
+        "row": 1,
+        "col": 5,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "Ricoprire di bitume",
+        "row": 2,
+        "col": 0,
+        "length": 9,
+        "direction": "across"
+      },
+      {
+        "number": 12,
+        "clue": "Centro del Trentino",
+        "row": 3,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 15,
+        "clue": "Sono uguali nella bolletta",
+        "row": 3,
+        "col": 7,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 16,
+        "clue": "Precede ott. e nov.",
+        "row": 4,
+        "col": 0,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 18,
+        "clue": "La sommossa anglofona",
+        "row": 4,
+        "col": 5,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 20,
+        "clue": "Poco elevato",
+        "row": 5,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 23,
+        "clue": "La Turchia",
+        "row": 5,
+        "col": 7,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 24,
+        "clue": "Riposato dalle fatiche",
+        "row": 6,
+        "col": 0,
+        "length": 9,
+        "direction": "across"
+      },
+      {
+        "number": 28,
+        "clue": "L'ignaro non ne ha una",
+        "row": 7,
+        "col": 0,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 29,
+        "clue": "La cantante degli Skunk Anansie",
+        "row": 7,
+        "col": 5,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 30,
+        "clue": "Euro Info Center",
+        "row": 8,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 32,
+        "clue": "Si ripetono negli episodi",
+        "row": 8,
+        "col": 7,
+        "length": 2,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Negozi di abbigliamento sportivo",
+        "row": 0,
+        "col": 0,
+        "length": 9,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "I carnivori come la lontra",
+        "row": 0,
+        "col": 1,
+        "length": 9,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Costretta, forzata",
+        "row": 0,
+        "col": 3,
+        "length": 8,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Esprime meraviglia",
+        "row": 0,
+        "col": 6,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Sommessi chiacchierii",
+        "row": 0,
+        "col": 7,
+        "length": 9,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Ruotano intorno al nucleo dell'atomo",
+        "row": 0,
+        "col": 8,
+        "length": 9,
+        "direction": "down"
+      },
+      {
+        "number": 8,
+        "clue": "Iniziali della Fratello",
+        "row": 1,
+        "col": 2,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 9,
+        "clue": "Sgranchirsi le membra",
+        "row": 1,
+        "col": 5,
+        "length": 8,
+        "direction": "down"
+      },
+      {
+        "number": 25,
+        "clue": "Secolo abbr.",
+        "row": 6,
+        "col": 2,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 27,
+        "clue": "Il Karpov campione di scacchi (iniz.)",
+        "row": 6,
+        "col": 6,
+        "length": 2,
+        "direction": "down"
+      }
+    ]
+  }
+}

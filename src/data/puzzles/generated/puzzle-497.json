@@ -1,0 +1,840 @@
+{
+  "id": "497",
+  "title": "Puzzle 497",
+  "size": {
+    "rows": 13,
+    "cols": 13
+  },
+  "grid": [
+    [
+      "#",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "#",
+      "#",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "#",
+      "#",
+      "#",
+      "",
+      "",
+      "",
+      "#",
+      "#",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "#",
+      "#",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "#"
+    ]
+  ],
+  "solution": [
+    [
+      "#",
+      "W",
+      "G",
+      "#",
+      "B",
+      "T",
+      "#",
+      "B",
+      "O",
+      "S",
+      "A",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "A",
+      "L",
+      "C",
+      "O",
+      "L",
+      "I",
+      "S",
+      "T",
+      "I",
+      "#",
+      "R"
+    ],
+    [
+      "I",
+      "P",
+      "N",
+      "O",
+      "#",
+      "N",
+      "E",
+      "O",
+      "T",
+      "E",
+      "N",
+      "I",
+      "A"
+    ],
+    [
+      "#",
+      "H",
+      "D",
+      "T",
+      "V",
+      "#",
+      "O",
+      "P",
+      "E",
+      "C",
+      "#",
+      "L",
+      "P"
+    ],
+    [
+      "A",
+      "#",
+      "#",
+      "I",
+      "C",
+      "O",
+      "N",
+      "S",
+      "#",
+      "C",
+      "U",
+      "O",
+      "I"
+    ],
+    [
+      "G",
+      "#",
+      "#",
+      "#",
+      "R",
+      "#",
+      "A",
+      "I",
+      "D",
+      "O",
+      "#",
+      "T",
+      "D"
+    ],
+    [
+      "E",
+      "D",
+      "#",
+      "#",
+      "#",
+      "G",
+      "R",
+      "A",
+      "#",
+      "#",
+      "#",
+      "I",
+      "I"
+    ],
+    [
+      "S",
+      "I",
+      "#",
+      "Y",
+      "A",
+      "R",
+      "D",
+      "#",
+      "S",
+      "#",
+      "#",
+      "#",
+      "T"
+    ],
+    [
+      "I",
+      "N",
+      "C",
+      "A",
+      "#",
+      "A",
+      "E",
+      "R",
+      "E",
+      "E",
+      "#",
+      "#",
+      "À"
+    ],
+    [
+      "L",
+      "A",
+      "#",
+      "S",
+      "A",
+      "N",
+      "S",
+      "#",
+      "O",
+      "C",
+      "S",
+      "E",
+      "#"
+    ],
+    [
+      "A",
+      "R",
+      "A",
+      "M",
+      "A",
+      "I",
+      "C",
+      "A",
+      "#",
+      "H",
+      "O",
+      "L",
+      "A"
+    ],
+    [
+      "O",
+      "#",
+      "C",
+      "I",
+      "R",
+      "C",
+      "A",
+      "S",
+      "S",
+      "I",
+      "A",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "E",
+      "N",
+      "E",
+      "O",
+      "#",
+      "L",
+      "D",
+      "#",
+      "P",
+      "N",
+      "#"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Lo scrittore polacco Gombrowicz (iniz.)",
+        "row": 0,
+        "col": 1,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 3,
+        "clue": "Confini di Budapest",
+        "row": 0,
+        "col": 4,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 5,
+        "clue": "Cittadina sarda sul mare",
+        "row": 0,
+        "col": 7,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "Eccedono nel bere",
+        "row": 1,
+        "col": 2,
+        "length": 9,
+        "direction": "across"
+      },
+      {
+        "number": 13,
+        "clue": "Un prefisso per il sonno",
+        "row": 2,
+        "col": 0,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 15,
+        "clue": "Un fenomeno che lascia aspetto larvale a certi animali adulti",
+        "row": 2,
+        "col": 5,
+        "length": 8,
+        "direction": "across"
+      },
+      {
+        "number": 17,
+        "clue": "High Definition TeleVision (sigla)",
+        "row": 3,
+        "col": 1,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 19,
+        "clue": "Associa gran parte degli Stati produttori di petrolio (sigla)",
+        "row": 3,
+        "col": 6,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 20,
+        "clue": "Il monogramma di Pirandello",
+        "row": 3,
+        "col": 11,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 22,
+        "clue": "Icone inglesi",
+        "row": 4,
+        "col": 3,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 24,
+        "clue": "Pelli lavorate",
+        "row": 4,
+        "col": 9,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 28,
+        "clue": "Associazione Italiana Donatori di Organi (sigla)",
+        "row": 5,
+        "col": 6,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 30,
+        "clue": "Sono pari negli studi",
+        "row": 5,
+        "col": 11,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 31,
+        "clue": "Edgar Degas",
+        "row": 6,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 33,
+        "clue": "L'anello di Roma",
+        "row": 6,
+        "col": 5,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 34,
+        "clue": "L'ultimo re Umberto",
+        "row": 6,
+        "col": 11,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 35,
+        "clue": "Talvolta si... strappa!",
+        "row": 7,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 36,
+        "clue": "New Scotland ___, sede della polizia londinese",
+        "row": 7,
+        "col": 3,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 40,
+        "clue": "Antico abitante del Perù",
+        "row": 8,
+        "col": 0,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 42,
+        "clue": "Le vie... celesti",
+        "row": 8,
+        "col": 5,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 46,
+        "clue": "Iniziali di Armstrong",
+        "row": 9,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 47,
+        "clue": "Façons, culottes, papiers, dire, Souci",
+        "row": 9,
+        "col": 3,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 49,
+        "clue": "Si chiamò Oece (sigla)",
+        "row": 9,
+        "col": 8,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 52,
+        "clue": "Relativa a un'etnia semitica",
+        "row": 10,
+        "col": 0,
+        "length": 8,
+        "direction": "across"
+      },
+      {
+        "number": 55,
+        "clue": "Saluta in Spagna",
+        "row": 10,
+        "col": 9,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 58,
+        "clue": "Repubblica del Caucaso",
+        "row": 11,
+        "col": 2,
+        "length": 9,
+        "direction": "across"
+      },
+      {
+        "number": 60,
+        "clue": "Suocero di Ercole",
+        "row": 12,
+        "col": 2,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 61,
+        "clue": "Il Dalla della canzone",
+        "row": 12,
+        "col": 7,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 62,
+        "clue": "Pena senza pari",
+        "row": 12,
+        "col": 10,
+        "length": 2,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 2,
+        "clue": "Nota città del Belgio",
+        "row": 0,
+        "col": 2,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Iniziali di Cellini",
+        "row": 0,
+        "col": 4,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Unità di misura dell'energia liberata nelle esplosioni nucleari",
+        "row": 0,
+        "col": 5,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Prelievo di tessuti a fini diagnostici",
+        "row": 0,
+        "col": 7,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Vende vino sfuso",
+        "row": 0,
+        "col": 8,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 7,
+        "clue": "Un legnetto aguzzo",
+        "row": 0,
+        "col": 9,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 8,
+        "clue": "Associazione Italiana Naturalisti",
+        "row": 0,
+        "col": 10,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 10,
+        "clue": "Sono simili alle ninfee",
+        "row": 1,
+        "col": 3,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 11,
+        "clue": "Relativa all'artista de \"La Gioconda\"",
+        "row": 1,
+        "col": 6,
+        "length": 11,
+        "direction": "down"
+      },
+      {
+        "number": 12,
+        "clue": "La lumaca non sa cosa sia!",
+        "row": 1,
+        "col": 12,
+        "length": 8,
+        "direction": "down"
+      },
+      {
+        "number": 14,
+        "clue": "Indica l'alcalinità e l'acidità d'una soluzione",
+        "row": 2,
+        "col": 1,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 16,
+        "clue": "I paria dell'antica Sparta",
+        "row": 2,
+        "col": 11,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 18,
+        "clue": "Video Cassette Recorder",
+        "row": 3,
+        "col": 4,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 21,
+        "clue": "Il re di Sparta sconfitto da Epaminonda a Mantinea",
+        "row": 4,
+        "col": 0,
+        "length": 8,
+        "direction": "down"
+      },
+      {
+        "number": 32,
+        "clue": "Moneta iugoslava",
+        "row": 6,
+        "col": 1,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 33,
+        "clue": "Fiume dell'Anatolia",
+        "row": 6,
+        "col": 5,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 36,
+        "clue": "La modella che ha sposato Le Bon",
+        "row": 7,
+        "col": 3,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 38,
+        "clue": "Salvo Errori e Omissioni (sigla).",
+        "row": 7,
+        "col": 8,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 44,
+        "clue": "Risuonano in certe apposite camere",
+        "row": 8,
+        "col": 9,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 48,
+        "clue": "Massiccio elvetico",
+        "row": 9,
+        "col": 4,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 50,
+        "clue": "Un' opera televisiva",
+        "row": 9,
+        "col": 10,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 51,
+        "clue": "Un po' di eleganza",
+        "row": 9,
+        "col": 11,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 53,
+        "clue": "Sigla da succhi di frutta",
+        "row": 10,
+        "col": 2,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 54,
+        "clue": "Gestiscono la sanità",
+        "row": 10,
+        "col": 7,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 59,
+        "clue": "Iniziali di Dalì",
+        "row": 11,
+        "col": 8,
+        "length": 2,
+        "direction": "down"
+      }
+    ]
+  }
+}

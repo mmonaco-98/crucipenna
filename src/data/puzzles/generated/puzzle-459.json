@@ -1,0 +1,424 @@
+{
+  "id": "459",
+  "title": "Puzzle 459",
+  "size": {
+    "rows": 9,
+    "cols": 9
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      "#",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "R",
+      "A",
+      "D",
+      "O",
+      "#",
+      "A",
+      "P",
+      "I",
+      "S"
+    ],
+    [
+      "I",
+      "R",
+      "I",
+      "T",
+      "I",
+      "#",
+      "O",
+      "#",
+      "E"
+    ],
+    [
+      "E",
+      "P",
+      "S",
+      "I",
+      "L",
+      "O",
+      "N",
+      "#",
+      "R"
+    ],
+    [
+      "M",
+      "I",
+      "C",
+      "#",
+      "S",
+      "A",
+      "D",
+      "#",
+      "B"
+    ],
+    [
+      "P",
+      "A",
+      "O",
+      "#",
+      "#",
+      "#",
+      "E",
+      "S",
+      "A"
+    ],
+    [
+      "I",
+      "#",
+      "B",
+      "U",
+      "T",
+      "#",
+      "R",
+      "E",
+      "T"
+    ],
+    [
+      "R",
+      "#",
+      "O",
+      "N",
+      "E",
+      "R",
+      "O",
+      "S",
+      "O"
+    ],
+    [
+      "S",
+      "#",
+      "L",
+      "#",
+      "G",
+      "U",
+      "S",
+      "T",
+      "I"
+    ],
+    [
+      "I",
+      "G",
+      "O",
+      "R",
+      "#",
+      "S",
+      "A",
+      "I",
+      "O"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Poco fitto",
+        "row": 0,
+        "col": 0,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 5,
+        "clue": "Ape in latino",
+        "row": 0,
+        "col": 5,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "Le curano gli oculisti",
+        "row": 1,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 13,
+        "clue": "Una lettera greca",
+        "row": 2,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 16,
+        "clue": "Abbreviazione di microfono",
+        "row": 3,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 17,
+        "clue": "Triste a Londra",
+        "row": 3,
+        "col": 4,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 19,
+        "clue": "Picchetto Armato Ordinario",
+        "row": 4,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 20,
+        "clue": "Prefisso doppio di tri",
+        "row": 4,
+        "col": 6,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 23,
+        "clue": "Ma in Inghilterra",
+        "row": 5,
+        "col": 2,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 26,
+        "clue": "Retorica (abbr.)",
+        "row": 5,
+        "col": 6,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 28,
+        "clue": "Gravoso da farsi",
+        "row": 6,
+        "col": 2,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 32,
+        "clue": "Li appaga tutti il goloso",
+        "row": 7,
+        "col": 4,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 33,
+        "clue": "Il Moiseev grande coreografo russo",
+        "row": 8,
+        "col": 0,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 36,
+        "clue": "Modesto abito per religiosi",
+        "row": 8,
+        "col": 5,
+        "length": 4,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Colmarsi... a tavola",
+        "row": 0,
+        "col": 0,
+        "length": 9,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Donna bruttissima",
+        "row": 0,
+        "col": 1,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Si allena con i lanci",
+        "row": 0,
+        "col": 2,
+        "length": 9,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Fiume africano che sfocia nel Lago Volta",
+        "row": 0,
+        "col": 3,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Voluminosa e pesante",
+        "row": 0,
+        "col": 6,
+        "length": 9,
+        "direction": "down"
+      },
+      {
+        "number": 8,
+        "clue": "È appena sopra il motore",
+        "row": 0,
+        "col": 8,
+        "length": 9,
+        "direction": "down"
+      },
+      {
+        "number": 10,
+        "clue": "Sigla internazionale dello shekel israeliano",
+        "row": 1,
+        "col": 4,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 14,
+        "clue": "Ai fianchi di Ornella",
+        "row": 2,
+        "col": 5,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 21,
+        "clue": "Curvature d'archi",
+        "row": 4,
+        "col": 7,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 24,
+        "clue": "Radunare... in centro",
+        "row": 5,
+        "col": 3,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 25,
+        "clue": "Tasso Effettivo Globale (sigla)",
+        "row": 5,
+        "col": 4,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 29,
+        "clue": "Russo per i russi",
+        "row": 6,
+        "col": 5,
+        "length": 3,
+        "direction": "down"
+      }
+    ]
+  }
+}

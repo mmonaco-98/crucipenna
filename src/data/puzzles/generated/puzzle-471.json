@@ -1,0 +1,416 @@
+{
+  "id": "471",
+  "title": "Puzzle 471",
+  "size": {
+    "rows": 9,
+    "cols": 9
+  },
+  "grid": [
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "#",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "#",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ]
+  ],
+  "solution": [
+    [
+      "#",
+      "S",
+      "U",
+      "F",
+      "F",
+      "R",
+      "A",
+      "G",
+      "I"
+    ],
+    [
+      "G",
+      "#",
+      "#",
+      "S",
+      "A",
+      "E",
+      "#",
+      "U",
+      "#"
+    ],
+    [
+      "I",
+      "I",
+      "B",
+      "#",
+      "A",
+      "M",
+      "M",
+      "A",
+      "N"
+    ],
+    [
+      "B",
+      "B",
+      "#",
+      "E",
+      "#",
+      "O",
+      "C",
+      "R",
+      "E"
+    ],
+    [
+      "B",
+      "E",
+      "R",
+      "N",
+      "S",
+      "T",
+      "E",
+      "I",
+      "N"
+    ],
+    [
+      "O",
+      "R",
+      "E",
+      "N",
+      "#",
+      "O",
+      "#",
+      "R",
+      "F"
+    ],
+    [
+      "N",
+      "I",
+      "V",
+      "E",
+      "N",
+      "#",
+      "D",
+      "E",
+      "R"
+    ],
+    [
+      "#",
+      "C",
+      "#",
+      "S",
+      "O",
+      "N",
+      "#",
+      "#",
+      "O"
+    ],
+    [
+      "S",
+      "I",
+      "N",
+      "I",
+      "S",
+      "T",
+      "R",
+      "O",
+      "#"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "I voti degli elettori",
+        "row": 0,
+        "col": 1,
+        "length": 8,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "Società Anonima Elettrotecnica",
+        "row": 1,
+        "col": 3,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 12,
+        "clue": "Istituto Internazionale dei Brevetti",
+        "row": 2,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 15,
+        "clue": "La capitale giordana",
+        "row": 2,
+        "col": 4,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 18,
+        "clue": "Bardot e Bouchet (iniziali)",
+        "row": 3,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 20,
+        "clue": "Limoniti, ematiti",
+        "row": 3,
+        "col": 5,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 21,
+        "clue": "Il Leonard compositore di \"West Side Story\"",
+        "row": 4,
+        "col": 0,
+        "length": 9,
+        "direction": "across"
+      },
+      {
+        "number": 24,
+        "clue": "Daniel direttore d'orchestra",
+        "row": 5,
+        "col": 0,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 26,
+        "clue": "Iniziali della Forte",
+        "row": 5,
+        "col": 7,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 27,
+        "clue": "David, l'attore premio Oscar per il film Tavole separate",
+        "row": 6,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 29,
+        "clue": "Il... in tedesco",
+        "row": 6,
+        "col": 6,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 31,
+        "clue": "Fiume dell' India",
+        "row": 7,
+        "col": 3,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 34,
+        "clue": "Un incidente... da pugili",
+        "row": 8,
+        "col": 0,
+        "length": 8,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 3,
+        "clue": "Cambiano la sorte in forse",
+        "row": 0,
+        "col": 3,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "L'eroico... Di Bruno",
+        "row": 0,
+        "col": 4,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Appartato o lontano",
+        "row": 0,
+        "col": 5,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 7,
+        "clue": "Ritornare in salute",
+        "row": 0,
+        "col": 7,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 9,
+        "clue": "Ha scritto Storia e decadenza dell' Impero Romano",
+        "row": 1,
+        "col": 0,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 13,
+        "clue": "Sinonimo di spagnoli",
+        "row": 2,
+        "col": 1,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 16,
+        "clue": "Il paradossale incisore Escher (iniz.)",
+        "row": 2,
+        "col": 6,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 17,
+        "clue": "La roccia vulcanica con cui costruivano già gli Etruschi",
+        "row": 2,
+        "col": 8,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 19,
+        "clue": "Siciliani d'un capoluogo",
+        "row": 3,
+        "col": 3,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 22,
+        "clue": "Titolo per religiosi (abbr.)",
+        "row": 4,
+        "col": 2,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 28,
+        "clue": "Un segno dell'Enalotto",
+        "row": 6,
+        "col": 4,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 32,
+        "clue": "In pieno centro",
+        "row": 7,
+        "col": 5,
+        "length": 2,
+        "direction": "down"
+      }
+    ]
+  }
+}

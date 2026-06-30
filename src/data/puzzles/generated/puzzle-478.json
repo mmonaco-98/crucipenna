@@ -1,0 +1,560 @@
+{
+  "id": "478",
+  "title": "Puzzle 478",
+  "size": {
+    "rows": 11,
+    "cols": 11
+  },
+  "grid": [
+    [
+      "#",
+      "#",
+      "",
+      "",
+      "",
+      "#",
+      "#",
+      "#",
+      "",
+      "#",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      "#",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "#",
+      "",
+      "#",
+      "",
+      "#",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "#",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "#",
+      "",
+      "#",
+      "#",
+      "#",
+      "",
+      "",
+      "",
+      "#",
+      "#"
+    ]
+  ],
+  "solution": [
+    [
+      "#",
+      "#",
+      "C",
+      "I",
+      "R",
+      "#",
+      "#",
+      "#",
+      "O",
+      "#",
+      "#"
+    ],
+    [
+      "R",
+      "G",
+      "A",
+      "#",
+      "#",
+      "A",
+      "#",
+      "E",
+      "R",
+      "B",
+      "E"
+    ],
+    [
+      "X",
+      "I",
+      "L",
+      "O",
+      "G",
+      "R",
+      "A",
+      "F",
+      "I",
+      "A",
+      "#"
+    ],
+    [
+      "#",
+      "O",
+      "Z",
+      "O",
+      "N",
+      "O",
+      "S",
+      "F",
+      "E",
+      "R",
+      "A"
+    ],
+    [
+      "T",
+      "I",
+      "A",
+      "S",
+      "O",
+      "#",
+      "S",
+      "E",
+      "N",
+      "T",
+      "A"
+    ],
+    [
+      "H",
+      "#",
+      "M",
+      "#",
+      "M",
+      "#",
+      "U",
+      "#",
+      "T",
+      "#",
+      "R"
+    ],
+    [
+      "O",
+      "M",
+      "A",
+      "S",
+      "O",
+      "#",
+      "E",
+      "C",
+      "A",
+      "T",
+      "E"
+    ],
+    [
+      "R",
+      "I",
+      "G",
+      "E",
+      "N",
+      "E",
+      "R",
+      "A",
+      "T",
+      "A",
+      "#"
+    ],
+    [
+      "#",
+      "A",
+      "L",
+      "L",
+      "E",
+      "G",
+      "O",
+      "R",
+      "I",
+      "C",
+      "O"
+    ],
+    [
+      "N",
+      "O",
+      "I",
+      "E",
+      "#",
+      "O",
+      "#",
+      "#",
+      "V",
+      "S",
+      "O"
+    ],
+    [
+      "#",
+      "#",
+      "A",
+      "#",
+      "#",
+      "#",
+      "T",
+      "V",
+      "E",
+      "#",
+      "#"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "La Holding della famiglia De Benedetti (sigla)",
+        "row": 0,
+        "col": 2,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 5,
+        "clue": "Radio Giornalisti Associati",
+        "row": 1,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "Possono essere anche curative",
+        "row": 1,
+        "col": 7,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 11,
+        "clue": "Incisione su legno",
+        "row": 2,
+        "col": 0,
+        "length": 10,
+        "direction": "across"
+      },
+      {
+        "number": 15,
+        "clue": "La zona dell'aria che filtra i raggi ultravioletti",
+        "row": 3,
+        "col": 1,
+        "length": 10,
+        "direction": "across"
+      },
+      {
+        "number": 17,
+        "clue": "Associazione religiosa in onore di Dioniso",
+        "row": 4,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 18,
+        "clue": "La protagonista de \"Il vascello fantasma\"",
+        "row": 4,
+        "col": 6,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 25,
+        "clue": "Terza cavità dello stomaco dei rumunanti",
+        "row": 6,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 28,
+        "clue": "Diana infernale",
+        "row": 6,
+        "col": 6,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 31,
+        "clue": "Rinvigorita, rinnovata",
+        "row": 7,
+        "col": 0,
+        "length": 10,
+        "direction": "across"
+      },
+      {
+        "number": 33,
+        "clue": "Simbolico e allusivo",
+        "row": 8,
+        "col": 1,
+        "length": 10,
+        "direction": "across"
+      },
+      {
+        "number": 35,
+        "clue": "Fastidi, grattacapi",
+        "row": 9,
+        "col": 0,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 37,
+        "clue": "Sigla per cognac stravecchi",
+        "row": 9,
+        "col": 8,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 39,
+        "clue": "Televisione spagnola (sigla)",
+        "row": 10,
+        "col": 6,
+        "length": 3,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "La tuta delle ballerine",
+        "row": 0,
+        "col": 2,
+        "length": 11,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Atte a dare un'idea",
+        "row": 0,
+        "col": 8,
+        "length": 11,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Le ultime lettere di Marx",
+        "row": 1,
+        "col": 0,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Vivi del cinema d'altri tempi",
+        "row": 1,
+        "col": 1,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 7,
+        "clue": "Pianta detta anche gichero o pan di serpe",
+        "row": 1,
+        "col": 5,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 8,
+        "clue": "La prima di Fedora",
+        "row": 1,
+        "col": 7,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 9,
+        "clue": "Un Simpson dei \"cartoon\"",
+        "row": 1,
+        "col": 9,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 12,
+        "clue": "Out of Service (sigla)",
+        "row": 2,
+        "col": 3,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 13,
+        "clue": "Asta di meridiana",
+        "row": 2,
+        "col": 4,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 14,
+        "clue": "Il re persiano che sposò Ester",
+        "row": 2,
+        "col": 6,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 16,
+        "clue": "Confluisce nel Reno presso Coblenza",
+        "row": 3,
+        "col": 10,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 17,
+        "clue": "Il dio armato di martello figlio di Odino",
+        "row": 4,
+        "col": 0,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 26,
+        "clue": "Verso di micetti",
+        "row": 6,
+        "col": 1,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 27,
+        "clue": "Fiume della Campania",
+        "row": 6,
+        "col": 3,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 29,
+        "clue": "Scuola per reclute (sigla)",
+        "row": 6,
+        "col": 7,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 30,
+        "clue": "Total Access Communication System",
+        "row": 6,
+        "col": 9,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 32,
+        "clue": "Piace al narcisista",
+        "row": 7,
+        "col": 5,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 34,
+        "clue": "Le gemelle della coorte",
+        "row": 8,
+        "col": 10,
+        "length": 2,
+        "direction": "down"
+      }
+    ]
+  }
+}

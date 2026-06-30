@@ -1,0 +1,472 @@
+{
+  "id": "472",
+  "title": "Puzzle 472",
+  "size": {
+    "rows": 9,
+    "cols": 9
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "E",
+      "W",
+      "A",
+      "N",
+      "#",
+      "N",
+      "#",
+      "H",
+      "F"
+    ],
+    [
+      "D",
+      "E",
+      "R",
+      "#",
+      "A",
+      "O",
+      "N",
+      "I",
+      "E"
+    ],
+    [
+      "U",
+      "#",
+      "M",
+      "E",
+      "R",
+      "V",
+      "#",
+      "T",
+      "N"
+    ],
+    [
+      "C",
+      "C",
+      "E",
+      "#",
+      "G",
+      "A",
+      "S",
+      "#",
+      "D"
+    ],
+    [
+      "A",
+      "I",
+      "N",
+      "U",
+      "#",
+      "K",
+      "E",
+      "P",
+      "I"
+    ],
+    [
+      "T",
+      "#",
+      "E",
+      "N",
+      "C",
+      "#",
+      "R",
+      "O",
+      "T"
+    ],
+    [
+      "O",
+      "S",
+      "#",
+      "I",
+      "E",
+      "R",
+      "I",
+      "#",
+      "U"
+    ],
+    [
+      "R",
+      "A",
+      "I",
+      "O",
+      "N",
+      "#",
+      "C",
+      "T",
+      "R"
+    ],
+    [
+      "E",
+      "S",
+      "#",
+      "N",
+      "#",
+      "D",
+      "A",
+      "R",
+      "E"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Il McGregor di \"Moulin Rouge!\"",
+        "row": 0,
+        "col": 0,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 6,
+        "clue": "Harrison Ford (iniz.)",
+        "row": 0,
+        "col": 7,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "Il... in tedesco",
+        "row": 1,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "Appellativo delle Muse",
+        "row": 1,
+        "col": 4,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 12,
+        "clue": "Antica città-oasi sulla via della seta",
+        "row": 2,
+        "col": 2,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 14,
+        "clue": "La sigla di Trento",
+        "row": 2,
+        "col": 7,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 15,
+        "clue": "Consiglio dei Comuni d'Europa",
+        "row": 3,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 17,
+        "clue": "La... G del GPL",
+        "row": 3,
+        "col": 4,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 20,
+        "clue": "Una popolazione delle isole Curili",
+        "row": 4,
+        "col": 0,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 22,
+        "clue": "Berretto militare con visiera",
+        "row": 4,
+        "col": 5,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 25,
+        "clue": "Abbreviano l' enciclopedia",
+        "row": 5,
+        "col": 2,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 27,
+        "clue": "Breve rotore",
+        "row": 5,
+        "col": 6,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 28,
+        "clue": "L'osmio in chimica",
+        "row": 6,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 30,
+        "clue": "L' ultimo giro della Terra",
+        "row": 6,
+        "col": 3,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 33,
+        "clue": "Un tessuto di fibra artificiale",
+        "row": 7,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 35,
+        "clue": "Centro Teatrale Regionale",
+        "row": 7,
+        "col": 6,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 37,
+        "clue": "Sono uguali nei permessi",
+        "row": 8,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 39,
+        "clue": "Una delle due partite",
+        "row": 8,
+        "col": 5,
+        "length": 4,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Lo è anche il maestro",
+        "row": 0,
+        "col": 0,
+        "length": 9,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "L'inizio del western",
+        "row": 0,
+        "col": 1,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Molte stanno a Erevan",
+        "row": 0,
+        "col": 2,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Nota Kim del cinema",
+        "row": 0,
+        "col": 5,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Canzone di successo",
+        "row": 0,
+        "col": 7,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 7,
+        "clue": "Piccole crepe",
+        "row": 0,
+        "col": 8,
+        "length": 9,
+        "direction": "down"
+      },
+      {
+        "number": 9,
+        "clue": "L'Argentina in tabella",
+        "row": 1,
+        "col": 4,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 16,
+        "clue": "In Turchia e in Cile",
+        "row": 3,
+        "col": 1,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 18,
+        "clue": "Lo è la chioma come la seta",
+        "row": 3,
+        "col": 6,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 21,
+        "clue": "In Italia c' è la Valdotaine",
+        "row": 4,
+        "col": 3,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 23,
+        "clue": "Sono uguali nell' approdo",
+        "row": 4,
+        "col": 7,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 26,
+        "clue": "Generale accorciato",
+        "row": 5,
+        "col": 4,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 29,
+        "clue": "La Compagnia che fa volare gli Scandinavi",
+        "row": 6,
+        "col": 1,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 36,
+        "clue": "Il Robbins interprete del film \"Le ali della libertà\"",
+        "row": 7,
+        "col": 7,
+        "length": 2,
+        "direction": "down"
+      }
+    ]
+  }
+}

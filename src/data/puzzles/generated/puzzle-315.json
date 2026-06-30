@@ -1,0 +1,256 @@
+{
+  "id": "315",
+  "title": "Puzzle 315",
+  "size": {
+    "rows": 7,
+    "cols": 7
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "A",
+      "N",
+      "I",
+      "M",
+      "O",
+      "S",
+      "O"
+    ],
+    [
+      "#",
+      "#",
+      "N",
+      "O",
+      "V",
+      "A",
+      "K"
+    ],
+    [
+      "E",
+      "S",
+      "T",
+      "R",
+      "A",
+      "D",
+      "A"
+    ],
+    [
+      "#",
+      "B",
+      "E",
+      "A",
+      "T",
+      "A",
+      "#"
+    ],
+    [
+      "T",
+      "O",
+      "R",
+      "N",
+      "I",
+      "T",
+      "I"
+    ],
+    [
+      "C",
+      "O",
+      "I",
+      "T",
+      "O",
+      "#",
+      "#"
+    ],
+    [
+      "I",
+      "M",
+      "M",
+      "E",
+      "N",
+      "S",
+      "E"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Audace, coraggioso",
+        "row": 0,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "Nota Kim del cinema",
+        "row": 1,
+        "col": 2,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "Natalia della TV",
+        "row": 2,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 11,
+        "clue": "Felicissima, estasiata",
+        "row": 3,
+        "col": 1,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 12,
+        "clue": "Arrotondati con una macchina utensile",
+        "row": 4,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 14,
+        "clue": "Rapporto carnale",
+        "row": 5,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 15,
+        "clue": "Smisurate, grandiose",
+        "row": 6,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 3,
+        "clue": "Nel frattempo in politica",
+        "row": 0,
+        "col": 2,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Elsa autrice di \"Menzogna e sortilegio\"",
+        "row": 0,
+        "col": 3,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Il tributo che può essere \"standing\"",
+        "row": 0,
+        "col": 4,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Il presidente egiziano predecessore di Mubarak",
+        "row": 0,
+        "col": 5,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 7,
+        "clue": "Bagna Orel",
+        "row": 0,
+        "col": 6,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 10,
+        "clue": "Un'improvvisa decrescita",
+        "row": 2,
+        "col": 1,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 12,
+        "clue": "Un famosissimo Club",
+        "row": 4,
+        "col": 0,
+        "length": 3,
+        "direction": "down"
+      }
+    ]
+  }
+}

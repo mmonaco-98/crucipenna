@@ -1,0 +1,256 @@
+{
+  "id": "338",
+  "title": "Puzzle 338",
+  "size": {
+    "rows": 7,
+    "cols": 7
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "P",
+      "A",
+      "E",
+      "S",
+      "A",
+      "N",
+      "A"
+    ],
+    [
+      "#",
+      "G",
+      "N",
+      "C",
+      "#",
+      "A",
+      "#"
+    ],
+    [
+      "T",
+      "R",
+      "O",
+      "I",
+      "A",
+      "N",
+      "E"
+    ],
+    [
+      "T",
+      "E",
+      "L",
+      "E",
+      "S",
+      "I",
+      "O"
+    ],
+    [
+      "T",
+      "S",
+      "A",
+      "N",
+      "T",
+      "S",
+      "A"
+    ],
+    [
+      "#",
+      "T",
+      "#",
+      "C",
+      "O",
+      "M",
+      "#"
+    ],
+    [
+      "B",
+      "I",
+      "B",
+      "E",
+      "R",
+      "O",
+      "N"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Contadina",
+        "row": 0,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "Galleria Nazionale Contemporanea",
+        "row": 1,
+        "col": 1,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "Lo erano Ecuba e Cassandra",
+        "row": 2,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 13,
+        "clue": "Bernardino, filosofo cosentino",
+        "row": 3,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 14,
+        "clue": "Un macabro trofeo di guerra in Amazzonia",
+        "row": 4,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 16,
+        "clue": "Segue il punto in molti dominii",
+        "row": 5,
+        "col": 3,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 17,
+        "clue": "La bottiglia del lattante",
+        "row": 6,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 2,
+        "clue": "Tipici della campagna",
+        "row": 0,
+        "col": 1,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "...Gay, la prima bomba atomica",
+        "row": 0,
+        "col": 2,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "La fiction del futuro",
+        "row": 0,
+        "col": 3,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Blocca lo sviluppo corporeo",
+        "row": 0,
+        "col": 5,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 10,
+        "clue": "La sigla di... Cremona",
+        "row": 2,
+        "col": 0,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 11,
+        "clue": "Una Mary del vecchio cinema",
+        "row": 2,
+        "col": 4,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 12,
+        "clue": "End of Address (sigla)",
+        "row": 2,
+        "col": 6,
+        "length": 3,
+        "direction": "down"
+      }
+    ]
+  }
+}

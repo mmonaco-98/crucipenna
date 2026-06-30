@@ -1,0 +1,808 @@
+{
+  "id": "493",
+  "title": "Puzzle 493",
+  "size": {
+    "rows": 13,
+    "cols": 13
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "#",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "#",
+      "#",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "#",
+      "#",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "#",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "#",
+      "#",
+      "#",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      "#",
+      "#",
+      "#",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      "#",
+      "#",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "#",
+      "#",
+      "#",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "#",
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "O",
+      "N",
+      "M",
+      "#",
+      "P",
+      "#",
+      "J",
+      "O",
+      "#",
+      "Q",
+      "S",
+      "#",
+      "A"
+    ],
+    [
+      "#",
+      "J",
+      "A",
+      "C",
+      "O",
+      "B",
+      "#",
+      "N",
+      "#",
+      "#",
+      "#",
+      "S",
+      "C"
+    ],
+    [
+      "P",
+      "#",
+      "R",
+      "#",
+      "S",
+      "R",
+      "L",
+      "#",
+      "#",
+      "#",
+      "T",
+      "I",
+      "R"
+    ],
+    [
+      "L",
+      "I",
+      "C",
+      "H",
+      "T",
+      "E",
+      "N",
+      "S",
+      "T",
+      "E",
+      "I",
+      "N",
+      "#"
+    ],
+    [
+      "#",
+      "D",
+      "A",
+      "#",
+      "E",
+      "Z",
+      "#",
+      "#",
+      "#",
+      "#",
+      "N",
+      "G",
+      "I"
+    ],
+    [
+      "V",
+      "E",
+      "N",
+      "E",
+      "R",
+      "E",
+      "I",
+      "#",
+      "V",
+      "I",
+      "T",
+      "A",
+      "S"
+    ],
+    [
+      "I",
+      "N",
+      "T",
+      "O",
+      "L",
+      "L",
+      "E",
+      "R",
+      "A",
+      "B",
+      "I",
+      "L",
+      "I"
+    ],
+    [
+      "A",
+      "T",
+      "O",
+      "N",
+      "A",
+      "#",
+      "M",
+      "A",
+      "R",
+      "I",
+      "N",
+      "E",
+      "S"
+    ],
+    [
+      "N",
+      "I",
+      "N",
+      "#",
+      "#",
+      "#",
+      "#",
+      "G",
+      "S",
+      "#",
+      "N",
+      "S",
+      "#"
+    ],
+    [
+      "#",
+      "C",
+      "I",
+      "O",
+      "C",
+      "C",
+      "O",
+      "L",
+      "A",
+      "T",
+      "A",
+      "I",
+      "A"
+    ],
+    [
+      "A",
+      "H",
+      "O",
+      "#",
+      "#",
+      "#",
+      "L",
+      "A",
+      "V",
+      "#",
+      "N",
+      "#",
+      "N"
+    ],
+    [
+      "U",
+      "E",
+      "#",
+      "#",
+      "#",
+      "U",
+      "#",
+      "N",
+      "I",
+      "T",
+      "T",
+      "I",
+      "#"
+    ],
+    [
+      "C",
+      "#",
+      "M",
+      "W",
+      "#",
+      "L",
+      "A",
+      "#",
+      "A",
+      "#",
+      "I",
+      "E",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Opera Nazionale Mutilati",
+        "row": 0,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 5,
+        "clue": "La Squillo cantante",
+        "row": 0,
+        "col": 6,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "clue": "Quarto Stato",
+        "row": 0,
+        "col": 9,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "Uno dei fratelli Grimm",
+        "row": 1,
+        "col": 1,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 14,
+        "clue": "Scendere a sinistra",
+        "row": 1,
+        "col": 11,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 17,
+        "clue": "Una società (sigla)",
+        "row": 2,
+        "col": 4,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 19,
+        "clue": "Una sigla da autotreni",
+        "row": 2,
+        "col": 10,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 20,
+        "clue": "Il Roy artista della \"pop art\"",
+        "row": 3,
+        "col": 0,
+        "length": 12,
+        "direction": "across"
+      },
+      {
+        "number": 26,
+        "clue": "All'imbocco della darsena",
+        "row": 4,
+        "col": 1,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 27,
+        "clue": "A metà... prezzo",
+        "row": 4,
+        "col": 4,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 28,
+        "clue": "Navigazione Generale Italiana",
+        "row": 4,
+        "col": 10,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 30,
+        "clue": "Erotici, sessuali",
+        "row": 5,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 33,
+        "clue": "Gerulaitis compianto tennista statunitense",
+        "row": 5,
+        "col": 8,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 35,
+        "clue": "Che non possono essere accettati",
+        "row": 6,
+        "col": 0,
+        "length": 13,
+        "direction": "across"
+      },
+      {
+        "number": 37,
+        "clue": "Languida, senza accento",
+        "row": 7,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 38,
+        "clue": "Fanti U.S.A. da sbarco",
+        "row": 7,
+        "col": 6,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 39,
+        "clue": "Anaïs che scrisse 'Seduzione del Minotauro'",
+        "row": 8,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 40,
+        "clue": "Rendono... grossa la rosa",
+        "row": 8,
+        "col": 7,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 41,
+        "clue": "Simone del jazz (iniz.)",
+        "row": 8,
+        "col": 10,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 42,
+        "clue": "Una venditrice di dolciumi in tavolette",
+        "row": 9,
+        "col": 1,
+        "length": 12,
+        "direction": "across"
+      },
+      {
+        "number": 49,
+        "clue": "Un richiamo romanesco",
+        "row": 10,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 50,
+        "clue": "Lega Anti-Vivisezione",
+        "row": 10,
+        "col": 6,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 53,
+        "clue": "È derivata dalla CEE",
+        "row": 11,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 55,
+        "clue": "Un predecessore di Mussolini",
+        "row": 11,
+        "col": 7,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 59,
+        "clue": "Le iniziali di Waltari",
+        "row": 12,
+        "col": 2,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 61,
+        "clue": "Il suo contrario è qua",
+        "row": 12,
+        "col": 5,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 64,
+        "clue": "La conferma attesa da londra",
+        "row": 12,
+        "col": 10,
+        "length": 3,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 2,
+        "clue": "New Jersey",
+        "row": 0,
+        "col": 1,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Così viene detto scherzosamente l'omone",
+        "row": 0,
+        "col": 2,
+        "length": 11,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Porticina segreta nelle mura della fortezza",
+        "row": 0,
+        "col": 4,
+        "length": 8,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Sono in pieno centro",
+        "row": 0,
+        "col": 7,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 9,
+        "clue": "Azione Cattolica dei Ragazzi (sigla)",
+        "row": 0,
+        "col": 12,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 12,
+        "clue": "Ciambella di pane tedesca",
+        "row": 1,
+        "col": 5,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 14,
+        "clue": "Gli abitanti dell'isola di Ceylon",
+        "row": 1,
+        "col": 11,
+        "length": 9,
+        "direction": "down"
+      },
+      {
+        "number": 15,
+        "clue": "In testa al plotone",
+        "row": 2,
+        "col": 0,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 18,
+        "clue": "Leslie Nielsen",
+        "row": 2,
+        "col": 6,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 19,
+        "clue": "Risonanti, squillanti",
+        "row": 2,
+        "col": 10,
+        "length": 11,
+        "direction": "down"
+      },
+      {
+        "number": 21,
+        "clue": "Non sempre lo sono le gemelle",
+        "row": 3,
+        "col": 1,
+        "length": 9,
+        "direction": "down"
+      },
+      {
+        "number": 29,
+        "clue": "É stato sconfitto sul territorio",
+        "row": 4,
+        "col": 12,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 30,
+        "clue": "Boris, lo scrittore francese di La schiuma dei giorni",
+        "row": 5,
+        "col": 0,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 31,
+        "clue": "I due macroperiodi della storia della Terra",
+        "row": 5,
+        "col": 3,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 32,
+        "clue": "Impulso ElettroMagnetico (sigla)",
+        "row": 5,
+        "col": 6,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 33,
+        "clue": "La capitale della Polonia",
+        "row": 5,
+        "col": 8,
+        "length": 8,
+        "direction": "down"
+      },
+      {
+        "number": 34,
+        "clue": "Il trampoliere del Nilo",
+        "row": 5,
+        "col": 9,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 36,
+        "clue": "Manica dell'impermeabile",
+        "row": 6,
+        "col": 7,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 46,
+        "clue": "Polacchi senza pacchi",
+        "row": 9,
+        "col": 6,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 48,
+        "clue": "Le hanno cani e rane",
+        "row": 9,
+        "col": 12,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 49,
+        "clue": "Sigla per futuri ufficiali",
+        "row": 10,
+        "col": 0,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 54,
+        "clue": "Le ultime di Istanbul",
+        "row": 11,
+        "col": 5,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 57,
+        "clue": "Fine di ingiustizie",
+        "row": 11,
+        "col": 11,
+        "length": 2,
+        "direction": "down"
+      }
+    ]
+  }
+}

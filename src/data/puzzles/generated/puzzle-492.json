@@ -1,0 +1,856 @@
+{
+  "id": "492",
+  "title": "Puzzle 492",
+  "size": {
+    "rows": 13,
+    "cols": 13
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "#",
+      "",
+      "#",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "#",
+      "#",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "#",
+      "#",
+      "",
+      "#",
+      "#",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "#",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "#",
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "#",
+      "#",
+      "",
+      "#",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "#",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "#",
+      "",
+      "#",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "W",
+      "T",
+      "#",
+      "C",
+      "O",
+      "D",
+      "#",
+      "A",
+      "#",
+      "C",
+      "#",
+      "#",
+      "T"
+    ],
+    [
+      "A",
+      "A",
+      "#",
+      "#",
+      "#",
+      "V",
+      "E",
+      "R",
+      "T",
+      "E",
+      "B",
+      "R",
+      "E"
+    ],
+    [
+      "G",
+      "G",
+      "#",
+      "#",
+      "L",
+      "#",
+      "#",
+      "U",
+      "I",
+      "#",
+      "O",
+      "I",
+      "L"
+    ],
+    [
+      "N",
+      "L",
+      "G",
+      "#",
+      "L",
+      "#",
+      "C",
+      "#",
+      "D",
+      "A",
+      "R",
+      "S",
+      "I"
+    ],
+    [
+      "E",
+      "I",
+      "#",
+      "Q",
+      "#",
+      "S",
+      "A",
+      "L",
+      "#",
+      "O",
+      "M",
+      "T",
+      "#"
+    ],
+    [
+      "R",
+      "E",
+      "G",
+      "O",
+      "L",
+      "A",
+      "M",
+      "E",
+      "N",
+      "T",
+      "A",
+      "R",
+      "I"
+    ],
+    [
+      "#",
+      "G",
+      "A",
+      "#",
+      "U",
+      "T",
+      "I",
+      "C",
+      "A",
+      "#",
+      "N",
+      "E",
+      "#"
+    ],
+    [
+      "A",
+      "G",
+      "G",
+      "H",
+      "I",
+      "A",
+      "C",
+      "C",
+      "I",
+      "A",
+      "N",
+      "T",
+      "I"
+    ],
+    [
+      "#",
+      "I",
+      "A",
+      "S",
+      "#",
+      "N",
+      "I",
+      "I",
+      "#",
+      "J",
+      "#",
+      "T",
+      "L"
+    ],
+    [
+      "N",
+      "A",
+      "R",
+      "V",
+      "A",
+      "#",
+      "A",
+      "#",
+      "M",
+      "#",
+      "M",
+      "E",
+      "L"
+    ],
+    [
+      "I",
+      "R",
+      "I",
+      "#",
+      "M",
+      "V",
+      "#",
+      "#",
+      "I",
+      "#",
+      "#",
+      "Z",
+      "E"
+    ],
+    [
+      "F",
+      "E",
+      "N",
+      "O",
+      "M",
+      "E",
+      "N",
+      "I",
+      "#",
+      "#",
+      "#",
+      "Z",
+      "S"
+    ],
+    [
+      "E",
+      "#",
+      "#",
+      "Y",
+      "#",
+      "N",
+      "#",
+      "C",
+      "N",
+      "R",
+      "#",
+      "E",
+      "A"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Iniziali di Thackeray",
+        "row": 0,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 3,
+        "clue": "Codice (abbreviazione)",
+        "row": 0,
+        "col": 3,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "Le iniziali di Avogadro",
+        "row": 1,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "Le ossa in colonna",
+        "row": 1,
+        "col": 5,
+        "length": 8,
+        "direction": "across"
+      },
+      {
+        "number": 15,
+        "clue": "Iniziali di Gemma",
+        "row": 2,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 17,
+        "clue": "Il dittongo di Luisella",
+        "row": 2,
+        "col": 7,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 18,
+        "clue": "Un'antica lingua francese",
+        "row": 2,
+        "col": 10,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 19,
+        "clue": "Fiorino, ex unità monetaria dei Paesi Bassi (sigla)",
+        "row": 3,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 23,
+        "clue": "Concedersi",
+        "row": 3,
+        "col": 8,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 25,
+        "clue": "Vocali nei prezzi",
+        "row": 4,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 27,
+        "clue": "Il Mineo che fu un noto attore",
+        "row": 4,
+        "col": 5,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 29,
+        "clue": "Organizzazione Mondiale del Turismo",
+        "row": 4,
+        "col": 9,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 30,
+        "clue": "Conformi alle norme",
+        "row": 5,
+        "col": 0,
+        "length": 13,
+        "direction": "across"
+      },
+      {
+        "number": 35,
+        "clue": "Mangia senza le... mani",
+        "row": 6,
+        "col": 1,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 36,
+        "clue": "Città punica sulle coste dell'attuale Tunisia",
+        "row": 6,
+        "col": 4,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 37,
+        "clue": "Brunetta meno brutta",
+        "row": 6,
+        "col": 10,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 38,
+        "clue": "Tali da fare inorridire",
+        "row": 7,
+        "col": 0,
+        "length": 13,
+        "direction": "across"
+      },
+      {
+        "number": 42,
+        "clue": "Il politico Gawronski",
+        "row": 8,
+        "col": 1,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 43,
+        "clue": "1200 romani",
+        "row": 8,
+        "col": 5,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 45,
+        "clue": "Il simbolo del Tallio",
+        "row": 8,
+        "col": 11,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 46,
+        "clue": "Città e fiume dell'Estonia",
+        "row": 9,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 50,
+        "clue": "Gibson e Ferrer nello spettacolo",
+        "row": 9,
+        "col": 10,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 51,
+        "clue": "Finanziò molte imprese",
+        "row": 10,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 52,
+        "clue": "La grande Vitti (iniz.)",
+        "row": 10,
+        "col": 4,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 55,
+        "clue": "Fine delle vacanze",
+        "row": 10,
+        "col": 11,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 56,
+        "clue": "Danno da pensare agli scienziati",
+        "row": 11,
+        "col": 0,
+        "length": 8,
+        "direction": "across"
+      },
+      {
+        "number": 60,
+        "clue": "Seconda e quinta nelle oziose",
+        "row": 11,
+        "col": 11,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 64,
+        "clue": "Consiglio Nazionale Ricerche",
+        "row": 12,
+        "col": 7,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 67,
+        "clue": "Ultime d'Eritrea",
+        "row": 12,
+        "col": 11,
+        "length": 2,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Musicò \"Tristano e Isotta\"",
+        "row": 0,
+        "col": 0,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Imporre gravosi tributi ai vinti in guerra.",
+        "row": 0,
+        "col": 1,
+        "length": 12,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Divi senza uguali",
+        "row": 0,
+        "col": 5,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Isole delle Molucche",
+        "row": 0,
+        "col": 7,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 7,
+        "clue": "Le prime di centomila",
+        "row": 0,
+        "col": 9,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 8,
+        "clue": "Spicchi di tenda",
+        "row": 0,
+        "col": 12,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 12,
+        "clue": "Ter in die (tre volte al giorno, abbr.)",
+        "row": 1,
+        "col": 8,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 13,
+        "clue": "Martin che fu uno dei collaboratori di Hitler",
+        "row": 1,
+        "col": 10,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 14,
+        "clue": "Angustiano l'indigente",
+        "row": 1,
+        "col": 11,
+        "length": 12,
+        "direction": "down"
+      },
+      {
+        "number": 16,
+        "clue": "Le gemelle in ballo",
+        "row": 2,
+        "col": 4,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 22,
+        "clue": "Chi nasce con questa è fortunato",
+        "row": 3,
+        "col": 6,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 24,
+        "clue": "Associazione Ornitologica Trentina",
+        "row": 3,
+        "col": 9,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 26,
+        "clue": "Le estremità del quadro",
+        "row": 4,
+        "col": 3,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 27,
+        "clue": "Il Pape dantesco",
+        "row": 4,
+        "col": 5,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 28,
+        "clue": "Alberi da ghiande",
+        "row": 4,
+        "col": 7,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 31,
+        "clue": "Lo Jurij cosmonauta",
+        "row": 5,
+        "col": 2,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 32,
+        "clue": "Né io né tu né lei",
+        "row": 5,
+        "col": 4,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 33,
+        "clue": "Navigazione Alta Italia (sigla)",
+        "row": 5,
+        "col": 8,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 39,
+        "clue": "Herpes Simplex Virus",
+        "row": 7,
+        "col": 3,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 40,
+        "clue": "Al Jolson",
+        "row": 7,
+        "col": 9,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 41,
+        "clue": "Uscita incolume",
+        "row": 7,
+        "col": 12,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 46,
+        "clue": "Costituisce il nucleo terrestre",
+        "row": 9,
+        "col": 0,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 47,
+        "clue": "Amministratore in breve",
+        "row": 9,
+        "col": 4,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 49,
+        "clue": "La E musicale dei Tedeschi",
+        "row": 9,
+        "col": 8,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 53,
+        "clue": "Precede SAB",
+        "row": 10,
+        "col": 5,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 57,
+        "clue": "La fine dei playboy",
+        "row": 11,
+        "col": 3,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 59,
+        "clue": "Novantanove antichi",
+        "row": 11,
+        "col": 7,
+        "length": 2,
+        "direction": "down"
+      }
+    ]
+  }
+}

@@ -1,0 +1,616 @@
+{
+  "id": "480",
+  "title": "Puzzle 480",
+  "size": {
+    "rows": 11,
+    "cols": 11
+  },
+  "grid": [
+    [
+      "#",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "#",
+      "#",
+      "#",
+      "#",
+      "",
+      "",
+      "#",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      "#",
+      "",
+      "#",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "#",
+      "",
+      "",
+      "#",
+      "#",
+      "#",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "#"
+    ]
+  ],
+  "solution": [
+    [
+      "#",
+      "R",
+      "A",
+      "T",
+      "#",
+      "A",
+      "C",
+      "E",
+      "R",
+      "B",
+      "A"
+    ],
+    [
+      "P",
+      "I",
+      "#",
+      "#",
+      "#",
+      "#",
+      "A",
+      "D",
+      "#",
+      "I",
+      "#"
+    ],
+    [
+      "X",
+      "E",
+      "R",
+      "E",
+      "S",
+      "#",
+      "L",
+      "I",
+      "E",
+      "#",
+      "E"
+    ],
+    [
+      "#",
+      "M",
+      "A",
+      "J",
+      "O",
+      "R",
+      "E",
+      "T",
+      "T",
+      "E",
+      "S"
+    ],
+    [
+      "S",
+      "E",
+      "G",
+      "#",
+      "#",
+      "O",
+      "B",
+      "E",
+      "R",
+      "T",
+      "O"
+    ],
+    [
+      "M",
+      "R",
+      "T",
+      "#",
+      "#",
+      "B",
+      "#",
+      "#",
+      "U",
+      "I",
+      "D"
+    ],
+    [
+      "A",
+      "S",
+      "I",
+      "A",
+      "G",
+      "O",
+      "#",
+      "#",
+      "S",
+      "L",
+      "O"
+    ],
+    [
+      "S",
+      "I",
+      "M",
+      "M",
+      "E",
+      "T",
+      "R",
+      "I",
+      "C",
+      "I",
+      "#"
+    ],
+    [
+      "H",
+      "#",
+      "E",
+      "O",
+      "R",
+      "#",
+      "L",
+      "H",
+      "A",
+      "S",
+      "A"
+    ],
+    [
+      "#",
+      "U",
+      "#",
+      "R",
+      "M",
+      "#",
+      "#",
+      "#",
+      "#",
+      "M",
+      "R"
+    ],
+    [
+      "X",
+      "A",
+      "V",
+      "I",
+      "E",
+      "R",
+      "#",
+      "E",
+      "M",
+      "O",
+      "#"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Isole delle Aleutine",
+        "row": 0,
+        "col": 1,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 4,
+        "clue": "Non ancora matura",
+        "row": 0,
+        "col": 5,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "clue": "Vi pende una famosa Torre (targa)",
+        "row": 1,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 11,
+        "clue": "Principio di addizione",
+        "row": 1,
+        "col": 6,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 13,
+        "clue": "La città dello\"sherry\"",
+        "row": 2,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 17,
+        "clue": "Sophus matematico",
+        "row": 2,
+        "col": 6,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 20,
+        "clue": "Le ragazze con mazze e tamburi che precedono le sfilate folcloristiche",
+        "row": 3,
+        "col": 1,
+        "length": 10,
+        "direction": "across"
+      },
+      {
+        "number": 23,
+        "clue": "Abbreviazione di seguente",
+        "row": 4,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 24,
+        "clue": "... conte di San Bonifacio protagonista della prima opera di Verdi",
+        "row": 4,
+        "col": 5,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 25,
+        "clue": "Le consonanti in merito",
+        "row": 5,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 27,
+        "clue": "Unità Immobiliare a Disposizione",
+        "row": 5,
+        "col": 8,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 28,
+        "clue": "Comune del Veneto al centro dell'altopiano omonimo",
+        "row": 6,
+        "col": 0,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 31,
+        "clue": "La Slovenia in tabella",
+        "row": 6,
+        "col": 8,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 32,
+        "clue": "Disposti a un'eguale distanza da un punto",
+        "row": 7,
+        "col": 0,
+        "length": 10,
+        "direction": "across"
+      },
+      {
+        "number": 36,
+        "clue": "La sigla che nel cinema indica la fine della pellicola",
+        "row": 8,
+        "col": 2,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 37,
+        "clue": "Il capoluogo del Tibet",
+        "row": 8,
+        "col": 6,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 40,
+        "clue": "Ronn Moss",
+        "row": 9,
+        "col": 3,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 41,
+        "clue": "La Meg attrice (iniz.)",
+        "row": 9,
+        "col": 9,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 42,
+        "clue": "Il nome di Cugat",
+        "row": 10,
+        "col": 0,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 45,
+        "clue": "Il prefisso del sangue.",
+        "row": 10,
+        "col": 7,
+        "length": 3,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Tornati fuori",
+        "row": 0,
+        "col": 1,
+        "length": 8,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Personaggio biblico",
+        "row": 0,
+        "col": 6,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Uscite in libreria",
+        "row": 0,
+        "col": 7,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 8,
+        "clue": "La seconda lettera dell'alfabeto",
+        "row": 0,
+        "col": 9,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 10,
+        "clue": "Periferie di Phoenix",
+        "row": 1,
+        "col": 0,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 14,
+        "clue": "Un genere musicale che precedette il jazz",
+        "row": 2,
+        "col": 2,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 15,
+        "clue": "Iniziali di Jannacci",
+        "row": 2,
+        "col": 3,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 16,
+        "clue": "Metà della soap",
+        "row": 2,
+        "col": 4,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 18,
+        "clue": "Tale è la necropoli di Cerveteri",
+        "row": 2,
+        "col": 8,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 19,
+        "clue": "Una parte del Pentateuco",
+        "row": 2,
+        "col": 10,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 21,
+        "clue": "Un ometto meccanico",
+        "row": 3,
+        "col": 5,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 22,
+        "clue": "Intossicazione da abuso di bevande alcoliche",
+        "row": 3,
+        "col": 9,
+        "length": 8,
+        "direction": "down"
+      },
+      {
+        "number": 23,
+        "clue": "La schiacciata di Nadal",
+        "row": 4,
+        "col": 0,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 29,
+        "clue": "Resero famoso Casanova",
+        "row": 6,
+        "col": 3,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 30,
+        "clue": "Agente di malattia",
+        "row": 6,
+        "col": 4,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 33,
+        "clue": "Cambiano i tegami in regali",
+        "row": 7,
+        "col": 6,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 34,
+        "clue": "Interiezione che esprime meraviglia o disgusto",
+        "row": 7,
+        "col": 7,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 38,
+        "clue": "Il centro... del mare",
+        "row": 8,
+        "col": 10,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 39,
+        "clue": "Il dittongo di Pasquale",
+        "row": 9,
+        "col": 1,
+        "length": 2,
+        "direction": "down"
+      }
+    ]
+  }
+}

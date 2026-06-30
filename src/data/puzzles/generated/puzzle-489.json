@@ -1,0 +1,640 @@
+{
+  "id": "489",
+  "title": "Puzzle 489",
+  "size": {
+    "rows": 11,
+    "cols": 11
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "#",
+      "",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "#",
+      "#",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      "#",
+      "#",
+      "#",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "",
+      "#",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "S",
+      "M",
+      "#",
+      "T",
+      "S",
+      "E",
+      "T",
+      "S",
+      "E",
+      "#",
+      "W"
+    ],
+    [
+      "U",
+      "#",
+      "C",
+      "O",
+      "R",
+      "P",
+      "O",
+      "S",
+      "I",
+      "#",
+      "V"
+    ],
+    [
+      "#",
+      "D",
+      "S",
+      "A",
+      "#",
+      "C",
+      "#",
+      "I",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "S",
+      "E",
+      "A",
+      "N",
+      "#",
+      "#",
+      "#",
+      "#",
+      "T",
+      "G",
+      "S"
+    ],
+    [
+      "C",
+      "A",
+      "R",
+      "T",
+      "A",
+      "M",
+      "O",
+      "#",
+      "S",
+      "E",
+      "I"
+    ],
+    [
+      "U",
+      "N",
+      "D",
+      "E",
+      "R",
+      "G",
+      "R",
+      "O",
+      "U",
+      "N",
+      "D"
+    ],
+    [
+      "S",
+      "N",
+      "A",
+      "#",
+      "M",
+      "E",
+      "S",
+      "S",
+      "N",
+      "E",
+      "R"
+    ],
+    [
+      "A",
+      "A",
+      "S",
+      "#",
+      "#",
+      "#",
+      "#",
+      "C",
+      "A",
+      "R",
+      "O"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "A",
+      "#",
+      "L",
+      "#",
+      "U",
+      "M",
+      "O",
+      "#"
+    ],
+    [
+      "L",
+      "#",
+      "E",
+      "R",
+      "N",
+      "I",
+      "A",
+      "R",
+      "I",
+      "#",
+      "F"
+    ],
+    [
+      "S",
+      "#",
+      "T",
+      "R",
+      "O",
+      "N",
+      "C",
+      "O",
+      "#",
+      "K",
+      "T"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Un po' smanioso",
+        "row": 0,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 3,
+        "clue": "La mosca che... addormenta",
+        "row": 0,
+        "col": 3,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 11,
+        "clue": "Molto voluminosi",
+        "row": 1,
+        "col": 2,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 13,
+        "clue": "La sindrome dei dislessici (sigla)",
+        "row": 2,
+        "col": 1,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 16,
+        "clue": "Nome dell'attore Connery",
+        "row": 3,
+        "col": 0,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 17,
+        "clue": "Ora si chiama Rai Sport (sigla)",
+        "row": 3,
+        "col": 8,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 20,
+        "clue": "Il falso zafferano",
+        "row": 4,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 24,
+        "clue": "Tante punte ha la stella di David",
+        "row": 4,
+        "col": 8,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 25,
+        "clue": "La metropolitana dei Londinesi",
+        "row": 5,
+        "col": 0,
+        "length": 11,
+        "direction": "across"
+      },
+      {
+        "number": 27,
+        "clue": "Sistema nervoso autonomo",
+        "row": 6,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 28,
+        "clue": "Il Reinhold celebre alpinista",
+        "row": 6,
+        "col": 4,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 29,
+        "clue": "Azienda Autonoma di Soggiorno",
+        "row": 7,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 30,
+        "clue": "Amato, benvoluto",
+        "row": 7,
+        "col": 7,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 33,
+        "clue": "Fertile terreno",
+        "row": 8,
+        "col": 7,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 35,
+        "clue": "I cinti che contengono",
+        "row": 9,
+        "col": 2,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 40,
+        "clue": "Gli ulivi lo hanno contorto",
+        "row": 10,
+        "col": 2,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 41,
+        "clue": "Le estremità del kart",
+        "row": 10,
+        "col": 9,
+        "length": 2,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Un'esortazione a riprendersi",
+        "row": 0,
+        "col": 0,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Il mitico re di Tauride che morì inseguendo Oreste e Pilade",
+        "row": 0,
+        "col": 3,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "I nostri... meno noti",
+        "row": 0,
+        "col": 4,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "European Policy Centre",
+        "row": 0,
+        "col": 5,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Alla fine del conto",
+        "row": 0,
+        "col": 6,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 7,
+        "clue": "Servizio Sociale Internazionale",
+        "row": 0,
+        "col": 7,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 8,
+        "clue": "Iacchetti di \"Striscia\" (iniz.)",
+        "row": 0,
+        "col": 8,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 9,
+        "clue": "Veltroni politico (iniz.)",
+        "row": 0,
+        "col": 10,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 11,
+        "clue": "Danza popolare ungherese",
+        "row": 1,
+        "col": 2,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 13,
+        "clue": "La Durbin del \"muto\"",
+        "row": 2,
+        "col": 1,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 16,
+        "clue": "Una ragione... fasulla",
+        "row": 3,
+        "col": 0,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 17,
+        "clue": "Onda anomala causata da un terremoto sottomarino",
+        "row": 3,
+        "col": 8,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 18,
+        "clue": "Un congiunto acquisito",
+        "row": 3,
+        "col": 9,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 19,
+        "clue": "Il vino di mele",
+        "row": 3,
+        "col": 10,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 21,
+        "clue": "Missile antiradar (sigla)",
+        "row": 4,
+        "col": 4,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 22,
+        "clue": "Iniziali della Elmi",
+        "row": 4,
+        "col": 5,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 23,
+        "clue": "Se è piccolo dona",
+        "row": 4,
+        "col": 6,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 26,
+        "clue": "Non illuminato",
+        "row": 5,
+        "col": 7,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 31,
+        "clue": "Arrivo sulle tabelle",
+        "row": 8,
+        "col": 3,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 32,
+        "clue": "Piao ai tempi di Mao",
+        "row": 8,
+        "col": 5,
+        "length": 3,
+        "direction": "down"
+      },
+      {
+        "number": 34,
+        "clue": "Luciano Salce",
+        "row": 9,
+        "col": 0,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 35,
+        "clue": "Si ripetono nel jet set",
+        "row": 9,
+        "col": 2,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 36,
+        "clue": "Lo dice chi non approva",
+        "row": 9,
+        "col": 4,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 37,
+        "clue": "Iniziali di Camus",
+        "row": 9,
+        "col": 6,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 38,
+        "clue": "Federigo Tozzi",
+        "row": 9,
+        "col": 10,
+        "length": 2,
+        "direction": "down"
+      }
+    ]
+  }
+}

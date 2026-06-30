@@ -1,0 +1,296 @@
+{
+  "id": "421",
+  "title": "Puzzle 421",
+  "size": {
+    "rows": 7,
+    "cols": 7
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "#",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "#",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "L",
+      "U",
+      "L",
+      "L",
+      "A",
+      "B",
+      "Y"
+    ],
+    [
+      "O",
+      "M",
+      "I",
+      "C",
+      "R",
+      "O",
+      "N"
+    ],
+    [
+      "D",
+      "#",
+      "C",
+      "#",
+      "P",
+      "A",
+      "#"
+    ],
+    [
+      "I",
+      "T",
+      "A",
+      "L",
+      "I",
+      "C",
+      "O"
+    ],
+    [
+      "#",
+      "I",
+      "O",
+      "#",
+      "O",
+      "#",
+      "L"
+    ],
+    [
+      "T",
+      "E",
+      "N",
+      "E",
+      "N",
+      "Z",
+      "A"
+    ],
+    [
+      "O",
+      "N",
+      "I",
+      "R",
+      "I",
+      "C",
+      "O"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "La ninna nanna della \"nurse\"",
+        "row": 0,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "La quindicesima lettera dell'alfabeto greco",
+        "row": 1,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 11,
+        "clue": "La città dell'editore Sellerio (targa)",
+        "row": 2,
+        "col": 4,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 12,
+        "clue": "Il Foro di Roma con gli impianti sportivi",
+        "row": 3,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 16,
+        "clue": "La parola preferita dell' egocentrico",
+        "row": 4,
+        "col": 1,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 19,
+        "clue": "Comando dei carabinieri",
+        "row": 5,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 22,
+        "clue": "Attinente ai sogni",
+        "row": 6,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Una provincia lombarda",
+        "row": 0,
+        "col": 0,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "clue": "Le prime per umiltà",
+        "row": 0,
+        "col": 1,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "I caniiena africani",
+        "row": 0,
+        "col": 2,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "La Cuccarini (iniziali)",
+        "row": 0,
+        "col": 3,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Li lanciano i balenieri",
+        "row": 0,
+        "col": 4,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Vecchia compagnia aerea inglese",
+        "row": 0,
+        "col": 5,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 7,
+        "clue": "Yannick Noah",
+        "row": 0,
+        "col": 6,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 13,
+        "clue": "Il dio-Cielo nell' antica reli-gione cinese",
+        "row": 3,
+        "col": 1,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 15,
+        "clue": "Un albero d'alto fusto",
+        "row": 3,
+        "col": 6,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 19,
+        "clue": "Fine dello Stato",
+        "row": 5,
+        "col": 0,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 20,
+        "clue": "Una serie tv che è stata molto popolare",
+        "row": 5,
+        "col": 3,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 21,
+        "clue": "Consonanti in zucca",
+        "row": 5,
+        "col": 5,
+        "length": 2,
+        "direction": "down"
+      }
+    ]
+  }
+}

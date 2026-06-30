@@ -1,0 +1,256 @@
+{
+  "id": "318",
+  "title": "Puzzle 318",
+  "size": {
+    "rows": 7,
+    "cols": 7
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "#"
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "C",
+      "O",
+      "N",
+      "C",
+      "A",
+      "V",
+      "O"
+    ],
+    [
+      "A",
+      "#",
+      "E",
+      "R",
+      "R",
+      "E",
+      "#"
+    ],
+    [
+      "P",
+      "#",
+      "R",
+      "U",
+      "I",
+      "N",
+      "E"
+    ],
+    [
+      "O",
+      "R",
+      "V",
+      "I",
+      "E",
+      "T",
+      "O"
+    ],
+    [
+      "C",
+      "O",
+      "A",
+      "S",
+      "T",
+      "#",
+      "L"
+    ],
+    [
+      "#",
+      "S",
+      "T",
+      "E",
+      "T",
+      "#",
+      "I"
+    ],
+    [
+      "D",
+      "I",
+      "O",
+      "R",
+      "A",
+      "M",
+      "A"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Incavato, rientrante",
+        "row": 0,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "La lettera che si può non avere",
+        "row": 1,
+        "col": 2,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 11,
+        "clue": "Ruderi... poetici",
+        "row": 2,
+        "col": 2,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 13,
+        "clue": "In provincia di Terni",
+        "row": 3,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 15,
+        "clue": "Pacifico è West",
+        "row": 4,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 17,
+        "clue": "Società telefonica che si è fusa con la Telecom",
+        "row": 5,
+        "col": 1,
+        "length": 4,
+        "direction": "across"
+      },
+      {
+        "number": 19,
+        "clue": "Forma di spettacolo perfezionata da Daguerre",
+        "row": 6,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Materiale usato per imbottiture",
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Robusto, ben dotato",
+        "row": 0,
+        "col": 2,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Veliero d' alto mare",
+        "row": 0,
+        "col": 3,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Una gradevole... brezzolina",
+        "row": 0,
+        "col": 4,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "... ' anni dopo (romanzo)",
+        "row": 0,
+        "col": 5,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 12,
+        "clue": "L'arpa le cui corde suonavano mosse dal vento",
+        "row": 2,
+        "col": 6,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 14,
+        "clue": "Francesco regista",
+        "row": 3,
+        "col": 1,
+        "length": 4,
+        "direction": "down"
+      }
+    ]
+  }
+}

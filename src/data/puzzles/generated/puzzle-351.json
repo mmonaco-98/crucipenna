@@ -1,0 +1,272 @@
+{
+  "id": "351",
+  "title": "Puzzle 351",
+  "size": {
+    "rows": 7,
+    "cols": 7
+  },
+  "grid": [
+    [
+      "",
+      "",
+      "#",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      "#",
+      "",
+      ""
+    ]
+  ],
+  "solution": [
+    [
+      "H",
+      "W",
+      "#",
+      "#",
+      "U",
+      "S",
+      "C"
+    ],
+    [
+      "A",
+      "#",
+      "B",
+      "A",
+      "N",
+      "C",
+      "O"
+    ],
+    [
+      "R",
+      "E",
+      "A",
+      "L",
+      "G",
+      "A",
+      "R"
+    ],
+    [
+      "V",
+      "O",
+      "L",
+      "I",
+      "E",
+      "R",
+      "E"
+    ],
+    [
+      "A",
+      "L",
+      "L",
+      "E",
+      "R",
+      "T",
+      "A"
+    ],
+    [
+      "R",
+      "I",
+      "O",
+      "N",
+      "E",
+      "#",
+      "N"
+    ],
+    [
+      "D",
+      "A",
+      "N",
+      "#",
+      "#",
+      "A",
+      "A"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Sono pari nello show",
+        "row": 0,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 3,
+        "clue": "L' abbreviazione in uscita",
+        "row": 0,
+        "col": 4,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "clue": "Lo riscalda lo studente disattento",
+        "row": 1,
+        "col": 2,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "clue": "Minerale da cui si estrae l' arsenico",
+        "row": 2,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 11,
+        "clue": "Le grandi gabbie per uccelli",
+        "row": 3,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 12,
+        "clue": "Impone alle sentinelle la massima vigilanza",
+        "row": 4,
+        "col": 0,
+        "length": 7,
+        "direction": "across"
+      },
+      {
+        "number": 13,
+        "clue": "Nucleo formato da più isolati",
+        "row": 5,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 15,
+        "clue": "Il nome dell'attore Aykroyd",
+        "row": 6,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 16,
+        "clue": "In pratica sono uguali",
+        "row": 6,
+        "col": 5,
+        "length": 2,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "La più antica università degli USA",
+        "row": 0,
+        "col": 0,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Cospargere di sostanza grassa",
+        "row": 0,
+        "col": 4,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Moderno tipo di presa dei televisori",
+        "row": 0,
+        "col": 5,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "Una asiatica di Seul",
+        "row": 0,
+        "col": 6,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 7,
+        "clue": "É noto quello d'essai",
+        "row": 1,
+        "col": 2,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 8,
+        "clue": "Noto film di fantascienza con l'astronave \"Nostromo\"",
+        "row": 1,
+        "col": 3,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 10,
+        "clue": "L'arpa che suonava allo spirar del vento",
+        "row": 2,
+        "col": 1,
+        "length": 5,
+        "direction": "down"
+      }
+    ]
+  }
+}

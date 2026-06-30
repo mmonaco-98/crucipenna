@@ -1,0 +1,472 @@
+{
+  "id": "454",
+  "title": "Puzzle 454",
+  "size": {
+    "rows": 9,
+    "cols": 9
+  },
+  "grid": [
+    [
+      "#",
+      "",
+      "",
+      "",
+      "#",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "#",
+      "#"
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "#",
+      "#",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "#",
+      "#",
+      "",
+      "",
+      "",
+      "#"
+    ]
+  ],
+  "solution": [
+    [
+      "#",
+      "O",
+      "P",
+      "V",
+      "#",
+      "#",
+      "T",
+      "T",
+      "T"
+    ],
+    [
+      "N",
+      "R",
+      "#",
+      "S",
+      "F",
+      "A",
+      "R",
+      "Z",
+      "I"
+    ],
+    [
+      "A",
+      "C",
+      "S",
+      "#",
+      "A",
+      "N",
+      "I",
+      "#",
+      "#"
+    ],
+    [
+      "N",
+      "I",
+      "I",
+      "#",
+      "R",
+      "E",
+      "T",
+      "T",
+      "I"
+    ],
+    [
+      "D",
+      "A",
+      "N",
+      "Z",
+      "A",
+      "T",
+      "O",
+      "R",
+      "E"
+    ],
+    [
+      "O",
+      "I",
+      "D",
+      "I",
+      "O",
+      "#",
+      "L",
+      "E",
+      "L"
+    ],
+    [
+      "#",
+      "#",
+      "A",
+      "T",
+      "N",
+      "#",
+      "O",
+      "S",
+      "L"
+    ],
+    [
+      "F",
+      "O",
+      "C",
+      "A",
+      "I",
+      "A",
+      "#",
+      "C",
+      "A"
+    ],
+    [
+      "T",
+      "D",
+      "A",
+      "#",
+      "#",
+      "I",
+      "N",
+      "A",
+      "#"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Offerta Pubblica di Vendita",
+        "row": 0,
+        "col": 1,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 4,
+        "clue": "Le tre lettere sullo stemma di Cremona",
+        "row": 0,
+        "col": 6,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "clue": "Abbreviazione di numero",
+        "row": 1,
+        "col": 0,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "clue": "Lussi ostentati",
+        "row": 1,
+        "col": 3,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 11,
+        "clue": "In mezzo al clacson",
+        "row": 2,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 13,
+        "clue": "Cuculidi americani",
+        "row": 2,
+        "col": 4,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 14,
+        "clue": "1200 romani",
+        "row": 3,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 15,
+        "clue": "Come gli angoli di 90 gradi",
+        "row": 3,
+        "col": 4,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 18,
+        "clue": "Si esibisce a suon di musica",
+        "row": 4,
+        "col": 0,
+        "length": 9,
+        "direction": "across"
+      },
+      {
+        "number": 20,
+        "clue": "La muffa sulle foglie o sugli acini dell'uva",
+        "row": 5,
+        "col": 0,
+        "length": 5,
+        "direction": "across"
+      },
+      {
+        "number": 21,
+        "clue": "Lingua e Letteratura",
+        "row": 5,
+        "col": 6,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 22,
+        "clue": "Azienda Turistica Nazionale",
+        "row": 6,
+        "col": 2,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 23,
+        "clue": "Organizzazione Scientifica del Lavoro (sigla)",
+        "row": 6,
+        "col": 6,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 24,
+        "clue": "La pietra dell'acciarino",
+        "row": 7,
+        "col": 0,
+        "length": 6,
+        "direction": "across"
+      },
+      {
+        "number": 27,
+        "clue": "Metà casa",
+        "row": 7,
+        "col": 7,
+        "length": 2,
+        "direction": "across"
+      },
+      {
+        "number": 28,
+        "clue": "Tommaso o Tosca frusinati (iniz.)",
+        "row": 8,
+        "col": 0,
+        "length": 3,
+        "direction": "across"
+      },
+      {
+        "number": 29,
+        "clue": "Un istituto che assicura",
+        "row": 8,
+        "col": 5,
+        "length": 3,
+        "direction": "across"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Vasai specializzati",
+        "row": 0,
+        "col": 1,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "clue": "Iniziali di Sardou",
+        "row": 0,
+        "col": 3,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "clue": "Un comune esplosivo",
+        "row": 0,
+        "col": 6,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "clue": "In fondo al kibbutz",
+        "row": 0,
+        "col": 7,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "clue": "Il titanio tra le formule",
+        "row": 0,
+        "col": 8,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 7,
+        "clue": "Il Martellini che fu un popolare telecronista",
+        "row": 1,
+        "col": 0,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 9,
+        "clue": "Il lutto per la loro morte è piramidale",
+        "row": 1,
+        "col": 4,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 10,
+        "clue": "Un Castello francese, sull'Eure",
+        "row": 1,
+        "col": 5,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 12,
+        "clue": "Una carica per Raggi e Appendino",
+        "row": 2,
+        "col": 2,
+        "length": 7,
+        "direction": "down"
+      },
+      {
+        "number": 16,
+        "clue": "Relazione sentimentale illecita",
+        "row": 3,
+        "col": 7,
+        "length": 6,
+        "direction": "down"
+      },
+      {
+        "number": 17,
+        "clue": "La sfortuna che si accanisce",
+        "row": 3,
+        "col": 8,
+        "length": 5,
+        "direction": "down"
+      },
+      {
+        "number": 19,
+        "clue": "L'ultima imperatrice degli Asburgo",
+        "row": 4,
+        "col": 3,
+        "length": 4,
+        "direction": "down"
+      },
+      {
+        "number": 24,
+        "clue": "Le doppie nell'affetto",
+        "row": 7,
+        "col": 0,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 25,
+        "clue": "Il centro di Rodi",
+        "row": 7,
+        "col": 1,
+        "length": 2,
+        "direction": "down"
+      },
+      {
+        "number": 26,
+        "clue": "Sono pari nei pari",
+        "row": 7,
+        "col": 5,
+        "length": 2,
+        "direction": "down"
+      }
+    ]
+  }
+}
