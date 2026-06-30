@@ -1,9 +1,9 @@
 import { useCallback, useEffect, useMemo, useState } from "react";
 import { ClueList } from "./components/ClueList/ClueList";
 import { CrosswordGrid } from "./components/CrosswordGrid/CrosswordGrid";
-import { HandwritingCanvas } from "./components/HandwritingCanvas/HandwritingCanvas";
+import { GridPenOverlay } from "./components/GridPenOverlay/GridPenOverlay";
 import { PuzzleSelector } from "./components/PuzzleSelector/PuzzleSelector";
-import { usePencilInput } from "./hooks/usePencilInput";
+import { useHandwritingRecognition } from "./hooks/useHandwritingRecognition";
 import {
   getFirstPlayableCell,
   getNextCell,
@@ -18,7 +18,8 @@ import type {
   PuzzleData,
 } from "./types/puzzle";
 
-const HANDWRITING_ENABLED = false;
+const HANDWRITING_MODEL_PATH = "/models/emnist/model.json";
+const HANDWRITING_ENABLED = import.meta.env.VITE_ENABLE_HANDWRITING !== "false";
 
 const createEmptyEntries = (puzzle: PuzzleData): CrosswordCell[][] =>
   puzzle.grid.map((row) => row.map((cell) => (cell === "#" ? "#" : "")));
@@ -35,20 +36,20 @@ function App() {
   const [verificationMessage, setVerificationMessage] = useState("");
   const [wrongCells, setWrongCells] = useState<Set<string>>(new Set());
 
-  const modelReady = false;
-  const loading = false;
-  const modelError = null;
+  const { loading, modelReady, modelError, predictFromCanvas } =
+    useHandwritingRecognition(HANDWRITING_MODEL_PATH, HANDWRITING_ENABLED);
 
-  const { penTarget, openPenInput, closePenInput } = usePencilInput();
+  const resetPuzzleState = useCallback(() => {
+    setPuzzle(null);
+    setEntries([]);
+    setSelectedCell(null);
+    setDirection("across");
+    setVerificationMessage("");
+    setWrongCells(new Set());
+  }, []);
 
   useEffect(() => {
     if (!activePuzzleId) {
-      setPuzzle(null);
-      setEntries([]);
-      setSelectedCell(null);
-      setDirection("across");
-      setVerificationMessage("");
-      setWrongCells(new Set());
       return;
     }
 
@@ -79,6 +80,19 @@ function App() {
     }
     saveProgress(puzzle.id, entries);
   }, [entries, puzzle]);
+
+  const handleSelectPuzzle = useCallback(
+    (id: string) => {
+      resetPuzzleState();
+      setActivePuzzleId(id);
+    },
+    [resetPuzzleState],
+  );
+
+  const handleBackToSelector = useCallback(() => {
+    resetPuzzleState();
+    setActivePuzzleId(null);
+  }, [resetPuzzleState]);
 
   const activeClue = useMemo(() => {
     if (!puzzle || !selectedCell) {
@@ -130,7 +144,7 @@ function App() {
   };
 
   const selectCell = useCallback(
-    (row: number, col: number) => {
+    (row: number, col: number, allowToggle = true) => {
       if (entries[row]?.[col] === "#") {
         return;
       }
@@ -138,7 +152,7 @@ function App() {
       setVerificationMessage("");
 
       const isSameCell = selectedCell?.row === row && selectedCell?.col === col;
-      if (isSameCell) {
+      if (isSameCell && allowToggle) {
         setDirection((current) => (current === "across" ? "down" : "across"));
       }
 
@@ -310,28 +324,31 @@ function App() {
     setVerificationMessage("Hint applicato alla casella selezionata.");
   };
 
-  const handlePenStroke = async (_dataUrl: string) => {
-    void _dataUrl;
-
+  const handlePenStroke = async (
+    dataUrl: string,
+    penRow: number,
+    penCol: number,
+  ) => {
     if (!puzzle) {
       return;
     }
 
-    if (!HANDWRITING_ENABLED) {
-      setVerificationMessage(
-        "Riconoscimento Apple Pencil disattivato per ora.",
-      );
-      closePenInput();
+    if (!modelReady) {
+      setVerificationMessage("Modello handwriting non pronto.");
       return;
     }
 
-    if (!penTarget) {
+    const prediction = await predictFromCanvas(dataUrl);
+    if (!prediction) {
+      setVerificationMessage("Nessuna lettera riconosciuta. Riprova.");
       return;
     }
 
-    updateCell(penTarget.row, penTarget.col, "");
-    setSelectedCell({ row: penTarget.row, col: penTarget.col });
-    closePenInput();
+    updateCell(penRow, penCol, prediction);
+    setSelectedCell({ row: penRow, col: penCol });
+    setVerificationMessage(
+      `Apple Pencil: riconosciuta ${prediction} in ${penRow + 1},${penCol + 1}.`,
+    );
     moveSelection("next");
   };
 
@@ -368,7 +385,7 @@ function App() {
             <p>Scegli un puzzle da risolvere.</p>
           </div>
         </header>
-        <PuzzleSelector onSelect={(id) => setActivePuzzleId(id)} />
+        <PuzzleSelector onSelect={handleSelectPuzzle} />
       </main>
     );
   }
@@ -397,7 +414,7 @@ function App() {
           <button
             type="button"
             className="backButton"
-            onClick={() => setActivePuzzleId(null)}
+            onClick={handleBackToSelector}
           >
             ← Tutti i puzzle
           </button>
@@ -412,20 +429,43 @@ function App() {
       </header>
 
       <section className="board">
-        <CrosswordGrid
-          puzzle={puzzle}
-          entries={entries}
-          selectedCell={selectedCell}
-          highlightedCells={activeCells}
-          wrongCells={wrongCells}
-          onCellPointerDown={(target) => {
-            if (HANDWRITING_ENABLED && target.pointerType === "pen") {
-              openPenInput(target);
-              return;
-            }
-            selectCell(target.row, target.col);
-          }}
-        />
+        <div className="gridColumn">
+          <section className="currentClueCard" aria-live="polite">
+            {activeClue ? (
+              <>
+                <p className="currentClueMeta">
+                  {activeClue.number} •{" "}
+                  {activeClue.direction === "across"
+                    ? "Orizzontale"
+                    : "Verticale"}{" "}
+                  • {activeClue.length}{" "}
+                  {activeClue.length === 1 ? "lettera" : "lettere"}
+                </p>
+                <p className="currentClueText">{activeClue.clue}</p>
+              </>
+            ) : (
+              <p className="currentClueText">
+                Seleziona una casella per vedere la definizione.
+              </p>
+            )}
+          </section>
+
+          <div className="gridWrapper">
+            <CrosswordGrid
+              puzzle={puzzle}
+              entries={entries}
+              selectedCell={selectedCell}
+              highlightedCells={activeCells}
+              wrongCells={wrongCells}
+            />
+            <GridPenOverlay
+              puzzle={puzzle}
+              penEnabled={HANDWRITING_ENABLED}
+              onCellSelect={selectCell}
+              onPenStroke={handlePenStroke}
+            />
+          </div>
+        </div>
 
         <aside className="sidebar">
           <div className="statusCard">
@@ -462,12 +502,6 @@ function App() {
           />
         </aside>
       </section>
-
-      <HandwritingCanvas
-        penTarget={penTarget}
-        onClose={closePenInput}
-        onRecognize={handlePenStroke}
-      />
     </main>
   );
 }

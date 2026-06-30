@@ -6,6 +6,110 @@
   gap: 0.75rem;
 }
 
+.inProgressSection {
+  border: 1px solid #d9caa8;
+  border-radius: 0.9rem;
+  background: linear-gradient(180deg, #fff4dc 0%, #fef8ec 100%);
+  padding: 0.8rem;
+}
+
+.inProgressHeader {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.75rem;
+  padding: 0.3rem 0.25rem 0.65rem;
+
+  h2 {
+    margin: 0;
+    font-size: 0.95rem;
+    font-weight: 800;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4b3822;
+  }
+
+  span {
+    font-size: 0.72rem;
+    font-weight: 700;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    color: #87673b;
+    background: #f7e8c9;
+    border: 1px solid #d9caa8;
+    border-radius: 999px;
+    padding: 0.2rem 0.6rem;
+  }
+}
+
+.inProgressList {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+}
+
+.inProgressItem {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.75rem;
+  padding: 0.65rem 0.7rem;
+  border: 1px solid #e5d5b4;
+  border-radius: 0.6rem;
+  background: #fffdfa;
+  cursor: pointer;
+  transition:
+    border-color 120ms ease,
+    background 120ms ease;
+
+  &:hover {
+    border-color: #cfbf9b;
+    background: #fbf3e4;
+  }
+
+  &:active {
+    background: #f2e6d0;
+  }
+}
+
+.inProgressMeta {
+  display: flex;
+  flex-direction: column;
+  gap: 0.1rem;
+}
+
+.inProgressTitle {
+  font-size: 0.93rem;
+  font-weight: 700;
+  color: #2e2721;
+}
+
+.inProgressSize {
+  font-size: 0.77rem;
+  color: #8a7758;
+  letter-spacing: 0.02em;
+}
+
+.inProgressRight {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.inProgressPercent {
+  font-size: 0.8rem;
+  font-weight: 800;
+  letter-spacing: 0.03em;
+  color: #6f4e19;
+  background: #fdecc7;
+  border: 1px solid #e6c680;
+  border-radius: 999px;
+  padding: 0.2rem 0.55rem;
+}
+
 .selectorGroup {
   border: 1px solid #cfbf9b;
   border-radius: 0.75rem;

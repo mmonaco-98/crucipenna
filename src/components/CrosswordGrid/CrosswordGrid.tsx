@@ -1,9 +1,7 @@
-import type { PointerEvent } from "react";
 import { Cell } from "../Cell/Cell";
 import type {
   CellCoordinate,
   CrosswordCell,
-  PenTarget,
   PuzzleData,
 } from "../../types/puzzle";
 
@@ -13,7 +11,6 @@ interface CrosswordGridProps {
   selectedCell: CellCoordinate | null;
   highlightedCells: Set<string>;
   wrongCells: Set<string>;
-  onCellPointerDown: (target: PenTarget) => void;
 }
 
 const buildCellNumbers = (puzzle: PuzzleData): Map<string, number> => {
@@ -31,22 +28,8 @@ export function CrosswordGrid({
   selectedCell,
   highlightedCells,
   wrongCells,
-  onCellPointerDown,
 }: CrosswordGridProps) {
   const numbers = buildCellNumbers(puzzle);
-
-  const pointerDown = (
-    row: number,
-    col: number,
-    event: PointerEvent<HTMLButtonElement>,
-  ) => {
-    event.preventDefault();
-    onCellPointerDown({
-      row,
-      col,
-      pointerType: event.pointerType,
-    });
-  };
 
   return (
     <div
@@ -66,13 +49,14 @@ export function CrosswordGrid({
           return (
             <Cell
               key={key}
+              row={rowIndex}
+              col={colIndex}
               blocked={blocked}
               value={blocked ? "" : entries[rowIndex][colIndex]}
               selected={selected}
               highlighted={highlightedCells.has(key)}
               wrong={wrong}
               number={numbers.get(key)}
-              onPointerDown={(event) => pointerDown(rowIndex, colIndex, event)}
             />
           );
         }),

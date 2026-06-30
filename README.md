@@ -44,12 +44,13 @@ Output: file JSON in `src/data/puzzles/generated/` (`puzzle-001.json` ...).
 
 ## Stato handwriting
 
-L'infrastruttura e' presente ma **temporaneamente disattivata** a livello app.
+Il riconoscimento e' attivo in app quando il modello e' disponibile.
 
-Quando vorrai riattivarla:
+Configurazione:
 
 1. Inserisci un modello TF.js in `public/models/emnist/` (almeno `model.json` + shard `.bin`).
-2. Imposta il flag `HANDWRITING_ENABLED` in `src/App.tsx` a `true`.
+2. Il caricamento usa il path `/models/emnist/model.json`.
+3. Puoi disattivarlo impostando `VITE_ENABLE_HANDWRITING=false` nell'ambiente.
 
 ## PWA su iPad
 

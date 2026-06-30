@@ -1,4 +1,4 @@
-import { useRef, useState } from "react";
+import { useCallback, useEffect, useRef, useState } from "react";
 import type { PenTarget } from "../../types/puzzle";
 
 interface HandwritingCanvasProps {
@@ -17,11 +17,7 @@ export function HandwritingCanvas({
   const [busy, setBusy] = useState(false);
   const [hasStroke, setHasStroke] = useState(false);
 
-  if (!penTarget) {
-    return null;
-  }
-
-  const getContext = () => {
+  const getContext = useCallback(() => {
     const canvas = canvasRef.current;
     if (!canvas) {
       return null;
@@ -37,9 +33,9 @@ export function HandwritingCanvas({
     context.lineWidth = 16;
     context.strokeStyle = "#111";
     return context;
-  };
+  }, []);
 
-  const clearCanvas = () => {
+  const clearCanvas = useCallback(() => {
     const canvas = canvasRef.current;
     const context = getContext();
     if (!canvas || !context) {
@@ -50,7 +46,18 @@ export function HandwritingCanvas({
     context.fillStyle = "#fff";
     context.fillRect(0, 0, canvas.width, canvas.height);
     setHasStroke(false);
-  };
+  }, [getContext]);
+
+  useEffect(() => {
+    if (!penTarget) {
+      return;
+    }
+    clearCanvas();
+  }, [clearCanvas, penTarget]);
+
+  if (!penTarget) {
+    return null;
+  }
 
   const drawStart = (event: React.PointerEvent<HTMLCanvasElement>) => {
     event.currentTarget.setPointerCapture(event.pointerId);
@@ -114,7 +121,9 @@ export function HandwritingCanvas({
           onPointerDown={drawStart}
           onPointerMove={drawMove}
           onPointerUp={drawEnd}
-          onPointerCancel={() => setDrawing(false)}
+          onPointerCancel={() => {
+            setDrawing(false);
+          }}
         />
         <div className="canvasActions">
           <button type="button" onClick={clearCanvas}>

@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { useCallback, useEffect, useState } from "react";
 import type { LayersModel, Tensor } from "@tensorflow/tfjs";
 
 interface UseHandwritingRecognition {
@@ -9,6 +9,8 @@ interface UseHandwritingRecognition {
 }
 
 const LETTERS = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
+const IMAGE_SIZE = 28;
+const PIXELS = IMAGE_SIZE * IMAGE_SIZE;
 
 const imageFromDataUrl = (dataUrl: string): Promise<HTMLImageElement> =>
   new Promise((resolve, reject) => {
@@ -22,7 +24,7 @@ export const useHandwritingRecognition = (
   modelPath: string,
   enabled = true,
 ): UseHandwritingRecognition => {
-  const [loading, setLoading] = useState(true);
+  const [loading, setLoading] = useState(enabled);
   const [model, setModel] = useState<LayersModel | null>(null);
   const [tfModule, setTfModule] = useState<
     typeof import("@tensorflow/tfjs") | null
@@ -70,49 +72,61 @@ export const useHandwritingRecognition = (
     };
   }, [enabled, modelPath]);
 
-  const predictFromCanvas = async (dataUrl: string): Promise<string | null> => {
-    if (!model || !tfModule) {
-      return null;
-    }
-
-    const image = await imageFromDataUrl(dataUrl);
-    const offscreen = document.createElement("canvas");
-    offscreen.width = 28;
-    offscreen.height = 28;
-    const context = offscreen.getContext("2d");
-    if (!context) {
-      return null;
-    }
-
-    context.fillStyle = "#000";
-    context.fillRect(0, 0, 28, 28);
-    context.drawImage(image, 0, 0, 28, 28);
-
-    const imageData = context.getImageData(0, 0, 28, 28);
-    const normalized = new Float32Array(28 * 28);
-
-    for (let index = 0; index < 28 * 28; index += 1) {
-      const pixel = imageData.data[index * 4];
-      normalized[index] = pixel / 255;
-    }
-
-    const output = tfModule.tidy(() => {
-      const tensor = tfModule.tensor4d(normalized, [1, 28, 28, 1]);
-      return model.predict(tensor) as Tensor;
-    });
-
-    const logits = await output.data();
-    output.dispose();
-
-    let bestIndex = 0;
-    for (let index = 1; index < logits.length; index += 1) {
-      if (logits[index] > logits[bestIndex]) {
-        bestIndex = index;
+  const predictFromCanvas = useCallback(
+    async (dataUrl: string): Promise<string | null> => {
+      if (!model || !tfModule) {
+        return null;
       }
-    }
 
-    return LETTERS[bestIndex] ?? null;
-  };
+      const image = await imageFromDataUrl(dataUrl);
+      const offscreen = document.createElement("canvas");
+      offscreen.width = IMAGE_SIZE;
+      offscreen.height = IMAGE_SIZE;
+      const context = offscreen.getContext("2d", { willReadFrequently: true });
+      if (!context) {
+        return null;
+      }
+
+      context.fillStyle = "#fff";
+      context.fillRect(0, 0, IMAGE_SIZE, IMAGE_SIZE);
+      context.drawImage(image, 0, 0, IMAGE_SIZE, IMAGE_SIZE);
+
+      const imageData = context.getImageData(0, 0, IMAGE_SIZE, IMAGE_SIZE);
+      const normalized = new Float32Array(PIXELS);
+
+      for (let index = 0; index < PIXELS; index += 1) {
+        const pixel = imageData.data[index * 4];
+        normalized[index] = 1 - pixel / 255;
+      }
+
+      const output = tfModule.tidy(() => {
+        const tensor = tfModule.tensor4d(normalized, [
+          1,
+          IMAGE_SIZE,
+          IMAGE_SIZE,
+          1,
+        ]);
+        return model.predict(tensor) as Tensor;
+      });
+
+      const logits = await output.data();
+      output.dispose();
+
+      if (logits.length < LETTERS.length) {
+        return null;
+      }
+
+      let bestIndex = 0;
+      for (let index = 1; index < LETTERS.length; index += 1) {
+        if (logits[index] > logits[bestIndex]) {
+          bestIndex = index;
+        }
+      }
+
+      return LETTERS[bestIndex] ?? null;
+    },
+    [model, tfModule],
+  );
 
   return {
     loading,
