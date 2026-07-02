@@ -1,5 +1,5 @@
-tensorflow>=2.13
-tf-keras>=2.13
+tensorflow==2.19.0
+tf-keras~=2.19
 tensorflow-datasets>=4.9
-tensorflowjs>=4.10
-numpy>=1.23
+tensorflow-metadata==1.17.1
+numpy<2.2,>=1.26

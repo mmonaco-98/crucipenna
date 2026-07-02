@@ -1,6 +1,8 @@
 import { useCallback, useEffect, useRef } from "react";
 import type { PuzzleData } from "../../types/puzzle";
 
+const COMMIT_DELAY_MS = 200;
+
 interface GridPenOverlayProps {
   puzzle: PuzzleData;
   penEnabled: boolean;
@@ -16,6 +18,7 @@ export function GridPenOverlay({
 }: GridPenOverlayProps) {
   const canvasRef = useRef<HTMLCanvasElement>(null);
   const offscreenRef = useRef<HTMLCanvasElement | null>(null);
+  const commitTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
   const stateRef = useRef({
     drawing: false,
     row: 0,
@@ -23,6 +26,9 @@ export function GridPenOverlay({
     cellRect: null as DOMRect | null,
     hasStroke: false,
     canvasRect: null as DOMRect | null,
+    // tracks the cell for the current multi-stroke window
+    windowRow: -1,
+    windowCol: -1,
   });
 
   useEffect(() => {
@@ -67,6 +73,40 @@ export function GridPenOverlay({
     ctx.fillStyle = "#fff";
     ctx.fillRect(0, 0, canvas.width, canvas.height);
   }, []);
+
+  const cancelCommitTimer = useCallback(() => {
+    if (commitTimerRef.current !== null) {
+      clearTimeout(commitTimerRef.current);
+      commitTimerRef.current = null;
+    }
+  }, []);
+
+  // Commits the current window: sends offscreen data, clears visuals, resets window state
+  const commitStroke = useCallback(async () => {
+    cancelCommitTimer();
+    const state = stateRef.current;
+    if (!state.hasStroke || !offscreenRef.current) return;
+    const dataUrl = offscreenRef.current.toDataURL("image/png");
+    const row = state.windowRow;
+    const col = state.windowCol;
+    state.hasStroke = false;
+    state.windowRow = -1;
+    state.windowCol = -1;
+    clearOverlay();
+    clearOffscreen();
+    await onPenStroke(dataUrl, row, col);
+  }, [cancelCommitTimer, clearOffscreen, clearOverlay, onPenStroke]);
+
+  const scheduleCommit = useCallback(() => {
+    cancelCommitTimer();
+    commitTimerRef.current = setTimeout(() => {
+      commitTimerRef.current = null;
+      void commitStroke();
+    }, COMMIT_DELAY_MS);
+  }, [cancelCommitTimer, commitStroke]);
+
+  // Clean up timer on unmount
+  useEffect(() => () => cancelCommitTimer(), [cancelCommitTimer]);
 
   const findCellAt = useCallback(
     (clientX: number, clientY: number) => {
@@ -126,15 +166,36 @@ export function GridPenOverlay({
       if (event.pointerType !== "pen" || !penEnabled) return;
 
       event.currentTarget.setPointerCapture(event.pointerId);
-      clearOffscreen();
-      clearOverlay();
 
       const state = stateRef.current;
+      const sameWindow =
+        commitTimerRef.current !== null &&
+        state.windowRow === cell.row &&
+        state.windowCol === cell.col;
+
+      if (!sameWindow) {
+        // Different cell or no active window: commit any pending stroke and start fresh
+        cancelCommitTimer();
+        if (state.hasStroke && state.windowRow >= 0) {
+          // There was a pending stroke for a different cell — discard it
+          state.hasStroke = false;
+          clearOverlay();
+          clearOffscreen();
+        } else {
+          clearOverlay();
+          clearOffscreen();
+        }
+        state.windowRow = cell.row;
+        state.windowCol = cell.col;
+      } else {
+        // Continuing in the same window: cancel pending timer, keep existing strokes
+        cancelCommitTimer();
+      }
+
       state.drawing = true;
       state.row = cell.row;
       state.col = cell.col;
       state.cellRect = cell.rect;
-      state.hasStroke = false;
       state.canvasRect = canvasRef.current?.getBoundingClientRect() ?? null;
 
       const { x: ox, y: oy } = toOverlayCoords(event.clientX, event.clientY);
@@ -160,7 +221,14 @@ export function GridPenOverlay({
         offCtx.moveTo(sx, sy);
       }
     },
-    [findCellAt, onCellSelect, penEnabled, clearOffscreen, clearOverlay],
+    [
+      findCellAt,
+      onCellSelect,
+      penEnabled,
+      cancelCommitTimer,
+      clearOffscreen,
+      clearOverlay,
+    ],
   );
 
   const handlePointerMove = useCallback(
@@ -193,25 +261,24 @@ export function GridPenOverlay({
   );
 
   const handlePointerUp = useCallback(
-    async (event: React.PointerEvent<HTMLCanvasElement>) => {
+    (event: React.PointerEvent<HTMLCanvasElement>) => {
       const state = stateRef.current;
       if (!state.drawing || event.pointerType !== "pen") return;
 
       state.drawing = false;
-      clearOverlay();
 
-      if (state.hasStroke && offscreenRef.current) {
-        const dataUrl = offscreenRef.current.toDataURL("image/png");
-        await onPenStroke(dataUrl, state.row, state.col);
+      if (state.hasStroke) {
+        scheduleCommit();
       }
     },
-    [clearOverlay, onPenStroke],
+    [scheduleCommit],
   );
 
   const handlePointerCancel = useCallback(() => {
     stateRef.current.drawing = false;
+    cancelCommitTimer();
     clearOverlay();
-  }, [clearOverlay]);
+  }, [cancelCommitTimer, clearOverlay]);
 
   return (
     <canvas

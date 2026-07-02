@@ -36,4 +36,9 @@ export default defineConfig({
       },
     }),
   ],
+  server: {
+    watch: {
+      ignored: ["**/venv/**", "**/node_modules/**"],
+    },
+  },
 });

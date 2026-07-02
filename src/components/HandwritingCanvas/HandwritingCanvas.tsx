@@ -1,6 +1,8 @@
 import { useCallback, useEffect, useRef, useState } from "react";
 import type { PenTarget } from "../../types/puzzle";
 
+const COMMIT_DELAY_MS = 200;
+
 interface HandwritingCanvasProps {
   penTarget: PenTarget | null;
   onClose: () => void;
@@ -13,7 +15,11 @@ export function HandwritingCanvas({
   onRecognize,
 }: HandwritingCanvasProps) {
   const canvasRef = useRef<HTMLCanvasElement>(null);
-  const [drawing, setDrawing] = useState(false);
+  const commitTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
+  // Refs keep always-current values inside setTimeout callbacks (no stale closure)
+  const hasStrokeRef = useRef(false);
+  const busyRef = useRef(false);
+  const drawingRef = useRef(false);
   const [busy, setBusy] = useState(false);
   const [hasStroke, setHasStroke] = useState(false);
 
@@ -31,7 +37,7 @@ export function HandwritingCanvas({
     context.lineCap = "round";
     context.lineJoin = "round";
     context.lineWidth = 16;
-    context.strokeStyle = "#111";
+    context.strokeStyle = "#2563eb";
     return context;
   }, []);
 
@@ -45,21 +51,61 @@ export function HandwritingCanvas({
     context.clearRect(0, 0, canvas.width, canvas.height);
     context.fillStyle = "#fff";
     context.fillRect(0, 0, canvas.width, canvas.height);
+    hasStrokeRef.current = false;
     setHasStroke(false);
   }, [getContext]);
 
+  const cancelCommitTimer = useCallback(() => {
+    if (commitTimerRef.current !== null) {
+      clearTimeout(commitTimerRef.current);
+      commitTimerRef.current = null;
+    }
+  }, []);
+
+  // runRecognition reads from refs so it's always current even inside setTimeout
+  const runRecognition = useCallback(async () => {
+    cancelCommitTimer();
+    if (!hasStrokeRef.current || busyRef.current || !canvasRef.current) {
+      return;
+    }
+
+    busyRef.current = true;
+    setBusy(true);
+    try {
+      await onRecognize(canvasRef.current.toDataURL("image/png"));
+      clearCanvas();
+    } finally {
+      busyRef.current = false;
+      setBusy(false);
+    }
+  }, [cancelCommitTimer, clearCanvas, onRecognize]);
+
+  const scheduleCommit = useCallback(() => {
+    cancelCommitTimer();
+    commitTimerRef.current = setTimeout(() => {
+      commitTimerRef.current = null;
+      void runRecognition();
+    }, COMMIT_DELAY_MS);
+  }, [cancelCommitTimer, runRecognition]);
+
   useEffect(() => {
     if (!penTarget) {
+      cancelCommitTimer();
       return;
     }
     clearCanvas();
-  }, [clearCanvas, penTarget]);
+  }, [cancelCommitTimer, clearCanvas, penTarget]);
+
+  // Clean up timer on unmount
+  useEffect(() => () => cancelCommitTimer(), [cancelCommitTimer]);
 
   if (!penTarget) {
     return null;
   }
 
   const drawStart = (event: React.PointerEvent<HTMLCanvasElement>) => {
+    // Cancel any pending commit when a new stroke begins
+    cancelCommitTimer();
     event.currentTarget.setPointerCapture(event.pointerId);
     const context = getContext();
     if (!context) {
@@ -69,12 +115,13 @@ export function HandwritingCanvas({
     const rect = event.currentTarget.getBoundingClientRect();
     context.beginPath();
     context.moveTo(event.clientX - rect.left, event.clientY - rect.top);
-    setDrawing(true);
+    drawingRef.current = true;
+    hasStrokeRef.current = true;
     setHasStroke(true);
   };
 
   const drawMove = (event: React.PointerEvent<HTMLCanvasElement>) => {
-    if (!drawing) {
+    if (!drawingRef.current) {
       return;
     }
 
@@ -88,23 +135,9 @@ export function HandwritingCanvas({
     context.stroke();
   };
 
-  const runRecognition = async () => {
-    if (!hasStroke || busy || !canvasRef.current) {
-      return;
-    }
-
-    setBusy(true);
-    try {
-      await onRecognize(canvasRef.current.toDataURL("image/png"));
-      clearCanvas();
-    } finally {
-      setBusy(false);
-    }
-  };
-
-  const drawEnd = async () => {
-    setDrawing(false);
-    await runRecognition();
+  const drawEnd = () => {
+    drawingRef.current = false;
+    scheduleCommit();
   };
 
   return (
@@ -122,7 +155,8 @@ export function HandwritingCanvas({
           onPointerMove={drawMove}
           onPointerUp={drawEnd}
           onPointerCancel={() => {
-            setDrawing(false);
+            drawingRef.current = false;
+            cancelCommitTimer();
           }}
         />
         <div className="canvasActions">
