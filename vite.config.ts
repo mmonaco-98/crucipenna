@@ -8,7 +8,7 @@ export default defineConfig({
     react(),
     VitePWA({
       registerType: "autoUpdate",
-      includeAssets: ["icons/icon.svg", "icons/icon-maskable.svg"],
+      includeAssets: ["icons/app-icon.png", "icons/icon-maskable.svg"],
       manifest: {
         name: "CruciPenna",
         short_name: "CruciPenna",
@@ -21,9 +21,9 @@ export default defineConfig({
         lang: "it-IT",
         icons: [
           {
-            src: "/icons/icon.svg",
+            src: "/icons/app-icon.png",
             sizes: "512x512",
-            type: "image/svg+xml",
+            type: "image/png",
             purpose: "any",
           },
           {
