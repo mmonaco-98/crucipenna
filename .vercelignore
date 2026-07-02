@@ -1,0 +1,5 @@
+requirements.txt
+train_emnist_model.py
+setup_env.sh
+dataset/
+scripts/
